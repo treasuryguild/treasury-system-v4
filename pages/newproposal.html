@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../style.css" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <div class='cardstop'>
+        New Proposal Entry Form
+    </div>
+    <div class='main'>
+        <button onclick="location.href='../../index.html';"><a>Home</a></button>
+    </div>
+    <article>  
+        <div class='main'> 
+        <form class='testing'>
+            <div class = 'form'>
+                <select class = 'dropd2' id = 'org'>
+                    <option value='treasuryguild' id="org" selected>treasuryguild</option> 
+                </select> <!--- These values are just stored variables for the javascript-->
+            </div>
+            <div class = 'form'>
+                <select class = 'dropd2' id = 'repo'>
+                    <option value='Treasury-system-v2' id="repo" selected>Treasury-system-v2</option> 
+                </select> <!--- These values are just stored variables for the javascript-->
+            </div>
+            <div class = 'form'>
+                <label class = 'custom-field' for='fund'> 
+                    <input
+                        type='text'
+                        id='fund'
+                        name='fund'
+                        autoComplete="off"
+                        required
+                    />
+                    <span class="placeholder">ex. Fund 7</span>
+                    <span class="disco">Fund</span>
+                </label>
+            </div>
+            <div class = 'form'>
+                <label class = 'custom-field' for='project'> 
+                    <input
+                        type='text'
+                        id='project'
+                        name='project'
+                        autoComplete="off"
+                        required
+                    />
+                    <span class="placeholder">Project</span>
+                    <span class="disco">Project</span>
+                </label>
+            </div>
+            <div class = 'form'>
+                <label class = 'custom-field' for='proposal'> 
+                    <input
+                        type='text'
+                        id='proposal'
+                        name='proposal'
+                        autoComplete="off"
+                        required
+                    />
+                    <span class="placeholder">Proposal</span>
+                    <span class="disco">Proposal</span>
+                </label>
+            </div>
+            <div class = 'form'>
+                <label class = 'custom-field' for='ideascale'> 
+                    <input
+                        type='text'
+                        id='ideascale'
+                        name='ideascale'
+                        autoComplete="off"
+                        required
+                    />
+                    <span class="placeholder">Ideascale link</span>
+                    <span class="disco">Ideascale</span>
+                </label>
+            </div>
+            <div class = 'form'>
+                <label class = 'custom-field' for='wallet'> 
+                    <input
+                        type='text'
+                        id='wallet'
+                        name='wallet'
+                        autoComplete="off"
+                        required
+                    />
+                    <span class="placeholder">ex. addrew4rr2rfddgdrge43</span>
+                    <span class="disco">ADA wallet address</span>
+                </label>
+            </div>
+            <div class = 'form'>
+                <label class = 'custom-field' for='total-funds-requested'> 
+                    <input
+                        type='text'
+                        id='total-funds-requested'
+                        name='total-funds-requested'
+                        autoComplete="off"
+                        required
+                    />
+                    <span class="placeholder">ex. 50000 ADA</span>
+                    <span class="disco">Total Funds Requested</span>
+                </label>
+            </div>
+            <div class = 'form'>
+                <label class = 'custom-field2' for='budgetB'>
+                <select class = 'dropd' id = 'budgetB'>
+                    <option class="bb" id="0" value='Incoming'>Incoming</option>
+                    <option class="bb" id="8000" value='Meetings' selected>Meetings</option>
+                    <option class="bb" id="1000" value='Comm-Org Tools'>Comm-Org Tools</option>
+                    <option class="bb" id="4800" value='Surveys'>Surveys</option>
+                    <option class="bb" id="2400" value='Retrospectives'>Retrospectives</option>
+                    <option class="bb" id="2400" value='Reports'>Reports</option>
+                    <option class="bb" id="500" value='Proposal'>Proposal</option>
+                    <option class="bb" id="450" value='Town Hall Slides'>Town Hall Slides</option>
+                    <option class="bb" id="600" value='Meeting Minutes'>Meeting Minutes</option>
+                </select>
+                <span class="disco2">Budget Item / Incoming</span>
+                </label>
+            </div>
+            <div class='form'>
+                <button onclick="validateSubmission();" class ='calc'>
+                    Submit
+                </button>
+                <script src="./newproposal.js"></script>
+            </div>
+        </form>
+        </div>
+    </article>
+        
+         <!-- We'll prepare our javascript's function for later -->
+        
+</body>
+</html>

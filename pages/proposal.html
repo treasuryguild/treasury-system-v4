@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../style.css" rel="stylesheet">
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <div class='cardstop'>
+        Test Transaction Form
+    </div>
+    <div class='main'>
+        <button onclick="location.href='../index.html';"><a>Home</a></button>
+        <button onclick="location.href='../pages/newproposal.html';"><a>New Proposal</a></button>
+    </div>
+    <article>  
+        <div class='main'>
+        <form class="testing">
+            <div class="section_widgets">
+                <div class="graph_widget">
+                <a name="circle-groups"></a>
+                <h3 class="graph_title">Funds</h3>
+                <div class="graph" id="grps">
+                <div class="graph_item blue">
+                <span class="graph_item_title">
+                <span class="title">Proposal Funds</span>
+                </span>
+                <span class="graph_item_value">
+                <span class="value" id="bal-el" style="width: 100%;">USD 20150</span>
+                </span>
+                </div>
+                <div class="graph_item blue">
+                <span class="graph_item_title">
+                <span class="title">Incoming</span>
+                </span>
+                <span class="graph_item_value">
+                <span class="value" id="save-el"></span>               
+                </span>
+                </div>
+                <div class="graph_item blue">
+                <span class="graph_item_title">
+                <span class="title">Wallet Balance</span>
+                </span>
+                <span class="graph_item_value">
+                <span class="value" id="save-el2"></span>
+                </span>
+                </div>
+                <br>
+                <h3 class="graph_title">Budget Items</h3>
+            </div>
+            </div>
+            </form>
+        </div> 
+        <form class='testing'>
+            <div class = 'form'>
+                <select class = 'dropd2' id = 'repo'>
+                    <option value='Treasury-system-v2' id="fund" selected>Fund7</option> 
+                </select> <!--- These values are just stored variables for the javascript-->
+            </div>
+            <div class = 'form'>
+                <select class = 'dropd2' id = 'org'>
+                    <option value='treasuryguild' id="project"selected>Community Governance Oversight</option>
+                </select>
+            </div>
+            <div class = 'form'>
+                <select class = 'dropd2' id = 'wallet'>
+                    <option value='addr1qy8ankx6gyvw8fnymjz4aat5yd3dq37mtnk0cqpafxu67l7ksqdc0rsz56xjuka8758sestaqclj66gk7d86tf807vps2dstvx' id="pool"selected>Community Governance Oversight</option>
+                </select>
+            </div>
+            <div class = 'form'>
+                <select class = 'dropd2' id = 'ideaScale'>
+                    <option value='https://cardano.ideascale.com/c/idea/383517' selected>https://cardano.ideascale.com/c/idea/383517</option>
+                </select>
+            </div>
+            <div class = 'form'>
+                <select class = 'dropd' id = 'budgetB'>
+                    <option class="bb" id="0" value='Incoming'>Incoming</option>
+                    <option class="bb" id="8000" value='Meetings' selected>Meetings</option>
+                    <option class="bb" id="1000" value='Comm-Org Tools'>Comm-Org Tools</option>
+                    <option class="bb" id="4800" value='Surveys'>Surveys</option>
+                    <option class="bb" id="2400" value='Retrospectives'>Retrospectives</option>
+                    <option class="bb" id="2400" value='Reports'>Reports</option>
+                    <option class="bb" id="500" value='Proposal'>Proposal</option>
+                    <option class="bb" id="450" value='Town Hall Slides'>Town Hall Slides</option>
+                    <option class="bb" id="600" value='Meeting Minutes'>Meeting Minutes</option>
+                </select>
+            </div>
+            <div class = 'form'>
+                <label class = 'custom-field' for='name'> 
+                    <input
+                        type='text'
+                        id='name'
+                        name='name'
+                        autoComplete="off"
+                        required
+                    />
+                    <span class="placeholder">Name</span>
+                    <span class="disco">Beneficiary</span>
+                    </label>
+            </div>
+            <div class = 'form'>
+                <label class = 'custom-field' for='xrate'> 
+                    <input
+                        type='text'
+                        id='xrate'
+                        name='xrate'
+                        autoComplete="off"
+                        required
+                    />
+                    <span class="placeholder">ex. 0.92</span>
+                    <span class="disco">USD/ADA Exchange Rate</span>
+                    </label>
+            </div>
+            <div class='form'>
+                <label class = 'custom-field' for='ada'> 
+                <input
+                    type='text'
+                    id='ada'
+                    name='ada'
+                    autoComplete="off"
+                    required
+                />
+                <span class="placeholder">ADA</span>
+                <span class="disco">Amount</span>
+                </label>
+            </div>
+            <div class='form'>
+                <label  for='description'>
+                <textarea class = 'descr'
+                    type='text'
+                    id='description'
+                    name='description'
+                    placeholder="Description"
+                    autoComplete="off"
+                    required
+                ></textarea>
+                <!--<span class="placeholder">Description</span>
+                <span class="disco">Description / Extra comments</span>
+                </label> -->
+            </div>
+            <div id="userRepos">
+            </div>
+            <div class='form'>
+                <button onclick="validateSubmission();" class ='calc'>
+                    Submit
+                </button>
+                <script src="../pages/prop.js"></script>
+            </div>
+        </form>
+        </div>
+    </article>
+        
+         <!-- We'll prepare our javascript's function for later -->
+        
+</body>
+</html>
