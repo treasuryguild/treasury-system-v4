@@ -18,7 +18,7 @@ window.onload = function() {
             // Create the html markup for each li
             k = ("t" + `${j+1}`);
             l = ("b" + `${j+1}`);
-            console.log(k + " " + l + i);
+            console.log(k + " " + l + " " + i);
             li.className = "graph_item green";
             li.innerHTML = (`
             <span class="graph_item_title">
