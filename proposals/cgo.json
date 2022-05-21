@@ -4,10 +4,12 @@
     "fund": "Fund-7",
     "budget": 10000,
     "budgetItems": {
-            "meetings": 1000,
-            "surveys": 2000,
-            "retrospectives": 3000,
-            "other": 4000
+            "Comm-Org-Tools": 1000,
+            "Incoming": 0,
+            "Meeting-Minutes": 3000,
+            "Town-Hall-Slides": 3000,
+            "Proposal": 3000,
+            "Meetings": 4000
         },
     "ideascale": "https://cardano.ideascale.com/c/idea/383517",
     "wallet": "addr1qy8ankx6gyvw8fnymjz4aat5yd3dq37mtnk0cqpafxu67l7ksqdc0rsz56xjuka8758sestaqclj66gk7d86tf807vps2dstvx"
