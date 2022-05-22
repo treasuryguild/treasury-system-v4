@@ -98,7 +98,7 @@ function getValue(name){
     console.log(budgetItems);
     //generate a filename
     let budgetItemsF = JSON.stringify(budgetItems);
-    const filename = proposal.replace(/\s/g, '-') + ".html"  
+    const filename = proposal.replace(/\s/g, '-') + ".json"  
     //Generate a string mimicing the file structure
     //Indentation is important here
     let fileText = `{
@@ -116,6 +116,6 @@ function getValue(name){
     const encodedFileText = encodeURIComponent(fileText)
     
     //Open in a new tab
-  window.open(`https://github.com/${orgEl}/${repoEl}/new/main/webpage/transaction-files/` + "new?value=" + encodedFileText +"&filename=" + filename);
+  window.open(`https://github.com/${orgEl}/${repoEl}/new/main/proposals/` + "new?value=" + encodedFileText +"&filename=" + filename);
     
   }
