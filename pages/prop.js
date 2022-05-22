@@ -1,29 +1,46 @@
+// Json and html values
 let value = {};
 let data2 = [];
-let balEl = 0;
 let orgEl = "treasuryguild";
 let repoEl = "treasury-v3";
+let walletEl = "";
 let fundJ = ""
 let projectJ = ""
 let ideaJ = ""
 let poolJ = ""
+let balEl = document.getElementById("bal-el")
+let saveEl2 = document.getElementById("save-el2")
+let saveEl = document.getElementById("save-el")
+
+
+// Calc values
+let balance = "";
+const bi = [];
+const bb = [];
+const l = [];
+let totals = {};
+let totals2 = {};
+const b = []
+const x = []
 
 window.onload = function() {
     console.log(localStorage.getItem("prop"))
     axios.get(`../proposals/${localStorage.getItem("prop")}`)
         .then(response => {
         const data = response.data;
+        totals2 = data.budgetItems;
         fundJ = data.fund
         projectJ = data.project
         ideaJ = data.ideascale
         poolJ = data.proposal
-        console.log(data.budgetItems);
-        balEl = data.budget;
-        data2 = Object.keys(data.budgetItems);
+        walletEl = data.wallet   
+        balEl.textContent = "USD " + data.budget.toFixed(2);
+        
         // Loop over each object in data array
-        for ( i in data.budgetItems) {
+        for ( let i in data.budgetItems) {
             // Get the ul with id of of userRepos
             var n = Object.keys(data.budgetItems).indexOf(i);
+            totals[i] = 0;
             let ul = document.getElementById('grps');
             let ul2 = document.getElementById('budgetB');
             let ul3 = document.getElementById('propo');
@@ -33,10 +50,11 @@ window.onload = function() {
             let li3 = document.createElement('div');
             // Create the html markup for each li
             k = ("t" + `${n+1}`);
-            l = ("b" + `${n+1}`);
-            console.log(k + " " + l + " " + i);
+            l[i] = ("b" + `${n+1}`);
+            console.log(l[i] + i);
             li.className = "graph_item green";
             li2.value = i;
+            if (n > 0) {
             li.innerHTML = (`
             <span class="graph_item_title">
             <a href="https://github.com/${orgEl}/${repoEl}/tree/main/Transactions/${projectJ}/${fundJ}/${poolJ}/${i}" target="_blank">
@@ -45,10 +63,11 @@ window.onload = function() {
             </span>
             <span class="graph_item_value">
             <a href="https://github.com/${orgEl}/${repoEl}/tree/main/Transactions/${projectJ}/${fundJ}/${poolJ}/${i}" target="_blank">
-            <span class="value" id=${l}></span>
+            <span class="value" id=${l[i]}></span>
             </a>
             </span>
             `);
+            }
             li2.innerHTML = (`${i}`);
             li3.innerHTML = (`<button type='button'>${Object.values(data)[n]}</button>`);
             // Append each li to the ul
@@ -58,7 +77,58 @@ window.onload = function() {
               ul3.appendChild(li3);
             }   
           }
-    
+          totals.outgoing = 0;
+          
+          axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/Transactions/${projectJ}/${fundJ}/${poolJ}`)
+          .then(response => {
+            const data = response.data;
+            for (let j in data) {
+              bb[j] = data[j].name.replace(/\s/g, '-');
+              axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/Transactions/${projectJ}/${fundJ}/${poolJ}/${bb[j]}`)
+              .then(response => {
+                const data = response.data;
+                for (let m in data) {    
+                  axios.get(data[m].download_url)
+                  .then(response => {
+                    const data = response.data;
+                    bi.push(data);
+                  })
+                  .catch(error => console.error(error))
+                }      
+              })
+              .catch(error => console.error(error))   
+              }          
+          })
+          .catch(error => console.error(error))
+          axios.get(`https://pool.pm/wallet/${walletEl}`)
+          .then(response => {
+            for (let i in bi) {
+              y = bi[i].budget.replace(/\s/g, '-')
+              for (let j in bb) {    
+                if ( y == bb[j]) {
+                  totals[y] = totals[y] + (parseInt(bi[i].ada));
+                  totals.outgoing = totals.outgoing + (parseInt(bi[i].ada));
+                }        
+              }
+            };
+            balance = (response.data.lovelaces/1000000).toFixed(2);
+            saveEl2.textContent = "₳ " + balance
+            document.getElementById("save-el2").style.width = (balance/data.budget*100)+"%"
+            saveEl.textContent = "₳ " + totals.Incoming
+            document.getElementById("save-el").style.width = (totals.Incoming/data.budget*100)+"%"
+            for (let i in totals) {
+              if (i != "Incoming" && i != "outgoing") {
+                b[i] = document.getElementById(l[i]);        
+                x[i] = (totals[i]/totals2[i]*100).toFixed(2);
+                b[i].textContent = "₳ " + (totals[i]).toFixed(2);   
+                document.getElementById(`${l[i]}`).style.width = x[i]+"%"
+            console.log(b[i]);
+              }
+            }
+            console.log(x);
+          })
+          .catch(error => console.error(error))
+          console.log(bi);
 })
 .catch(error => console.error(error))
 };

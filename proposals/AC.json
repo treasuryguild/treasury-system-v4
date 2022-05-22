@@ -2,18 +2,18 @@
     "project": "Community-Governance-Oversight",
     "proposal": "Audit-Circle",
     "fund": "Fund7",
-    "budget": 20150,
+    "budget": 13750,
     "budgetItems": {
-        "Incoming": 0,
+        "Incoming": 13750,
         "Meetings": 8000,
         "Comm-Org-Tools": 1000,
-        "Surveys": 4800,
-        "Retrospectives": 2400,
-        "Reports": 2400,
+        "Surveys": 1600,
+        "Retrospectives": 800,
+        "Reports": 800,
         "Proposal": 500,
         "Town-Hall-Slides": 450,
         "Meeting-Minutes": 600
         },
-    "ideascale": "https://cardano.ideascale.com/c/idea/383517",
-    "wallet": "addr1qy8ankx6gyvw8fnymjz4aat5yd3dq37mtnk0cqpafxu67l7ksqdc0rsz56xjuka8758sestaqclj66gk7d86tf807vps2dstvx"
+    "ideascale": "https://cardano.ideascale.com/c/idea/381354",
+    "wallet": "addr1qyugdw9r376w5e63la9xmmsgnx3vnzjflv5wh58uma7ue4nj6xnxju7axzsy2dnljzfj2zx49lp93jn3rx6y2x0d62zqthhm0m"
 }
