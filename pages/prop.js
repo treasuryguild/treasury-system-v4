@@ -29,12 +29,12 @@ window.onload = function() {
         .then(response => {
         const data = response.data;
         totals2 = data.budgetItems;
-        fundJ = data.fund
+        fundJ = ("Fund" + parseInt(data.fund));
         projectJ = data.project
         ideaJ = data.ideascale
         poolJ = data.proposal
         walletEl = data.wallet   
-        balEl.textContent = "USD " + data.budget.toFixed(2);
+        balEl.textContent = "USD " + parseInt(data.budget).toFixed(2);
         
         // Loop over each object in data array
         for ( let i in data.budgetItems) {
