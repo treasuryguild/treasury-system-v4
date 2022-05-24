@@ -16,7 +16,7 @@ let saveEl = document.getElementById("save-el")
 // Calc values
 let balance = "";
 const bi = [];
-const bb = [];
+const budgetI = [];
 const l = [];
 let totals = {};
 let totals2 = {};
@@ -30,12 +30,12 @@ window.onload = function() {
         const data = response.data;
         totals2 = data.budgetItems;
         fundJ = ("Fund" + parseInt(data.fund.replace( /^\D+/g, '')));
-        projectJ = data.project
+        projectJ = data.project.replace(/\s/g, '-')
         ideaJ = data.ideascale
-        poolJ = data.proposal
+        poolJ = data.proposal.replace(/\s/g, '-')
         walletEl = data.wallet   
         balEl.textContent = "USD " + parseInt(data.budget).toFixed(2);
-        console.log(data.budgetItems);
+        console.log(data);
         // Loop over each object in data array
         for ( let i in data.budgetItems) {
             // Get the ul with id of of userRepos
@@ -51,7 +51,6 @@ window.onload = function() {
             // Create the html markup for each li
             k = ("t" + `${n+1}`);
             l[i] = ("b" + `${n+1}`);
-            console.log(l[i] + i);
             li.className = "graph_item green";
             li2.value = i;
             if (n > 0) {
@@ -83,8 +82,8 @@ window.onload = function() {
           .then(response => {
             const data = response.data;
             for (let j in data) {
-              bb[j] = data[j].name.replace(/\s/g, '-');
-              axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/Transactions/${projectJ}/${fundJ}/${poolJ}/${bb[j]}`)
+              budgetI[j] = data[j].name.replace(/\s/g, '-');
+              axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/Transactions/${projectJ}/${fundJ}/${poolJ}/${budgetI[j]}`)
               .then(response => {
                 const data = response.data;
                 for (let m in data) {    
@@ -104,8 +103,8 @@ window.onload = function() {
           .then(response => {
             for (let i in bi) {
               y = bi[i].budget.replace(/\s/g, '-')
-              for (let j in bb) {    
-                if ( y == bb[j]) {
+              for (let j in budgetI) {    
+                if ( y == budgetI[j]) {
                   totals[y] = totals[y] + (parseInt(bi[i].ada));
                   totals.outgoing = totals.outgoing + (parseInt(bi[i].ada));
                 }        
