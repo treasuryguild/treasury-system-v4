@@ -35,7 +35,7 @@ window.onload = function() {
         poolJ = data.proposal
         walletEl = data.wallet   
         balEl.textContent = "USD " + parseInt(data.budget).toFixed(2);
-        
+        console.log(data.budgetItems);
         // Loop over each object in data array
         for ( let i in data.budgetItems) {
             // Get the ul with id of of userRepos

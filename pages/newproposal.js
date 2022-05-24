@@ -89,6 +89,7 @@ function getValue(name){
     const ideascale = getValue('ideascale')
     const wallet = getValue('wallet')
     const tfunds = getValue('total-funds-requested')   
+    budgetItems.Incoming = tfunds;
     for (let i = 0; i < budgetList; i++) {
         if (i > 0) {
             x = `${getValue(k[i])}`;
