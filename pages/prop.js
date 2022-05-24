@@ -37,6 +37,10 @@ window.onload = function() {
         balEl.textContent = "USD " + parseInt(data.budget).toFixed(2);
         console.log(data);
         // Loop over each object in data array
+        let ul4 = document.getElementById('main-title');
+        let li4 = document.createElement('div');
+        li4.innerHTML = (poolJ + " Transaction Form");
+        ul4.appendChild(li4);
         for ( let i in data.budgetItems) {
             // Get the ul with id of of userRepos
             var n = Object.keys(data.budgetItems).indexOf(i);
@@ -52,6 +56,7 @@ window.onload = function() {
             k = ("t" + `${n+1}`);
             l[i] = ("b" + `${n+1}`);
             li.className = "graph_item green";
+            li3.className = "button2";
             li2.value = i;
             if (n > 0) {
             li.innerHTML = (`
