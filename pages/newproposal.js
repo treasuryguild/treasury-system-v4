@@ -1,5 +1,5 @@
-let orgEl = document.getElementById("org").value
-let repoEl = document.getElementById("repo").value
+let orgEl = 'treasuryguild'
+let repoEl = 'treasury-v3'
 let budgetList = "";
 let ul = ""
 let ul2 = ""
