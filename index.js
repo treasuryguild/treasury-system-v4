@@ -6,7 +6,7 @@ axios.get(`https://api.github.com/repos/treasuryguild/treasury-v3/contents/propo
     console.log(data);
     // Loop over each object in data array
     for (let i in data) {
-        localStorage.setItem("prop", data[i].name);
+        //localStorage.setItem("prop", data[i].name);
         value2[i] = data[i].name
         // Get the ul with id of of userRepos
         let ul = document.getElementById('userRepos');
