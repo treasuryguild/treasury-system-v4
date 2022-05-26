@@ -66,7 +66,7 @@ window.onload = function() {
             </a>
             </span>
             <span class="graph_item_value">
-            <a href="https://github.com/${orgEl}/${repoEl}/tree/main/Transactions/${projectJ}/${fundJ}/${poolJ}/${i.replace(/\s/g, '-')}" target="_blank">
+            <a href="https://github.com/${orgEl}/${repoEl}/tree/main/Transactions/${projectJ}/${fundJ}/${poolJ}/${i}" target="_blank">
             <span class="value" id=${l[i]}></span>
             </a>
             </span>
