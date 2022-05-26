@@ -93,7 +93,7 @@ function getValue(name){
     budgetItems.Other = "10";
     for (let i = 0; i < budgetList; i++) {
         if (i > 0) {
-            x = `${getValue(k[i])}`;
+            x = `${getValue(k[i]).replace(/\s/g, '-')}`;
         budgetItems[x] = getValue(l[i])
         }
     }
