@@ -90,6 +90,7 @@ function getValue(name){
     const wallet = getValue('wallet')
     const tfunds = getValue('total-funds-requested')   
     budgetItems.Incoming = tfunds;
+    budgetItems.Other = 10;
     for (let i = 0; i < budgetList; i++) {
         if (i > 0) {
             x = `${getValue(k[i])}`;
