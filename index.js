@@ -12,7 +12,6 @@ function listQ() {
     axios.get(`https://api.github.com/repos/treasuryguild/treasury-v3/contents/proposals`)
     .then(response => {
     const data = response.data;
-    
     console.log(data);
     // Loop over each object in data array
     for (let i in data) {
