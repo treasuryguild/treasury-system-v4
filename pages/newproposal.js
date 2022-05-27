@@ -10,7 +10,7 @@ let l = []
 let budgetItems = {}
 //Helper function to get value by id
 
-var changedText = document.getElementById('changed');
+//  var changedText = document.getElementById('changed');
 function listQ(){
     budgetList = this.value;
     console.log(budgetList);

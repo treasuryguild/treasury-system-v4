@@ -194,6 +194,21 @@ body {
     width: 250px;
   }
   
+  .fund {
+    padding: 5px, 5px;
+    padding-block: 0px;
+    padding-inline: 12px;
+    color: #aaa;
+    background-color: var(--bg);
+    border: 1px solid var(--bg-accent);
+    cursor: pointer;
+    border-radius: 3px;
+    margin: 0px;
+    width: 250px;
+    height: 20px;
+    left: 0px;
+  }
+
   .descr {
     padding: 8px, 12px;
     color: #aaa;
