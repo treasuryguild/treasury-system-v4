@@ -100,7 +100,7 @@ function getValue(name){
     console.log(budgetItems);
     //generate a filename
     let budgetItemsF = JSON.stringify(budgetItems);
-    const filename = proposal.replace(/\s/g, '-') + ".json"  
+    const filename = "F" + parseInt(fund.replace( /^\D+/g, '')) + "-" + proposal.replace(/\s/g, '-') + ".json"  
     //Generate a string mimicing the file structure
     //Indentation is important here
     let fileText = `{
