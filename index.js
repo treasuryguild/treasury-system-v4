@@ -1,3 +1,5 @@
+let orgEl = "treasuryguild";
+let repoEl = "treasury-v3";
 let value2 = [];
 let fundList = "";
 let fund = "";
@@ -9,7 +11,7 @@ function listQ() {
     console.log(fundList);
     localStorage.setItem("fund", fundList);
     fund = localStorage.getItem("fund");
-    axios.get(`https://api.github.com/repos/treasuryguild/treasury-v3/contents/proposals`)
+    axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/proposals`)
     .then(response => {
     const data = response.data;
     console.log(data);
@@ -18,7 +20,7 @@ function listQ() {
         //console.log(data[i]);
         value2[i] = data[i].name
         var n = i;
-        axios.get(`https://raw.githubusercontent.com/treasuryguild/treasury-v3/main/proposals/${data[i].name}`)
+        axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/proposals/${data[i].name}`)
         .then(response => {
             const data2 = response.data;
             fund2 = data2.fund;

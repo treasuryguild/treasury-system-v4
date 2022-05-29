@@ -25,7 +25,7 @@ const x = []
 //"https://raw.githubusercontent.com/treasuryguild/treasury-v3/main/proposals/F6-Distributed-Auditability.json"
 window.onload = function() {
     console.log(localStorage.getItem("prop"))
-    axios.get(`https://raw.githubusercontent.com/treasuryguild/treasury-v3/main/proposals/${localStorage.getItem("prop")}`)
+    axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/proposals/${localStorage.getItem("prop")}`)
         .then(response => {
         const data = response.data;
         console.log(data);
