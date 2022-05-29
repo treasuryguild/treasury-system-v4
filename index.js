@@ -55,5 +55,5 @@ document.getElementById("list").onchange = listQ;
 
 function goHere(i) {
     localStorage.setItem("prop", value2[i]);
-    location.href='../pages/proposal.html';
+    location.href='/pages/proposal.html';
 }
