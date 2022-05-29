@@ -25,7 +25,7 @@ const x = []
 
 window.onload = function() {
     console.log(localStorage.getItem("prop"))
-    axios.get(`../proposals/${localStorage.getItem("prop")}`)
+    axios.get(`https://api.github.com/repos/treasuryguild/treasury-v3/contents/proposals/${localStorage.getItem("prop")}`)
         .then(response => {
         const data = response.data;
         totals2 = data.budgetItems;
