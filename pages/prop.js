@@ -147,6 +147,7 @@ function validateSubmission(){
   const name = getValue('name')
   const budgetB = getValue('budgetB')
   const ada = getValue('ada')
+  const gimb = getValue('gimb')
   const description = getValue('description')
   const pool = poolJ
   const idea = ideaJ
@@ -168,6 +169,7 @@ function validateSubmission(){
 "ideascale": "${idea}",
 "budget": "${budgetB}",
 "ada": "${ada}",
+"gimbals": "${gimb}",
 "exchange-rate": "${xrate} USD per ADA",
 "name": "${name}",
 "txid": "",
