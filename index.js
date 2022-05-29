@@ -18,7 +18,7 @@ function listQ() {
         //console.log(data[i]);
         value2[i] = data[i].name
         var n = i;
-        axios.get(`../proposals/${data[i].name}`)
+        axios.get(`https://raw.githubusercontent.com/treasuryguild/treasury-v3/main/proposals/${data[i].name}`)
         .then(response => {
             const data2 = response.data;
             fund2 = data2.fund;

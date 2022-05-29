@@ -22,12 +22,13 @@ let totals = {};
 let totals2 = {};
 const b = []
 const x = []
-
+//"https://raw.githubusercontent.com/treasuryguild/treasury-v3/main/proposals/F6-Distributed-Auditability.json"
 window.onload = function() {
     console.log(localStorage.getItem("prop"))
-    axios.get(`../proposals/${localStorage.getItem("prop")}`)
+    axios.get(`https://raw.githubusercontent.com/treasuryguild/treasury-v3/main/proposals/${localStorage.getItem("prop")}`)
         .then(response => {
         const data = response.data;
+        console.log(data);
         totals2 = data.budgetItems;
         fundJ = ("Fund" + parseInt(data.fund.replace( /^\D+/g, '')));
         projectJ = data.project.replace(/\s/g, '-')
