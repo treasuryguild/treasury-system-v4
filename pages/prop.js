@@ -173,8 +173,8 @@ function validateSubmission(){
 "exchange-rate": "${xrate} USD per ADA",
 "ada": "${ada}",
 "gimbals": "${gimb}",
-"txid": "",
 "balance": "${newBal}",
+"txid": "",
 "description": "${description}"
 }
 `  
