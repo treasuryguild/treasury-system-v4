@@ -154,6 +154,7 @@ function validateSubmission(){
   const xrate = getValue('xrate')
   const fund = fundJ
   const project = projectJ
+  const newBal = balance - ada
   
   //generate a filename
   const filename = new Date().getTime().toString() + '-' + name.replace(/\s/g, '-') + ".json"
@@ -173,6 +174,7 @@ function validateSubmission(){
 "exchange-rate": "${xrate} USD per ADA",
 "name": "${name}",
 "txid": "",
+"newBal": "${newBal}",
 "description": "${description}"
 }
 `  
