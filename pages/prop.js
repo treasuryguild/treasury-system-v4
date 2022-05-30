@@ -154,7 +154,14 @@ function validateSubmission(){
   const xrate = getValue('xrate')
   const fund = fundJ
   const project = projectJ
-  const newBal = parseInt(balance - ada).toFixed(2);
+  const newBal = "";
+
+  if (budgetB == "Incoming") {
+     newBal = parseInt(balance + ada).toFixed(2);
+  } else {
+     newBal = parseInt(balance - ada).toFixed(2);
+  }
+  
   
   //generate a filename
   const filename = new Date().getTime().toString() + '-' + name.replace(/\s/g, '-') + ".json"
