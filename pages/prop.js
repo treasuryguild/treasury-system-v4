@@ -169,10 +169,10 @@ function validateSubmission(){
 "proposal": "${pool}",
 "ideascale": "${idea}",
 "budget": "${budgetB}",
+"name": "${name}",
+"exchange-rate": "${xrate} USD per ADA",
 "ada": "${ada}",
 "gimbals": "${gimb}",
-"exchange-rate": "${xrate} USD per ADA",
-"name": "${name}",
 "txid": "",
 "balance": "${newBal}",
 "description": "${description}"
