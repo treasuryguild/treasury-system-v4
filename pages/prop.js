@@ -154,7 +154,7 @@ function validateSubmission(){
   const xrate = getValue('xrate')
   const fund = fundJ
   const project = projectJ
-  const newBal = "";
+  let newBal = "";
 
   if (budgetB == "Incoming") {
      newBal = parseInt(balance + ada).toFixed(2);
