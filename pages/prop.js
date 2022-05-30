@@ -174,7 +174,7 @@ function validateSubmission(){
 "exchange-rate": "${xrate} USD per ADA",
 "name": "${name}",
 "txid": "",
-"newBal": "${newBal}",
+"Balance": "${newBal}",
 "description": "${description}"
 }
 `  
