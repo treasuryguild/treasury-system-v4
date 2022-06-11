@@ -15,6 +15,9 @@ let saveEl = document.getElementById("save-el")
 
 // Calc values
 let balance = "";
+let balAGIX = "";
+let balGMBL = "";
+let tokensList = [];
 const bi = [];
 const budgetI = [];
 const l = [];
@@ -22,6 +25,7 @@ let totals = {};
 let totals2 = {};
 const b = []
 const x = []
+// Compare axios get with below
 //"https://raw.githubusercontent.com/treasuryguild/treasury-v3/main/proposals/F6-Distributed-Auditability.json"
 window.onload = function() {
     console.log(localStorage.getItem("prop"))
@@ -117,6 +121,23 @@ window.onload = function() {
               }
             };
             balance = (response.data.lovelaces/1000000).toFixed(2);
+            if (Array.isArray(response.data.tokens) && response.data.tokens.length) {
+              for (let i in response.data.tokens) {
+                tokensList.push(response.data.tokens[i].name);
+                switch(response.data.tokens[i].name) {
+                  case 'gimbal':
+                    balGMBL = (response.data.tokens[i].quantity/1000000).toFixed(2);
+                    break;
+                  case 'AGIX':
+                    balAGIX = (response.data.tokens[i].quantity/100000000).toFixed(2);
+                    break;
+                }
+              }
+            balGMBL = (response.data.tokens[0].quantity/1000000).toFixed(2);
+            balAGIX = (response.data.tokens[1].quantity/100000000).toFixed(2);
+          }
+            console.log(balAGIX);
+            console.log(tokensList);
             saveEl2.textContent = "₳ " + balance
             document.getElementById("save-el2").style.width = (balance/data.budget*100)+"%"
             saveEl.textContent = "₳ " + totals.Incoming
@@ -147,7 +168,8 @@ function validateSubmission(){
   const name = getValue('name')
   const budgetB = getValue('budgetB')
   const ada = getValue('ada')
-  const gimb = getValue('gimb')
+  const gmbl = getValue('gmbl')
+  const agix = getValue('agix')
   const description = getValue('description')
   const pool = poolJ
   const idea = ideaJ
@@ -155,11 +177,41 @@ function validateSubmission(){
   const fund = fundJ
   const project = projectJ
   let newBal = 0;
+  let tok = "";
+  let tokens = [ada, gmbl, agix];
+  let tokens2 = ["ada", "gmbl", "agix"];
+
+  for (let i in tokens) {
+    if (tokens[i] != "") {
+      tok = `${tok}
+"${tokens2[i]}" : "${tokens[i]}",`;
+    }
+  }
 
   if (budgetB == "Incoming") {
-     newBal = parseInt(balance + ada).toFixed(2);
+     newBal = `"${parseInt(balance).toFixed(2)} ADA"`;
+     for (let i in tokensList) {
+      switch(tokensList[i]) {
+        case 'gimbal':
+          newBal = `${newBal}, "${parseInt(balGMBL).toFixed(2)} GMBL"`;
+          break;
+        case 'AGIX':
+          newBal = `${newBal}, "${parseInt(balAGIX).toFixed(2)} AGIX"`;
+          break;
+      }
+     }
   } else {
-     newBal = parseInt(balance - ada).toFixed(2);
+    newBal = `"${(parseInt(balance) - parseInt(ada)).toFixed(2)} ADA"`;
+    for (let i in tokensList) {
+     switch(tokensList[i]) {
+       case 'gimbal':
+         newBal = `${newBal}, "${(parseInt(balGMBL) - parseInt(gmbl)).toFixed(2)} GMBL"`;
+         break;
+       case 'AGIX':
+         newBal = `${newBal}, "${(parseInt(balAGIX) - parseInt(agix)).toFixed(2)} AGIX"`;
+         break;
+     }
+    }
   }
   
   
@@ -177,10 +229,8 @@ function validateSubmission(){
 "ideascale": "${idea}",
 "budget": "${budgetB}",
 "name": "${name}",
-"exchange-rate": "${xrate} USD per ADA",
-"ada": "${ada}",
-"gimbals": "${gimb}",
-"balance": "${newBal}",
+"exchange-rate": "${xrate} USD per ADA",${tok}
+"balance": [${newBal}],
 "txid": "",
 "description": "${description}"
 }

@@ -26,6 +26,8 @@
     <div class='main'>
         <button onclick="location.href='/treasury-v3/index.html';"><a>Home</a></button>
         <button onclick="location.href='/treasury-v3/pages/newproposal.html';"><a>New Proposal</a></button>
+        <!-- <button onclick="location.href='/treasury-v3/index.html';"><a>Home</a></button>
+        <button onclick="location.href='/treasury-v3/pages/newproposal.html';"><a>New Proposal</a></button> -->
     </div>
     <article>  
         <div class='main'>
@@ -98,32 +100,6 @@
                     </label>
             </div>
             <div class='form'>
-                <label class = 'custom-field' for='ada'> 
-                <input
-                    type='text'
-                    id='ada'
-                    name='ada'
-                    autoComplete="off"
-                    required
-                />
-                <span class="placeholder">ADA</span>
-                <span class="disco">Amount</span>
-                </label>
-            </div>
-            <div class='form'>
-                <label class = 'custom-field' for='gimb'> 
-                <input
-                    type='text'
-                    id='gimb'
-                    name='gimb'
-                    autoComplete="off"
-                    required
-                />
-                <span class="placeholder">Gimbals</span>
-                <span class="disco">Amount</span>
-                </label>
-            </div>
-            <div class='form'>
                 <label  for='description'>
                 <textarea class = 'descr'
                     type='text'
@@ -143,10 +119,51 @@
                 <button onclick="validateSubmission();" class ='calc'>
                     Submit
                 </button>
-                <script src="prop.js"></script>
+            </div>
+        </form>
+        <form class='testing'>
+            <div class='form'>
+                <label class = 'custom-field3' for='ada'> 
+                <input
+                    type='text'
+                    id='ada'
+                    name='ada'
+                    autoComplete="off"
+                    required
+                />
+                <span class="placeholder">ADA</span>
+                <span class="disco">Amount</span>
+                </label>
+            </div>
+            <div class='form'>
+                <label class = 'custom-field3' for='gmbl'> 
+                <input
+                    type='text'
+                    id='gmbl'
+                    name='gmbl'
+                    autoComplete="off"
+                    required
+                />
+                <span class="placeholder">GMBL</span>
+                <span class="disco">Amount</span>
+                </label>
+            </div>
+            <div class='form'>
+                <label class = 'custom-field3' for='agix'> 
+                <input
+                    type='text'
+                    id='agix'
+                    name='agix'
+                    autoComplete="off"
+                    required
+                />
+                <span class="placeholder">AGIX</span>
+                <span class="disco">Amount</span>
+                </label>
             </div>
         </form>
         </div>
+        <script src="prop.js"></script>
     </article>
         
          <!-- We'll prepare our javascript's function for later -->
