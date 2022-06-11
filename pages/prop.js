@@ -230,7 +230,7 @@ function validateSubmission(){
 "budget": "${budgetB}",
 "name": "${name}",
 "exchange-rate": "${xrate} USD per ADA",${tok}
-"balance": [${newBal}],
+"Wallet balance": [${newBal}],
 "txid": "",
 "description": "${description}"
 }
