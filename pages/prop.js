@@ -234,8 +234,7 @@ function validateSubmission(){
 "txid": "",
 "description": "${description}"
 }
-`  
-
+`
   //Encode string to URI format
   const encodedFileText = encodeURIComponent(fileText)
 
@@ -250,7 +249,45 @@ function validateSubmission(){
     var answer = budgetB.replace(/\s/g, '-') + "/";
     return answer;
   }
-  //Open in a new tab
-window.open(`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2(budgetB) + "new?value=" + encodedFileText +"&filename=" + filename);
-  
+  //
+function repo2(project) {
+  var answer = "";  
+switch(project) {
+  case 'Swarm':
+    answer = `${orgEl}/Catalyst-Swarm`;
+    break;
+  case 'Cardano-Ambassadors':
+    answer = `${orgEl}/cardano-ambassadors`;
+    break;
+  case 'Treasury-Guild':
+    answer = `${orgEl}/Treasury-Guild-Wallet`;
+    break;
+  case 'Catalyst-Circle':
+    answer = `cctreasury/Treasury-system`;
+    break;
+  default:
+    answer = `${orgEl}/${project}`;
+    break;
+}
+return answer
+}
+
+function budget2(budgetB) {
+  var answer = "";  
+switch(budgetB) {
+  case 'Incoming':
+    answer = "Incoming";
+    break;
+  default:
+    answer = "Outgoing";
+    break;
+}
+return answer
+}
+
+  function openWindows() {
+    window.open(`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2(budgetB) + "new?value=" + encodedFileText +"&filename=" + filename);
+    window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok}+${budget2(budgetB)}&labels=${pool},${fund}&body=` + encodedFileText);  
+  }
+  openWindows();
 }
