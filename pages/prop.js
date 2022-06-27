@@ -181,13 +181,14 @@ function validateSubmission(){
   let tok2 = "";
   let tokens = [ada, gmbl, agix];
   let tokens2 = ["ada", "gmbl", "agix"];
+  let tokens3 = ["ADA", "GMBL", "AGIX"];
 
   for (let i in tokens) {
     if (tokens[i] != "") {
       tok = `${tok}
 "${tokens2[i]}" : "${tokens[i]}",`;
       tok2 = `${tok2}
-${tokens[i]} ${tokens2[i]} `;
+${tokens[i]} ${tokens3[i]} `;
     }
   }
 
