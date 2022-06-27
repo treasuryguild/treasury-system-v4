@@ -187,7 +187,7 @@ function validateSubmission(){
       tok = `${tok}
 "${tokens2[i]}" : "${tokens[i]}",`;
       tok2 = `${tok2}
-${tokens[i]} ${tokens2[i]}`;
+${tokens[i]} ${tokens2[i]} `;
     }
   }
 
