@@ -234,7 +234,7 @@ ${tokens[i]} ${tokens3[i]} `;
 "budget": "${budgetB}",
 "name": "${name}",
 "exchange-rate": "${xrate} USD per ADA",${tok}
-"Wallet balance": [${newBal}],
+"wallet-balance": [${newBal}],
 "txid": "",
 "description": "${description}"
 }
