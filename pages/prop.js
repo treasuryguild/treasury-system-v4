@@ -183,6 +183,14 @@ function validateSubmission(){
   let tokens2 = ["ada", "gmbl", "agix"];
   let tokens3 = ["ADA", "GMBL", "AGIX"];
 
+  if (!(agix >= 0)) {
+    agix = 0;
+  }
+
+  if (!(gmbl >= 0)) {
+    gmbl = 0;
+  }
+
   for (let i in tokens) {
     if (tokens[i] != "") {
       tok = `${tok}
