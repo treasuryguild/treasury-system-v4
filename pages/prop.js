@@ -168,8 +168,8 @@ function validateSubmission(){
   const name = getValue('name')
   const budgetB = getValue('budgetB')
   const ada = getValue('ada')
-  const gmbl = (parseInt(getValue('gmbl')) === NaN) ? 0 : getValue('gmbl');
-  const agix = (parseInt(getValue('agix')) === NaN) ? 0 : getValue('agix');
+  const gmbl = getValue('gmbl')
+  const agix = getValue('agix')
   const description = getValue('description')
   const pool = poolJ
   const idea = ideaJ
@@ -208,11 +208,17 @@ ${tokens[i]} ${tokens3[i]} `;
     newBal = `"${(parseInt(balance) - parseInt(ada)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
-       case 'gimbal':
+       case 'gimbal' && (parseInt(gmbl).toFixed(2) >= 0):
          newBal = `${newBal}, "${(parseInt(balGMBL) - parseInt(gmbl)).toFixed(2)} GMBL"`;
          break;
-       case 'AGIX':
+       case 'AGIX' && (parseInt(agix).toFixed(2) >= 0):
          newBal = `${newBal}, "${(parseInt(balAGIX) - parseInt(agix)).toFixed(2)} AGIX"`;
+         break;
+       case 'gimbal' && !(parseInt(gmbl).toFixed(2) >= 0):
+         newBal = `${newBal}, "${parseInt(balGMBL) - 0} GMBL"`;
+         break;
+       case 'AGIX' && !(parseInt(agix).toFixed(2) >= 0):
+         newBal = `${newBal}, "${parseInt(balAGIX) - 0} AGIX"`;
          break;
      }
     }
