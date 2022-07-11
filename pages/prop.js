@@ -185,6 +185,7 @@ function validateSubmission(){
 
   if (!(agix >= 0)) {
     agix = 0;
+    console.log(agix)
   }
 
   if (!(gmbl >= 0)) {
