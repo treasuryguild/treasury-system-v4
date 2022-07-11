@@ -168,8 +168,8 @@ function validateSubmission(){
   const name = getValue('name')
   const budgetB = getValue('budgetB')
   const ada = getValue('ada')
-  const gmbl = getValue('gmbl')
-  const agix = getValue('agix')
+  let gmbl = getValue('gmbl')
+  let agix = getValue('agix')
   const description = getValue('description')
   const pool = poolJ
   const idea = ideaJ
