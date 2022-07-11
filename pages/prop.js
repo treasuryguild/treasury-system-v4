@@ -208,17 +208,11 @@ ${tokens[i]} ${tokens3[i]} `;
     newBal = `"${(parseInt(balance) - parseInt(ada)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
-       case 'gimbal' && (gmbl >= 0):
-         newBal = `${newBal}, "${(parseInt(balGMBL) - parseInt(gmbl)).toFixed(2)} GMBL"`;
+       case 'gimbal':
+         newBal = `${newBal}, "${isNaN((parseInt(balGMBL) - parseInt(gmbl)).toFixed(2)) ? parseInt(balGMBL).toFixed(2) : (parseInt(balGMBL) - parseInt(gmbl)).toFixed(2)} GMBL"`;
          break;
-       case 'AGIX' && (agix >= 0):
-         newBal = `${newBal}, "${(parseInt(balAGIX) - parseInt(agix)).toFixed(2)} AGIX"`;
-         break;
-       case 'gimbal' && isNaN(gmbl):
-         newBal = `${newBal}, "${parseInt(balGMBL).toFixed(2)} GMBL"`;
-         break;
-       case 'AGIX' && isNaN(agix):
-         newBal = `${newBal}, "${parseInt(balAGIX).toFixed(2)} AGIX"`;
+       case 'AGIX':
+         newBal = `${newBal}, "${isNaN((parseInt(balAGIX) - parseInt(agix)).toFixed(2)) ? parseInt(balAGIX).toFixed(2) : (parseInt(balAGIX) - parseInt(agix)).toFixed(2)} AGIX"`;
          break;
      }
     }
