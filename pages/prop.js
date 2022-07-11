@@ -185,11 +185,12 @@ function validateSubmission(){
 
   if (!(agix >= 0)) {
     agix = 0;
-    console.log(agix)
+    console.log(agix);
   }
 
   if (!(gmbl >= 0)) {
     gmbl = 0;
+    console.log(gmbl);
   }
 
   for (let i in tokens) {
