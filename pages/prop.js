@@ -168,8 +168,8 @@ function validateSubmission(){
   const name = getValue('name')
   const budgetB = getValue('budgetB')
   const ada = getValue('ada')
-  let gmbl = getValue('gmbl')
-  let agix = getValue('agix')
+  const gmbl = (!(getValue('gmbl')>=0)?0:getValue('gmbl'));
+  const agix = (!(getValue('agix')>=0)?0:getValue('agix'));
   const description = getValue('description')
   const pool = poolJ
   const idea = ideaJ
@@ -182,16 +182,6 @@ function validateSubmission(){
   let tokens = [ada, gmbl, agix];
   let tokens2 = ["ada", "gmbl", "agix"];
   let tokens3 = ["ADA", "GMBL", "AGIX"];
-
-  if (!(agix >= 0)) {
-    agix = 0;
-    console.log(agix);
-  }
-
-  if (!(gmbl >= 0)) {
-    gmbl = 0;
-    console.log(gmbl);
-  }
 
   for (let i in tokens) {
     if (tokens[i] != "") {
