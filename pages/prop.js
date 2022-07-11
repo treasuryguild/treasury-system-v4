@@ -214,10 +214,10 @@ ${tokens[i]} ${tokens3[i]} `;
        case 'AGIX' && (parseInt(agix).toFixed(2) >= 0):
          newBal = `${newBal}, "${(parseInt(balAGIX) - parseInt(agix)).toFixed(2)} AGIX"`;
          break;
-       case 'gimbal' && (parseInt(gmbl).toFixed(2) == NaN):
+       case 'gimbal' && isNaN(parseInt(gmbl).toFixed(2)):
          newBal = `${newBal}, "${parseInt(balGMBL).toFixed(2)} GMBL"`;
          break;
-       case 'AGIX' && (parseInt(agix).toFixed(2) == NaN):
+       case 'AGIX' && isNaN(parseInt(agix).toFixed(2)):
          newBal = `${newBal}, "${parseInt(balAGIX).toFixed(2)} AGIX"`;
          break;
      }
