@@ -168,8 +168,8 @@ function validateSubmission(){
   const name = getValue('name')
   const budgetB = getValue('budgetB')
   const ada = getValue('ada')
-  const gmbl = (!(getValue('gmbl')>=0)?0:getValue('gmbl'));
-  const agix = (!(getValue('agix')>=0)?0:getValue('agix'));
+  const gmbl = getValue('gmbl')==NaN?0:getValue('gmbl');
+  const agix = getValue('agix')==NaN?0:getValue('agix');
   const description = getValue('description')
   const pool = poolJ
   const idea = ideaJ
