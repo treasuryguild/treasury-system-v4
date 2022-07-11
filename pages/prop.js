@@ -215,10 +215,10 @@ ${tokens[i]} ${tokens3[i]} `;
          newBal = `${newBal}, "${(parseInt(balAGIX) - parseInt(agix)).toFixed(2)} AGIX"`;
          break;
        case 'gimbal' && !(parseInt(gmbl).toFixed(2) >= 0):
-         newBal = `${newBal}, "${parseInt(balGMBL) - 0} GMBL"`;
+         newBal = `${newBal}, "${parseInt(balGMBL).toFixed(2)} GMBL"`;
          break;
        case 'AGIX' && !(parseInt(agix).toFixed(2) >= 0):
-         newBal = `${newBal}, "${parseInt(balAGIX) - 0} AGIX"`;
+         newBal = `${newBal}, "${parseInt(balAGIX).toFixed(2)} AGIX"`;
          break;
      }
     }
