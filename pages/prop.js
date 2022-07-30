@@ -143,8 +143,6 @@ window.onload = function() {
                     break;
                 }
               }
-            balGMBL = (data.tokens[0].quantity/1000000).toFixed(2);
-            balAGIX = (data.tokens[1].quantity/100000000).toFixed(2);
           }
             console.log(balAGIX);
             console.log(tokensList);
