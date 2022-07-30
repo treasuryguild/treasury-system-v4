@@ -25,6 +25,9 @@ let totals = {};
 let totals2 = {};
 const b = []
 const x = []
+
+let topData = {};
+
 // Compare axios get with below
 //"https://raw.githubusercontent.com/treasuryguild/treasury-v3/main/proposals/F6-Distributed-Auditability.json"
 window.onload = function() {
@@ -32,6 +35,7 @@ window.onload = function() {
     axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/proposals/${localStorage.getItem("prop")}`)
         .then(response => {
         const data = response.data;
+        topData = response.data;
         console.log(data);
         totals2 = data.budgetItems;
         fundJ = ("Fund" + parseInt(data.fund.replace( /^\D+/g, '')));
@@ -88,29 +92,35 @@ window.onload = function() {
           }
           totals.outgoing = 0;
           
-          axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/Transactions/${projectJ}/${fundJ}/${poolJ}`)
-          .then(response => {
-            const data = response.data;
-            for (let j in data) {
-              budgetI[j] = data[j].name.replace(/\s/g, '-');
-              axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/Transactions/${projectJ}/${fundJ}/${poolJ}/${budgetI[j]}`)
-              .then(response => {
-                const data = response.data;
-                for (let m in data) {    
-                  axios.get(data[m].download_url)
-                  .then(response => {
-                    const data = response.data;
-                    bi.push(data);
-                  })
-                  .catch(error => console.error(error))
-                }      
-              })
-              .catch(error => console.error(error))   
-              }          
-          })
-          .catch(error => console.error(error))
-          axios.get(`https://pool.pm/wallet/${walletEl}`)
-          .then(response => {
+          async function downloadFromDownloadURLs(url) {
+            const {data} = await axios.get(url);
+            const downloadedData = [];
+            for (let key in data) {
+              let downloadUrl = data[key].download_url;
+              const downloadResponse = await axios.get(downloadUrl);
+              downloadedData.push(downloadResponse.data);
+            }
+            return downloadedData;
+          }
+          
+          async function loadData(orgEl, repoEl, projectJ, fundJ, poolJ) {
+            let prefixUrl = `https://api.github.com/repos/${orgEl}/${repoEl}/contents/Transactions/${projectJ}/${fundJ}/${poolJ}`;
+            const {data} = await axios.get(prefixUrl);
+            for (let dataKey in data) {
+              const budget = data[dataKey].name.replace(/\s/g, '-');
+              budgetI[dataKey] = data[dataKey].name.replace(/\s/g, '-');
+              const url = `${prefixUrl}/${budget}`;
+              for (const downloadedData of await downloadFromDownloadURLs(url)) {
+                bi.push(downloadedData);
+              }
+            }
+            console.log('data', bi)
+            return bi;
+          }
+
+          async function getWallet() {
+            const {data} = await axios.get(`https://pool.pm/wallet/${walletEl}`)
+            await loadData(orgEl, repoEl, projectJ, fundJ, poolJ);
             for (let i in bi) {
               y = bi[i].budget.replace(/\s/g, '-')
               for (let j in budgetI) {    
@@ -120,28 +130,28 @@ window.onload = function() {
                 }        
               }
             };
-            balance = (response.data.lovelaces/1000000).toFixed(2);
-            if (Array.isArray(response.data.tokens) && response.data.tokens.length) {
-              for (let i in response.data.tokens) {
-                tokensList.push(response.data.tokens[i].name);
-                switch(response.data.tokens[i].name) {
+            balance = (data.lovelaces/1000000).toFixed(2);
+            if (Array.isArray(data.tokens) && data.tokens.length) {
+              for (let i in data.tokens) {
+                tokensList.push(data.tokens[i].name);
+                switch(data.tokens[i].name) {
                   case 'gimbal':
-                    balGMBL = (response.data.tokens[i].quantity/1000000).toFixed(2);
+                    balGMBL = (data.tokens[i].quantity/1000000).toFixed(2);
                     break;
                   case 'AGIX':
-                    balAGIX = (response.data.tokens[i].quantity/100000000).toFixed(2);
+                    balAGIX = (data.tokens[i].quantity/100000000).toFixed(2);
                     break;
                 }
               }
-            balGMBL = (response.data.tokens[0].quantity/1000000).toFixed(2);
-            balAGIX = (response.data.tokens[1].quantity/100000000).toFixed(2);
+            balGMBL = (data.tokens[0].quantity/1000000).toFixed(2);
+            balAGIX = (data.tokens[1].quantity/100000000).toFixed(2);
           }
             console.log(balAGIX);
             console.log(tokensList);
             saveEl2.textContent = "₳ " + balance
-            document.getElementById("save-el2").style.width = (balance/data.budget*100)+"%"
+            document.getElementById("save-el2").style.width = (balance/topData.budget*100)+"%"
             saveEl.textContent = "₳ " + totals.Incoming
-            document.getElementById("save-el").style.width = (totals.Incoming/data.budget*100)+"%"
+            document.getElementById("save-el").style.width = (totals.Incoming/topData.budget*100)+"%"
             for (let i in totals) {
               if (i != "Incoming" && i != "outgoing") {
                 b[i] = document.getElementById(l[i]);        
@@ -151,10 +161,9 @@ window.onload = function() {
             console.log(b[i]);
               }
             }
-            console.log(x);
-          })
-          .catch(error => console.error(error))
-          console.log(bi);
+            
+          }
+    getWallet();
 })
 .catch(error => console.error(error))
 };
