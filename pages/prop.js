@@ -135,7 +135,6 @@ window.onload = function() {
           async function getWallet() {
             const {data} = await axios.get(`https://pool.pm/wallet/${walletEl}`)
             await loadData(orgEl, repoEl, projectJ, fundJ, poolJ);
-            hideLoading();
             for (let i in bi) {
               y = bi[i].budget.replace(/\s/g, '-')
               for (let j in budgetI) {    
@@ -174,7 +173,7 @@ window.onload = function() {
             console.log(b[i]);
               }
             }
-            
+            hideLoading();
           }
     getWallet();
 })
