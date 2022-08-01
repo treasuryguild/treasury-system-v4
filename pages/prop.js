@@ -28,10 +28,24 @@ const x = []
 
 let topData = {};
 
+const loaderContainer = document.querySelector('.loader');
+const dataContainer = document.querySelector('.section_widgets');
+
+const displayLoading = () => {
+  loaderContainer.style.display = 'block';
+  dataContainer.style.display = 'none';
+};
+
+const hideLoading = () => {
+  loaderContainer.style.display = 'none';
+  dataContainer.style.display = 'block';
+};
+
 // Compare axios get with below
 //"https://raw.githubusercontent.com/treasuryguild/treasury-v3/main/proposals/F6-Distributed-Auditability.json"
 window.onload = function() {
     console.log(localStorage.getItem("prop"))
+    displayLoading();
     axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/proposals/${localStorage.getItem("prop")}`)
         .then(response => {
         const data = response.data;
@@ -121,6 +135,7 @@ window.onload = function() {
           async function getWallet() {
             const {data} = await axios.get(`https://pool.pm/wallet/${walletEl}`)
             await loadData(orgEl, repoEl, projectJ, fundJ, poolJ);
+            hideLoading();
             for (let i in bi) {
               y = bi[i].budget.replace(/\s/g, '-')
               for (let j in budgetI) {    
