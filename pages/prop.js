@@ -25,6 +25,7 @@ let totals = {};
 let totals2 = {};
 const b = []
 const x = []
+let budgetSelect = "";
 
 let topData = {};
 
@@ -40,6 +41,70 @@ const hideLoading = () => {
   loaderContainer.style.display = 'none';
   dataContainer.style.display = 'block';
 };
+
+document.getElementById("budgetB").onchange = listQ;
+
+function listQ() {
+  budgetSelect = this.value;
+  console.log("BudgetSelect", budgetSelect);
+  let ul2 = document.getElementById('noSwapForm');
+  let li2 = document.createElement('p');
+  let ul = document.getElementById('swapForm');
+  let li = document.createElement('div');
+  if (budgetSelect === "Swap") {
+    li2.innerHTML = (`<p class="form">Exchange</p>`)
+    li.innerHTML = (`
+    <div class='form'>
+    <label class = 'custom-field3' for='ada2'> 
+    <input
+        type='text'
+        id='ada2'
+        name='ada2'
+        autoComplete="off"
+        required
+    />
+    <span class="placeholder">ADA</span>
+    <span class="disco">Amount</span>
+    </label>
+</div>
+<div class='form'>
+    <label class = 'custom-field3' for='gmbl2'> 
+    <input
+        type='text'
+        id='gmbl2'
+        name='gmbl2'
+        autoComplete="off"
+        required
+    />
+    <span class="placeholder">GMBL</span>
+    <span class="disco">Amount</span>
+    </label>
+</div>
+<div class='form'>
+    <label class = 'custom-field3' for='agix2'> 
+    <input
+        type='text'
+        id='agix2'
+        name='agix2'
+        autoComplete="off"
+        required
+    />
+    <span class="placeholder">AGIX</span>
+    <span class="disco">Amount</span>
+    </label>
+</div>
+<p class="form">Receive</p>
+        `)
+  } else {
+    li.innerHTML = (``);
+    while (ul.hasChildNodes()) {
+      ul.removeChild(ul.firstChild);
+      ul2.removeChild(ul2.lastChild);
+    }
+  }
+  ul.appendChild(li);
+  ul2.appendChild(li2);
+}
 
 // Compare axios get with below
 //"https://raw.githubusercontent.com/treasuryguild/treasury-v3/main/proposals/F6-Distributed-Auditability.json"
@@ -191,6 +256,9 @@ function validateSubmission(){
   const ada = getValue('ada')
   const gmbl = getValue('gmbl')
   const agix = getValue('agix')
+  let ada2 = 0
+  let gmbl2 = 0
+  let agix2 = 0
   const description = getValue('description')
   const pool = poolJ
   const idea = ideaJ
@@ -200,6 +268,12 @@ function validateSubmission(){
   let newBal = 0;
   let tok = "";
   let tok2 = "";
+  let swap = "";
+  let swap2 = "";
+  let isSwap = "";
+  let isSwap2 = "";
+  let isSwap3 = "";
+  let swapTokens = [];
   let tokens = [ada, gmbl, agix];
   let tokens2 = ["ada", "gmbl", "agix"];
   let tokens3 = ["ADA", "GMBL", "AGIX"];
@@ -213,6 +287,8 @@ ${tokens[i]} ${tokens3[i]} `;
     }
   }
 
+  
+
   if (budgetB == "Incoming") {
      newBal = `"${parseInt(balance).toFixed(2)} ADA"`;
      for (let i in tokensList) {
@@ -225,8 +301,35 @@ ${tokens[i]} ${tokens3[i]} `;
           break;
       }
      }
+  } else if (budgetB == "Swap") {
+    isSwap = "Swapped ";
+    isSwap2 = "out for";
+    isSwap3 = "Swap";
+    ada2 = getValue('ada2');
+    gmbl2 = getValue('gmbl2');
+    agix2 = getValue('agix2');
+    swapTokens = [ada2, gmbl2, agix2];
+    newBal = `"${parseInt(balance).toFixed(2)} ADA"`;
+     for (let i in tokensList) {
+      switch(tokensList[i]) {
+        case 'gimbal':
+          newBal = `${newBal}, "${parseInt(balGMBL).toFixed(2)} GMBL"`;
+          break;
+        case 'AGIX':
+          newBal = `${newBal}, "${parseInt(balAGIX).toFixed(2)} AGIX"`;
+          break;
+      }
+     }
+     for (let i in swapTokens) {
+      if (swapTokens[i] != "") {
+        swap = `${swap}
+"swap" : "${swapTokens[i]} ${tokens3[i]}",`;
+        swap2 = `${swap2}
+ ${swapTokens[i]} ${tokens3[i]} In`;
+      }
+    }
   } else {
-    newBal = `"${(parseInt(balance) - parseInt(ada)).toFixed(2)} ADA"`;
+    newBal = `"${isNaN((parseInt(balance) - parseInt(ada)).toFixed(2)) ? parseInt(balance).toFixed(2) : (parseInt(balance) - parseInt(ada)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
        case 'gimbal':
@@ -254,7 +357,7 @@ ${tokens[i]} ${tokens3[i]} `;
 "ideascale": "${idea}",
 "budget": "${budgetB}",
 "name": "${name}",
-"exchange-rate": "${xrate} USD per ADA",${tok}
+"exchange-rate": "${xrate} USD per ADA",${tok}${swap}
 "wallet-balance": [${newBal}],
 "txid": "",
 "description": "${description}"
@@ -303,6 +406,9 @@ switch(budgetB) {
   case 'Incoming':
     answer = "Incoming";
     break;
+  case 'Swap':
+    answer = "";
+    break;
   default:
     answer = "Outgoing";
     break;
@@ -312,7 +418,7 @@ return answer
 
   function openWindows() {
     window.open(`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2(budgetB) + "new?value=" + encodedFileText +"&filename=" + filename);
-    window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok2}+${budget2(budgetB)}&labels=${budget2(budgetB)},${pool},${fund}&body=` + encodedFileText);  
+    window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${isSwap}${tok2}+${budget2(budgetB)}${isSwap2}${swap2}&labels=${budget2(budgetB)},${isSwap3},${pool},${fund}&body=` + encodedFileText);  
   }
   openWindows();
 }
