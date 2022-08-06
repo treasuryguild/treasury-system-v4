@@ -228,6 +228,17 @@ ${tokens[i]} ${tokens3[i]} `;
      }
   } else if (budgetB == "Swap") {
     isSwap3 = "Swap";
+    newBal = `"${parseInt(balance).toFixed(2)} ADA"`;
+     for (let i in tokensList) {
+      switch(tokensList[i]) {
+        case 'gimbal':
+          newBal = `${newBal}, "${parseInt(balGMBL).toFixed(2)} GMBL"`;
+          break;
+        case 'AGIX':
+          newBal = `${newBal}, "${parseInt(balAGIX).toFixed(2)} AGIX"`;
+          break;
+      }
+     }
   } else {
     newBal = `"${(parseInt(balance) - parseInt(ada)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
