@@ -203,6 +203,7 @@ function validateSubmission(){
   let tokens = [ada, gmbl, agix];
   let tokens2 = ["ada", "gmbl", "agix"];
   let tokens3 = ["ADA", "GMBL", "AGIX"];
+  let isSwap3 = "";
 
   for (let i in tokens) {
     if (tokens[i] != "") {
@@ -225,7 +226,9 @@ ${tokens[i]} ${tokens3[i]} `;
           break;
       }
      }
-  } else {
+  } else if (budgetB == "Swap") {
+    isSwap3 = "Swap";
+  } else{
     newBal = `"${(parseInt(balance) - parseInt(ada)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
@@ -303,6 +306,9 @@ switch(budgetB) {
   case 'Incoming':
     answer = "Incoming";
     break;
+  case 'Swap':
+    answer = "";
+    break;
   default:
     answer = "Outgoing";
     break;
@@ -312,7 +318,7 @@ return answer
 
   function openWindows() {
     window.open(`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2(budgetB) + "new?value=" + encodedFileText +"&filename=" + filename);
-    window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok2}+${budget2(budgetB)}&labels=${budget2(budgetB)},${pool},${fund}&body=` + encodedFileText);  
+    window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok2}+${budget2(budgetB)}&labels=${budget2(budgetB)},${isSwap3},${pool},${fund}&body=` + encodedFileText);  
   }
   openWindows();
 }
