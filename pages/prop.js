@@ -228,7 +228,7 @@ ${tokens[i]} ${tokens3[i]} `;
      }
   } else if (budgetB == "Swap") {
     isSwap3 = "Swap";
-  } else{
+  } else {
     newBal = `"${(parseInt(balance) - parseInt(ada)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
