@@ -318,7 +318,7 @@ switch(budgetB) {
     answer = "Incoming";
     break;
   case 'Swap':
-    answer = "";
+    answer = "Outgoing";
     break;
   default:
     answer = "Outgoing";
