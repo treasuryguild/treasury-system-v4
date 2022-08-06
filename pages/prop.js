@@ -227,7 +227,7 @@ ${tokens[i]} ${tokens3[i]} `;
       }
      }
   } else {
-    newBal = `"${(parseInt(balance) - parseInt(ada)).toFixed(2)} ADA"`;
+    newBal = `"${isNaN((parseInt(balance) - parseInt(ada)).toFixed(2)) ? parseInt(balance).toFixed(2) : (parseInt(balance) - parseInt(ada)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
        case 'gimbal':
