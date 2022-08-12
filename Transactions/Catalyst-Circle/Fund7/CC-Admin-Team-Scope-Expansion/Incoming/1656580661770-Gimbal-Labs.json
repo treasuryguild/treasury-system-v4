@@ -7,10 +7,10 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/384245",
 "budget": "Incoming",
 "name": "Gimbal Labs",
-"exchange-rate": "0.46 USD per ADA",
+"exchangeRate": "0.46 USD per ADA",
 "ada" : "2",
 "gmbl" : "50000",
-"Wallet balance": ["65.00 ADA", "0.00 GMBL"],
+"walletBalance": ["65.00 ADA", "0.00 GMBL"],
 "txid": "5ed6c19412d1faeb71cccf99c2e376bc3c00e8e70887173f7443f98551a2d4dd",
 "description": "Donation 50000 tokens for GSG"
 }

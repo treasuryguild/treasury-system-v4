@@ -255,8 +255,8 @@ ${tokens[i]} ${tokens3[i]} `;
 "ideascale": "${idea}",
 "budget": "${budgetB}",
 "name": "${name}",
-"exchange-rate": "${xrate} USD per ADA",${tok}
-"wallet-balance": [${newBal}],
+"exchangeRate": "${xrate} USD per ADA",${tok}
+"walletBalance": [${newBal}],
 "txid": "",
 "description": "${description}"
 }

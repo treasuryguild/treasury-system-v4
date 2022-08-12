@@ -7,9 +7,9 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
 "budget": "Incoming",
 "name": "Swarm",
-"exchange-rate": "0.48 USD per ADA",
+"exchangeRate": "0.48 USD per ADA",
 "ada" : "364.123158",
-"Wallet balance": ["2089.00 ADA", "96565.00 GMBL", "9950.00 AGIX"],
+"walletBalance": ["2089.00 ADA", "96565.00 GMBL", "9950.00 AGIX"],
 "txid": "f67c7dfd8c35bddece28e6dfa7ca546cf35cd3512926dba3f10c134b72f30180",
 "description": "Swarm Pool Block rewards"
 }

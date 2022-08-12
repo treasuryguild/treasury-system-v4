@@ -7,11 +7,11 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
 "budget": "Bounty",
 "name": "Zoe",
-"exchange-rate": "0.46 USD per ADA",
+"exchangeRate": "0.46 USD per ADA",
 "ada" : "100",
 "gmbl" : "100",
 "agix" : "100",
-"Wallet balance": ["2371.00 ADA", "93615.00 GMBL", "9850.00 AGIX"],
+"walletBalance": ["2371.00 ADA", "93615.00 GMBL", "9850.00 AGIX"],
 "txid": "399649d2314e86375dd4cb825bd9dd9a36a88c2f1cec863f5e1bac4896080dec",
 "description": "Two payments for two Video Timestamping"
 }

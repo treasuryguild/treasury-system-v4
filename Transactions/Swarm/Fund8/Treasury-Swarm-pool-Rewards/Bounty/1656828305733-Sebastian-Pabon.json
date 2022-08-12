@@ -7,11 +7,11 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
 "budget": "Bounty",
 "name": "Sebastian Pabon",
-"exchange-rate": "0.45 USD per ADA",
+"exchangeRate": "0.45 USD per ADA",
 "ada" : "100",
 "gmbl" : "100",
 "agix" : "100",
-"Wallet balance": ["1147.00 ADA", "89815.00 GMBL", "8900.00 AGIX"],
+"walletBalance": ["1147.00 ADA", "89815.00 GMBL", "8900.00 AGIX"],
 "txid": "e0491e249769e19bd1b0c4df318aef34a46ee30348295b697b8dc762796bca79",
 "description": "Payment for 2x Pre assessments"
 }

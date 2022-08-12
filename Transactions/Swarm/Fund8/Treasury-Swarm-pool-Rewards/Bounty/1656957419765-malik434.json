@@ -7,11 +7,11 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
 "budget": "Bounty",
 "name": "malik434",
-"exchange-rate": "0.46 USD per ADA",
+"exchangeRate": "0.46 USD per ADA",
 "ada" : "100",
 "gmbl" : "100",
 "agix" : "100",
-"Wallet balance": ["671.00 ADA", "84765.00 GMBL", "10950.00 AGIX"],
+"walletBalance": ["671.00 ADA", "84765.00 GMBL", "10950.00 AGIX"],
 "txid": "a2f27ab237d637cd5f7750a81dcccd6fda8322493d1526999d713bd8879d16f6",
 "description": "Payment for 2x timestamping "
 }

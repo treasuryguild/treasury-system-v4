@@ -7,11 +7,11 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
 "budget": "Bounty",
 "name": "$TokenJokin",
-"exchange-rate": "0.46 USD per ADA",
+"exchangeRate": "0.46 USD per ADA",
 "ada" : "50",
 "gmbl" : "50",
 "agix" : "50",
-"Wallet balance": ["721.00 ADA", "84815.00 GMBL", "11000.00 AGIX"],
+"walletBalance": ["721.00 ADA", "84815.00 GMBL", "11000.00 AGIX"],
 "txid": "353f06dd8b3953eeda386005610be6356dec418d2180bc4c242129ec86d01cd4",
 "description": "Payment for timestamping "
 }

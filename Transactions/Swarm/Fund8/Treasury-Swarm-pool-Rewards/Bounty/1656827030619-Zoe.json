@@ -7,11 +7,11 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
 "budget": "Bounty",
 "name": "Zoe",
-"exchange-rate": "0.45 USD per ADA",
+"exchangeRate": "0.45 USD per ADA",
 "ada" : "150",
 "gmbl" : "150",
 "agix" : "150",
-"Wallet balance": ["1297.00 ADA", "89965.00 GMBL", "9050.00 AGIX"],
+"walletBalance": ["1297.00 ADA", "89965.00 GMBL", "9050.00 AGIX"],
 "txid": "7bfa70bf80015977fd2080e9238d7b0f48f1a587421d24bb63e5528393581dbf",
 "description": "Payment for 2x timestamping and 1x Pre assessment"
 }

@@ -7,10 +7,10 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
 "budget": "Swarm-Contributors",
 "name": "Latam Community",
-"exchange-rate": "0.50 USD per ADA",
+"exchangeRate": "0.50 USD per ADA",
 "ada" : "1.35",
 "gmbl" : "50000",
-"Wallet balance": ["1736.00 ADA", "93315.00 GMBL", "NaN AGIX"],
+"walletBalance": ["1736.00 ADA", "93315.00 GMBL", "NaN AGIX"],
 "txid": "a524291783e7410f9459901f9f9d9aaec461be71d61b68b007f714e970af1262",
 "description": "Donation for Gimbal experiment"
 }

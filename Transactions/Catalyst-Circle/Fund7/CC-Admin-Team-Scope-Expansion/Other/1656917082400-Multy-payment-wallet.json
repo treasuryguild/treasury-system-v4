@@ -7,10 +7,10 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/384245",
 "budget": "Other",
 "name": "Multy payment wallet",
-"exchange-rate": "0.44 USD per ADA",
+"exchangeRate": "0.44 USD per ADA",
 "ada" : "9.45",
 "gmbl" : "1400",
-"Wallet balance": ["56.00 ADA", "-1400.00 GMBL"],
+"walletBalance": ["56.00 ADA", "-1400.00 GMBL"],
 "txid": "4b6d62d8f46197c903cb6dc738b6a051efa76c802af781554a878da5bed41cee",
 "description": "Payment for GSG weekly meeting for 7 people "
 }

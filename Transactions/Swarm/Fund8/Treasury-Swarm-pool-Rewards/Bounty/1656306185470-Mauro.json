@@ -7,10 +7,10 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
 "budget": "Bounty",
 "name": "Mauro",
-"exchange-rate": "0.50 USD per ADA",
+"exchangeRate": "0.50 USD per ADA",
 "ada" : "50",
 "gmbl" : "50",
-"Wallet balance": ["1134.00 ADA", "92715.00 GMBL", "NaN AGIX"],
+"walletBalance": ["1134.00 ADA", "92715.00 GMBL", "NaN AGIX"],
 "txid": "b4afd1db8b1f7759a183b996f052cb4e24b5db2504222d183672361e6e2570a1",
 "description": "Payment for Timestamping"
 }

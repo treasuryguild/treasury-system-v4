@@ -7,11 +7,11 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
 "budget": "Bounty",
 "name": "malik434",
-"exchange-rate": "0.45 USD per ADA",
+"exchangeRate": "0.45 USD per ADA",
 "ada" : "100",
 "gmbl" : "200",
 "agix" : "100",
-"wallet-balance": ["816.00 ADA", "84065.00 GMBL", "10500.00 AGIX"],
+"walletBalance": ["816.00 ADA", "84065.00 GMBL", "10500.00 AGIX"],
 "txid": "8daa378d2a34cac82ecd8425876144dadc46e670a5bb35be79f84bb5c56f27f8",
 "description": "Payment for 2x timestamping and 1x After Town Hall"
 }

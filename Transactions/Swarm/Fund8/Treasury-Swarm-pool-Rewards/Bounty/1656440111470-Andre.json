@@ -7,10 +7,10 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
 "budget": "Bounty",
 "name": "Andre",
-"exchange-rate": "0.48 USD per ADA",
+"exchangeRate": "0.48 USD per ADA",
 "ada" : "20",
 "gmbl" : "100",
-"Wallet balance": ["983.00 ADA", "90015.00 GMBL", "NaN AGIX"],
+"walletBalance": ["983.00 ADA", "90015.00 GMBL", "NaN AGIX"],
 "txid": "cb6b3def9e605fa17e68acb38b6c6b9c002e30da0acebe1e96909e6cfb9d56e6",
 "description": "Payment for ATH"
 }

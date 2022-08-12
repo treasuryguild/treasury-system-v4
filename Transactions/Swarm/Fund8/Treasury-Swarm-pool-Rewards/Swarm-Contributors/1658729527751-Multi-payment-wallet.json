@@ -7,10 +7,10 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
 "budget": "Swarm-Contributors",
 "name": "Multi payment wallet",
-"exchange-rate": "0.49 USD per ADA",
+"exchangeRate": "0.49 USD per ADA",
 "ada" : "8.1",
 "gmbl" : "700",
-"wallet-balance": ["1774.00 ADA", "62865.00 GMBL", "10400.00 AGIX"],
+"walletBalance": ["1774.00 ADA", "62865.00 GMBL", "10400.00 AGIX"],
 "txid": "7c7ba127775558e5477014fd4a8efd8f13a21d5d15a24bb0d7c954d21e6e313b",
 "description": "Payment for 6 veteran call attendees and 1 bounty"
 }

@@ -7,11 +7,11 @@
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
 "budget": "Bounty",
 "name": "cenoergosum",
-"exchange-rate": "0.50 USD per ADA",
+"exchangeRate": "0.50 USD per ADA",
 "ada" : "100",
 "gmbl" : "100",
 "agix" : "100",
-"Wallet balance": ["1635.00 ADA", "93215.00 GMBL", "9700.00 AGIX"],
+"walletBalance": ["1635.00 ADA", "93215.00 GMBL", "9700.00 AGIX"],
 "txid": "67b0822fce1b28767e67c44d83692378da83f5c12bfdda2011bb2dce83896983",
 "description": "Payment for 2x Pre Assessment"
 }

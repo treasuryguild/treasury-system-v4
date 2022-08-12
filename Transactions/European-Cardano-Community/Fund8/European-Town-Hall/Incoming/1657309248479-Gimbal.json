@@ -7,10 +7,10 @@
 "ideascale": "",
 "budget": "Incoming",
 "name": "Gimbal",
-"exchange-rate": "0.46 USD per ADA",
+"exchangeRate": "0.46 USD per ADA",
 "ada" : "1.344798",
 "gmbl" : "50000",
-"wallet-balance": ["1.344798 ADA", "50000.00 GMBL"],
+"walletBalance": ["1.344798 ADA", "50000.00 GMBL"],
 "txid": "b6114ee7b583057dcebe8301d2061c2af2313e1ef2522fc02f59a2dcca46f82a",
 "description": "Donation of 50K Gimbals to European Town Hall"
 }
