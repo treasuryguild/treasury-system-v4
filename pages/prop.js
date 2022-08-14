@@ -27,6 +27,7 @@ const b = []
 const x = []
 
 let topData = {};
+let topData2 = {};
 
 const loaderContainer = document.querySelector('.loader');
 const dataContainer = document.querySelector('.section_widgets');
@@ -57,7 +58,7 @@ window.onload = function() {
         ideaJ = data.ideascale
         poolJ = data.proposal.replace(/\s/g, '-')
         walletEl = data.wallet   
-        balEl.textContent = "USD " + parseInt(data.budget).toFixed(2);
+        balEl.textContent = "USD " + parseFloat(data.budget).toFixed(2);
         console.log(data);
         // Loop over each object in data array
         let ul4 = document.getElementById('main-title');
@@ -132,19 +133,31 @@ window.onload = function() {
             return bi;
           }
 
+          async function walletStatus() {
+            const {data} = await axios.get(`https://pool.pm/wallet/${walletEl}`)
+            topData2 = data;
+            balance = (topData2.lovelaces/1000000).toFixed(6);
+            console.log(' each 1 second...',balance);
+          }
+        
+          var myVar = setInterval(walletStatus, 10000); //setting the loop with time interval
+        
+          //clearInterval(myVar); //call this line to stop the loop
+
           async function getWallet() {
             const {data} = await axios.get(`https://pool.pm/wallet/${walletEl}`)
+            await walletStatus();
             await loadData(orgEl, repoEl, projectJ, fundJ, poolJ);
             for (let i in bi) {
               y = bi[i].budget.replace(/\s/g, '-')
               for (let j in budgetI) {    
                 if ( y == budgetI[j]) {
-                  totals[y] = totals[y] + (parseInt(bi[i].ada));
-                  totals.outgoing = totals.outgoing + (parseInt(bi[i].ada));
+                  totals[y] = totals[y] + (parseFloat(bi[i].ada));
+                  totals.outgoing = totals.outgoing + (parseFloat(bi[i].ada));
                 }        
               }
             };
-            balance = (data.lovelaces/1000000).toFixed(2);
+            
             if (Array.isArray(data.tokens) && data.tokens.length) {
               for (let i in data.tokens) {
                 tokensList.push(data.tokens[i].name);
@@ -160,9 +173,9 @@ window.onload = function() {
           }
             console.log(balAGIX);
             console.log(tokensList);
-            saveEl2.textContent = "₳ " + balance
+            saveEl2.textContent = "₳ " + parseFloat(balance).toFixed(2)
             document.getElementById("save-el2").style.width = (balance/topData.budget*100)+"%"
-            saveEl.textContent = "₳ " + totals.Incoming
+            saveEl.textContent = "₳ " + parseFloat(totals.Incoming).toFixed(2)
             document.getElementById("save-el").style.width = (totals.Incoming/topData.budget*100)+"%"
             for (let i in totals) {
               if (i != "Incoming" && i != "outgoing") {
@@ -215,26 +228,26 @@ ${tokens[i]} ${tokens3[i]} `;
   }
 
   if (budgetB == "Incoming") {
-     newBal = `"${parseInt(balance).toFixed(2)} ADA"`;
+     newBal = `"${parseFloat(balance).toFixed(2)} ADA"`;
      for (let i in tokensList) {
       switch(tokensList[i]) {
         case 'gimbal':
-          newBal = `${newBal}, "${parseInt(balGMBL).toFixed(2)} GMBL"`;
+          newBal = `${newBal}, "${parseFloat(balGMBL).toFixed(2)} GMBL"`;
           break;
         case 'AGIX':
-          newBal = `${newBal}, "${parseInt(balAGIX).toFixed(2)} AGIX"`;
+          newBal = `${newBal}, "${parseFloat(balAGIX).toFixed(2)} AGIX"`;
           break;
       }
      }
   } else {
-    newBal = `"${isNaN((parseInt(balance) - parseInt(ada)).toFixed(2)) ? parseInt(balance).toFixed(2) : (parseInt(balance) - parseInt(ada)).toFixed(2)} ADA"`;
+    newBal = `"${isNaN((parseFloat(balance) - parseFloat(ada)).toFixed(2)) ? parseFloat(balance).toFixed(2) : (parseFloat(balance) - parseFloat(ada)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
        case 'gimbal':
-         newBal = `${newBal}, "${isNaN((parseInt(balGMBL) - parseInt(gmbl)).toFixed(2)) ? parseInt(balGMBL).toFixed(2) : (parseInt(balGMBL) - parseInt(gmbl)).toFixed(2)} GMBL"`;
+         newBal = `${newBal}, "${isNaN((parseFloat(balGMBL) - parseFloat(gmbl)).toFixed(2)) ? parseFloat(balGMBL).toFixed(2) : (parseFloat(balGMBL) - parseFloat(gmbl)).toFixed(2)} GMBL"`;
          break;
        case 'AGIX':
-         newBal = `${newBal}, "${isNaN((parseInt(balAGIX) - parseInt(agix)).toFixed(2)) ? parseInt(balAGIX).toFixed(2) : (parseInt(balAGIX) - parseInt(agix)).toFixed(2)} AGIX"`;
+         newBal = `${newBal}, "${isNaN((parseFloat(balAGIX) - parseFloat(agix)).toFixed(2)) ? parseFloat(balAGIX).toFixed(2) : (parseFloat(balAGIX) - parseFloat(agix)).toFixed(2)} AGIX"`;
          break;
      }
     }
@@ -318,6 +331,9 @@ return answer
   function openWindows() {
     window.open(`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2(budgetB) + "new?value=" + encodedFileText +"&filename=" + filename);
     window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok2}+${budget2(budgetB)}&labels=${budget2(budgetB)},${isSwap3},${pool},${fund}&body=` + encodedFileText);  
+    setTimeout(() => {window.location.reload()}, 10000);
+    //setTimeout(() => {console.log("this is the second message")}, 3000);
+    //window.location.reload();
   }
   openWindows();
 }
