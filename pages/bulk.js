@@ -2,7 +2,7 @@
 let value = {};
 let data2 = [];
 let orgEl = "treasuryguild";
-let repoEl = "treasury-v3";
+let repoEl = "treasury-system-v4";
 let walletEl = "";
 let fundJ = ""
 let projectJ = ""
@@ -11,7 +11,8 @@ let poolJ = ""
 let balEl = document.getElementById("bal-el")
 let saveEl2 = document.getElementById("save-el2")
 let saveEl = document.getElementById("save-el")
-
+let csvSheet = "";
+let csvArray = [];
 
 // Calc values
 let balance = "";
@@ -145,7 +146,7 @@ window.onload = function() {
           //clearInterval(myVar); //call this line to stop the loop
 
           async function getWallet() {
-            const {data} = await axios.get(`https://pool.pm/wallet/${walletEl}`)
+            //const {data} = await axios.get(`https://pool.pm/wallet/${walletEl}`)
             await walletStatus();
             await loadData(orgEl, repoEl, projectJ, fundJ, poolJ);
             for (let i in bi) {
@@ -158,15 +159,15 @@ window.onload = function() {
               }
             };
             
-            if (Array.isArray(data.tokens) && data.tokens.length) {
-              for (let i in data.tokens) {
-                tokensList.push(data.tokens[i].name);
-                switch(data.tokens[i].name) {
+            if (Array.isArray(topData2.tokens) && topData2.tokens.length) {
+              for (let i in topData2.tokens) {
+                tokensList.push(topData2.tokens[i].name);
+                switch(topData2.tokens[i].name) {
                   case 'gimbal':
-                    balGMBL = (data.tokens[i].quantity/1000000).toFixed(2);
+                    balGMBL = (topData2.tokens[i].quantity/1000000).toFixed(2);
                     break;
                   case 'AGIX':
-                    balAGIX = (data.tokens[i].quantity/100000000).toFixed(2);
+                    balAGIX = (topData2.tokens[i].quantity/100000000).toFixed(2);
                     break;
                 }
               }
@@ -196,6 +197,65 @@ window.onload = function() {
 function getValue(name){
   return document.getElementById(name).value
 }
+
+
+async function bulkPayments() {
+  const {data} = await axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/bulk-payments`);
+  const sheetData = []; 
+  const sheetnames = [];  
+  for (let key in data) {
+    let downloadUrl = `https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/bulk-payments/${data[key].name}`;
+    const downloadResponse = await axios.get(downloadUrl);
+    sheetnames.push(data[key].name);
+    sheetData.push(downloadResponse.data);
+  }
+  shNames = sheetnames;
+  //lastSheetData = (`${JSON.stringify(sheetData[0]).replace(/['"]+/g, '')}`);
+  csvSheet = sheetData[0];
+  console.log('sheetNames', shNames)
+}
+
+/**
+ * Takes a raw CSV string and converts it to a JavaScript object.
+ * @param {string} text The raw CSV string.
+ * @param {string[]} headers An optional array of headers to use. If none are
+ * given, they are pulled from the first line of `text`.
+ * @param {string} quoteChar A character to use as the encapsulating character.
+ * @param {string} delimiter A character to use between columns.
+ * @returns {object[]} An array of JavaScript objects containing headers as keys
+ * and row entries as values.
+ */
+ async function csvToJson(text, headers, quoteChar = '"', delimiter = ',') {
+
+  const regex = new RegExp(`\\s*(${quoteChar})?(.*?)\\1\\s*(?:${delimiter}|$)`, 'gs');
+  const match = line => [...line.matchAll(regex)]
+    .map(m => m[2])  // we only want the second capture group
+    .slice(0, -1);   // cut off blank match at the end
+
+  const lines = text.split('\n');
+  const heads = headers ?? match(lines.shift());
+
+  return lines.map(line => {
+    return match(line).reduce((acc, cur, i) => {
+      // Attempt to parse as a number; replace blank matches with `null`
+      const val = cur.length <= 0 ? null : Number(cur) || cur;
+      const key = heads[i] ?? `extra_${i}`;
+      return { ...acc, [key]: val };
+    }, {});
+  });
+}
+
+
+async function testCsv() {
+  await bulkPayments();
+  console.log(csvToJson(csvSheet));
+  //console.log(csvToJson(csvSheet, ['foo', 'bar', 'baz']));
+  //console.log(csvToJson(csvSheet, ['col_0']));
+  return csvToJson(csvSheet)
+}
+
+testCsv();
+// use const csvArray = await testCsv(); in async function
 
 function validateSubmission(){
   //save all the input values

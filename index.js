@@ -7,6 +7,19 @@ let projList = [];
 let propNames = [];
 let globalBi = [];
 
+const loaderContainer = document.querySelector('.loader');
+const dataContainer = document.querySelector('.form');
+
+const displayLoading = () => {
+  loaderContainer.style.display = 'block';
+  dataContainer.style.display = 'none';
+};
+
+const hideLoading = () => {
+  loaderContainer.style.display = 'none';
+  dataContainer.style.display = 'block';
+};
+
 async function getProposals() {
     const {data} = await axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/proposals`);
     const proposalsData = []; 
@@ -33,6 +46,7 @@ async function getProposals2() {
     }
 
 async function menuMaker() {
+    displayLoading();
     const bi3 = await getProposals2();
     globalBi = bi3;
     console.log('lordBi2',bi3);
@@ -55,6 +69,7 @@ async function menuMaker() {
           }  
            
       }
+      hideLoading();
 }
 
 async function listQ() {
@@ -87,51 +102,6 @@ async function listQ() {
       }
 }
 
-/*function listQ() {
-    groupList = this.value;
-    console.log(groupList);
-    localStorage.setItem("group", groupList);
-    group = localStorage.getItem("group");
-    axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/proposals`)
-    .then(response => {
-    const data = response.data;
-    console.log(data);
-    // Loop over each object in data array
-    for (let i in data) {
-        //console.log(data[i]);
-        value2[i] = data[i].name
-        var n = i;
-        axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/proposals/${data[i].name}`)
-        .then(response => {
-            const data2 = response.data;
-            group2 = data2.project;
-                      
-        // Get the ul with id of of userRepos
-        let ul = document.getElementById('userRepos');
-        
-        // Create variable that will create li's to be added to ul
-        let li = document.createElement('div');
-        
-        if (group2 == group) {
-            console.log(`${data[i].name}`);
-        // Create the html markup for each li
-        li.innerHTML = (`
-            <button onclick="goHere(${data[i].name});">${value2[i].replace(/\..+$/, '')}</button>
-        `);}
-        // Append each li to the ul
-        ul.appendChild(li);     
-        if (i == 0) {
-            while (ul.hasChildNodes()) {
-                ul.removeChild(ul.firstChild);
-              }
-            } 
-    })
-    .catch(error => console.error(error)) 
-    }
-})
-.catch(error => console.error(error))
-};
-*/
 menuMaker();
 document.getElementById("list").onchange = listQ;
 
