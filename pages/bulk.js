@@ -13,6 +13,7 @@ let saveEl2 = document.getElementById("save-el2")
 let saveEl = document.getElementById("save-el")
 let csvSheet = "";
 let csvArray = [];
+let bulkType = "";
 
 // Calc values
 let balance = "";
@@ -26,6 +27,10 @@ let totals = {};
 let totals2 = {};
 const b = []
 const x = []
+csvHeads = [];
+let copyAddress = "";
+let valBut = "";
+let copyButton = ""; 
 
 let topData = {};
 let topData2 = {};
@@ -66,23 +71,33 @@ window.onload = function() {
         let li4 = document.createElement('div');
         li4.innerHTML = (poolJ + " Bulk Transaction Form");
         ul4.appendChild(li4);
+        let xrate = document.getElementById('xrate');
+        let ul5 = document.getElementById('bulkType');
+        let li5 = document.createElement('option');
+        let li6 = document.createElement('option');
+        li5.innerHTML = "Dework Bulk";
+        li6.innerHTML = "Manual Bulk";
+        li5.value = "Dework Bulk";
+        li6.value = "Manual Bulk";
+        ul5.appendChild(li5);
+        ul5.appendChild(li6);
+        //xrate.value = "i";
         for ( let i in data.budgetItems) {
             // Get the ul with id of of userRepos
             var n = Object.keys(data.budgetItems).indexOf(i);
             totals[i] = 0;
-            let ul = document.getElementById('grps');
-            let ul2 = document.getElementById('budgetB');
+            let ul = document.getElementById('grps');           
             let ul3 = document.getElementById('propo');
+            
             // Create variable that will create li's to be added to ul
             let li = document.createElement('div');
-            let li2 = document.createElement('option');
             let li3 = document.createElement('div');
             // Create the html markup for each li
             k = ("t" + `${n+1}`);
             l[i] = ("b" + `${n+1}`);
             li.className = "graph_item green";
             li3.className = "button2";
-            li2.value = i;
+            
             if (n > 0) {
             li.innerHTML = (`
             <span class="graph_item_title">
@@ -97,11 +112,9 @@ window.onload = function() {
             </span>
             `);
             }
-            li2.innerHTML = (`${i}`);
             li3.innerHTML = (`<button type='button'>${Object.values(data)[n]}</button>`);
             // Append each li to the ul
             ul.appendChild(li);
-            ul2.appendChild(li2);
             if (n < 3) {
               ul3.appendChild(li3);
             }   
@@ -198,7 +211,6 @@ function getValue(name){
   return document.getElementById(name).value
 }
 
-
 async function bulkPayments() {
   const {data} = await axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/bulk-payments`);
   const sheetData = []; 
@@ -234,11 +246,11 @@ async function bulkPayments() {
 
   const lines = text.split('\n');
   const heads = headers ?? match(lines.shift());
-
+  csvHeads = heads
   return lines.map(line => {
     return match(line).reduce((acc, cur, i) => {
-      // Attempt to parse as a number; replace blank matches with `null`
-      const val = cur.length <= 0 ? null : Number(cur) || cur;
+      // Attempt to parse as a number; replace blank matches with `0`
+      const val = cur.length <= 0 ? 0 : Number(cur) || cur;
       const key = heads[i] ?? `extra_${i}`;
       return { ...acc, [key]: val };
     }, {});
@@ -254,7 +266,138 @@ async function testCsv() {
   return csvToJson(csvSheet)
 }
 
-testCsv();
+async function listQ(){
+  bulkType = this.value;
+  let ul5 = document.getElementById('userRepos');
+  let li5 = document.createElement('div');
+  let ul6 = document.getElementById('manualBulk');
+  let table = document.createElement('table');
+  table.className = "testing2";
+  let row = document.createElement('tr');
+  while (ul6.hasChildNodes()) {
+    ul6.removeChild(ul6.lastChild);
+  }
+  while (ul5.hasChildNodes()) {
+    ul5.removeChild(ul5.lastChild);
+  }
+  if (bulkType === "Dework Bulk") {
+    
+    li5.className = "form";
+    li5.innerHTML = (`
+    <label  for='dework'>
+    <textarea class = 'descr'
+        type='text'
+        id='dework'
+        name='dework'
+        placeholder="Description"
+        autoComplete="off"
+        required
+    ></textarea>
+            `);
+    console.log("bulkType",bulkType);
+    ul5.appendChild(li5);
+  } else if (bulkType === "Manual Bulk") {
+    const csvJson = await testCsv();
+    const csvJson2 = await testCsv();
+    for (let j in csvHeads) {
+      let th = document.createElement('th');
+      th.innerHTML= csvHeads[j]
+      row.appendChild(th); 
+    }
+    table.appendChild(row);
+    row = document.createElement('tr');
+    console.log("csvJson",csvJson);
+    const payeeList = [];
+    const payeeList2 = [];
+
+    const toFindDuplicates = arry => arry.filter((item, index) => arry.indexOf(item) !== index)
+    
+    /////////
+    for (let i in csvJson) {
+      payeeList2.push(csvJson[i].payeeID); 
+    }
+    /////////
+    var existingItems = {};
+
+    payeeList2.forEach(function(value, index) {
+    existingItems[value] = index;
+    });
+
+    console.log("existingItems",existingItems); 
+    /////////
+    for (let i in csvJson) {
+      const duplicateElements = toFindDuplicates(payeeList2);
+      lastIndex = existingItems[csvJson[i].payeeID]
+      console.log("dupItems",duplicateElements);
+      if (i < csvJson.length - 1 ) {
+        var n = csvHeads
+        
+        for (let k = 0; k < n.length; k++) { 
+          let td = [];
+          let val = "";
+          val = n[k];
+          csvJson[i][val] = (csvJson[i][val]?csvJson[i][val]:0)
+    
+          
+          if (payeeList.includes(csvJson[i].payeeID)) {
+            //console.log("agg",i,payeeList);
+            newValue = payeeList.indexOf(csvJson[i].payeeID);
+            if (csvJson[newValue].accountsPayable == csvJson[i][val] || csvJson[newValue].payeeID ==  csvJson[i][val]) {
+              csvJson[newValue][val] = `${csvJson[i][val]}`
+              csvJson2[newValue][val] = csvJson[i][val]
+            } else {
+              csvJson[newValue][val] = `${csvJson[newValue][val]},${csvJson[i][val]}`
+              csvJson2[newValue][val] = (n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?(csvJson2[newValue][val]?csvJson2[newValue][val]:0) + csvJson[i][val]:0);
+            }
+             
+            
+            if ((i) == (lastIndex)) {   //Writes to last index of duplicate items
+              td[k] = document.createElement('td');
+              copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson2[newValue][val]}`
+              valBut = `<button type='button' value = ${copyAddress} onclick='copyValue(value)' id ='copyButton'>copy</button>`
+              copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`; 
+              td[k].innerHTML= (`${csvJson[newValue][val]?csvJson[newValue][val]:0}${copyButton}`)
+              row.appendChild(td[k]);
+            }
+   
+          } else {  // Writes non duplicate items
+            if (!duplicateElements.includes(csvJson[i].payeeID)) {
+            td[k] = document.createElement('td');
+            copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson[i][val]}`
+            valBut = `<button type='button' value = ${copyAddress} onclick='copyValue(value)' id ='copyButton'>copy</button>`
+            copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`; 
+            td[k].innerHTML= (`${csvJson[i][val]?csvJson[i][val]:0}${copyButton}`)
+            row.appendChild(td[k]);
+            }
+          }
+        }
+        
+        //console.log("n",n[i]);       
+        table.appendChild(row); //want that it add new row after each 7 days
+        row = document.createElement('tr');// we create new row istead of cleating the previous one 
+        
+        console.log("test1",duplicateElements.includes(csvJson[i].payeeID));
+      } 
+  
+      payeeList.push(csvJson[i].payeeID);   
+    }
+    table.appendChild(row);
+    ul6.appendChild(table);
+    
+  } 
+}
+
+document.getElementById("bulkType").onchange = listQ;
+
+function copyValue(val) {
+   /* Save value of myText to input variable */
+   var backupData = val;
+ 
+   /* Copy the text inside the text field */
+  navigator.clipboard.writeText(backupData);
+   console.log(backupData);
+};
+
 // use const csvArray = await testCsv(); in async function
 
 function validateSubmission(){
