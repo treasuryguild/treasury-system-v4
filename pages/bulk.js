@@ -14,6 +14,7 @@ let saveEl = document.getElementById("save-el")
 let csvSheet = "";
 let csvArray = [];
 let bulkType = "";
+let fieldId = 0;
 
 // Calc values
 let balance = "";
@@ -340,33 +341,35 @@ async function listQ(){
     
           
           if (payeeList.includes(csvJson[i].payeeID)) {
-            //console.log("agg",i,payeeList);
             newValue = payeeList.indexOf(csvJson[i].payeeID);
+            console.log("agg",fieldId);
             if (csvJson[newValue].accountsPayable == csvJson[i][val] || csvJson[newValue].payeeID ==  csvJson[i][val]) {
               csvJson[newValue][val] = `${csvJson[i][val]}`
               csvJson2[newValue][val] = csvJson[i][val]
             } else {
-              csvJson[newValue][val] = `${csvJson[newValue][val]},${csvJson[i][val]}`
+              csvJson[newValue][val] = `${csvJson[newValue][val]},${csvJson[i][val]}` //First value gets added with csvJson[newValue][val], because newValue points to firts index before modifying it.
               csvJson2[newValue][val] = (n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?(csvJson2[newValue][val]?csvJson2[newValue][val]:0) + csvJson[i][val]:0);
             }
              
             
             if ((i) == (lastIndex)) {   //Writes to last index of duplicate items
+              fieldId = fieldId + 1;
               td[k] = document.createElement('td');
-              copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson2[newValue][val]}`
-              valBut = `<button type='button' value = ${copyAddress} onclick='copyValue(value)' id ='copyButton'>copy</button>`
+              //copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson2[newValue][val]}`
+              valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
               copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`; 
-              td[k].innerHTML= (`${csvJson[newValue][val]?csvJson[newValue][val]:0}${copyButton}`)
+              td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${csvJson[newValue][val]?csvJson[newValue][val]:0}'>${copyButton}`)
               row.appendChild(td[k]);
             }
    
           } else {  // Writes non duplicate items
             if (!duplicateElements.includes(csvJson[i].payeeID)) {
+            fieldId = fieldId + 1;
             td[k] = document.createElement('td');
-            copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson[i][val]}`
-            valBut = `<button type='button' value = ${copyAddress} onclick='copyValue(value)' id ='copyButton'>copy</button>`
-            copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`; 
-            td[k].innerHTML= (`${csvJson[i][val]?csvJson[i][val]:0}${copyButton}`)
+            //copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson[i][val]}`
+            valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
+            copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`;       
+            td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${csvJson[i][val]}'>${copyButton}`)
             row.appendChild(td[k]);
             }
           }
@@ -389,13 +392,32 @@ async function listQ(){
 
 document.getElementById("bulkType").onchange = listQ;
 
+function sumStr(str){
+  let strArr = str.split(",");
+  let sum = strArr.reduce(function(total, num){
+    return parseFloat(total) + parseFloat(num);
+  });
+
+  return sum;
+}
+
 function copyValue(val) {
    /* Save value of myText to input variable */
-   var backupData = val;
- 
+   let blep = document.getElementById(val).value
+   let blep2 = document.getElementById(val).className
+   if (blep.indexOf(',') > -1) {
+    blep = sumStr(blep)
+   }
+
+   if (blep2 == "payeeID") {
+    blep = "WalletID"
+   }
+
+   var backupData = blep;
+   
    /* Copy the text inside the text field */
   navigator.clipboard.writeText(backupData);
-   console.log(backupData);
+   console.log(backupData , blep2);
 };
 
 // use const csvArray = await testCsv(); in async function
