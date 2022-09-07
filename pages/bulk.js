@@ -32,6 +32,8 @@ csvHeads = [];
 let copyAddress = "";
 let valBut = "";
 let copyButton = ""; 
+const sheetData = []; 
+const sheetnames = [];
 
 let topData = {};
 let topData2 = {};
@@ -214,8 +216,7 @@ function getValue(name){
 
 async function bulkPayments() {
   const {data} = await axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/bulk-payments`);
-  const sheetData = []; 
-  const sheetnames = [];  
+    
   for (let key in data) {
     let downloadUrl = `https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/bulk-payments/${data[key].name}`;
     const downloadResponse = await axios.get(downloadUrl);
@@ -272,6 +273,7 @@ async function listQ(){
   let ul5 = document.getElementById('userRepos');
   let li5 = document.createElement('div');
   let ul6 = document.getElementById('manualBulk');
+  let li6 = document.createElement('h1');l
   let table = document.createElement('table');
   table.className = "testing2";
   let row = document.createElement('tr');
@@ -300,6 +302,8 @@ async function listQ(){
   } else if (bulkType === "Manual Bulk") {
     const csvJson = await testCsv();
     const csvJson2 = await testCsv();
+    li6.innerHTML = (`${sheetnames[0].replace(/\..+$/, '')}`);
+    ul6.appendChild(li6);
     for (let j in csvHeads) {
       let th = document.createElement('th');
       th.innerHTML= csvHeads[j]
