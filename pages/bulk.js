@@ -14,6 +14,7 @@ let saveEl = document.getElementById("save-el")
 let csvSheet = "";
 let csvArray = [];
 let bulkType = "";
+let selectedSheet = "";
 let fieldId = 0;
 
 // Calc values
@@ -220,12 +221,14 @@ async function bulkPayments() {
   for (let key in data) {
     let downloadUrl = `https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/bulk-payments/${data[key].name}`;
     const downloadResponse = await axios.get(downloadUrl);
-    sheetnames.push(data[key].name);
+    if (!sheetnames.includes(data[key].name)) {
+      sheetnames.push(data[key].name);
+    }
     sheetData.push(downloadResponse.data);
   }
   shNames = sheetnames;
   //lastSheetData = (`${JSON.stringify(sheetData[0]).replace(/['"]+/g, '')}`);
-  csvSheet = sheetData[0];
+  csvSheet = sheetData;
   console.log('sheetNames', shNames)
 }
 
@@ -260,49 +263,68 @@ async function bulkPayments() {
 }
 
 
-async function testCsv() {
+async function testCsv(selectedSheet) {
   await bulkPayments();
-  console.log(csvToJson(csvSheet));
+  console.log(csvToJson(csvSheet[selectedSheet]));
   //console.log(csvToJson(csvSheet, ['foo', 'bar', 'baz']));
   //console.log(csvToJson(csvSheet, ['col_0']));
-  return csvToJson(csvSheet)
+  return csvToJson(csvSheet[selectedSheet])
 }
 
-async function listQ(){
-  bulkType = this.value;
+async function walletList(blep) {
+  const {data} = await axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/data/wallets.json`);  
+  let walletAddress = "";
+  for(var i in data){
+    console.log("walletList",i,blep);
+    if (i === blep) {
+      walletAddress = data[i];
+      
+    }
+  }
+  
+  
+}
+
+async function selectSheet() {
+  await bulkPayments();
+  const sheetList = sheetnames;
+  let ul7 = document.getElementById('userRepos');
+  let li7 = document.createElement('div');
+  
+  li7.innerHTML = `
+  <div class = 'form'>
+                <select class = 'dropd' id = 'sheetList'>
+                    <option>Choose sheet</option>
+                </select>
+            </div>`
+  ul7.appendChild(li7);
+  let ul8 = document.getElementById('sheetList');
+  
+  for (let j in sheetList) {
+    let li8 = document.createElement('option');
+    li8.value = j
+    li8.innerHTML = `${sheetList[j]}`
+    ul8.appendChild(li8);
+  }
+  
+}
+
+async function loadSheet() {
+  selectedSheet = this.value;
   let ul5 = document.getElementById('userRepos');
   let li5 = document.createElement('div');
   let ul6 = document.getElementById('manualBulk');
-  let li6 = document.createElement('h1');l
+  let li6 = document.createElement('h1');
   let table = document.createElement('table');
   table.className = "testing2";
   let row = document.createElement('tr');
   while (ul6.hasChildNodes()) {
     ul6.removeChild(ul6.lastChild);
   }
-  while (ul5.hasChildNodes()) {
-    ul5.removeChild(ul5.lastChild);
-  }
-  if (bulkType === "Dework Bulk") {
-    
-    li5.className = "form";
-    li5.innerHTML = (`
-    <label  for='dework'>
-    <textarea class = 'descr'
-        type='text'
-        id='dework'
-        name='dework'
-        placeholder="Description"
-        autoComplete="off"
-        required
-    ></textarea>
-            `);
-    console.log("bulkType",bulkType);
-    ul5.appendChild(li5);
-  } else if (bulkType === "Manual Bulk") {
-    const csvJson = await testCsv();
-    const csvJson2 = await testCsv();
-    li6.innerHTML = (`${sheetnames[0].replace(/\..+$/, '')}`);
+  console.log("loadSheet",sheetData[selectedSheet]);
+  const csvJson = await testCsv(selectedSheet);
+    const csvJson2 = await testCsv(selectedSheet);
+    li6.innerHTML = (`${sheetnames[selectedSheet].replace(/\..+$/, '')}`);
     ul6.appendChild(li6);
     for (let j in csvHeads) {
       let th = document.createElement('th');
@@ -390,6 +412,42 @@ async function listQ(){
     }
     table.appendChild(row);
     ul6.appendChild(table);
+}
+
+async function listQ(){
+  bulkType = this.value;
+  let ul5 = document.getElementById('userRepos');
+  let li5 = document.createElement('div');
+  let ul6 = document.getElementById('manualBulk');
+  let li6 = document.createElement('h1');
+  let table = document.createElement('table');
+  table.className = "testing2";
+  let row = document.createElement('tr');
+  while (ul6.hasChildNodes()) {
+    ul6.removeChild(ul6.lastChild);
+  }
+  while (ul5.hasChildNodes()) {
+    ul5.removeChild(ul5.lastChild);
+  }
+  if (bulkType === "Dework Bulk") {
+    
+    li5.className = "form";
+    li5.innerHTML = (`
+    <label  for='dework'>
+    <textarea class = 'descr'
+        type='text'
+        id='dework'
+        name='dework'
+        placeholder="Description"
+        autoComplete="off"
+        required
+    ></textarea>
+            `);
+    console.log("bulkType",bulkType);
+    ul5.appendChild(li5);
+  } else if (bulkType === "Manual Bulk") {
+    await selectSheet();
+    document.getElementById("sheetList").onchange = loadSheet;
     
   } 
 }
@@ -414,7 +472,7 @@ function copyValue(val) {
    }
 
    if (blep2 == "payeeID") {
-    blep = "WalletID"
+    blep = `${walletList(blep)}`
    }
 
    var backupData = blep;
