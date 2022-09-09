@@ -16,6 +16,7 @@ let csvArray = [];
 let bulkType = "";
 let selectedSheet = "";
 let fieldId = 0;
+let fieldIdArr = [];
 
 // Calc values
 let balance = "";
@@ -35,6 +36,7 @@ let valBut = "";
 let copyButton = ""; 
 const sheetData = []; 
 const sheetnames = [];
+
 
 let topData = {};
 let topData2 = {};
@@ -273,16 +275,14 @@ async function testCsv(selectedSheet) {
 
 async function walletList(blep) {
   const {data} = await axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/data/wallets.json`);  
-  let walletAddress = "";
+  let walletAddress = "No wallet address in database";
   for(var i in data){
-    console.log("walletList",i,blep);
     if (i === blep) {
       walletAddress = data[i];
-      
-    }
+      console.log("success",walletAddress);
+    } 
   }
-  
-  
+  return walletAddress;
 }
 
 async function selectSheet() {
@@ -310,11 +310,13 @@ async function selectSheet() {
 }
 
 async function loadSheet() {
+  fieldId = 0;
+  fieldIdArr = [];
   selectedSheet = this.value;
   let ul5 = document.getElementById('userRepos');
   let li5 = document.createElement('div');
   let ul6 = document.getElementById('manualBulk');
-  let li6 = document.createElement('h1');
+  let li6 = document.createElement('p');
   let table = document.createElement('table');
   table.className = "testing2";
   let row = document.createElement('tr');
@@ -324,8 +326,7 @@ async function loadSheet() {
   console.log("loadSheet",sheetData[selectedSheet]);
   const csvJson = await testCsv(selectedSheet);
     const csvJson2 = await testCsv(selectedSheet);
-    li6.innerHTML = (`${sheetnames[selectedSheet].replace(/\..+$/, '')}`);
-    ul6.appendChild(li6);
+     
     for (let j in csvHeads) {
       let th = document.createElement('th');
       th.innerHTML= csvHeads[j]
@@ -364,11 +365,11 @@ async function loadSheet() {
           let val = "";
           val = n[k];
           csvJson[i][val] = (csvJson[i][val]?csvJson[i][val]:0)
-    
+          console.log("agg",fieldId);
           
           if (payeeList.includes(csvJson[i].payeeID)) {
             newValue = payeeList.indexOf(csvJson[i].payeeID);
-            console.log("agg",fieldId);
+            
             if (csvJson[newValue].accountsPayable == csvJson[i][val] || csvJson[newValue].payeeID ==  csvJson[i][val]) {
               csvJson[newValue][val] = `${csvJson[i][val]}`
               csvJson2[newValue][val] = csvJson[i][val]
@@ -380,6 +381,7 @@ async function loadSheet() {
             
             if ((i) == (lastIndex)) {   //Writes to last index of duplicate items
               fieldId = fieldId + 1;
+              fieldIdArr.push(fieldId);
               td[k] = document.createElement('td');
               //copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson2[newValue][val]}`
               valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
@@ -391,6 +393,7 @@ async function loadSheet() {
           } else {  // Writes non duplicate items
             if (!duplicateElements.includes(csvJson[i].payeeID)) {
             fieldId = fieldId + 1;
+            fieldIdArr.push(fieldId);
             td[k] = document.createElement('td');
             //copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson[i][val]}`
             valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
@@ -410,8 +413,11 @@ async function loadSheet() {
   
       payeeList.push(csvJson[i].payeeID);   
     }
+    li6.innerHTML = (`${sheetnames[selectedSheet].replace(/\..+$/, '')}<button type='button' onclick='createMetadata(${fieldIdArr})' id='createMeta' class ='metaButton'>Copy Metadata</button>`);
+    ul6.appendChild(li6);   
     table.appendChild(row);
     ul6.appendChild(table);
+    
 }
 
 async function listQ(){
@@ -463,26 +469,31 @@ function sumStr(str){
   return sum;
 }
 
-function copyValue(val) {
+async function copyValue(val) {
    /* Save value of myText to input variable */
    let blep = document.getElementById(val).value
    let blep2 = document.getElementById(val).className
+   
    if (blep.indexOf(',') > -1) {
     blep = sumStr(blep)
    }
 
    if (blep2 == "payeeID") {
-    blep = `${walletList(blep)}`
+    blep = await walletList(blep);
    }
-
+   
    var backupData = blep;
    
    /* Copy the text inside the text field */
   navigator.clipboard.writeText(backupData);
    console.log(backupData , blep2);
 };
+// Create metadata
 
-// use const csvArray = await testCsv(); in async function
+async function createMetadata(val) {
+  let val2 = document.getElementById(fieldIdArr[0]).value
+  console.log("boom",val2);
+}
 
 function validateSubmission(){
   //save all the input values
