@@ -413,7 +413,7 @@ async function loadSheet() {
   
       payeeList.push(csvJson[i].payeeID);   
     }
-    li6.innerHTML = (`${sheetnames[selectedSheet].replace(/\..+$/, '')}<button type='button' onclick='createMetadata(${fieldIdArr})' id='createMeta' class ='metaButton'>Copy Metadata</button>`);
+    li6.innerHTML = (`${sheetnames[selectedSheet].replace(/\..+$/, '')}<button type='button' onclick='createMetadata()' id='createMeta' class ='metaButton'>Copy Metadata</button>`);
     ul6.appendChild(li6);   
     table.appendChild(row);
     ul6.appendChild(table);
@@ -490,9 +490,30 @@ async function copyValue(val) {
 };
 // Create metadata
 
-async function createMetadata(val) {
-  let val2 = document.getElementById(fieldIdArr[0]).value
-  console.log("boom",val2);
+async function createMetadata() {
+  let val2 = "";
+  let metaData = {};
+  let j = 0;
+  let val3 = [];
+  metaData.payments = []
+  for (i in fieldIdArr) {
+    if (j == csvHeads.length) {
+      j = 0;
+    }
+    val2 = document.getElementById(fieldIdArr[i]).value;
+    val3 = val2.split(',');
+    console.log("boom",csvHeads[j],val3);
+    ///////////////////////////////////////////////Double run
+    metaData[csvHeads[j]] = val2;
+    if (val3.length > 1) {
+      for (key in val3) {
+        metaData[csvHeads[1]][val3[key]] = (fieldIdArr[i]);
+        console.log('boomsssssss',val3[key]);
+      }  
+    }
+    j++ 
+  }
+  console.log("boom2",metaData);
 }
 
 function validateSubmission(){
