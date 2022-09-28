@@ -74,6 +74,22 @@ body {
   .main2 > *:nth-child(3) {
     flex: 1 1 50%;
   }
+
+  .main3 {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
+  .main3 > *:nth-child(1) {
+    flex: 1 1 30%;
+  }
+  .main3 > *:nth-child(2) {
+    flex: 1 1 30%;
+  }
+  .main3 > *:nth-child(3) {
+    flex: 1 1 50%;
+  }
   
 #fadeIn {
   margin-top: 25px;

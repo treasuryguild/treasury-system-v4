@@ -36,6 +36,10 @@ let valBut = "";
 let copyButton = ""; 
 const sheetData = []; 
 const sheetnames = [];
+let totalADA = 0;
+let totalGMBL = 0;
+let totalAGIX = 0;
+let totalRecipients = 0;
 
 
 let topData = {};
@@ -300,12 +304,13 @@ async function selectSheet() {
   ul7.appendChild(li7);
   let ul8 = document.getElementById('sheetList');
   
-  for (let j in sheetList) {
+ // for (let j in sheetList) {
     let li8 = document.createElement('option');
-    li8.value = j
-    li8.innerHTML = `${sheetList[j]}`
+    li8.value = sheetList.length - 1
+    li8.innerHTML = `${sheetList[sheetList.length - 1]}`
     ul8.appendChild(li8);
-  }
+    //console.log(j);
+  //}
   
 }
 
@@ -380,25 +385,29 @@ async function loadSheet() {
              
             
             if ((i) == (lastIndex)) {   //Writes to last index of duplicate items
+              let adaVal = 0;
               fieldId = fieldId + 1;
               fieldIdArr.push(fieldId);
               td[k] = document.createElement('td');
               //copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson2[newValue][val]}`
               valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
               copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`; 
-              td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${csvJson[newValue][val]?csvJson[newValue][val]:0}'>${copyButton}`)
+              adaVal = (csvJson[newValue][val]?csvJson[newValue][val]:0);
+              td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? 1.35 : adaVal}'>${copyButton}`)
               row.appendChild(td[k]);
             }
    
           } else {  // Writes non duplicate items
-            if (!duplicateElements.includes(csvJson[i].payeeID)) {
+            if (!duplicateElements.includes(csvJson[i].payeeID)) {    //////////////////If ada is zero in one of these values above and below make it 1.35
+            let adaVal = 0;
             fieldId = fieldId + 1;
             fieldIdArr.push(fieldId);
             td[k] = document.createElement('td');
             //copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson[i][val]}`
             valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
             copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`;       
-            td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${csvJson[i][val]}'>${copyButton}`)
+            adaVal = csvJson[i][val]
+            td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? 1.35 : adaVal}'>${copyButton}`)
             row.appendChild(td[k]);
             }
           }
@@ -490,42 +499,132 @@ async function copyValue(val) {
 };
 // Create metadata
 
-async function createMetadata() {
+async function createReps() {
   let val2 = "";
   let metaData = {};
   let j = 0;
+  let j2 = 0;
   let val3 = [];
-  metaData.payments = []
+  let rowNum = 0;
+  let rowNum2 = 0;
+  totalRecipients = 0;
+  metaData.contributors = [];
+  
   for (i in fieldIdArr) {
     if (j == csvHeads.length) {
       j = 0;
+      rowNum++
+    }
+    j++
+    if (j == csvHeads.length) {
+      metaData.contributors[rowNum] = {};
+    }
+  }
+
+  for (i in fieldIdArr) {
+    if (j2 == csvHeads.length) {
+      j2 = 0;
+      rowNum2++
+      totalRecipients++
     }
     val2 = document.getElementById(fieldIdArr[i]).value;
     val3 = val2.split(',');
-    console.log("boom",csvHeads[j],val3);
-    ///////////////////////////////////////////////Double run
-    metaData[csvHeads[j]] = val2;
-    if (val3.length > 1) {
-      for (key in val3) {
-        metaData[csvHeads[1]][val3[key]] = (fieldIdArr[i]);
-        console.log('boomsssssss',val3[key]);
-      }  
-    }
-    j++ 
+    metaData.contributors[rowNum2][csvHeads[j2]] = val3
+    j2++
   }
-  console.log("boom2",metaData);
+
+  return metaData;
 }
 
-function validateSubmission(){
+async function seprateTasks() {
+  const reps = await createReps();
+  let cId = [];
+  let contributions = [];  //change to array
+  let amountADA = "";
+  let amountGMBL = "";
+  let amountAGIX = "";
+  let amountTotal = "";
+  totalADA = 0;
+  totalGMBL = 0;
+  totalAGIX = 0;
+
+  for (let i in reps.contributors) {    
+    if (reps.contributors[i].contributionID.length > 1) {
+      for (let j in reps.contributors[i].contributionID) {
+        if (!cId.includes(reps.contributors[i].contributionID[j])) {
+          cId.push(reps.contributors[i].contributionID[j])
+        }
+      }
+    } else if (!cId.includes(reps.contributors[i].contributionID[0])) {
+      cId.push(reps.contributors[i].contributionID[0]);
+    }
+  }
+  for (let k in reps.contributors) {
+    for (let m in reps.contributors[k].contributionID) {
+      for (let l in cId) {
+        if (reps.contributors[k].contributionID[m] == cId[l]) {
+          contributions[cId[l]] = {"contributors": {}, "label": "", "description": ""}  
+        }
+      }
+    }
+  }
+  for (let k in reps.contributors) {
+    for (let m in reps.contributors[k].contributionID) {
+      for (let l in cId) {
+        if (reps.contributors[k].contributionID[m] == cId[l]) {
+          if (reps.contributors[k].GMBL[m] > 0 || reps.contributors[k].AGIX[m] > 0) {
+            if (reps.contributors[k].ADA[m] < 1.35) {
+              reps.contributors[k].ADA[m] = 1.35;
+            }
+          }
+          amountADA = (reps.contributors[k].ADA[m] > 0 ? `${reps.contributors[k].ADA[m]} ADA` : "" )
+          amountGMBL = (reps.contributors[k].GMBL[m] > 0 ? `,${reps.contributors[k].GMBL[m]} GMBL` : "" )
+          amountAGIX = (reps.contributors[k].AGIX[m] > 0 ? `,${reps.contributors[k].AGIX[m]} AGIX` : "" )
+          amountTotal = `${amountADA}${amountGMBL}${amountAGIX}`
+          contributions[cId[l]].contributors[reps.contributors[k].payeeID[0]] = amountTotal.split(',');
+          contributions[cId[l]].label = reps.contributors[k].contribution[m]
+          contributions[cId[l]].description = reps.contributors[k].description[m]
+          totalADA = parseFloat(totalADA) + parseFloat(reps.contributors[k].ADA[m])
+          totalGMBL = parseFloat(totalGMBL) + parseFloat(reps.contributors[k].GMBL[m])
+          totalAGIX = parseFloat(totalAGIX) + parseFloat(reps.contributors[k].AGIX[m])
+        }
+      }
+    }
+  }
+  return contributions;
+}
+
+async function createMetadata () {
+  const xrate = getValue('xrate')
+  const contributions = await seprateTasks();
+
+  let metaDataExport = `{
+"mdVersion": ["1.0"],
+"msg": [
+"${projectJ} Payment",
+"Recipients: ${totalRecipients}",
+"Total-Paid: ${totalADA.toFixed(2)} ADA, ${totalGMBL.toFixed(2)} GMBL, ${totalAGIX.toFixed(2)} AGIX",
+"Payment made by Treasury Guild @${xrate}",
+"https://www.treasuryguild.io/"
+],
+"contributions": ${JSON.stringify(contributions)}
+}`;
+
+  console.log("metaDataExport", JSON.parse(metaDataExport));
+  return (metaDataExport);
+  
+}
+
+
+async function validateSubmission(){
+  const metaData = await createMetadata();
   //save all the input values
-  const name = getValue('name')
-  const budgetB = getValue('budgetB')
-  const ada = getValue('ada')
-  const gmbl = getValue('gmbl')
-  const agix = getValue('agix')
-  const description = getValue('description')
+  const ada = totalADA;
+  const gmbl = totalGMBL;
+  const agix = totalAGIX;
+  //const description = getValue('description')
   const pool = poolJ
-  const idea = ideaJ
+  //const idea = ideaJ
   const xrate = getValue('xrate')
   const fund = fundJ
   const project = projectJ
@@ -535,7 +634,6 @@ function validateSubmission(){
   let tokens = [ada, gmbl, agix];
   let tokens2 = ["ada", "gmbl", "agix"];
   let tokens3 = ["ADA", "GMBL", "AGIX"];
-  let isSwap3 = "";
 
   for (let i in tokens) {
     if (tokens[i] != "") {
@@ -546,19 +644,7 @@ ${tokens[i]} ${tokens3[i]} `;
     }
   }
 
-  if (budgetB == "Incoming") {
-     newBal = `"${parseFloat(balance).toFixed(2)} ADA"`;
-     for (let i in tokensList) {
-      switch(tokensList[i]) {
-        case 'gimbal':
-          newBal = `${newBal}, "${parseFloat(balGMBL).toFixed(2)} GMBL"`;
-          break;
-        case 'AGIX':
-          newBal = `${newBal}, "${parseFloat(balAGIX).toFixed(2)} AGIX"`;
-          break;
-      }
-     }
-  } else {
+  
     newBal = `"${isNaN((parseFloat(balance) - parseFloat(ada)).toFixed(2)) ? parseFloat(balance).toFixed(2) : (parseFloat(balance) - parseFloat(ada)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
@@ -569,7 +655,7 @@ ${tokens[i]} ${tokens3[i]} `;
          newBal = `${newBal}, "${isNaN((parseFloat(balAGIX) - parseFloat(agix)).toFixed(2)) ? parseFloat(balAGIX).toFixed(2) : (parseFloat(balAGIX) - parseFloat(agix)).toFixed(2)} AGIX"`;
          break;
      }
-    }
+    
   }
   
   
@@ -581,21 +667,24 @@ ${tokens[i]} ${tokens3[i]} `;
   let fileText = `{
 "id" : "${new Date().getTime().toString()}",
 "date": "${new Date().toUTCString()}",
-"fund": "${fund}",
-"project": "${project}",
-"proposal": "${pool}",
-"ideascale": "${idea}",
-"budget": "${budgetB}",
-"name": "${name}",
+"fund": "${fundJ}",
+"project": "${projectJ}",
+"proposal": "${poolJ}",
+"ideascale": "${ideaJ}",
+"budget": "Bulk Payment",
+"name": "${projectJ} contributors",
 "exchangeRate": "${xrate} USD per ADA",${tok}
 "walletBalance": [${newBal}],
 "txid": "",
-"description": "${description}"
+"description": "Payment to ${totalRecipients} contributors"
 }
 `
+  
+console.log("issueDataExport", JSON.parse(fileText));
+
   //Encode string to URI format
   const encodedFileText = encodeURIComponent(fileText)
-
+  const encodedMetaData = encodeURIComponent(metaData)
   //Generate a github link with query parameter
   
   function githubQueryLink(pool) {
@@ -603,8 +692,8 @@ ${tokens[i]} ${tokens3[i]} `;
     return answer;
   }
 
-  function githubQueryLink2(budgetB) {
-    var answer = budgetB.replace(/\s/g, '-') + "/";
+  function githubQueryLink2() {
+    var answer = "bulk-payments/";
     return answer;
   }
   //
@@ -630,26 +719,10 @@ switch(project) {
 return answer
 }
 
-function budget2(budgetB) {
-  var answer = "";  
-switch(budgetB) {
-  case 'Incoming':
-    answer = "Incoming";
-    break;
-  case 'Swap':
-    isSwap3 = "Swap";
-    answer = "Outgoing";
-    break;
-  default:
-    answer = "Outgoing";
-    break;
-}
-return answer
-}
 
   function openWindows() {
-    window.open(`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2(budgetB) + "new?value=" + encodedFileText +"&filename=" + filename);
-    window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok2}+${budget2(budgetB)}&labels=${budget2(budgetB)},${isSwap3},${pool},${fund}&body=` + encodedFileText);  
+    window.open(`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "new?value=" + encodedMetaData +"&filename=" + filename);
+    window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok2}+Outgoing&labels=Outgoing,${pool},${fund}&body=` + encodedFileText);  
     setTimeout(() => {window.location.reload()}, 10000);
     //setTimeout(() => {console.log("this is the second message")}, 3000);
     //window.location.reload();

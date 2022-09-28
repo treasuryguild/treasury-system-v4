@@ -213,6 +213,7 @@ function validateSubmission(){
   let newBal = 0;
   let tok = "";
   let tok2 = "";
+  let tok3 = [];
   let tokens = [ada, gmbl, agix];
   let tokens2 = ["ada", "gmbl", "agix"];
   let tokens3 = ["ADA", "GMBL", "AGIX"];
@@ -224,6 +225,7 @@ function validateSubmission(){
 "${tokens2[i]}" : "${tokens[i]}",`;
       tok2 = `${tok2}
 ${tokens[i]} ${tokens3[i]} `;
+      tok3.push(`"${tokens[i]} ${tokens3[i]}"`);
     }
   }
 
@@ -258,8 +260,8 @@ ${tokens[i]} ${tokens3[i]} `;
   const filename = new Date().getTime().toString() + '-' + name.replace(/\s/g, '-') + ".json"
   
   //Generate a string mimicing the file structure
-  //Indentation is important here
-  let fileText = `{
+  //Indentation is important here  and exchange rate is helpful to check if it was paid out at IOG exchange rates
+  let issueText = `{
 "id" : "${new Date().getTime().toString()}",
 "date": "${new Date().toUTCString()}",
 "fund": "${fund}",
@@ -274,8 +276,31 @@ ${tokens[i]} ${tokens3[i]} `;
 "description": "${description}"
 }
 `
+  
+  let fileText = `{
+"mdVersion": ["1.0"],
+"msg": [
+"${projectJ} Payment",
+"Payment-No: 00000012",
+"Recipients: 1",
+"Exchange-rate: ${xrate} USD per ADA",
+"Total-Paid: ${(parseFloat(ada)?parseFloat(ada):0).toFixed(2)} ADA, ${(parseFloat(gmbl)?parseFloat(gmbl):0).toFixed(2)} GMBL, ${(parseFloat(agix)?parseFloat(agix):0).toFixed(2)} AGIX",
+"Payment made by Treasury Guild ;-) ",
+"https://www.treasuryguild.io/"
+],
+"contributions": {
+  "${new Date().getTime().toString()}_1": {
+    "name": "${budgetB}",
+    "description": "${description}",  
+    "contributors": {
+      "${name}": [${tok3}]
+    }
+  }
+}
+`
   //Encode string to URI format
   const encodedFileText = encodeURIComponent(fileText)
+  const encodedIssueText = encodeURIComponent(issueText)
 
   //Generate a github link with query parameter
   
@@ -330,7 +355,7 @@ return answer
 
   function openWindows() {
     window.open(`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2(budgetB) + "new?value=" + encodedFileText +"&filename=" + filename);
-    window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok2}+${budget2(budgetB)}&labels=${budget2(budgetB)},${isSwap3},${pool},${fund}&body=` + encodedFileText);  
+    window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok2}+${budget2(budgetB)}&labels=${budget2(budgetB)},${isSwap3},${pool},${fund}&body=` + encodedIssueText);  
     setTimeout(() => {window.location.reload()}, 10000);
     //setTimeout(() => {console.log("this is the second message")}, 3000);
     //window.location.reload();

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../style.css" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <div class='cardstop'>
+        Payment Sheet Entry Form
+    </div>
+    <div class='main'>
+        <button onclick="location.href='/index.html';"><a>Home</a></button>
+        <!-- <button onclick="location.href='/treasury-v3/index.html';"><a>Home</a></button> -->
+    </div>
+    <article>  
+        <div class='main3'> 
+        <form class='testing'>
+            <div class = 'form'>
+                <select class = 'dropd2' id = 'org'>
+                    <option value='treasuryguild' id="org" selected>treasuryguild</option> 
+                </select> <!--- These values are just stored variables for the javascript-->
+            </div>
+            <div class = 'form'>
+                <select class = 'dropd2' id = 'repo'>
+                    <option value='treasury-v3' id="repo" selected>Treasury-system-v4</option> 
+                </select> <!--- These values are just stored variables for the javascript-->
+            </div>
+            <div class = 'form'>
+                <label class = 'custom-field2' for='budgetB'>
+                <select class = 'dropd' id = 'list'>
+                    <option value='1' selected>1</option>
+                    <option value='2'>2</option>
+                    <option value='3'>3</option>
+                    <option value='4'>4</option>
+                    <option value='5'>5</option>
+                    <option value='6'>6</option>
+                    <option value='7'>7</option>
+                    <option value='8'>8</option>
+                    <option value='9'>9</option>
+                    <option value='10'>10</option>
+                </select>
+                <span class="disco2">Amount of payments</span>
+                </label>
+            </div>
+            <div class="form">
+                <table id="tabes">
+                    <tr>
+                      <th>Company</th>
+                      <th>Contact</th>
+                      <th>Country</th>
+                      <th>Company</th>
+                      <th>Contact</th>
+                      <th>Country</th>
+                      <th>Company</th>
+                      <th>Contact</th>
+                    </tr>
+                  </table>
+            </div>
+           
+            <div class='form'>
+                <button onclick="validateSubmission();" class ='calc'>
+                    Submit
+                </button>
+                <script src="paymentsheet.js"></script>
+            </div>
+        </form>
+        </div>
+    </article>
+        
+         <!-- We'll prepare our javascript's function for later -->
+        
+</body>
+</html>
