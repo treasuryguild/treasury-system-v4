@@ -2,7 +2,7 @@
 let value = {};
 let data2 = [];
 let orgEl = "treasuryguild";
-let repoEl = "treasury-v3";
+let repoEl = "treasury-system-v4";
 let walletEl = "";
 let fundJ = ""
 let projectJ = ""
@@ -192,6 +192,16 @@ window.onload = function() {
 })
 .catch(error => console.error(error))
 };
+
+async function getExchange() {
+  axios.get('https://api.binance.com/api/v3/avgPrice?symbol=ADAUSDC').then(response => {
+    const body = response.data;
+    let xrates = document.getElementById('xrate')
+    xrates.value = parseFloat(body.price).toFixed(3);
+    console.log("exxchange",body.price);
+});
+}
+getExchange();
 
 function getValue(name){
   return document.getElementById(name).value

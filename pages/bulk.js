@@ -40,6 +40,8 @@ let totalADA = 0;
 let totalGMBL = 0;
 let totalAGIX = 0;
 let totalRecipients = 0;
+let currentXchangeAda = 0;
+let currentXchangeAgix = 0;
 
 
 let topData = {};
@@ -375,7 +377,7 @@ async function loadSheet() {
           if (payeeList.includes(csvJson[i].payeeID)) {
             newValue = payeeList.indexOf(csvJson[i].payeeID);
             
-            if (csvJson[newValue].accountsPayable == csvJson[i][val] || csvJson[newValue].payeeID ==  csvJson[i][val]) {
+            if (csvJson[newValue].taskCreator == csvJson[i][val] || csvJson[newValue].payeeID ==  csvJson[i][val]) {
               csvJson[newValue][val] = `${csvJson[i][val]}`
               csvJson2[newValue][val] = csvJson[i][val]
             } else {
@@ -563,7 +565,7 @@ async function seprateTasks() {
     for (let m in reps.contributors[k].contributionID) {
       for (let l in cId) {
         if (reps.contributors[k].contributionID[m] == cId[l]) {
-          contributions[cId[l]] = {"contributors": {}, "label": "", "description": ""}  
+          contributions[cId[l]] = {"contributors": {}, "label": "", "description": [], "taskCreator": ""}  
         }
       }
     }
@@ -583,7 +585,9 @@ async function seprateTasks() {
           amountTotal = `${amountADA}${amountGMBL}${amountAGIX}`
           contributions[cId[l]].contributors[reps.contributors[k].payeeID[0]] = amountTotal.split(',');
           contributions[cId[l]].label = reps.contributors[k].contribution[m]
-          contributions[cId[l]].description = reps.contributors[k].description[m]
+          contributions[cId[l]].taskCreator = reps.contributors[k].taskCreator[m]
+          let desript = (reps.contributors[k].description[m]).replace(/.{50}\S*\s+/g, "$&@").split(/\s+@/);
+          contributions[cId[l]].description = desript
           totalADA = parseFloat(totalADA) + parseFloat(reps.contributors[k].ADA[m])
           totalGMBL = parseFloat(totalGMBL) + parseFloat(reps.contributors[k].GMBL[m])
           totalAGIX = parseFloat(totalAGIX) + parseFloat(reps.contributors[k].AGIX[m])
@@ -597,13 +601,19 @@ async function seprateTasks() {
 async function createMetadata () {
   const xrate = getValue('xrate')
   const contributions = await seprateTasks();
+  let tAda = (`"${totalADA>0?((totalADA*currentXchangeAda).toFixed(2) + " USD in " + totalADA.toFixed(2) + " ADA"):""}",`);
+  let tGmbl = (`"${totalGMBL>0?("0" + " USD in " + totalGMBL.toFixed(2) + " GMBL"):""}",`);
+  let tAgix = (`"${totalAGIX>0?((totalADA*currentXchangeAgix).toFixed(2) + " USD in " + totalAGIX.toFixed(2) + " AGIX"):""}",`);
+  let tokens = `${tAda}
+  ${tGmbl}
+  ${tAgix}`
 
   let metaDataExport = `{
 "mdVersion": ["1.0"],
 "msg": [
 "${projectJ} Payment",
 "Recipients: ${totalRecipients}",
-"Total-Paid: ${totalADA.toFixed(2)} ADA, ${totalGMBL.toFixed(2)} GMBL, ${totalAGIX.toFixed(2)} AGIX",
+${tokens}
 "Payment made by Treasury Guild @${xrate}",
 "https://www.treasuryguild.io/"
 ],
@@ -614,6 +624,22 @@ async function createMetadata () {
   return (metaDataExport);
   
 }
+
+async function getExchange() {
+  axios.get('https://api.coingecko.com/api/v3/simple/price?ids=cardano&vs_currencies=usd').then(response => {
+    const rate = response.data.cardano.usd;
+    let xrates = document.getElementById('xrate')
+    xrates.value = parseFloat(rate).toFixed(3);
+    currentXchangeAda = parseFloat(rate).toFixed(3);
+    console.log("exchangeAda",rate);
+  });
+  axios.get('https://api.coingecko.com/api/v3/simple/price?ids=singularitynet&vs_currencies=usd').then(response => {
+    const rate = response.data.singularitynet.usd;
+    currentXchangeAgix = parseFloat(rate).toFixed(3);
+    console.log("exchangeAgix",rate);
+  });
+}
+getExchange();
 
 
 async function validateSubmission(){
