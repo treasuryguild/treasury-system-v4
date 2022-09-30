@@ -608,9 +608,16 @@ async function createMetadata () {
   let tokens = `${tAda}
 ${tGmbl}
 ${tAgix}`
+let txid = "";
+if (localStorage.getItem("typeMeta") === "submit") {
+  txid = (`
+"txid": "",`)
+} else {
+  txid = (`""`)
+}
 
   let metaDataExport = `{
-"mdVersion": ["1.0"],
+"mdVersion": ["1.0"],${txid}
 "msg": [
 "${projectJ} Payment",
 "Recipients: ${totalRecipients}",
@@ -627,6 +634,7 @@ ${tokens}
 }
 
 async function copyMeta() {
+  localStorage.setItem("typeMeta", "copy");
   const metaData = await createMetadata();
   var mData = (metaData);
   console.log("mData",mData);
@@ -651,6 +659,7 @@ getExchange();
 
 
 async function validateSubmission(){
+  localStorage.setItem("typeMeta", "submit");
   const metaData = await createMetadata();
   //save all the input values
   const ada = totalADA;
