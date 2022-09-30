@@ -424,7 +424,7 @@ async function loadSheet() {
   
       payeeList.push(csvJson[i].payeeID);   
     }
-    li6.innerHTML = (`${sheetnames[selectedSheet].replace(/\..+$/, '')}<button type='button' onclick='createMetadata()' id='createMeta' class ='metaButton'>Copy Metadata</button>`);
+    li6.innerHTML = (`${sheetnames[selectedSheet].replace(/\..+$/, '')}<button type='button' onclick='copyMeta()' id='createMeta' class ='metaButton'>Copy Metadata</button>`);
     ul6.appendChild(li6);   
     table.appendChild(row);
     ul6.appendChild(table);
@@ -579,11 +579,12 @@ async function seprateTasks() {
               reps.contributors[k].ADA[m] = 1.35;
             }
           }
-          amountADA = (reps.contributors[k].ADA[m] > 0 ? `${reps.contributors[k].ADA[m]} ADA` : "" )
-          amountGMBL = (reps.contributors[k].GMBL[m] > 0 ? `,${reps.contributors[k].GMBL[m]} GMBL` : "" )
-          amountAGIX = (reps.contributors[k].AGIX[m] > 0 ? `,${reps.contributors[k].AGIX[m]} AGIX` : "" )
-          amountTotal = `${amountADA}${amountGMBL}${amountAGIX}`
-          contributions[cId[l]].contributors[reps.contributors[k].payeeID[0]] = amountTotal.split(',');
+          amountADA = (reps.contributors[k].ADA[m] > 0 ? `"ADA": ${reps.contributors[k].ADA[m]}` : "" )
+          amountGMBL = (reps.contributors[k].GMBL[m] > 0 ? `"GMBL": ${reps.contributors[k].GMBL[m]}` : "" )
+          amountAGIX = (reps.contributors[k].AGIX[m] > 0 ? `"AGIX": ${reps.contributors[k].AGIX[m]}` : "" )
+          amountTotal = `{${amountADA}${amountGMBL?"," + amountGMBL:""}${amountAGIX?"," + amountAGIX:""}}`
+          
+          contributions[cId[l]].contributors[reps.contributors[k].payeeID[0]] = JSON.parse(amountTotal);
           contributions[cId[l]].label = reps.contributors[k].contribution[m]
           contributions[cId[l]].taskCreator = reps.contributors[k].taskCreator[m]
           let desript = (reps.contributors[k].description[m]).replace(/.{50}\S*\s+/g, "$&@").split(/\s+@/);
@@ -605,8 +606,8 @@ async function createMetadata () {
   let tGmbl = (`"${totalGMBL>0?("0" + " USD in " + totalGMBL.toFixed(2) + " GMBL"):""}",`);
   let tAgix = (`"${totalAGIX>0?((totalADA*currentXchangeAgix).toFixed(2) + " USD in " + totalAGIX.toFixed(2) + " AGIX"):""}",`);
   let tokens = `${tAda}
-  ${tGmbl}
-  ${tAgix}`
+${tGmbl}
+${tAgix}`
 
   let metaDataExport = `{
 "mdVersion": ["1.0"],
@@ -620,9 +621,16 @@ ${tokens}
 "contributions": ${JSON.stringify(contributions)}
 }`;
 
-  console.log("metaDataExport", JSON.parse(metaDataExport));
+  //console.log("metaDataExport", JSON.parse(metaDataExport));
   return (metaDataExport);
   
+}
+
+async function copyMeta() {
+  const metaData = await createMetadata();
+  var mData = (metaData);
+  console.log("mData",mData);
+  navigator.clipboard.writeText(mData);
 }
 
 async function getExchange() {
