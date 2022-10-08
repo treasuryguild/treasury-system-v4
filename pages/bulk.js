@@ -237,6 +237,15 @@ function getValue(name){
   return document.getElementById(name).value
 }
 
+function sumStr(str){
+  let strArr = str.split(",");
+  let sum = strArr.reduce(function(total, num){
+    return parseFloat(total) + parseFloat(num);
+  });
+
+  return sum;
+}
+
 async function bulkPayments() {
   const {data} = await axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/bulk-payments`);
     
@@ -396,12 +405,13 @@ async function loadSheet() {
               csvJson2[newValue][val] = csvJson[i][val]
             } else {
               csvJson[newValue][val] = `${csvJson[newValue][val]},${csvJson[i][val]}` //First value gets added with csvJson[newValue][val], because newValue points to firts index before modifying it.
-              csvJson2[newValue][val] = (n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?(csvJson2[newValue][val]?csvJson2[newValue][val]:0) + csvJson[i][val]:0);
+              csvJson2[newValue][val] = (n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?((csvJson2[newValue][val]?csvJson2[newValue][val]:0) + csvJson[i][val]):0);
             }
              
             
             if ((i) == (lastIndex)) {   //Writes to last index of duplicate items
               let adaVal = 0;
+              let xy = 0;
               fieldId = fieldId + 1;
               fieldIdArr.push(fieldId);
               td[k] = document.createElement('td');
@@ -409,7 +419,14 @@ async function loadSheet() {
               valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
               copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`; 
               adaVal = (csvJson[newValue][val]?csvJson[newValue][val]:0);
-              td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? 1.344798 : adaVal}'>${copyButton}`)
+              if (n[k] == "ADA") {
+                xy = sumStr(adaVal)
+                if (xy == 0) { //1.344798
+                  adaVal = ("1.344798");
+                }
+              }
+              console.log("adaVal",xy)
+              td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${adaVal}'>${copyButton}`)
               row.appendChild(td[k]);
             }
    
@@ -423,7 +440,7 @@ async function loadSheet() {
             valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
             copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`;       
             adaVal = csvJson[i][val]
-            td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? 1.344798 : adaVal}'>${copyButton}`)
+            td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? "1.344798" : adaVal}'>${copyButton}`)
             row.appendChild(td[k]);
             }
           }
@@ -484,15 +501,6 @@ async function listQ(){
 }
 
 document.getElementById("bulkType").onchange = listQ;
-
-function sumStr(str){
-  let strArr = str.split(",");
-  let sum = strArr.reduce(function(total, num){
-    return parseFloat(total) + parseFloat(num);
-  });
-
-  return sum;
-}
 
 async function copyValue(val) {
    /* Save value of myText to input variable */
@@ -556,6 +564,7 @@ async function seprateTasks() {
   const reps = await createReps();
   let cId = [];
   let contributions = [];  //change to array
+  let contTokens = {};
   let amountADA = "";
   let amountGMBL = "";
   let amountAGIX = "";
@@ -579,7 +588,7 @@ async function seprateTasks() {
     for (let m in reps.contributors[k].contributionID) {
       for (let l in cId) {
         if (reps.contributors[k].contributionID[m] == cId[l]) {
-          contributions[cId[l]] = {"taskCreator": "","description": [],"label": "","contributors": {}}  
+          contributions[cId[l]] = {"taskCreator":"","description":[],"label":"","contributors":{}}  
         }
       }
     }
@@ -588,17 +597,30 @@ async function seprateTasks() {
     for (let m in reps.contributors[k].contributionID) {
       for (let l in cId) {
         if (reps.contributors[k].contributionID[m] == cId[l]) {
-          if (reps.contributors[k].GMBL[m] > 0 || reps.contributors[k].AGIX[m] > 0) {
-            if (reps.contributors[k].ADA[m] < 1.344798) {
+          /*if (reps.contributors[k].GMBL[m] > 0 || reps.contributors[k].AGIX[m] > 0) {
+            if (reps.contributors[k].ADA[m] == 0) {
               reps.contributors[k].ADA[m] = 1.344798;
             }
+          }*/
+          contTokens = {};
+          //amountADA = (reps.contributors[k].ADA[m] > 0 ? `"ADA":${reps.contributors[k].ADA[m]}` : "" )
+          //amountGMBL = (reps.contributors[k].GMBL[m] > 0 ? `,"GMBL":${reps.contributors[k].GMBL[m]}` : "" )
+          //amountAGIX = (reps.contributors[k].AGIX[m] > 0 ? `,"AGIX":${reps.contributors[k].AGIX[m]}` : "" )
+          if (reps.contributors[k].ADA[m] > 0) {
+            contTokens.ADA = (reps.contributors[k].ADA[m])
+          } else {reps.contributors[k].ADA[m] = 0}
+          if (reps.contributors[k].GMBL[m] > 0) {
+            contTokens.GMBL = (reps.contributors[k].GMBL[m])
           }
-          amountADA = (reps.contributors[k].ADA[m] > 0 ? `"ADA": ${reps.contributors[k].ADA[m]}` : "" )
-          amountGMBL = (reps.contributors[k].GMBL[m] > 0 ? `"GMBL": ${reps.contributors[k].GMBL[m]}` : "" )
-          amountAGIX = (reps.contributors[k].AGIX[m] > 0 ? `"AGIX": ${reps.contributors[k].AGIX[m]}` : "" )
-          amountTotal = `{${amountADA}${amountGMBL?"," + amountGMBL:""}${amountAGIX?"," + amountAGIX:""}}`
-          
-          contributions[cId[l]].contributors[reps.contributors[k].payeeID[0]] = JSON.parse(amountTotal);
+          if (reps.contributors[k].AGIX[m] > 0) {
+            contTokens.AGIX = (reps.contributors[k].AGIX[m])
+          }
+          //amountTotal = `{${amountADA}${amountGMBL?amountGMBL:""}${amountAGIX?amountAGIX:""}}`
+          //amountTotal = contTokens;
+          //amountTotal = JSON.stringify(amountTotal, null, 2);
+          //amountTotal = JSON.parse(amountTotal);
+          //contTokens = {"ADA":100,"GMBL":200,"AGIX":100};
+          contributions[cId[l]].contributors[reps.contributors[k].payeeID[0]] = contTokens;
           contributions[cId[l]].label = reps.contributors[k].contribution[m]
           contributions[cId[l]].taskCreator = reps.contributors[k].taskCreator[m]
           let desript = (reps.contributors[k].description[m]).replace(/.{50}\S*\s+/g, "$&@").split(/\s+@/);
