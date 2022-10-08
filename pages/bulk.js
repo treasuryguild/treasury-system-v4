@@ -703,6 +703,9 @@ async function validateSubmission(){
   
   if (bulkType === "Dework Bulk") {
     let tokenz = [];
+    totalADA = 0;
+    totalGMBL = 0;
+    totalAGIX = 0;
     const deworkData = getValue('dework')
     const metaDataExample = await axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/data/exampleMetaData.json`);
     const mData = metaDataExample.data.metadata[674]
@@ -710,14 +713,22 @@ async function validateSubmission(){
       for (let n in mData.contributions[m].contributors) {
         let contVals = mData.contributions[m].contributors;
         for (let l in contVals[n]) {
+          if (l === "ada" || l === "ADA") {
+            totalADA = totalADA + contVals[n][l]
+            console.log("ADA", l)
+          } else if (l === "gimbal" || l === "GMBL") {
+            totalGMBL = totalGMBL + contVals[n][l]
+          } else if (l === "agix" || l === "AGIX") {
+            totalAGIX = totalAGIX + contVals[n][l]
+          } 
           if (!tokenz.includes(l)) {
             tokenz.push(l)
           }
           console.log("Less go", contVals[n][l]);
-          console.log("Tokenz", tokenz);
+          console.log("totalADA", totalADA, "totalGMBL", totalGMBL, "totalAGIX", totalAGIX);
         }
 
-        console.log("Less go", n, contVals[n]);
+        console.log("Less not go", n, contVals[n]);
       }
     }
     console.log("Less go", mData);
