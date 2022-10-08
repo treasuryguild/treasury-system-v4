@@ -612,10 +612,7 @@ async function seprateTasks() {
 
 async function createMetadata () {
   const xrate = getValue('xrate')
-  let contributions = await seprateTasks();
-
-  contributions = contributions.filter(elm => elm); //Takes out any empty values in the array
-
+  const contributions = await seprateTasks();
   let tAda = (totalADA>0?(`
 "${totalADA>0?((totalADA*xrate).toFixed(2) + " USD in " + totalADA.toFixed(2) + " ADA"):""}",`):"");
   let tGmbl = (totalGMBL>0?(`
@@ -631,7 +628,7 @@ if (localStorage.getItem("typeMeta") === "submit") {
   txid = "";
 }
 
-descript = JSON.stringify(contributions, null, 2)
+descript = JSON.stringify(contributions)
 
 /*for (let i = 0; i < descript.length; i++) {
   console.log("descript",descript[i])
@@ -702,25 +699,10 @@ async function validateSubmission(){
   const metaData = await createMetadata();
   
   if (bulkType === "Dework Bulk") {
-    let tokenz = [];
     const deworkData = getValue('dework')
     const metaDataExample = await axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/data/exampleMetaData.json`);
     const mData = metaDataExample.data.metadata[674]
-    for (let m in mData.contributions) {
-      for (let n in mData.contributions[m].contributors) {
-        let contVals = mData.contributions[m].contributors;
-        for (let l in contVals[n]) {
-          if (!tokenz.includes(l)) {
-            tokenz.push(l)
-          }
-          console.log("Less go", contVals[n][l]);
-          console.log("Tokenz", tokenz);
-        }
-
-        console.log("Less go", n, contVals[n]);
-      }
-    }
-    console.log("Less go", mData);
+    console.log("Less go",mData);
   } else {
 
   //save all the input values
