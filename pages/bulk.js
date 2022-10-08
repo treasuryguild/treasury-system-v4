@@ -39,6 +39,10 @@ const sheetnames = [];
 let totalADA = 0;
 let totalGMBL = 0;
 let totalAGIX = 0;
+let tokens = [];
+let ada = 0;
+let gmbl = 0;
+let agix = 0;
 let totalRecipients = 0;
 let currentXchangeAda = 0;
 let currentXchangeAgix = 0;
@@ -575,7 +579,7 @@ async function seprateTasks() {
     for (let m in reps.contributors[k].contributionID) {
       for (let l in cId) {
         if (reps.contributors[k].contributionID[m] == cId[l]) {
-          contributions[cId[l]] = {"taskCreator": "", "label": "", "description": [],"contributors": {}}  
+          contributions[cId[l]] = {"taskCreator": "","description": [],"label": "","contributors": {}}  
         }
       }
     }
@@ -616,7 +620,50 @@ async function createMetadata () {
 
   contributions = contributions.filter(elm => elm); //Takes out any empty values in the array
 
-  let tAda = (totalADA>0?(`
+if (bulkType === "Dework Bulk") {
+  totalADA = 0;
+  totalGMBL = 0;
+  totalAGIX = 0;
+  let reps = []
+  totalRecipients = 0;
+  const deworkData = getValue('dework')
+  const metaDataExample = await axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/data/exampleMetaData.json`);
+  const mData = metaDataExample.data.metadata[674]
+  metaData = JSON.stringify(mData, null, 2)
+  for (let m in mData.contributions) {
+    for (let n in mData.contributions[m].contributors) {
+      let contVals = mData.contributions[m].contributors;
+      if (!reps.includes(n)) {
+        reps.push(n)
+      }
+      console.log("contributor",n)
+      for (let l in contVals[n]) {
+        if (l === "ada" || l === "ADA") {
+          totalADA = totalADA + contVals[n][l]
+          console.log("ADA", l)
+        } else if (l === "gimbal" || l === "GMBL") {
+          totalGMBL = totalGMBL + contVals[n][l]
+        } else if (l === "agix" || l === "AGIX") {
+          totalAGIX = totalAGIX + contVals[n][l]
+        } 
+      }
+    }
+  }
+  totalRecipients = reps.length;
+  ada = parseFloat(totalADA).toFixed(2);
+  gmbl = parseFloat(totalGMBL).toFixed(2);
+  agix = parseFloat(totalAGIX).toFixed(2);
+  descript = JSON.stringify(mData.contributions, null, 2);
+} else {
+
+//save all the input values
+  ada = parseFloat(totalADA).toFixed(2);
+  gmbl = parseFloat(totalGMBL).toFixed(2);
+  agix = parseFloat(totalAGIX).toFixed(2);
+  descript = JSON.stringify(contributions, null, 2);
+}
+
+let tAda = (totalADA>0?(`
 "${totalADA>0?((totalADA*xrate).toFixed(2) + " USD in " + totalADA.toFixed(2) + " ADA"):""}",`):"");
   let tGmbl = (totalGMBL>0?(`
 "${totalGMBL>0?("0" + " USD in " + totalGMBL.toFixed(2) + " GMBL"):""}",`):"");
@@ -631,32 +678,10 @@ if (localStorage.getItem("typeMeta") === "submit") {
   txid = "";
 }
 
-descript = JSON.stringify(contributions, null, 2)
-
-/*for (let i = 0; i < descript.length; i++) {
-  console.log("descript",descript[i])
-  if (descript[i] == `[`) {
-    descript = descript.slice(0, (i+1)) + "\n" + descript.slice(i+1);
-  }
-  if (descript[i] == `,`) {
-    descript = descript.slice(0, (i+1)) + "\n" + descript.slice(i+1);
-  }
-  if (descript[i] == `]`) {
-    descript = descript.slice(0, (i)) + "\n" + descript.slice(i);
-    i++
-  }
-  if (descript[i] == `{`) {
-    descript = descript.slice(0, (i+1)) + "\n" + descript.slice(i+1);
-  }
-}
-
-descript = JSON.parse(descript)
-descript = JSON.stringify(descript)*/
-
   let metaDataExport = `{
 "mdVersion": ["1.0"],${txid}
 "msg": [
-"${projectJ} Payment",
+"${projectJ} Bulk Payment",
 "Recipients: ${totalRecipients}",${tokens}
 "Payment made by Treasury Guild @${xrate} ",
 "https://www.treasuryguild.io/"
@@ -699,45 +724,8 @@ getExchange();
 
 async function validateSubmission(){
   localStorage.setItem("typeMeta", "submit");
-  const metaData = await createMetadata();
+  let metaData = await createMetadata();
   
-  if (bulkType === "Dework Bulk") {
-    let tokenz = [];
-    totalADA = 0;
-    totalGMBL = 0;
-    totalAGIX = 0;
-    const deworkData = getValue('dework')
-    const metaDataExample = await axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/data/exampleMetaData.json`);
-    const mData = metaDataExample.data.metadata[674]
-    for (let m in mData.contributions) {
-      for (let n in mData.contributions[m].contributors) {
-        let contVals = mData.contributions[m].contributors;
-        for (let l in contVals[n]) {
-          if (l === "ada" || l === "ADA") {
-            totalADA = totalADA + contVals[n][l]
-            console.log("ADA", l)
-          } else if (l === "gimbal" || l === "GMBL") {
-            totalGMBL = totalGMBL + contVals[n][l]
-          } else if (l === "agix" || l === "AGIX") {
-            totalAGIX = totalAGIX + contVals[n][l]
-          } 
-          if (!tokenz.includes(l)) {
-            tokenz.push(l)
-          }
-          console.log("Less go", contVals[n][l]);
-          console.log("totalADA", totalADA, "totalGMBL", totalGMBL, "totalAGIX", totalAGIX);
-        }
-
-        console.log("Less not go", n, contVals[n]);
-      }
-    }
-    console.log("Less go", mData);
-  } else {
-
-  //save all the input values
-  const ada = parseFloat(totalADA).toFixed(2);
-  const gmbl = parseFloat(totalGMBL).toFixed(2);
-  const agix = parseFloat(totalAGIX).toFixed(2);
   //const description = getValue('description')
   const pool = poolJ
   //const idea = ideaJ
@@ -747,7 +735,7 @@ async function validateSubmission(){
   let newBal = 0;
   let tok = "";
   let tok2 = "";
-  let tokens = [ada, gmbl, agix];
+  tokens = [ada, gmbl, agix];
   let tokens2 = ["ada", "gmbl", "agix"];
   let tokens3 = ["ADA", "GMBL", "AGIX"];
 
@@ -844,5 +832,4 @@ return answer
     //window.location.reload();
   }
   openWindows();
-}
 }
