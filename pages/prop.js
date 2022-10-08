@@ -25,6 +25,8 @@ let totals = {};
 let totals2 = {};
 const b = []
 const x = []
+let currentXchangeAda = 0;
+let currentXchangeAgix = 0;
 
 let topData = {};
 let topData2 = {};
@@ -194,17 +196,103 @@ window.onload = function() {
 };
 
 async function getExchange() {
-  axios.get('https://api.binance.com/api/v3/avgPrice?symbol=ADAUSDC').then(response => {
-    const body = response.data;
+  axios.get('https://api.coingecko.com/api/v3/simple/price?ids=cardano&vs_currencies=usd').then(response => {
+    const rate = response.data.cardano.usd;
     let xrates = document.getElementById('xrate')
-    xrates.value = parseFloat(body.price).toFixed(3);
-    console.log("exxchange",body.price);
-});
+    xrates.value = parseFloat(rate).toFixed(3);
+    currentXchangeAda = parseFloat(rate).toFixed(3);
+    console.log("exchangeAda",rate);
+  });
+  axios.get('https://api.coingecko.com/api/v3/simple/price?ids=singularitynet&vs_currencies=usd').then(response => {
+    const rate = response.data.singularitynet.usd;
+    currentXchangeAgix = parseFloat(rate).toFixed(3);
+    console.log("exchangeAgix",rate);
+  });
 }
 getExchange();
 
 function getValue(name){
   return document.getElementById(name).value
+}
+
+async function copyMetaData() {
+   //save all the input values
+   const name = getValue('name')
+   const budgetB = getValue('budgetB')
+   const ada = getValue('ada')
+   const gmbl = getValue('gmbl')
+   const agix = getValue('agix')
+   const description = getValue('description')
+   const xrate = getValue('xrate')
+   let tok = "";
+   let tok2 = "";
+   let tok3 = [];
+   let tokens = [ada, gmbl, agix];
+   let tokens2 = ["ada", "gmbl", "agix"];
+   let tokens3 = ["ADA", "GMBL", "AGIX"];
+ 
+   for (let i in tokens) {
+     if (tokens[i] != "") {
+       tok = `${tok}
+ "${tokens2[i]}" : "${tokens[i]}",`;
+       tok2 = `${tok2}
+ ${tokens[i]} ${tokens3[i]} `;
+       tok3.push(`"${tokens3[i]}": ${tokens[i]}`);
+     }
+   }
+   let descript = JSON.stringify((description).replace(/.{50}\S*\s+/g, "$&@").split(/\s+@/));
+let totalADA = (parseFloat(ada)?parseFloat(ada):0)
+let totalGMBL = (parseFloat(gmbl)?parseFloat(gmbl):0)
+let totalAGIX = (parseFloat(agix)?parseFloat(agix):0)
+let tAda = (totalADA>0?(`
+"${totalADA>0?((totalADA*currentXchangeAda).toFixed(2) + " USD in " + totalADA.toFixed(2) + " ADA"):""}",`):"");
+let tGmbl = (totalGMBL>0?(`
+"${totalGMBL>0?("0" + " USD in " + totalGMBL.toFixed(2) + " GMBL"):""}",`):"");
+let tAgix = (totalAGIX>0?(`
+"${totalAGIX>0?((totalAGIX*currentXchangeAgix).toFixed(2) + " USD in " + totalAGIX.toFixed(2) + " AGIX"):""}",`):"");
+let totalTokens = `${tAda}${tGmbl}${tAgix}`
+
+
+for (let i = 0; i < descript.length; i++) {
+  console.log("descript",descript[i])
+  if (descript[i] == `[`) {
+    descript = descript.slice(0, (i+1)) + "\n" + descript.slice(i+1);
+  }
+  if (descript[i] == `,`) {
+    descript = descript.slice(0, (i+1)) + "\n" + descript.slice(i+1);
+  }
+  if (descript[i] == `]`) {
+    descript = descript.slice(0, (i)) + "\n" + descript.slice(i);
+    i++
+  }
+}
+
+  let fileText = `{
+"mdVersion": ["1.0"],
+"msg": [
+"${projectJ} Payment",
+"Recipients: 1",${totalTokens}
+"Payment made by Treasury Guild @${xrate} ",
+"https://www.treasuryguild.io/"
+],
+"contributions": [
+  {
+    "taskCreator": "${projectJ}",
+    "label": "${budgetB}",
+    "description": ${descript},  
+    "contributors": {
+      "${name}": {${tok3}}
+    }
+  }
+]
+}
+`
+  var copyData = (fileText);
+  copyData = JSON.parse(copyData)
+  copyData = JSON.stringify(copyData, null, 2)
+
+  navigator.clipboard.writeText(copyData);
+  console.log("copyMetaData",copyData);
 }
 
 function validateSubmission(){
@@ -235,7 +323,7 @@ function validateSubmission(){
 "${tokens2[i]}" : "${tokens[i]}",`;
       tok2 = `${tok2}
 ${tokens[i]} ${tokens3[i]} `;
-      tok3.push(`"${tokens[i]} ${tokens3[i]}"`);
+      tok3.push(`"${tokens3[i]}": ${tokens[i]}`);
     }
   }
 
@@ -286,26 +374,52 @@ ${tokens[i]} ${tokens3[i]} `;
 "description": "${description}"
 }
 `
-  
-  let fileText = `{
+
+let descript = JSON.stringify((description).replace(/.{50}\S*\s+/g, "$&@").split(/\s+@/));
+let totalADA = (parseFloat(ada)?parseFloat(ada):0)
+let totalGMBL = (parseFloat(gmbl)?parseFloat(gmbl):0)
+let totalAGIX = (parseFloat(agix)?parseFloat(agix):0)
+let tAda = (totalADA>0?(`
+"${totalADA>0?((totalADA*currentXchangeAda).toFixed(2) + " USD in " + totalADA.toFixed(2) + " ADA"):""}",`):"");
+let tGmbl = (totalGMBL>0?(`
+"${totalGMBL>0?("0" + " USD in " + totalGMBL.toFixed(2) + " GMBL"):""}",`):"");
+let tAgix = (totalAGIX>0?(`
+"${totalAGIX>0?((totalAGIX*currentXchangeAgix).toFixed(2) + " USD in " + totalAGIX.toFixed(2) + " AGIX"):""}",`):"");
+let totalTokens = `${tAda}${tGmbl}${tAgix}`
+
+for (let i = 0; i < descript.length; i++) {
+  console.log("descript",descript[i])
+  if (descript[i] == `[`) {
+    descript = descript.slice(0, (i+1)) + "\n" + descript.slice(i+1);
+  }
+  if (descript[i] == `,`) {
+    descript = descript.slice(0, (i+1)) + "\n" + descript.slice(i+1);
+  }
+  if (descript[i] == `]`) {
+    descript = descript.slice(0, (i)) + "\n" + descript.slice(i);
+    i++
+  }
+}
+
+let fileText = `{
 "mdVersion": ["1.0"],
+"txid": "",
 "msg": [
 "${projectJ} Payment",
-"Payment-No: 00000012",
-"Recipients: 1",
-"Exchange-rate: ${xrate} USD per ADA",
-"Total-Paid: ${(parseFloat(ada)?parseFloat(ada):0).toFixed(2)} ADA, ${(parseFloat(gmbl)?parseFloat(gmbl):0).toFixed(2)} GMBL, ${(parseFloat(agix)?parseFloat(agix):0).toFixed(2)} AGIX",
-"Payment made by Treasury Guild ;-) ",
+"Recipients: 1",${totalTokens}
+"Payment made by Treasury Guild @${xrate} ",
 "https://www.treasuryguild.io/"
 ],
-"contributions": {
-  "${new Date().getTime().toString()}_1": {
-    "name": "${budgetB}",
-    "description": "${description}",  
+"contributions": [
+  {
+    "taskCreator": "${projectJ}",
+    "label": "${budgetB}",
+    "description": ${descript},  
     "contributors": {
-      "${name}": [${tok3}]
+      "${name}": {${tok3}}
     }
   }
+]
 }
 `
   //Encode string to URI format

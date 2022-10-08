@@ -1,0 +1,74 @@
+{
+    "type": "tx",
+    "title": "Bundle Transaction",
+    "description": "Created with Catalyst Swarm Treasury Manager Excel",
+    "outputs": {
+         "addr1q9z8k0dpfv9a8vqeh5cfg4uaw2apum3jrhasalk2z30u6qj7z67h2zueq2gvuqnqwk2rk348ddcvhauafxwkwfs6k4wsa95ysr": [
+           {
+              "quantity": "350",
+              "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+              "assetName": "gimbal"
+           }
+       ],
+         "addr1q8t554sy4yj9tr8gj6x44fw0hv22u0vwmajhx809vd54j7fgjmkmnrm72k5u3ztekdthdeca3956xrss8jgrxmdt9f2sllj74u": [
+           {
+              "quantity": "500",
+              "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+              "assetName": "gimbal"
+           }
+       ]
+     },
+    "metadata": {
+        "674": {
+            "mdVersion": ["1.0"],
+            "msg": [
+                "Swarm Bulk Payment",
+                "Recipients: 2",
+                "0 USD in 850 gimbal",
+                "Payment made by Treasury Guild ;-)",
+                "https://www.treasuryguild.io/"
+             ],
+            "contributions": [
+             {
+                "taskCreator": "catalyst swarm",
+                "name": ["Onboarding Vlatka 19.08.22 - 150 GMBL"],
+                "label": "Onboarding",
+                "contributors": {
+                    "a95ysr": {
+                        "gimbal": 150
+                     }
+                 }
+             },
+             {
+                "taskCreator": "catalyst swarm",
+                "name": ["Onboarding Vlatka 18.08.22 - 200 GMBL"],
+                "label": "Onboarding",
+                "contributors": {
+                    "a95ysr": {
+                        "gimbal": 200
+                     }
+                 }
+             },
+             {
+                "taskCreator": "catalyst swarm",
+                "name": [" Create your Fund 9 Voting Challenge Setting Picklist - Earn","250 Gimbals"],
+                "label": "Governance",
+                "contributors": {
+                    "llj74u": {
+                        "gimbal": 250
+                     }
+                 }
+             },
+             {
+                "taskCreator": "catalyst swarm",
+                "name": ["Create your Fund 9 Voting Picklist - Earn 250 Gimbals"],
+                "label": "Governance",
+                "contributors": {
+                    "llj74u": {
+                        "gimbal": 250
+                     }
+                 }
+              }]
+          }
+     }
+  }

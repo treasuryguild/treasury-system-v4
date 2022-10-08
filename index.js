@@ -47,6 +47,7 @@ async function getProposals2() {
 
 async function menuMaker() {
     displayLoading();
+    let gList = []
     const bi3 = await getProposals2();
     globalBi = bi3;
     console.log('lordBi2',bi3);
@@ -59,6 +60,7 @@ async function menuMaker() {
             // Create the html markup for each li
             li3.value = propValue;
             li3.innerHTML = (`${bi3[i].project.replace(/\..+$/, '')}`);
+            gList.push(`${bi3[i].project.replace(/\..+$/, '')}`)
             // Append each li to the ul
             ul3.appendChild(li3); 
             if (i == 0) {
@@ -69,6 +71,7 @@ async function menuMaker() {
           }  
            
       }
+      localStorage.setItem("groupList", gList);
       hideLoading();
 }
 

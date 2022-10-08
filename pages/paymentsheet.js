@@ -14,6 +14,31 @@ let fieldArr2 = [];
 //    description == dework task titles thats why it is called name in metadata...
 let heading = ["taskCreator","contributionID","contribution","description","payeeID","ADA","GMBL","AGIX"]
 //  
+let propValue = "";
+let group = localStorage.getItem("groupList");
+group = group.split(',')
+console.log("group",group);
+
+async function menuMaker() {
+  for (let i in group) {
+      let ul3 = document.getElementById('list2');
+      propValue = (group[i]);
+          let li3 = document.createElement('option');
+          // Create the html markup for each li
+          li3.value = propValue;
+          li3.innerHTML = (`${group[i].replace(/\..+$/, '')}`);
+          // Append each li to the ul
+          ul3.appendChild(li3); 
+          if (i == 0) {
+            while (ul3.hasChildNodes()) {
+                ul3.removeChild(ul3.firstChild);
+              }
+            }       
+    }
+}
+
+menuMaker();
+
 function listQ(){
     let fieldId = 0;
     let fieldIdArr = [];
@@ -92,7 +117,7 @@ function getValue(name){
      console.log(csvExport);
     //generate a filename
   
-    const filename = new Date().getTime().toString() + '-'+ "payment-sheet" + ".csv"  
+    const filename = new Date().getTime().toString() + '-' + propValue + '-'+ "payment-sheet" + ".csv"  
     //Generate a string mimicing the file structure
     //Indentation is important here
     let fileText = `${csvExport}`

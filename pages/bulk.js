@@ -175,12 +175,22 @@ window.onload = function() {
             await walletStatus();
             await loadData(orgEl, repoEl, projectJ, fundJ, poolJ);
             for (let i in bi) {
-              y = bi[i].budget.replace(/\s/g, '-')
-              for (let j in budgetI) {    
-                if ( y == budgetI[j]) {
-                  totals[y] = totals[y] + (parseFloat(bi[i].ada));
-                  totals.outgoing = totals.outgoing + (parseFloat(bi[i].ada));
-                }        
+              if (bi[i].mdVersion) {   ///This is pulling data from new version "bulk" or single "Budget items"
+                y = bi[i].budget.replace(/\s/g, '-')
+                for (let j in budgetI) {    
+                  if ( y == budgetI[j]) {
+                    totals[y] = totals[y] + (parseFloat(bi[i].ada));
+                    totals.outgoing = totals.outgoing + (parseFloat(bi[i].ada));
+                  }        
+                }
+              } else {
+                y = bi[i].budget.replace(/\s/g, '-')    // THis is pulling data from old metadata
+                for (let j in budgetI) {    
+                  if ( y == budgetI[j]) {
+                    totals[y] = totals[y] + (parseFloat(bi[i].ada));
+                    totals.outgoing = totals.outgoing + (parseFloat(bi[i].ada));
+                  }        
+                }
               }
             };
             
@@ -377,7 +387,7 @@ async function loadSheet() {
           if (payeeList.includes(csvJson[i].payeeID)) {
             newValue = payeeList.indexOf(csvJson[i].payeeID);
             
-            if (csvJson[newValue].taskCreator == csvJson[i][val] || csvJson[newValue].payeeID ==  csvJson[i][val]) {
+            if (csvJson[newValue].payeeID ==  csvJson[i][val]) {
               csvJson[newValue][val] = `${csvJson[i][val]}`
               csvJson2[newValue][val] = csvJson[i][val]
             } else {
@@ -395,7 +405,7 @@ async function loadSheet() {
               valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
               copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`; 
               adaVal = (csvJson[newValue][val]?csvJson[newValue][val]:0);
-              td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? 1.35 : adaVal}'>${copyButton}`)
+              td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? 1.344798 : adaVal}'>${copyButton}`)
               row.appendChild(td[k]);
             }
    
@@ -409,7 +419,7 @@ async function loadSheet() {
             valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
             copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`;       
             adaVal = csvJson[i][val]
-            td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? 1.35 : adaVal}'>${copyButton}`)
+            td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? 1.344798 : adaVal}'>${copyButton}`)
             row.appendChild(td[k]);
             }
           }
@@ -565,7 +575,7 @@ async function seprateTasks() {
     for (let m in reps.contributors[k].contributionID) {
       for (let l in cId) {
         if (reps.contributors[k].contributionID[m] == cId[l]) {
-          contributions[cId[l]] = {"contributors": {}, "label": "", "description": [], "taskCreator": ""}  
+          contributions[cId[l]] = {"taskCreator": "", "label": "", "description": [],"contributors": {}}  
         }
       }
     }
@@ -575,8 +585,8 @@ async function seprateTasks() {
       for (let l in cId) {
         if (reps.contributors[k].contributionID[m] == cId[l]) {
           if (reps.contributors[k].GMBL[m] > 0 || reps.contributors[k].AGIX[m] > 0) {
-            if (reps.contributors[k].ADA[m] < 1.35) {
-              reps.contributors[k].ADA[m] = 1.35;
+            if (reps.contributors[k].ADA[m] < 1.344798) {
+              reps.contributors[k].ADA[m] = 1.344798;
             }
           }
           amountADA = (reps.contributors[k].ADA[m] > 0 ? `"ADA": ${reps.contributors[k].ADA[m]}` : "" )
@@ -596,39 +606,65 @@ async function seprateTasks() {
       }
     }
   }
+  console.log("reps",reps)
   return contributions;
 }
 
 async function createMetadata () {
   const xrate = getValue('xrate')
   const contributions = await seprateTasks();
-  let tAda = (`"${totalADA>0?((totalADA*currentXchangeAda).toFixed(2) + " USD in " + totalADA.toFixed(2) + " ADA"):""}",`);
-  let tGmbl = (`"${totalGMBL>0?("0" + " USD in " + totalGMBL.toFixed(2) + " GMBL"):""}",`);
-  let tAgix = (`"${totalAGIX>0?((totalADA*currentXchangeAgix).toFixed(2) + " USD in " + totalAGIX.toFixed(2) + " AGIX"):""}",`);
-  let tokens = `${tAda}
-${tGmbl}
-${tAgix}`
+  let tAda = (totalADA>0?(`
+"${totalADA>0?((totalADA*xrate).toFixed(2) + " USD in " + totalADA.toFixed(2) + " ADA"):""}",`):"");
+  let tGmbl = (totalGMBL>0?(`
+"${totalGMBL>0?("0" + " USD in " + totalGMBL.toFixed(2) + " GMBL"):""}",`):"");
+  let tAgix = (totalAGIX>0?(`
+"${totalAGIX>0?((totalAGIX*currentXchangeAgix).toFixed(2) + " USD in " + totalAGIX.toFixed(2) + " AGIX"):""}",`):"");
+  let tokens = `${tAda}${tGmbl}${tAgix}`
 let txid = "";
 if (localStorage.getItem("typeMeta") === "submit") {
   txid = (`
 "txid": "",`)
 } else {
-  txid = (`""`)
+  txid = "";
 }
+
+descript = JSON.stringify(contributions, null, 2)
+
+/*for (let i = 0; i < descript.length; i++) {
+  console.log("descript",descript[i])
+  if (descript[i] == `[`) {
+    descript = descript.slice(0, (i+1)) + "\n" + descript.slice(i+1);
+  }
+  if (descript[i] == `,`) {
+    descript = descript.slice(0, (i+1)) + "\n" + descript.slice(i+1);
+  }
+  if (descript[i] == `]`) {
+    descript = descript.slice(0, (i)) + "\n" + descript.slice(i);
+    i++
+  }
+  if (descript[i] == `{`) {
+    descript = descript.slice(0, (i+1)) + "\n" + descript.slice(i+1);
+  }
+}
+
+descript = JSON.parse(descript)
+descript = JSON.stringify(descript)*/
 
   let metaDataExport = `{
 "mdVersion": ["1.0"],${txid}
 "msg": [
 "${projectJ} Payment",
-"Recipients: ${totalRecipients}",
-${tokens}
-"Payment made by Treasury Guild @${xrate}",
+"Recipients: ${totalRecipients}",${tokens}
+"Payment made by Treasury Guild @${xrate} ",
 "https://www.treasuryguild.io/"
 ],
-"contributions": ${JSON.stringify(contributions)}
+"contributions": ${descript}
 }`;
 
-  //console.log("metaDataExport", JSON.parse(metaDataExport));
+metaDataExport = JSON.parse(metaDataExport)
+metaDataExport = JSON.stringify(metaDataExport, null, 2)
+metaDataExport = metaDataExport.normalize('NFC');
+
   return (metaDataExport);
   
 }
@@ -661,10 +697,15 @@ getExchange();
 async function validateSubmission(){
   localStorage.setItem("typeMeta", "submit");
   const metaData = await createMetadata();
+  if (bulkType === "Dework Bulk") {
+    const deworkData = getValue('dework')
+    const {metaDataExample} = await axios.get(`https://api.github.com/repos/${orgEl}/${repoEl}/contents/bulk-payments/exampleMetaData.json`);
+    console.log("Less go",metaDataExample);
+  } else {
   //save all the input values
-  const ada = totalADA;
-  const gmbl = totalGMBL;
-  const agix = totalAGIX;
+  const ada = parseFloat(totalADA).toFixed(2);
+  const gmbl = parseFloat(totalGMBL).toFixed(2);
+  const agix = parseFloat(totalAGIX).toFixed(2);
   //const description = getValue('description')
   const pool = poolJ
   //const idea = ideaJ
@@ -703,7 +744,7 @@ ${tokens[i]} ${tokens3[i]} `;
   
   
   //generate a filename
-  const filename = new Date().getTime().toString() + '-' + name.replace(/\s/g, '-') + ".json"
+  const filename = new Date().getTime().toString() + '-' + projectJ.replace(/\s/g, '-') + "-bulk-payment" + ".json"
   
   //Generate a string mimicing the file structure
   //Indentation is important here
@@ -771,4 +812,5 @@ return answer
     //window.location.reload();
   }
   openWindows();
+}
 }
