@@ -15,6 +15,7 @@ let fieldArr2 = [];
 let heading = ["taskCreator","contributionID","contribution","description","payeeID","ADA","GMBL","AGIX"]
 //  
 let propValue = "";
+let globValue = "";
 let group = localStorage.getItem("groupList");
 group = group.split(',')
 console.log("group",group);
@@ -38,6 +39,11 @@ async function menuMaker() {
 }
 
 menuMaker();
+document.getElementById("list2").onchange = listQ2;
+
+function listQ2(){
+  globValue = this.value;
+}
 
 function listQ(){
     let fieldId = 0;
@@ -117,7 +123,7 @@ function getValue(name){
      console.log(csvExport);
     //generate a filename
   
-    const filename = new Date().getTime().toString() + '-' + propValue + '-'+ "payment-sheet" + ".csv"  
+    const filename = new Date().getTime().toString() + '-' + globValue + '-'+ "payment-sheet" + ".csv"  
     //Generate a string mimicing the file structure
     //Indentation is important here
     let fileText = `${csvExport}`

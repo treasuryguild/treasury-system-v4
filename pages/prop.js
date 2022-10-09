@@ -219,7 +219,10 @@ async function copyMetaData() {
    //save all the input values
    const name = getValue('name')
    const budgetB = getValue('budgetB')
-   const ada = getValue('ada')
+   let ada = getValue('ada')
+   if (!ada) {
+    ada = "1.344798"
+   }
    const gmbl = getValue('gmbl')
    const agix = getValue('agix')
    const description = getValue('description')
@@ -230,6 +233,7 @@ async function copyMetaData() {
    let tokens = [ada, gmbl, agix];
    let tokens2 = ["ada", "gmbl", "agix"];
    let tokens3 = ["ADA", "GMBL", "AGIX"];
+   
  
    for (let i in tokens) {
      if (tokens[i] != "") {
@@ -237,7 +241,7 @@ async function copyMetaData() {
  "${tokens2[i]}" : "${tokens[i]}",`;
        tok2 = `${tok2}
  ${tokens[i]} ${tokens3[i]} `;
-       tok3.push(`"${tokens3[i]}": ${tokens[i]}`);
+       tok3.push(`"${tokens3[i]}": "${tokens[i]}"`);
      }
    }
    let descript = JSON.stringify((description).replace(/.{50}\S*\s+/g, "$&@").split(/\s+@/));
@@ -299,7 +303,10 @@ function validateSubmission(){
   //save all the input values
   const name = getValue('name')
   const budgetB = getValue('budgetB')
-  const ada = getValue('ada')
+  let ada = getValue('ada')
+  if (!ada) {
+    ada = "1.344798"
+  }
   const gmbl = getValue('gmbl')
   const agix = getValue('agix')
   const description = getValue('description')
@@ -320,10 +327,10 @@ function validateSubmission(){
   for (let i in tokens) {
     if (tokens[i] != "") {
       tok = `${tok}
-"${tokens2[i]}" : "${tokens[i]}",`;
+"${tokens2[i]}" : "${parseFloat(tokens[i]).toFixed(6)}",`;
       tok2 = `${tok2}
-${tokens[i]} ${tokens3[i]} `;
-      tok3.push(`"${tokens3[i]}": ${tokens[i]}`);
+${parseFloat(tokens[i]).toFixed(2)} ${tokens3[i]} `;
+      tok3.push(`"${tokens3[i]}": "${tokens[i]}"`);
     }
   }
 
@@ -407,7 +414,7 @@ let fileText = `{
 "msg": [
 "${projectJ} Payment",
 "Recipients: 1",${totalTokens}
-"Payment made by Treasury Guild @${xrate} ",
+"Payment made by Treasury Guild @${xrate}",
 "https://www.treasuryguild.io/"
 ],
 "contributions": [
@@ -422,6 +429,8 @@ let fileText = `{
 ]
 }
 `
+  fileText = JSON.parse(fileText)
+  fileText = JSON.stringify(fileText, null, 2)
   //Encode string to URI format
   const encodedFileText = encodeURIComponent(fileText)
   const encodedIssueText = encodeURIComponent(issueText)

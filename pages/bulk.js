@@ -466,6 +466,8 @@ async function listQ(){
   bulkType = this.value;
   let ul5 = document.getElementById('userRepos');
   let li5 = document.createElement('div');
+  let ul7 = document.getElementById('userRepos2');
+  let li7 = document.createElement('div');
   let ul6 = document.getElementById('manualBulk');
   let li6 = document.createElement('h1');
   let table = document.createElement('table');
@@ -476,6 +478,9 @@ async function listQ(){
   }
   while (ul5.hasChildNodes()) {
     ul5.removeChild(ul5.lastChild);
+  }
+  while (ul7.hasChildNodes()) {
+    ul7.removeChild(ul7.lastChild);
   }
   if (bulkType === "Dework Bulk") {
     
@@ -490,10 +495,11 @@ async function listQ(){
         autoComplete="off"
         required
     ></textarea>
-    <button type='button' onclick='copyMeta()' id='createMeta' class ='metaButton'>Copy Metadata</button>
             `);
+    li7.innerHTML = (`<button type='button' onclick='copyMeta()' id='createMeta' class ='metaButton'>Copy Metadata</button>`);
     console.log("bulkType",bulkType);
     ul5.appendChild(li5);
+    ul7.appendChild(li7);
   } else if (bulkType === "Manual Bulk") {
     await selectSheet();
     document.getElementById("sheetList").onchange = loadSheet;
