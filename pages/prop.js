@@ -272,7 +272,7 @@ for (let i = 0; i < descript.length; i++) {
 "msg": [
 "${projectJ} Payment",
 "Recipients: 1",${totalTokens}
-"Payment made by Treasury Guild @${xrate} ",
+"Payment made by Treasury Guild @${xrate}",
 "https://www.treasuryguild.io/"
 ],
 "contributions": [

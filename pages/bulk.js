@@ -490,6 +490,7 @@ async function listQ(){
         autoComplete="off"
         required
     ></textarea>
+    <button type='button' onclick='copyMeta()' id='createMeta' class ='metaButton'>Copy Metadata</button>
             `);
     console.log("bulkType",bulkType);
     ul5.appendChild(li5);
@@ -565,10 +566,6 @@ async function seprateTasks() {
   let cId = [];
   let contributions = [];  //change to array
   let contTokens = {};
-  let amountADA = "";
-  let amountGMBL = "";
-  let amountAGIX = "";
-  let amountTotal = "";
   totalADA = 0;
   totalGMBL = 0;
   totalAGIX = 0;
@@ -648,9 +645,10 @@ if (bulkType === "Dework Bulk") {
   totalAGIX = 0;
   let reps = []
   totalRecipients = 0;
-  const deworkData = getValue('dework')
-  const metaDataExample = await axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/data/exampleMetaData.json`);
-  const mData = metaDataExample.data.metadata[674]
+  const deworkData = JSON.parse(getValue('dework'));
+  const mData = deworkData.metadata[674];
+  //const metaDataExample = await axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/data/exampleMetaData.json`);
+  //const mData = metaDataExample.data.metadata[674]
   metaData = JSON.stringify(mData, null, 2)
   for (let m in mData.contributions) {
     for (let n in mData.contributions[m].contributors) {
@@ -705,7 +703,7 @@ if (localStorage.getItem("typeMeta") === "submit") {
 "msg": [
 "${projectJ} Bulk Payment",
 "Recipients: ${totalRecipients}",${tokens}
-"Payment made by Treasury Guild @${xrate} ",
+"Payment made by Treasury Guild @${xrate}",
 "https://www.treasuryguild.io/"
 ],
 "contributions": ${descript}
