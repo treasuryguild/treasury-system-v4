@@ -1,0 +1,31 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "",
+  "msg": [
+    "Swarm Payment",
+    "Recipients: 1",
+    "0.56 USD in 1.34 ADA",
+    "0 USD in 50.00 GMBL",
+    "2.25 USD in 50.00 AGIX",
+    "Payment made by Treasury Guild @0.419",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Test please delete"
+      ],
+      "contributors": {
+        "Test": {
+          "ADA": "1.344798",
+          "GMBL": "50",
+          "AGIX": "50"
+        }
+      }
+    }
+  ]
+}
