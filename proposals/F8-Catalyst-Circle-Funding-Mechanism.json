@@ -3,7 +3,7 @@
     "proposal": "Catalyst Circle Funding Mechanism",
     "fund": "Fund 8",
     "budget": "75000",
-    "budgetItems": {"Incoming":"75000","Other":"10","Community-Advisors":"15000","Funded-Proposers":"15000","General-ADA-Holder":"15000","Stake-Pool-Operators":"15000","Toolmakers-and-Maintainers":"15000"},
+    "budgetItems": {"Incoming":"75000","Other":"10","Community-Advisors":"15000","Funded-Proposers":"15000","General-ADA-Holder":"15000","Stake-Pool-Operators":"15000","Toolmakers-and-Maintainers":"15000", "bulkPayments":"50000"},
     "ideascale": "https://cardano.ideascale.com/c/idea/403562",
     "wallet": "addr1q8pf7huj70hy04uy5dz03xnk6aycedh6crgftjlhnfe483etdl56g3r0jsp6zcdfzf4l6ysdz9u232z5mp28swllseeskh3p87"
 }
