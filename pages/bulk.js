@@ -178,32 +178,27 @@ window.onload = function() {
             //const {data} = await axios.get(`https://pool.pm/wallet/${walletEl}`)
             await walletStatus();
             await loadData(orgEl, repoEl, projectJ, fundJ, poolJ);
-            let bulkB = "bulk-payments"
+            let bulkB = "bulkPayments"
             totals[bulkB] = 0
             let bulkADA = 0
             for (let i in bi) {
               if (bi[i].mdVersion) {   ///This is pulling data from new version "bulk" or single "Budget items"
                 for (let k in bi[i].contributions) {
-                  console.log("Its alive", bi[i].contributions);
-                for (let j in budgetI) {  
-                  console.log("Its alive", budgetI);  
-                  if ( budgetI[j] == 'bulk-payments') {
+                for (let j in budgetI) {   
+                  if ( budgetI[j] == 'bulkPayments') {
                     for (let m in bi[i].contributions[k].contributors) {
-                      console.log("m", totals[budgetI[j]])
                       bulkADA = (parseFloat(bi[i].contributions[k].contributors[m].ADA?bi[i].contributions[k].contributors[m].ADA:0));
-                    totals[bulkB] = totals[bulkB] + bulkADA;
-                    totals.outgoing = totals.outgoing + bulkADA;
-                    console.log("totals", totals);
+                      totals[bulkB] = totals[bulkB] + bulkADA;
+                      totals.outgoing = totals.outgoing + bulkADA;
                   }
                   }        
                 }
               }
-                console.log("Its alive");
               } else {
                 y = bi[i].budget.replace(/\s/g, '-')    // THis is pulling data from old metadata
                 for (let j in budgetI) {    
                   if ( y == budgetI[j]) {
-                    if (y !== 'bulk-payments') {
+                    if (y !== 'bulkPayments') {
                       totals[y] = totals[y] + (parseFloat(bi[i].ada));
                       totals.outgoing = totals.outgoing + (parseFloat(bi[i].ada));
                     }

@@ -91,6 +91,7 @@ function getValue(name){
     const tfunds = getValue('total-funds-requested')   
     budgetItems.Incoming = tfunds;
     budgetItems.Other = "10";
+    budgetItems.bulkPayments = "50000";
     for (let i = 0; i < budgetList; i++) {
         if (i > 0) {
             x = `${getValue(k[i]).replace(/\s/g, '-')}`;
