@@ -179,6 +179,7 @@ window.onload = function() {
             await walletStatus();
             await loadData(orgEl, repoEl, projectJ, fundJ, poolJ);
             let bulkB = "bulk-payments"
+            totals[bulkB] = 0
             let bulkADA = 0
             for (let i in bi) {
               if (bi[i].mdVersion) {   ///This is pulling data from new version "bulk" or single "Budget items"
@@ -190,9 +191,9 @@ window.onload = function() {
                     for (let m in bi[i].contributions[k].contributors) {
                       console.log("m", totals[budgetI[j]])
                       bulkADA = (parseFloat(bi[i].contributions[k].contributors[m].ADA?bi[i].contributions[k].contributors[m].ADA:0));
-                    //totals[budgetI[j]] = totals[budgetI[j]] + bulkADA;
-                   // totals.outgoing = totals.outgoing + bulkADA;
-                    console.log("totals", bulkADA);
+                    totals[bulkB] = totals[bulkB] + bulkADA;
+                    totals.outgoing = totals.outgoing + bulkADA;
+                    console.log("totals", totals);
                   }
                   }        
                 }
