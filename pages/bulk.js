@@ -179,14 +179,14 @@ window.onload = function() {
             await walletStatus();
             await loadData(orgEl, repoEl, projectJ, fundJ, poolJ);
             for (let i in bi) {
-              if (bi[i].mdVersion) {   ///This is pulling data from new version "bulk" or single "Budget items"
-                y = bi[i].budget.replace(/\s/g, '-')
+              if (bi[i].mdVersion[0] === "1.0") {   ///This is pulling data from new version "bulk" or single "Budget items"
+               /* y = bi[i].budget.replace(/\s/g, '-')
                 for (let j in budgetI) {    
                   if ( y == budgetI[j]) {
                     totals[y] = totals[y] + (parseFloat(bi[i].ada));
                     totals.outgoing = totals.outgoing + (parseFloat(bi[i].ada));
                   }        
-                }
+                }*/
               } else {
                 y = bi[i].budget.replace(/\s/g, '-')    // THis is pulling data from old metadata
                 for (let j in budgetI) {    
