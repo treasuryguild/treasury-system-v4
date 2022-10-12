@@ -179,19 +179,24 @@ window.onload = function() {
             await walletStatus();
             await loadData(orgEl, repoEl, projectJ, fundJ, poolJ);
             let bulkB = "bulkPayments"
-            totals[bulkB] = 0
-            let bulkADA = 0
+            totals[bulkB] = 0;
+            let bulkADA = 0;
             for (let i in bi) {
               if (bi[i].mdVersion) {   ///This is pulling data from new version "bulk" or single "Budget items"
                 for (let k in bi[i].contributions) {
                 for (let j in budgetI) {   
-                  if ( budgetI[j] == 'bulkPayments') {
+                  if ( budgetI[j] == 'bulkPayments' && bi[i].contributions[k].label !== "Incoming") {  
                     for (let m in bi[i].contributions[k].contributors) {
                       bulkADA = (parseFloat(bi[i].contributions[k].contributors[m].ADA?bi[i].contributions[k].contributors[m].ADA:0));
                       totals[bulkB] = totals[bulkB] + bulkADA;
                       totals.outgoing = totals.outgoing + bulkADA;
                   }
-                  }        
+                  } else if ( budgetI[j] == 'bulkPayments' && bi[i].contributions[k].label == "Incoming") {
+                    for (let m in bi[i].contributions[k].contributors) {
+                      bulkADA = (parseFloat(bi[i].contributions[k].contributors[m].ADA?bi[i].contributions[k].contributors[m].ADA:0));
+                      totals[bi[i].contributions[k].label] = totals[bi[i].contributions[k].label] + bulkADA;       
+                  }
+                  }       
                 }
               }
               } else {
@@ -200,13 +205,15 @@ window.onload = function() {
                   if ( y == budgetI[j]) {
                     if (y !== 'bulkPayments') {
                       totals[y] = totals[y] + (parseFloat(bi[i].ada));
-                      totals.outgoing = totals.outgoing + (parseFloat(bi[i].ada));
+                      if (y !== 'Incoming') {
+                        totals.outgoing = totals.outgoing + (parseFloat(bi[i].ada));
+                      }
                     }
                   }        
                 }
               }
             };
-            
+            console.log("totals.outgoing",totals.outgoing)
             if (Array.isArray(topData2.tokens) && topData2.tokens.length) {
               for (let i in topData2.tokens) {
                 tokensList.push(topData2.tokens[i].name);
