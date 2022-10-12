@@ -178,21 +178,21 @@ window.onload = function() {
                 }
               }
             };
-            
-            if (Array.isArray(data.tokens) && data.tokens.length) {
-              for (let i in data.tokens) {
-                tokensList.push(data.tokens[i].name);
-                switch(data.tokens[i].name) {
+      
+            if (Array.isArray(topData2.tokens) && topData2.tokens.length) { //checking if there are tokens
+              for (let i in topData2.tokens) {
+                tokensList.push(topData2.tokens[i].name);
+                switch(topData2.tokens[i].name) {
                   case 'gimbal':
-                    balGMBL = (data.tokens[i].quantity/1000000).toFixed(2);
+                    balGMBL = (topData2.tokens[i].quantity/1000000).toFixed(2);
                     break;
                   case 'AGIX':
-                    balAGIX = (data.tokens[i].quantity/100000000).toFixed(2);
+                    balAGIX = (topData2.tokens[i].quantity/100000000).toFixed(2);
                     break;
                 }
               }
           }
-            console.log(balAGIX);
+            console.log("AGIX",balAGIX);
             console.log(tokensList);
             saveEl2.textContent = "₳ " + parseFloat(balance).toFixed(2)
             document.getElementById("save-el2").style.width = (balance/topData.budget*100)+"%"
@@ -346,7 +346,7 @@ function validateSubmission(){
   for (let i in tokens) {
     if (tokens[i] != "") {
       tok = `${tok}
-"${tokens2[i]}" : "${parseFloat(tokens[i]).toFixed(6)}",`;
+"${tokens2[i]}" : "${parseFloat(tokens[i]).toFixed(2)}",`;
       tok2 = `${tok2}
 ${parseFloat(tokens[i]).toFixed(2)} ${tokens3[i]} `;
       tok3.push(`"${tokens3[i]}": "${tokens[i]}"`);
