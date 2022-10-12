@@ -865,13 +865,20 @@ switch(project) {
 return answer
 }
 
+let finalUrl = (`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "new?value=" + encodedMetaData +"&filename=" + filename);
 
-  function openWindows() {
-    window.open(`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "new?value=" + encodedMetaData +"&filename=" + filename);
+if (finalUrl.length > 2048) {
+  alert("url too long");
+  finalUrl = (`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "new?&filename=" + filename);
+} 
+
+function openWindows() {
+    window.open(finalUrl);
     window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok2}+Outgoing&labels=Outgoing,${pool},${fund}&body=` + encodedFileText);  
     setTimeout(() => {window.location.reload()}, 10000);
     //setTimeout(() => {console.log("this is the second message")}, 3000);
     //window.location.reload();
   }
+
   openWindows();
 }
