@@ -806,7 +806,7 @@ ${tokens[i]} ${tokens3[i]} `;
   
   
   //generate a filename
-  const filename = new Date().getTime().toString() + '-' + projectJ.replace(/\s/g, '-') + "-bulk-transaction-" + ".json"
+  const filename = new Date().getTime().toString() + '-' + projectJ.replace(/\s/g, '-') + "-bulkTransaction" + ".json"
   
   //Generate a string mimicing the file structure
   //Indentation is important here
@@ -867,10 +867,10 @@ return answer
 
 let finalUrl = (`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "new?value=" + encodedMetaData +"&filename=" + filename);
 
-if (finalUrl.length > 2048) {
+/*if (finalUrl.length > 2048) {
   alert("url too long");
   finalUrl = (`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "new?&filename=" + filename);
-} 
+} */
 
 function openWindows() {
     window.open(finalUrl);

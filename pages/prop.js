@@ -441,7 +441,7 @@ let fileText = `{
 "msg": [
 "${projectJ} Transaction",
 "Recipients: 1",${totalTokens}
-"Payment made by Treasury Guild @${xrate}",
+"Transaction made by Treasury Guild @${xrate}",
 "https://www.treasuryguild.io/"
 ],
 "contributions": [
