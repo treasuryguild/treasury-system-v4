@@ -1,0 +1,579 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid":"73d3b89672162a3bc871d68487af417f3945c8528db92806ea0428b13bc00827",
+  "msg": [
+    "Swarm Bulk Payment",
+    "Recipients: 23",
+    "59.25 USD in 150.00 ADA",
+    "0 USD in 10295.00 GMBL",
+    "21.20 USD in 400.00 AGIX",
+    "Payment made by Treasury Guild @0.395",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH Brainswarming Call - 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Natalie - 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "8n4qu4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Raido - 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "4xmmmf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Community Governance - Expert Group - Weekly Call - 150",
+        "Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "uw6w3e": {
+          "gimbal": 150
+        },
+        "uveq4y": {
+          "gimbal": 150
+        },
+        "jy7s8e": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Community Governance - Expert Group - Weekly Call 1 -",
+        "150 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "uveq4y": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        },
+        "jy7s8e": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Community Governance - Expert Group - Weekly Call 2 -",
+        "150 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "uveq4y": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Community Governance - Expert Group - Weekly Call 3 -",
+        "150 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Community Governance - Expert Group - Weekly Call 4 -",
+        "150 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "xl6z2n": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Community suggestion - Name a Working Group - Reward 250",
+        "AGIX & 250 GMBL"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 250,
+          "AGIX": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Coordination Call - 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Create overview of considerations around templating for",
+        "translations -100 Gimbal"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Create Translation Task Template -100 Gimbal"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create your Fund 9 Voting Challenge Setting Picklist - Earn",
+        "250 Gimbals"
+      ],
+      "label": "Governance",
+      "contributors": {
+        "llj74u": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create your Fund 9 Voting Picklist - Earn 250 Gimbals"
+      ],
+      "label": "Governance",
+      "contributors": {
+        "llj74u": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Ecosystem Planet Map - MVP - 500 Gimbal"
+      ],
+      "label": "Development",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 500
+        },
+        "n7qgup": {
+          "gimbal": 500
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Ambassador Town Hall - Earn 100 GMBL"
+      ],
+      "label": "Ambassador Town Hall",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "lchsml": {
+          "gimbal": 100
+        },
+        "jwrar0": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Ambassador Town Hall 1 - Earn 100 GMBL"
+      ],
+      "label": "Ambassador Town Hall",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "ye2czd": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Ambassador Town Hall 2 - Earn 100 GMBL"
+      ],
+      "label": "Ambassador Town Hall",
+      "contributors": {
+        "ye2czd": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join Saturday Swarm Session Sept 10 - Earn 100 GMBL"
+      ],
+      "label": "Swarm Session",
+      "contributors": {
+        "4xmmmf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Onboarding Vlatka 18.08.22 - 200 GMBL"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "a95ysr": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Onboarding Vlatka 19.08.22 - 150 GMBL"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "a95ysr": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Organizing & Executing After Town Hall - 200 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200
+        },
+        "8n4qu4": {
+          "gimbal": 200
+        },
+        "f0qnsw": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Process Guild weekly Meeting - 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "jwrar0": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "SATH TH - Initiation - Final Call"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Saturday Swarm Session - 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "g8glkf": {
+          "gimbal": 100
+        },
+        "9qgazv": {
+          "gimbal": 100
+        },
+        "ex7942": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "6lcdjr": {
+          "gimbal": 100
+        },
+        "g8t0fm": {
+          "gimbal": 100
+        },
+        "429vj2": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Snet Community Governance Expert Group - Weekly Call - 150",
+        "Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "uw6w3e": {
+          "gimbal": 150
+        },
+        "uveq4y": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Submit Proposal Onboarding form - 45 Gimbals"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 45
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "SWARM NFT Design Session - 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "8n4qu4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Ambassador Town Hall Meeting#10 - Earn 50",
+        "Ada & 50 AGIX &  50 Gimbal"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "mx4mae": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Ambassador Town Hall Meeting#12 - Earn 50",
+        "Ada & 50 AGIX &  50 Gimbal"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "7nwka4": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Ambassador Town Hall Meeting#19 - Earn 50",
+        "Ada & 50 AGIX &  50 gimbal"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "mx4mae": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translation Task Process mapping - 200 Gimbal"
+      ],
+      "label": "Documentation",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly ATH Team meeting - 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "9qgazv": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly ATH Team meeting 1 - 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        },
+        "8n4qu4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly ATH Team meeting 2 - 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        },
+        "8n4qu4": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}
