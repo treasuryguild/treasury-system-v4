@@ -3,7 +3,7 @@
     "proposal": "Treasury Swarm pool Rewards",
     "fund": "Fund 8",
     "budget": "113000",
-    "budgetItems": {"Incoming":"113000","Swap":"5000","Other":"50","Comm-Org-Tools":"2000","Bounty":"10000","Swarm-Contributors":"100000","Treasury-Guild-Multi-Payment-Wallet":"1000", "bulkPayments":"50000"},
+    "budgetItems": {"Incoming":"113000","Swap":"5000","Other":"50","Comm-Org-Tools":"2000","Bounty":"10000","Swarm-Contributors":"100000","Treasury-Guild-Multi-Payment-Wallet":"1000", "bulkTransactions":"50000"},
     "ideascale": "https://cardano.ideascale.com/c/idea/402129",
     "wallet": "addr1q96f9jvcse4jqrdncag0hqz64r62w0tfqx5mcj2k46e0cgdvgqyp479ltqd20tht8htrw6rp4yplryecgumdf9he3glq695e9d"
 }

@@ -3,7 +3,7 @@
     "proposal": "Swarm Treasury Wallet",
     "fund": "Fund 8",
     "budget": "70000",
-    "budgetItems": {"Incoming":"70000","Other":"10","Swap":"5000","Bounty":"5000","Swarm-Contributors":"55000","Comm-Org-Tools":"5000", "bulkPayments":"50000"},
+    "budgetItems": {"Incoming":"70000","Other":"10","Swap":"5000","Bounty":"5000","Swarm-Contributors":"55000","Comm-Org-Tools":"5000", "bulkTransactions":"50000"},
     "ideascale": "https://cardano.ideascale.com/c/idea/402129",
     "wallet": "addr1qxhxg0mwzahfv8x4nr5s9zmffssxueqsnxxv282kz2c30nykg8fw8x99crukwyc7yftwfgxmhsu2xx0n8elfvj7mljlqm45kgs"
 }

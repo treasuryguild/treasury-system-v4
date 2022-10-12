@@ -178,20 +178,20 @@ window.onload = function() {
             //const {data} = await axios.get(`https://pool.pm/wallet/${walletEl}`)
             await walletStatus();
             await loadData(orgEl, repoEl, projectJ, fundJ, poolJ);
-            let bulkB = "bulkPayments"
+            let bulkB = "bulkTransactions"
             totals[bulkB] = 0;
             let bulkADA = 0;
             for (let i in bi) {
               if (bi[i].mdVersion) {   ///This is pulling data from new version "bulk" or single "Budget items"
                 for (let k in bi[i].contributions) {
                 for (let j in budgetI) {   
-                  if ( budgetI[j] == 'bulkPayments' && bi[i].contributions[k].label !== "Incoming") {  
+                  if ( budgetI[j] == 'bulkTransactions' && bi[i].contributions[k].label !== "Incoming") {  
                     for (let m in bi[i].contributions[k].contributors) {
                       bulkADA = (parseFloat(bi[i].contributions[k].contributors[m].ADA?bi[i].contributions[k].contributors[m].ADA:0));
                       totals[bulkB] = totals[bulkB] + bulkADA;
                       totals.outgoing = totals.outgoing + bulkADA;
                   }
-                  } else if ( budgetI[j] == 'bulkPayments' && bi[i].contributions[k].label == "Incoming") {
+                  } else if ( budgetI[j] == 'bulkTransactions' && bi[i].contributions[k].label == "Incoming") {
                     for (let m in bi[i].contributions[k].contributors) {
                       bulkADA = (parseFloat(bi[i].contributions[k].contributors[m].ADA?bi[i].contributions[k].contributors[m].ADA:0));
                       totals[bi[i].contributions[k].label] = totals[bi[i].contributions[k].label] + bulkADA;       
@@ -203,7 +203,7 @@ window.onload = function() {
                 y = bi[i].budget.replace(/\s/g, '-')    // THis is pulling data from old metadata
                 for (let j in budgetI) {    
                   if ( y == budgetI[j]) {
-                    if (y !== 'bulkPayments') {
+                    if (y !== 'bulkTransactions') {
                       totals[y] = totals[y] + (parseFloat(bi[i].ada));
                       if (y !== 'Incoming') {
                         totals.outgoing = totals.outgoing + (parseFloat(bi[i].ada));
@@ -723,9 +723,9 @@ if (localStorage.getItem("typeMeta") === "submit") {
   let metaDataExport = `{
 "mdVersion": ["1.0"],${txid}
 "msg": [
-"${projectJ} Bulk Payment",
+"${projectJ} Bulk Transaction",
 "Recipients: ${totalRecipients}",${tokens}
-"Payment made by Treasury Guild @${xrate}",
+"Transaction made by Treasury Guild @${xrate}",
 "https://www.treasuryguild.io/"
 ],
 "contributions": ${descript}
@@ -806,7 +806,7 @@ ${tokens[i]} ${tokens3[i]} `;
   
   
   //generate a filename
-  const filename = new Date().getTime().toString() + '-' + projectJ.replace(/\s/g, '-') + "-bulk-payment" + ".json"
+  const filename = new Date().getTime().toString() + '-' + projectJ.replace(/\s/g, '-') + "-bulk-transaction-" + ".json"
   
   //Generate a string mimicing the file structure
   //Indentation is important here
@@ -817,12 +817,12 @@ ${tokens[i]} ${tokens3[i]} `;
 "project": "${projectJ}",
 "proposal": "${poolJ}",
 "ideascale": "${ideaJ}",
-"budget": "Bulk Payment",
+"budget": "Bulk transactions",
 "name": "${projectJ} contributors",
 "exchangeRate": "${xrate} USD per ADA",${tok}
 "walletBalance": [${newBal}],
 "txid": "",
-"description": "Payment to ${totalRecipients} contributors"
+"description": "Rewards to ${totalRecipients} contributors"
 }
 `
   
@@ -839,7 +839,7 @@ console.log("issueDataExport", JSON.parse(fileText));
   }
 
   function githubQueryLink2() {
-    var answer = "bulk-payments/";
+    var answer = "bulkTransactions/";
     return answer;
   }
   //
