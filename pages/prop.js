@@ -159,13 +159,21 @@ window.onload = function() {
                 for (let j in budgetI) {   
                   if ( budgetI[j] == 'bulkTransactions' && bi[i].contributions[k].label !== "Incoming") {  
                     for (let m in bi[i].contributions[k].contributors) {
-                      bulkADA = (parseFloat(bi[i].contributions[k].contributors[m].ADA?bi[i].contributions[k].contributors[m].ADA:0));
+                      if (bi[i].contributions[k].contributors[m].ADA) {
+                        bulkADA = (parseFloat(bi[i].contributions[k].contributors[m].ADA?bi[i].contributions[k].contributors[m].ADA:0));
+                      } else if (bi[i].contributions[k].contributors[m].ada) {
+                        bulkADA = (parseFloat(bi[i].contributions[k].contributors[m].ada?bi[i].contributions[k].contributors[m].ada:0));
+                      } else { bulkADA = 0 }
                       totals[bulkB] = totals[bulkB] + bulkADA;
                       totals.outgoing = totals.outgoing + bulkADA;
                   }
                   } else if ( budgetI[j] == 'bulkTransactions' && bi[i].contributions[k].label == "Incoming") {
                     for (let m in bi[i].contributions[k].contributors) {
-                      bulkADA = (parseFloat(bi[i].contributions[k].contributors[m].ADA?bi[i].contributions[k].contributors[m].ADA:0));
+                      if (bi[i].contributions[k].contributors[m].ADA) {
+                        bulkADA = (parseFloat(bi[i].contributions[k].contributors[m].ADA?bi[i].contributions[k].contributors[m].ADA:0));
+                      } else if (bi[i].contributions[k].contributors[m].ada) {
+                        bulkADA = (parseFloat(bi[i].contributions[k].contributors[m].ada?bi[i].contributions[k].contributors[m].ada:0));
+                      } else { bulkADA = 0 }
                       totals[bi[i].contributions[k].label] = totals[bi[i].contributions[k].label] + bulkADA;       
                   }
                   }       
