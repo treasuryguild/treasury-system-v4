@@ -1,0 +1,27 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "bc9f98d02520d685b60c42110762eb67d5f4189783b1ee8bf040dbcf8b10ff74",
+  "msg": [
+    "Swarm Transaction",
+    "Recipients: 1",
+    "111.18 USD in 297.26 ADA",
+    "Transaction made by Treasury Guild @0.374",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Swarm Pool Block rewards"
+      ],
+      "contributors": {
+        "Swarm": {
+          "ADA": "297.263394"
+        }
+      }
+    }
+  ]
+}
