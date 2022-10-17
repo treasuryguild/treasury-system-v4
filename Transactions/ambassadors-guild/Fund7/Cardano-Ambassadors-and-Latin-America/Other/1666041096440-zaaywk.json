@@ -1,0 +1,27 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "dbffae81c16cb924eb8a902efe9994132e6eb8680c57860b8f8d1178add27db9",
+  "msg": [
+    "ambassadors-guild Transaction",
+    "Recipients: 1",
+    "5811.58 USD in 15664.63 ADA",
+    "Transaction made by Treasury Guild @0.371",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "ambassadors-guild",
+      "label": "Other",
+      "description": [
+        "Coordination mentoring and content research"
+      ],
+      "contributors": {
+        "zaaywk": {
+          "ADA": "15664.634537"
+        }
+      }
+    }
+  ]
+}
