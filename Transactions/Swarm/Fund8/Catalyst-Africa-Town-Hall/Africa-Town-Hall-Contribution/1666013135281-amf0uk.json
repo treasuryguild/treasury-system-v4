@@ -1,0 +1,27 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "6a7afbf816af6ff293c1b7e5742436d03bcec2041d1d001019fafd1486acbdd5",
+  "msg": [
+    "Swarm Transaction",
+    "Recipients: 1",
+    "427.63 USD in 1146.45 ADA",
+    "Transaction made by Treasury Guild @0.373",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Africa-Town-Hall-Contribution",
+      "description": [
+        "Reward for Africa Town Hall Contributions"
+      ],
+      "contributors": {
+        "amf0uk": {
+          "ADA": "1146.454637"
+        }
+      }
+    }
+  ]
+}
