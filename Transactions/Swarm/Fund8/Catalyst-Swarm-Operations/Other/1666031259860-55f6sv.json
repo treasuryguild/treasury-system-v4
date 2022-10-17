@@ -1,0 +1,27 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "1984e1ed1b80ae54de0e715dce8fe4eb9a65da5a0e0b768dc3ca885c7dcac7a0",
+  "msg": [
+    "Swarm Transaction",
+    "Recipients: 1",
+    "5.98 USD in 16.09 ADA",
+    "Transaction made by Treasury Guild @0.372",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Other",
+      "description": [
+        "Withdraw staking funds 16.087525"
+      ],
+      "contributors": {
+        "55f6sv": {
+          "ADA": "16.087525"
+        }
+      }
+    }
+  ]
+}
