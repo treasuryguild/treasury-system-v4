@@ -875,10 +875,10 @@ return answer
 
 let finalUrl = (`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "new?value=" + encodedMetaData +"&filename=" + filename);
 
-/*if (finalUrl.length > 2048) {
+if (finalUrl.length > 2048) {
   alert("url too long");
   finalUrl = (`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "new?&filename=" + filename);
-} */
+} 
 
 function openWindows() {
     window.open(finalUrl);
