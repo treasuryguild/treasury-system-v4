@@ -2,24 +2,24 @@
   "mdVersion": [
     "1.0"
   ],
-  "txid": "bc9f98d02520d685b60c42110762eb67d5f4189783b1ee8bf040dbcf8b10ff74",
+  "txid": "7ac8749467ed65cf3a8c6051dacdc8d0dfbf4648e8ce5bfe38b0aea9ce553c08",
   "msg": [
     "Swarm Transaction",
     "Recipients: 1",
-    "111.18 USD in 297.26 ADA",
+    "24.20 USD in 64.71 ADA",
     "Transaction made by Treasury Guild @0.374",
     "https://www.treasuryguild.io/"
   ],
   "contributions": [
     {
       "taskCreator": "Swarm",
-      "label": "Incoming",
+      "label": "Other",
       "description": [
-        "Swarm Pool Block rewards"
+        "Withdraw staking funds 64.714664"
       ],
       "contributors": {
-        "Block rewards": {
-          "ADA": "297.263394"
+        "xga6zh": {
+          "ADA": "64.714664"
         }
       }
     }
