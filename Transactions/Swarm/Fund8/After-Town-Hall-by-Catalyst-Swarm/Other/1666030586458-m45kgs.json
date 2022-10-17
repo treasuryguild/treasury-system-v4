@@ -1,0 +1,27 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "a4f15ca37496869b0c4daeab959c1af772c9f854502c1f8d900f5fa8221e6737",
+  "msg": [
+    "Swarm Transaction",
+    "Recipients: 1",
+    "7581.45 USD in 20271.26 ADA",
+    "Transaction made by Treasury Guild @0.374",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Other",
+      "description": [
+        "Moving funds to Swarm Treasury wallet"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": "20271.257454"
+        }
+      }
+    }
+  ]
+}
