@@ -1,0 +1,27 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "bd4bf8019d058146e0045568bcae45bcc2576b99f53b7709a2043244545caaf4",
+  "msg": [
+    "Swarm Transaction",
+    "Recipients: 1",
+    "7516.16 USD in 20204.74 ADA",
+    "Transaction made by Treasury Guild @0.371",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "IOG payment for close out Report last installemnt"
+      ],
+      "contributors": {
+        "IOG": {
+          "ADA": "20204.741379"
+        }
+      }
+    }
+  ]
+}
