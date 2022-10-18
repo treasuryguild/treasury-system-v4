@@ -1,0 +1,27 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "d89fdaf939b28eef6bdc5c0f68e8a3dfca052d7d35220e21365c76ae5d2e18eb",
+  "msg": [
+    "Catalyst-Circle Transaction",
+    "Recipients: 1",
+    "601.62 USD in 1621.62 ADA",
+    "Transaction made by Treasury Guild @0.371",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Circle",
+      "label": "Toolmakers-and-Maintainers",
+      "description": [
+        "Subcircle remuneration"
+      ],
+      "contributors": {
+        "v7zqhy": {
+          "ADA": "1621.621622"
+        }
+      }
+    }
+  ]
+}
