@@ -1,0 +1,27 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "7ae0f37d833dc50acc5f8d7b9480105ae3f5cc2a488a52209f252d616eaf5eda",
+  "msg": [
+    "ambassadors-guild Transaction",
+    "Recipients: 1",
+    "4010.81 USD in 10810.81 ADA",
+    "Transaction made by Treasury Guild @0.371",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "ambassadors-guild",
+      "label": "Other",
+      "description": [
+        "Reward for Ambassador contributions"
+      ],
+      "contributors": {
+        "jmfsc9": {
+          "ADA": "10810.81081"
+        }
+      }
+    }
+  ]
+}
