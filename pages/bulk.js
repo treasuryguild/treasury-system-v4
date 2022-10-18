@@ -699,7 +699,7 @@ if (bulkType === "Dework Bulk") {
       }
     }
   }
-  totalRecipients = reps.length;
+  totalRecipients = reps.length + 1;
   ada = parseFloat(totalADA).toFixed(2);
   gmbl = parseFloat(totalGMBL).toFixed(2);
   agix = parseFloat(totalAGIX).toFixed(2);
