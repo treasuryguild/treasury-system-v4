@@ -562,7 +562,7 @@ async function createReps() {
   let val3 = [];
   let rowNum = 0;
   let rowNum2 = 0;
-  totalRecipients = 0;
+  totalRecipients = 1;
   metaData.contributors = [];
   
   for (i in fieldIdArr) {
@@ -674,7 +674,7 @@ if (bulkType === "Dework Bulk") {
   totalGMBL = 0;
   totalAGIX = 0;
   let reps = []
-  totalRecipients = 0;
+  totalRecipients = 1;
   const deworkData = JSON.parse(getValue('dework'));
   const mData = deworkData.metadata[674];
   //const metaDataExample = await axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/data/exampleMetaData.json`);
@@ -699,7 +699,7 @@ if (bulkType === "Dework Bulk") {
       }
     }
   }
-  totalRecipients = reps.length + 1;
+  totalRecipients = reps.length;
   ada = parseFloat(totalADA).toFixed(2);
   gmbl = parseFloat(totalGMBL).toFixed(2);
   agix = parseFloat(totalAGIX).toFixed(2);
