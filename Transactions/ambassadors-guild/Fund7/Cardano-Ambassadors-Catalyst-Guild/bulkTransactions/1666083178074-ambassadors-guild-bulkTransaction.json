@@ -1,0 +1,39 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "638ba6e251596a8cf314aaaa69607f92f382afcd98b5a4c23cde7b84f40b2f86",
+  "msg": [
+    "ambassadors-guild Bulk Transaction",
+    "Recipients: 2",
+    "2484.85 USD in 6734.00 ADA",
+    "Transaction made by Treasury Guild @0.369",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "ambassadors guild",
+      "description": [
+        "Final remuneration"
+      ],
+      "label": "Other",
+      "contributors": {
+        "e2te25": {
+          "ADA": "6234"
+        }
+      }
+    },
+    {
+      "taskCreator": "ambassadors guild",
+      "description": [
+        "Management of proposal budget"
+      ],
+      "label": "Treasury Management",
+      "contributors": {
+        "fqstnm": {
+          "ADA": "500"
+        }
+      }
+    }
+  ]
+}
