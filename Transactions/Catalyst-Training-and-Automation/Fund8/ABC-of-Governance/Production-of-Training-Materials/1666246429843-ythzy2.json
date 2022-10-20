@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "151f46c9f8381fdb846409342e8e74319c3a1ab37a9dab7f61aa1f89b32bc7b5",
+  "msg": [
+    "Catalyst-Training-and-Automation Transaction",
+    "Recipients: 1",
+    "9.23 USD in 26.00 ADA",
+    "Transaction made by Treasury Guild @0.355",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Training-and-Automation",
+      "label": "Production-of-Training-Materials",
+      "description": [
+        "Reward for Portuguese and Spanish translation of Voltaire",
+        "Principles"
+      ],
+      "contributors": {
+        "ythzy2": {
+          "ADA": "26"
+        }
+      }
+    }
+  ]
+}
