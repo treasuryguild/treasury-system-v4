@@ -479,7 +479,7 @@ async function loadSheet() {
   
       payeeList.push(csvJson[i].payeeID);   
     }
-    li6.innerHTML = (`${sheetnames[selectedSheet].replace(/\..+$/, '')}<button type='button' onclick='copyMeta()' id='createMeta' class ='metaButton'>Copy Metadata</button>`);
+    li6.innerHTML = (`${sheetnames[selectedSheet].replace(/\..+$/, '')}<button type='button' onclick='copyMeta()' id='createMeta' class ='metaButton'>Copy Metadata for Typhon</button>`);
     ul6.appendChild(li6);   
     table.appendChild(row);
     ul6.appendChild(table);
@@ -520,10 +520,10 @@ async function listQ(){
         required
     ></textarea>
             `);
-    li7.innerHTML = (`<button type='button' onclick='copyMeta()' id='createMeta' class ='metaButton'>Copy Metadata</button>`);
+    //li7.innerHTML = (`<button type='button' onclick='copyMetaForJson()' id='createMeta' class ='metaButton'>Copy Metadata</button>`);
     console.log("bulkType",bulkType);
     ul5.appendChild(li5);
-    ul7.appendChild(li7);
+    //ul7.appendChild(li7);
   } else if (bulkType === "Manual Bulk") {
     await selectSheet();
     document.getElementById("sheetList").onchange = loadSheet;
@@ -673,7 +673,8 @@ if (bulkType === "Dework Bulk") {
   totalADA = 0;
   totalGMBL = 0;
   totalAGIX = 0;
-  let reps = []
+  let reps = [];
+  let repsADA = {};
   totalRecipients = 1;
   const deworkData = JSON.parse(getValue('dework'));
   const mData = deworkData.metadata[674];
@@ -685,11 +686,13 @@ if (bulkType === "Dework Bulk") {
       let contVals = mData.contributions[m].contributors;
       if (!reps.includes(n)) {
         reps.push(n)
+        repsADA[n] = 0;
       }
       console.log("contributor",n)
       for (let l in contVals[n]) {
         if (l === "ada" || l === "ADA") {
           totalADA = totalADA + contVals[n][l]
+          repsADA[n] = repsADA[n] + contVals[n][l]
           console.log("ADA", l)
         } else if (l === "gimbal" || l === "GMBL") {
           totalGMBL = totalGMBL + contVals[n][l]
@@ -699,17 +702,26 @@ if (bulkType === "Dework Bulk") {
       }
     }
   }
+  for (let m in mData.contributions) {
+    for (let n in mData.contributions[m].contributors) {
+      if (repsADA[n] == 0) {
+        repsADA[n] = 1.344798;
+        totalADA = totalADA + repsADA[n]
+      }
+    }
+  }
   totalRecipients = reps.length;
   ada = parseFloat(totalADA).toFixed(2);
-  gmbl = parseFloat(totalGMBL).toFixed(2);
-  agix = parseFloat(totalAGIX).toFixed(2);
+  gmbl = (parseFloat(totalGMBL).toFixed(2)>0?parseFloat(totalGMBL).toFixed(2):"");
+  agix = (parseFloat(totalAGIX).toFixed(2)>0?parseFloat(totalAGIX).toFixed(2):"");
   descript = JSON.stringify(mData.contributions, null, 2);
+  //console.log("repsADA", repsADA)
 } else {
 
 //save all the input values
   ada = parseFloat(totalADA).toFixed(2);
-  gmbl = parseFloat(totalGMBL).toFixed(2);
-  agix = parseFloat(totalAGIX).toFixed(2);
+  gmbl = (parseFloat(totalGMBL).toFixed(2)>0?parseFloat(totalGMBL).toFixed(2):"");
+  agix = (parseFloat(totalAGIX).toFixed(2)>0?parseFloat(totalAGIX).toFixed(2):"");
   descript = JSON.stringify(contributions, null, 2);
 }
 
@@ -721,7 +733,7 @@ let tAda = (totalADA>0?(`
 "${totalAGIX>0?((totalAGIX*currentXchangeAgix).toFixed(2) + " USD in " + totalAGIX.toFixed(2) + " AGIX"):""}",`):"");
   let tokens = `${tAda}${tGmbl}${tAgix}`
 let txid = "";
-if (localStorage.getItem("typeMeta") === "submit") {
+if (localStorage.getItem("typeMeta") === "submit" || localStorage.getItem("typeMeta") === "copyForJson") {
   txid = (`
 "txid": "",`)
 } else {
@@ -729,7 +741,7 @@ if (localStorage.getItem("typeMeta") === "submit") {
 }
 
   let metaDataExport = `{
-"mdVersion": ["1.0"],${txid}
+"mdVersion": ["1.1"],${txid}
 "msg": [
 "${projectJ} Bulk Transaction",
 "Recipients: ${totalRecipients}",${tokens}
@@ -755,6 +767,14 @@ async function copyMeta() {
   navigator.clipboard.writeText(mData);
 }
 
+async function copyMetaForJson() {
+  localStorage.setItem("typeMeta", "copyForJson");
+  const metaData = await createMetadata();
+  var mData = (metaData);
+  console.log("mData",mData);
+  navigator.clipboard.writeText(mData);
+}
+
 async function getExchange() {
   axios.get('https://api.coingecko.com/api/v3/simple/price?ids=cardano&vs_currencies=usd').then(response => {
     const rate = response.data.cardano.usd;
@@ -770,7 +790,6 @@ async function getExchange() {
   });
 }
 getExchange();
-
 
 async function validateSubmission(){
   localStorage.setItem("typeMeta", "submit");
@@ -876,17 +895,16 @@ return answer
 let finalUrl = (`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "new?value=" + encodedMetaData +"&filename=" + filename);
 
 if (finalUrl.length > 2048) {
-  alert("url too long");
+  copyMetaForJson();
   finalUrl = (`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "new?&filename=" + filename);
 } 
 
-function openWindows() {
-    window.open(finalUrl);
+setTimeout(function openWindows() {
     window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok2}+Outgoing&labels=Outgoing,${pool},${fund}&body=` + encodedFileText);  
+    window.open(finalUrl);
     setTimeout(() => {window.location.reload()}, 10000);
     //setTimeout(() => {console.log("this is the second message")}, 3000);
     //window.location.reload();
-  }
+  }, 500);
 
-  openWindows();
 }
