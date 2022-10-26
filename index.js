@@ -51,8 +51,8 @@ async function menuMaker() {
     const bi3 = await getProposals2();
     globalBi = bi3;
     console.log('lordBi2',bi3);
+    let ul3 = document.getElementById('list');
     for (let i in bi3) {
-        let ul3 = document.getElementById('list');
         let propValue = (bi3[i].project);
         if (!projList.includes(bi3[i].project)) {
             projList.push(bi3[i].project);
@@ -67,6 +67,8 @@ async function menuMaker() {
               while (ul3.hasChildNodes()) {
                   ul3.removeChild(ul3.firstChild);
                 }
+                li3.innerHTML = (`Choose a group`);
+                ul3.appendChild(li3); 
               }    
           }  
            
