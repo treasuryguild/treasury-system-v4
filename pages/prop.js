@@ -359,6 +359,18 @@ function validateSubmission(){
   let tokens3 = ["ADA", "GMBL", "AGIX"];
   let isSwap3 = "";
 
+if (budgetB == "Incoming") {
+  for (let i in tokens) {
+    if (tokens[i] != "") {
+      tok = `${tok}
+"${tokens2[i]}" : "${parseFloat(tokens[i]).toFixed(6)}",`;
+      tok2 = `${tok2}
+${parseFloat(tokens[i]).toFixed(6)} ${tokens3[i]} `;
+      tok3.push(`"${tokens3[i]}": "${tokens[i]}"`);
+    }
+  }
+} else {
+
   for (let i in tokens) {
     if (tokens[i] != "") {
       tok = `${tok}
@@ -368,6 +380,7 @@ ${parseFloat(tokens[i]).toFixed(2)} ${tokens3[i]} `;
       tok3.push(`"${tokens3[i]}": "${tokens[i]}"`);
     }
   }
+}
 
   if (budgetB == "Incoming") {
      newBal = `"${parseFloat(balance).toFixed(2)} ADA"`;
@@ -444,7 +457,7 @@ for (let i = 0; i < descript.length; i++) {
 }
 
 let fileText = `{
-"mdVersion": ["1.0"],
+"mdVersion": ["1.1"],
 "txid": "",
 "msg": [
 "${projectJ} Transaction",
