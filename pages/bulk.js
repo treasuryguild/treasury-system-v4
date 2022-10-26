@@ -19,6 +19,10 @@ let fieldId = 0;
 let fieldIdArr = [];
 
 // Calc values
+let budgetStatus = true;
+let budgetChanges = [];
+let walletStatus2 = true;
+let walletChanges = [];
 let balance = "";
 let balAGIX = "";
 let balGMBL = "";
@@ -165,9 +169,18 @@ window.onload = function() {
 
           async function walletStatus() {
             const {data} = await axios.get(`https://pool.pm/wallet/${walletEl}`)
+            let budg = getValue('bulkType')
+            budgetChanges.push(budg)
+            budgetStatus = budgetChanges.every( (val, i, arr) => val === arr[0] )  
+            if (budgetStatus == false) {
+              walletChanges = [];
+              budgetChanges = [];
+            }
             topData2 = data;
             balance = (topData2.lovelaces/1000000).toFixed(6);
-            console.log(' each 1 second...',balance);
+            walletChanges.push(balance)
+            walletStatus2 = walletChanges.every( (val, i, arr) => val === arr[0] )  
+            console.log(' each 1 second...',walletStatus2,walletChanges,budgetStatus);
           }
         
           var myVar = setInterval(walletStatus, 10000); //setting the loop with time interval
@@ -818,6 +831,7 @@ ${tokens[i]} ${tokens3[i]} `;
   }
 
   
+  if (walletStatus2 == true) {
     newBal = `"${isNaN((parseFloat(balance) - parseFloat(ada)).toFixed(2)) ? parseFloat(balance).toFixed(2) : (parseFloat(balance) - parseFloat(ada)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
@@ -828,7 +842,19 @@ ${tokens[i]} ${tokens3[i]} `;
          newBal = `${newBal}, "${isNaN((parseFloat(balAGIX) - parseFloat(agix)).toFixed(2)) ? parseFloat(balAGIX).toFixed(2) : (parseFloat(balAGIX) - parseFloat(agix)).toFixed(2)} AGIX"`;
          break;
      }
-    
+    }
+  } else if (walletStatus2 == false) {
+    newBal = `"${parseFloat(balance).toFixed(2)} ADA"`;
+    for (let i in tokensList) {
+     switch(tokensList[i]) {
+       case 'gimbal':
+         newBal = `${newBal}, "${parseFloat(balGMBL).toFixed(2)} GMBL"`;
+         break;
+       case 'AGIX':
+         newBal = `${newBal}, "${parseFloat(balAGIX).toFixed(2)} AGIX"`;
+         break;
+     }
+    }
   }
   
   

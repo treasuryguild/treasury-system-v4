@@ -35,7 +35,7 @@ async function getProposals() {
     return proposalsData;
 }
 
-async function getProposals2() {
+/*async function getProposals2() {
     const bi2 = [];
 
     for (const proposalsData of await getProposals()) {
@@ -43,12 +43,12 @@ async function getProposals2() {
       }
       console.log('bi2data', bi2)
     return bi2;
-    }
+    }*/
 
 async function menuMaker() {
     displayLoading();
     let gList = []
-    const bi3 = await getProposals2();
+    const bi3 = await getProposals();
     globalBi = bi3;
     console.log('lordBi2',bi3);
     let ul3 = document.getElementById('list');
