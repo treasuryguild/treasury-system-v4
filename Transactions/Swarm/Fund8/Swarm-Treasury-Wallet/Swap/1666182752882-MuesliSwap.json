@@ -1,0 +1,27 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "1fbd19ec8b61eec0947ee358ae3b1c857b8fda191b8ab045161c3aadc5c2afa0",
+  "msg": [
+    "Swarm Transaction",
+    "Recipients: 1",
+    "527.71 USD in 1482.32 ADA",
+    "Transaction made by Treasury Guild @0.356",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Swap",
+      "description": [
+        "Swap 1482.317566 ADA for AGIX"
+      ],
+      "contributors": {
+        "MuesliSwap": {
+          "ADA": "1482.317566"
+        }
+      }
+    }
+  ]
+}
