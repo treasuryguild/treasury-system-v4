@@ -807,7 +807,7 @@ getExchange();
 async function validateSubmission(){
   localStorage.setItem("typeMeta", "submit");
   let metaData = await createMetadata();
-  let adaFee = (metaData.length * 0.000056609 + 0.155381).toFixed(6);
+  let adaFee = (metaData.length * 0.000043946 + 0.155381 + 0.026965);
   console.log("adaFee",adaFee);
   //const description = getValue('description')
   const pool = poolJ
@@ -827,7 +827,7 @@ async function validateSubmission(){
       tok = `${tok}
 "${tokens2[i]}" : "${tokens[i]}",`;
       tok2 = `${tok2}
-${tokens[i]} ${tokens3[i]} `;
+${tokens3[i] === "ADA" ? (parseFloat(tokens[i]) + adaFee).toFixed(2) : parseFloat(tokens[i]).toFixed(2)} ${tokens3[i]} `;
     }
   }
 
@@ -874,6 +874,7 @@ ${tokens[i]} ${tokens3[i]} `;
 "budget": "Bulk transactions",
 "name": "${projectJ} contributors",
 "exchangeRate": "${xrate} USD per ADA",${tok}
+"txfee": "${(adaFee).toFixed(6)}",
 "walletBalance": [${newBal}],
 "txid": "",
 "description": "Rewards to ${totalRecipients} contributors"
