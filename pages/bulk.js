@@ -807,7 +807,8 @@ getExchange();
 async function validateSubmission(){
   localStorage.setItem("typeMeta", "submit");
   let metaData = await createMetadata();
-  
+  let adaFee = (metaData.length * 0.000056609 + 0.155381).toFixed(6);
+  console.log("adaFee",adaFee);
   //const description = getValue('description')
   const pool = poolJ
   //const idea = ideaJ
@@ -832,7 +833,7 @@ ${tokens[i]} ${tokens3[i]} `;
 
   
   if (walletStatus2 == true) {
-    newBal = `"${isNaN((parseFloat(balance) - parseFloat(ada)).toFixed(2)) ? parseFloat(balance).toFixed(2) : (parseFloat(balance) - parseFloat(ada)).toFixed(2)} ADA"`;
+    newBal = `"${isNaN((parseFloat(balance) - parseFloat(ada)).toFixed(2)) ? parseFloat(balance).toFixed(2) : (parseFloat(balance) - parseFloat(ada + adaFee)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
        case 'gimbal':

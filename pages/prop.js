@@ -345,10 +345,16 @@ for (let i = 0; i < descript.length; i++) {
 
   navigator.clipboard.writeText(copyData);
   console.log("copyMetaData",copyData);
+  return copyData;
 }
 
-function validateSubmission(){
+async function validateSubmission(){
   //save all the input values
+  let adaFee = await copyMetaData();
+  
+  adaFee = (adaFee.length * 0.000056609 + 0.155381).toFixed(6);
+  console.log("adaFee",adaFee);
+  
   const name = getValue('name')
   const budgetB = getValue('budgetB')
   let ada = getValue('ada')
@@ -389,7 +395,7 @@ ${parseFloat(tokens[i]).toFixed(6)} ${tokens3[i]} `;
       tok = `${tok}
 "${tokens2[i]}" : "${parseFloat(tokens[i]).toFixed(2)}",`;
       tok2 = `${tok2}
-${parseFloat(tokens[i]).toFixed(2)} ${tokens3[i]} `;
+${tokens3[i] === "ADA" ? parseFloat(tokens[i] + adaFee).toFixed(2) : parseFloat(tokens[i]).toFixed(2)} ${tokens3[i]} `;
       tok3.push(`"${tokens3[i]}": "${tokens[i]}"`);
     }
   }
@@ -408,7 +414,7 @@ ${parseFloat(tokens[i]).toFixed(2)} ${tokens3[i]} `;
       }
      }
   } else if (walletStatus2 == true) {
-    newBal = `"${isNaN((parseFloat(balance) - parseFloat(ada)).toFixed(2)) ? parseFloat(balance).toFixed(2) : (parseFloat(balance) - parseFloat(ada)).toFixed(2)} ADA"`;
+    newBal = `"${isNaN((parseFloat(balance) - parseFloat(ada)).toFixed(2)) ? parseFloat(balance).toFixed(2) : (parseFloat(balance) - parseFloat(ada + adaFee)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
        case 'gimbal':
@@ -566,5 +572,14 @@ return answer
     //setTimeout(() => {console.log("this is the second message")}, 3000);
     //window.location.reload();
   }
+/*
+  setTimeout(function openWindows() {
+    window.open(`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2(budgetB) + "new?value=" + encodedFileText +"&filename=" + filename);
+    window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok2}+${budget2(budgetB)}&labels=${budget2(budgetB)},${isSwap3},${pool},${fund}&body=` + encodedIssueText);  
+    setTimeout(() => {window.location.reload()}, 10000);
+    //setTimeout(() => {console.log("this is the second message")}, 3000);
+    //window.location.reload();
+  }, 500);*/
+
   openWindows();
 }
