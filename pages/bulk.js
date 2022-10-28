@@ -757,6 +757,7 @@ if (localStorage.getItem("typeMeta") === "submit" || localStorage.getItem("typeM
 "mdVersion": ["1.1"],${txid}
 "msg": [
 "${projectJ} Bulk Transaction",
+"Ideascale: ${ideaJ}",
 "Recipients: ${totalRecipients}",${tokens}
 "Transaction made by Treasury Guild @${xrate}",
 "https://www.treasuryguild.io/"

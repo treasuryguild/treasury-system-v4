@@ -323,6 +323,7 @@ for (let i = 0; i < descript.length; i++) {
 "mdVersion": ["1.0"],
 "msg": [
 "${projectJ} Transaction",
+"Ideascale: ${ideaJ}",
 "Recipients: 1",${totalTokens}
 "Transaction made by Treasury Guild @${xrate}",
 "https://www.treasuryguild.io/"
@@ -493,6 +494,7 @@ let fileText = `{
 "txid": "",
 "msg": [
 "${projectJ} Transaction",
+"Ideascale: ${ideaJ}",
 "Recipients: 1",${totalTokens}
 "Transaction made by Treasury Guild @${xrate}",
 "https://www.treasuryguild.io/"
