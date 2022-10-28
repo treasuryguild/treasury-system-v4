@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "",
+  "msg": [
+    "accounting-reporting-france Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/414465",
+    "Recipients: 0",
+    "0 USD in 0 ADA",
+    "Transaction made by Treasury Guild @0.386",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "accounting-reporting-france",
+      "label": "Incoming",
+      "description": [
+        "test"
+      ],
+      "contributors": {
+        "": {
+          "ADA": "0"
+        }
+      }
+    }
+  ]
+}
