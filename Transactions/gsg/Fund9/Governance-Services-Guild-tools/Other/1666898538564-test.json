@@ -1,0 +1,27 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "",
+  "msg": [
+    "gsg Transaction",
+    "Recipients: 1",
+    "0 USD in 0 ADA",
+    "Transaction made by Treasury Guild @0.401",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "gsg",
+      "label": "Other",
+      "description": [
+        "decoy"
+      ],
+      "contributors": {
+        "": {
+          "ADA": "0"
+        }
+      }
+    }
+  ]
+}
