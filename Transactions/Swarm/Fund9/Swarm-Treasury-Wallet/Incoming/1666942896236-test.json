@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.52 USD in 1.34 ADA",
+    "Transaction made by Treasury Guild @0.383",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "test"
+      ],
+      "contributors": {
+        "test": {
+          "ADA": "1.344798"
+        }
+      }
+    }
+  ]
+}
