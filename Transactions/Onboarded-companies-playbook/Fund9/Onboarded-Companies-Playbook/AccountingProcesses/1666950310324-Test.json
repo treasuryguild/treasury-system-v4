@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "",
+  "msg": [
+    "Onboarded-companies-playbook Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421607",
+    "Recipients: 1",
+    "0 USD in 0 ADA",
+    "Transaction made by Treasury Guild @0.384",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Onboarded-companies-playbook",
+      "label": "AccountingProcesses",
+      "description": [
+        "Test"
+      ],
+      "contributors": {
+        "Test": {
+          "ADA": "0"
+        }
+      }
+    }
+  ]
+}
