@@ -1,0 +1,191 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "d0a3cf1e03deac4013c3c6cc40920473275020f18cc3e4cc7bfa8a4f10b16d1d",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 7",
+    "330.21 USD in 805.38 ADA",
+    "0 USD in 6556.00 GMBL",
+    "25.00 USD in 500.00 AGIX",
+    "Transaction made by Treasury Guild @0.410",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Walkthrough (v)PA Rewards Aggregated File - Catalyst",
+        "Ticker Post (with Videos) - 200 GMBL"
+      ],
+      "label": "Documentation",
+      "contributors": {
+        "8f9pmj": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "1:1 Discord Onboarding Session - 50 GMBL"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "8f9pmj": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Zoé & Felix for Discord improvements - 50",
+        "Gimbals"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "8f9pmj": {
+          "gimbal": 50
+        },
+        "u7ywg4": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Improve the Swarm Discord Server - 300 Ada, 500 Gimbal,",
+        "300 AGIX"
+      ],
+      "label": "Tool development",
+      "contributors": {
+        "8f9pmj": {
+          "gimbal": 500,
+          "ada": 300,
+          "AGIX": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Translate F9 Survey in Spanish & Portuguese - 300 Ada &",
+        "300 Gimbal"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "w0knrl": {
+          "gimbal": 300,
+          "ada": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create Graphics for Gimbalabs - 200 Ada, 200 AGIX & 500",
+        "Gimbal"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "9qgazv": {
+          "gimbal": 500,
+          "ada": 200,
+          "AGIX": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Treasury Urgency Call - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool Development - Treasury Manager Updates 30.10"
+      ],
+      "label": "Tool development",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 506
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Add features to integrate Tevo's system with Treasury Guild",
+        "system - 300 Gimbals"
+      ],
+      "label": "Tool development",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call #1 - Swarm & Treasury Guild - 200 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "gimbal": 200
+        },
+        "4mg27n": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Add csv features to treasury system - 2000 Gimbal"
+      ],
+      "label": "Tool development",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 2000
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Make changes to generated json for metadata - 1000 Gimbal"
+      ],
+      "label": "Tool development",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 1000
+        }
+      }
+    }
+  ]
+}
