@@ -1,0 +1,33 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "ee6822da55db50055c0c80a8fa9c63708f706726e0b53ec71d090d8dd15b75ef",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "60.45 USD in 150.00 ADA",
+    "0 USD in 150.00 GMBL",
+    "7.50 USD in 150.00 AGIX",
+    "Transaction made by Treasury Guild @0.403",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Catalyst Circle Nominee Platform Statement Event",
+        "- Earn 150 Ada & 150 Agix & 150 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 150,
+          "ada": 150,
+          "AGIX": 150
+        }
+      }
+    }
+  ]
+}
