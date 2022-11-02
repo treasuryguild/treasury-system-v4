@@ -528,7 +528,7 @@ async function listQ(){
         type='text'
         id='dework'
         name='dework'
-        placeholder="Description"
+        placeholder="Copy Gamechanger Generated Json and paste it in here"
         autoComplete="off"
         required
     ></textarea>
@@ -828,13 +828,13 @@ async function validateSubmission(){
       tok = `${tok}
 "${tokens2[i]}" : "${tokens[i]}",`;
       tok2 = `${tok2}
-${tokens3[i] === "ADA" ? (parseFloat(tokens[i]) + adaFee).toFixed(2) : parseFloat(tokens[i]).toFixed(2)} ${tokens3[i]} `;
+${tokens3[i] === "ADA" ? (parseFloat(tokens[i])).toFixed(2) : parseFloat(tokens[i]).toFixed(2)} ${tokens3[i]} `;
     }
   }
 
   
   if (walletStatus2 == true) {
-    newBal = `"${isNaN((parseFloat(balance) - parseFloat(ada)).toFixed(2)) ? parseFloat(balance).toFixed(2) : (parseFloat(balance) - parseFloat(ada + adaFee)).toFixed(2)} ADA"`;
+    newBal = `"${isNaN((parseFloat(balance) - parseFloat(ada)).toFixed(2)) ? parseFloat(balance).toFixed(2) : (parseFloat(balance) - parseFloat(ada)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
        case 'gimbal':
@@ -875,7 +875,6 @@ ${tokens3[i] === "ADA" ? (parseFloat(tokens[i]) + adaFee).toFixed(2) : parseFloa
 "budget": "Bulk transactions",
 "name": "${projectJ} contributors",
 "exchangeRate": "${xrate} USD per ADA",${tok}
-"txfee": "${(adaFee).toFixed(6)}",
 "walletBalance": [${newBal}],
 "txid": "",
 "description": "Rewards to ${totalRecipients} contributors"

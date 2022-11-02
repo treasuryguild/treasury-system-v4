@@ -396,7 +396,7 @@ ${parseFloat(tokens[i]).toFixed(6)} ${tokens3[i]} `;
       tok = `${tok}
 "${tokens2[i]}" : "${parseFloat(tokens[i]).toFixed(2)}",`;
       tok2 = `${tok2}
-${tokens3[i] === "ADA" ? parseFloat(tokens[i] + adaFee).toFixed(2) : parseFloat(tokens[i]).toFixed(2)} ${tokens3[i]} `;
+${tokens3[i] === "ADA" ? parseFloat(tokens[i]).toFixed(2) : parseFloat(tokens[i]).toFixed(2)} ${tokens3[i]} `;
       tok3.push(`"${tokens3[i]}": "${tokens[i]}"`);
     }
   }
@@ -415,7 +415,7 @@ ${tokens3[i] === "ADA" ? parseFloat(tokens[i] + adaFee).toFixed(2) : parseFloat(
       }
      }
   } else if (walletStatus2 == true) {
-    newBal = `"${isNaN((parseFloat(balance) - parseFloat(ada)).toFixed(2)) ? parseFloat(balance).toFixed(2) : (parseFloat(balance) - parseFloat(ada + adaFee)).toFixed(2)} ADA"`;
+    newBal = `"${isNaN((parseFloat(balance) - parseFloat(ada)).toFixed(2)) ? parseFloat(balance).toFixed(2) : (parseFloat(balance) - parseFloat(ada)).toFixed(2)} ADA"`;
     for (let i in tokensList) {
      switch(tokensList[i]) {
        case 'gimbal':
@@ -456,7 +456,6 @@ ${tokens3[i] === "ADA" ? parseFloat(tokens[i] + adaFee).toFixed(2) : parseFloat(
 "budget": "${budgetB}",
 "name": "${name}",
 "exchangeRate": "${xrate} USD per ADA",${tok}
-"txfee": "${adaFee}",
 "walletBalance": [${newBal}],
 "txid": "",
 "description": "${description}"
