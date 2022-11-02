@@ -1,0 +1,62 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "28e2f3508cf1b13beb6136333571dbaec3c194865624a7a4fe460d8f3222acd2",
+  "msg": [
+    "Lead-Generators Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/397339",
+    "Recipients: 9",
+    "1202.54 USD in 3029.07 ADA",
+    "Transaction made by Treasury Guild @0.397",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "1x verified lead"
+      ],
+      "label": "verified lead",
+      "contributors": {
+        "d7f4gr": {
+          "ADA": "200"
+        },
+        "7478kg": {
+          "ADA": "200"
+        },
+        "t7g6t6": {
+          "ADA": "200"
+        },
+        "tt0xd7": {
+          "ADA": "200"
+        },
+        "u8hvl3": {
+          "ADA": "200"
+        },
+        "jy60mc": {
+          "ADA": "200"
+        },
+        "4xmmmf": {
+          "ADA": "200"
+        }
+      }
+    },
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "Last rewards from Community Lead Generation Proposal",
+        "for administration of budget"
+      ],
+      "label": "administration of budget",
+      "contributors": {
+        "uxd83r": {
+          "ADA": "814.5363409"
+        },
+        "4mg27n": {
+          "ADA": "814.5363409"
+        }
+      }
+    }
+  ]
+}
