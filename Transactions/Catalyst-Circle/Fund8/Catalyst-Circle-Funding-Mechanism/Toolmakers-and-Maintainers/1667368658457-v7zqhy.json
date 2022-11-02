@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "7df576a4835cec3d3388911a0c6d5928389d51be219b4820f653f0825f28462f",
+  "msg": [
+    "Catalyst-Circle Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/403562",
+    "Recipients: 1",
+    "600.00 USD in 1503.76 ADA",
+    "Transaction made by Treasury Guild @0.399",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Circle",
+      "label": "Toolmakers-and-Maintainers",
+      "description": [
+        "Reward for Subcircle remuneration"
+      ],
+      "contributors": {
+        "v7zqhy": {
+          "ADA": "1503.759398"
+        }
+      }
+    }
+  ]
+}
