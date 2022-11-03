@@ -3,7 +3,7 @@
     "proposal": "Challenge Fest by Catalyst Swarm",
     "fund": "Fund 7",
     "budget": "5000",
-    "budgetItems": {"Incoming":"5000","Other":"10","Organizing-the-Event":"2000","Executing-the-Event":"2000","Event-Post-Tasks":"1000", "bulkTransactions":"50000"},
+    "budgetItems": {"Incoming":"5000","Other":"10", "bulkTransactions":"50000","Organizing-the-Event":"2000","Executing-the-Event":"2000","Event-Post-Tasks":"1000"},
     "ideascale": "https://cardano.ideascale.com/c/idea/381926",
     "wallet": "addr1qyyeu7ac8eqsemud6w0dh9g507zdd0tk4ua4csfg0ma3t2dxrr3qhj3j3770vr75tsrgyp40ana02hwth77av90jcl7swrnkx5"
 }

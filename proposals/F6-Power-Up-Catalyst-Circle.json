@@ -3,7 +3,7 @@
     "proposal": "Power Up Catalyst Circle",
     "fund": "Fund 6",
     "budget": "9500",
-    "budgetItems": {"Incoming":"9500","Other":"10","CC-Admin-Comm-Org-tools":"500","CC-Admin-staff-remuneration":"4000","CC-member-remuneration":"5000", "bulkTransactions":"50000"},
+    "budgetItems": {"Incoming":"9500","Other":"10", "bulkTransactions":"50000","CC-Admin-Comm-Org-tools":"500","CC-Admin-staff-remuneration":"4000","CC-member-remuneration":"5000"},
     "ideascale": "https://cardano.ideascale.com/c/idea/373192",
     "wallet": "addr1qyaknn8zx2zj0dzwkyahp32mt2lx23z54an3yx26mcv6k0ptdl56g3r0jsp6zcdfzf4l6ysdz9u232z5mp28swllsees6fe8u2"
 }

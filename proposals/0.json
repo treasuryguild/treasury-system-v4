@@ -3,7 +3,7 @@
     "proposal": "decoy",
     "fund": "Fund 7",
     "budget": "decoy",
-    "budgetItems": {"Incoming":"12700","Other":"10","Meetings":"6950","Comm-Org-Tools":"1000","Surveys":"1600","Retrospectives":"800","Reports":"800","Proposal":"500","Town-Hall-Slides":"450","Meeting-Minutes":"600", "bulkTransactions":"50000"},
+    "budgetItems": {"Incoming":"12700","Other":"10","bulkTransactions":"50000","Meetings":"6950","Comm-Org-Tools":"1000","Surveys":"1600","Retrospectives":"800","Reports":"800","Proposal":"500","Town-Hall-Slides":"450","Meeting-Minutes":"600"},
     "ideascale": "decoy",
     "wallet": "decoy"
 }
