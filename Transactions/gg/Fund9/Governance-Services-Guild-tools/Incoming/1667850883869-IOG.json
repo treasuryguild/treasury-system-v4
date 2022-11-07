@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "6ecc4f84cc9498112520fcbc23c728e33a2034c3ae3ad75c9b80dcdc074634a6",
+  "msg": [
+    "gg Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "7582.27 USD in 18314.66 ADA",
+    "Transaction made by Treasury Guild @0.4106",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "gg",
+      "label": "Incoming",
+      "description": [
+        "First instalment from IOG"
+      ],
+      "contributors": {
+        "IOG": {
+          "ADA": "18314.661471"
+        }
+      }
+    }
+  ]
+}
