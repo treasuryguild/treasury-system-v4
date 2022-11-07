@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "79a4f123612410627f2afc5298df8e0a382e860fc1841a61b69b8726b841d492",
+  "msg": [
+    "gg Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "7619.32 USD in 18315.66 ADA",
+    "Transaction made by Treasury Guild @0.416",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "gg",
+      "label": "Other",
+      "description": [
+        "Moving funds to another wallet to change in stable",
+        "coin"
+      ],
+      "contributors": {
+        "w0t2f4": {
+          "ADA": "18315.661471"
+        }
+      }
+    }
+  ]
+}
