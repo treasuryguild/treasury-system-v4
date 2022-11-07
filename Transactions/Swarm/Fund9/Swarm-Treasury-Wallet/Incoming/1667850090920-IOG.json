@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "6ecc4f84cc9498112520fcbc23c728e33a2034c3ae3ad75c9b80dcdc074634a6",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "18462.74 USD in 44812.47 ADA",
+    "Transaction made by Treasury Guild @0.4106",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "First instalment for Catalyst Swarm DAO tools"
+      ],
+      "contributors": {
+        "IOG": {
+          "ADA": "44812.469557"
+        }
+      }
+    }
+  ]
+}
