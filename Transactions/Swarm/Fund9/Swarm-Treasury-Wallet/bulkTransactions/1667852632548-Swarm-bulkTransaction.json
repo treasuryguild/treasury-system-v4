@@ -1,0 +1,223 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "078bfd2a1fb31e656c180f8cec0c3b7f0394f890b4cbbd386803c15547b69a48",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 23",
+    "31057.21 USD in 75638.60 ADA",
+    "0 USD in 40000.00 GMBL",
+    "Transaction made by Treasury Guild @0.4106",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Monthly Swarm Contributor Rewards"
+      ],
+      "label": "swarm contributors",
+      "contributors": {
+        "f0qnsw": {
+          "ADA": "4870.920604",
+          "GMBL": "2000"
+        },
+        "rcgctj": {
+          "ADA": "4870.920604",
+          "GMBL": "2000"
+        },
+        "u7ywg4": {
+          "ADA": "4870.920604",
+          "GMBL": "2000"
+        },
+        "8n4qu4": {
+          "ADA": "4870.920604",
+          "GMBL": "2000"
+        },
+        "jnaxjp": {
+          "ADA": "4870.920604",
+          "GMBL": "2000"
+        },
+        "4mg27n": {
+          "ADA": "4870.920604",
+          "GMBL": "2000"
+        },
+        "vtrfhd": {
+          "ADA": "3653.190453",
+          "GMBL": "2000"
+        },
+        "9qgazv": {
+          "ADA": "3653.190453",
+          "GMBL": "2000"
+        },
+        "w0knrl": {
+          "ADA": "3653.190453",
+          "GMBL": "2000"
+        },
+        "ex7942": {
+          "ADA": "3653.190453",
+          "GMBL": "2000"
+        },
+        "a7hl6f": {
+          "ADA": "3653.190453",
+          "GMBL": "2000"
+        },
+        "ye2czd": {
+          "ADA": "3653.190453",
+          "GMBL": "2000"
+        },
+        "j3hkj2": {
+          "ADA": "3653.190453",
+          "GMBL": "2000"
+        },
+        "uveq4y": {
+          "ADA": "3653.190453",
+          "GMBL": "2000"
+        },
+        "jy7s8e": {
+          "ADA": "3653.190453",
+          "GMBL": "2000"
+        },
+        "ptetnl": {
+          "ADA": "2435.460302",
+          "GMBL": "2000"
+        },
+        "n7qgup": {
+          "ADA": "2435.460302",
+          "GMBL": "2000"
+        },
+        "8f9pmj": {
+          "ADA": "1217.730151",
+          "GMBL": "2000"
+        },
+        "6lcdjr": {
+          "ADA": "1217.730151",
+          "GMBL": "2000"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools Zoom"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "763.7847053"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools Miro"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "97.41841208"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools Adobe Illustrator"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "64.05260594"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools Adobe InDesign"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "64.05260594"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools Swarm Gitbook"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "292.2552362"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools Microsoft Excel"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "75.49926936"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Swarm Support Fund for Treasury Guild"
+      ],
+      "label": "swarm contributors",
+      "contributors": {
+        "rjfm7j": {
+          "ADA": "1217.730151"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Swarm Support Fund for QA DAO"
+      ],
+      "label": "swarm contributors",
+      "contributors": {
+        "msxzwl": {
+          "ADA": "1217.730151"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "South Asian Town Hall Bounty exploration"
+      ],
+      "label": "swarm contributors",
+      "contributors": {
+        "2rcwd5": {
+          "ADA": "1217.730151"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Lidonation"
+      ],
+      "label": "swarm contributors",
+      "contributors": {
+        "4fwu6e": {
+          "ADA": "1217.730151",
+          "GMBL": "2000"
+        }
+      }
+    }
+  ]
+}
