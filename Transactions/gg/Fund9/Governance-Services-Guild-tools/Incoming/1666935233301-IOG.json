@@ -4,7 +4,7 @@
   ],
   "txid": "34ce01253e6db3ffa74f8aab4294581d9750307de7c818d02ed1b3bf946077c7",
   "msg": [
-    "gsg Transaction",
+    "gg Transaction",
     "Recipients: 1",
     "0.39 USD in 1.00 ADA",
     "Transaction made by Treasury Guild @0.40",
@@ -12,7 +12,7 @@
   ],
   "contributions": [
     {
-      "taskCreator": "gsg",
+      "taskCreator": "gg",
       "label": "Incoming",
       "description": [
         "First ADA test payment from IOG on 27 Oct"
