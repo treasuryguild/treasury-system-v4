@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "078bfd2a1fb31e656c180f8cec0c3b7f0394f890b4cbbd386803c15547b69a48",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "506.58 USD in 1217.73 ADA",
+    "Transaction made by Treasury Guild @0.416",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Incoming",
+      "description": [
+        "Swarm support funds"
+      ],
+      "contributors": {
+        "Swarm": {
+          "ADA": "1217.730151"
+        }
+      }
+    }
+  ]
+}
