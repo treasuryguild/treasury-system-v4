@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "a497f46ab1a00d76e42b19d26b2b0c5fb7c3aef9f920779cb7a8d5da31f009d8",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.88 USD in 2.17 ADA",
+    "Transaction made by Treasury Guild @0.406",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Other",
+      "description": [
+        "Staking fee for the pool"
+      ],
+      "contributors": {
+        "Swarm pool": {
+          "ADA": "2.174125"
+        }
+      }
+    }
+  ]
+}
