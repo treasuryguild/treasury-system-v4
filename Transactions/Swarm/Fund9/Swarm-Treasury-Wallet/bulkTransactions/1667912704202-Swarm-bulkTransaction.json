@@ -1,0 +1,170 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "60f32f1625627c4e130a480935688b9d63c11c8bbfd7a919f13823dd41a0e6ae",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 7",
+    "136.66 USD in 354.03 ADA",
+    "0 USD in 1100.00 GMBL",
+    "17.85 USD in 350.00 AGIX",
+    "Transaction made by Treasury Guild @0.386",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Catalyst Circle Townhall Room 3 - Earn 100 Ada",
+        "& 100 Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "6x29z9": {
+          "gimbal": 100,
+          "ada": 100,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Catalyst Circle Townhall Room 2 - Earn 100 Ada",
+        "& 100 Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "yp7gg3": {
+          "gimbal": 100,
+          "ada": 100,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Catalyst Circle Townhall Room 1 - Earn 100 Ada",
+        "& 100 Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "djrq49": {
+          "gimbal": 100,
+          "ada": 100,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Ambassador Townhall Meeting #22 - Earn 50",
+        "Ada & 50 Agix & 50 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "c70dqg": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Corinne ( Eastern Town Hall Team ) -100",
+        "Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Ricardo - EU TH - 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "v0xaqu": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Andy ( Eastern Town Hall Team ) -100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Yan Tirta ( Eastern Town Hall Team ) -100",
+        "Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Robert O'Brian ( Eastern Town Hall Team )",
+        "-100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Mie Tran ( Eastern Town Hall Team ) -100",
+        "Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "j3hkj2": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Linh Pham ( Eastern Town Hall Team ) -100",
+        "Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}
