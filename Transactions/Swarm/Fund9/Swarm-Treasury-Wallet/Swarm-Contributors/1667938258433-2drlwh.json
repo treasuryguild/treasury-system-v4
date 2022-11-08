@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "7d23fcbfc3c0e93b25411df124403f1978292c3b0da5b0da4975599d35215cc6",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "120.33 USD in 325.20 ADA",
+    "Transaction made by Treasury Guild @0.370",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Swarm-Contributors",
+      "description": [
+        "Support funds for EU Cardano "
+      ],
+      "contributors": {
+        "2drlwh": {
+          "ADA": "325.203252"
+        }
+      }
+    }
+  ]
+}
