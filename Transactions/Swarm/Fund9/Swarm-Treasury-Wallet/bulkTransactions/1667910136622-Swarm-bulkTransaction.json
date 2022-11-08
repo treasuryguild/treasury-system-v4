@@ -1,0 +1,208 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "726cd8c15f207eeb3c05f172850045f2032622ba02923c91dea8cca9b0a96c96",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 15",
+    "7.77 USD in 20.17 ADA",
+    "0 USD in 4050.00 GMBL",
+    "Transaction made by Treasury Guild @0.385",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the 29.10. Swarm Session - 100 GMBL"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "9qgazv": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "8f9pmj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the Catalyst Swarm Veteran Call - Earn 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "9qgazv": {
+          "gimbal": 100
+        },
+        "n7qgup": {
+          "gimbal": 100
+        },
+        "dpy3c6": {
+          "gimbal": 100
+        },
+        "8f9pmj": {
+          "gimbal": 100
+        },
+        "jy7s8e": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "ptetnl": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Index Fund design Call + Brainstorming Bounties for 3rd",
+        "parties - 150 Gimbal"
+      ],
+      "label": "Tool development",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "n7qgup": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly ATH Team meeting - Nov 7 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        },
+        "9qgazv": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "24.10. Weekly ATH Team meeting - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "08.11.Weekly Call - Treasury Guild Team - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Onboarding Call for Bounty Board with Fluid 7 - 100 Gimbal"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "n7qgup": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "1.28.09.Weekly Call - Treasury Guild Team - 150",
+        "Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "4mg27n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "28.09.Weekly Call - Treasury Guild Team - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "a95ysr": {
+          "gimbal": 150
+        }
+      }
+    }
+  ]
+}
