@@ -1,0 +1,38 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "492970312ea0139798472af17bb248192187274c0e91aa01d3751b0a03ed7e66",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 3",
+    "1.55 USD in 4.03 ADA",
+    "0 USD in 3000.00 GMBL",
+    "Transaction made by Treasury Guild @0.385",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "October Gimbal rewards"
+      ],
+      "label": "swarm contributions",
+      "contributors": {
+        "lr8uxr": {
+          "ADA": "1.344798",
+          "GMBL": "1000"
+        },
+        "3wu473": {
+          "ADA": "1.344798",
+          "GMBL": "1000"
+        },
+        "55smty": {
+          "ADA": "1.344798",
+          "GMBL": "1000"
+        }
+      }
+    }
+  ]
+}
