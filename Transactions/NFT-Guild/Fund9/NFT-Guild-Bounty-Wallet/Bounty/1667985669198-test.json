@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "",
+  "msg": [
+    "NFT-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0 USD in 0 ADA",
+    "Transaction made by Treasury Guild @0.356",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "NFT-Guild",
+      "label": "Bounty",
+      "description": [
+        "decoy"
+      ],
+      "contributors": {
+        "test": {
+          "ADA": "0"
+        }
+      }
+    }
+  ]
+}
