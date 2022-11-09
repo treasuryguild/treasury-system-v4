@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "1d3710507dedc1321b878378fb9324a3acb0096bad2df9658cbc2f1a4c377c7b",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.45 USD in 1.18 ADA",
+    "0 USD in 704798.00 GMBL",
+    "Transaction made by Treasury Guild @0.378",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Donation of 704798.000000 Gimbals token to the Swarm"
+      ],
+      "contributors": {
+        "TPBL group": {
+          "ADA": "1.180940",
+          "GMBL": "704798.000000 "
+        }
+      }
+    }
+  ]
+}
