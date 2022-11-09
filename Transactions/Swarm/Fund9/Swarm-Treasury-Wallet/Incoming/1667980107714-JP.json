@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "ec35347cfa90619871046acd1ac222c04d2f110809d43870c37ad5da48e042f1",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.46 USD in 1.21 ADA",
+    "Transaction made by Treasury Guild @0.379",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Donation of Gutenberg Bible from JP"
+      ],
+      "contributors": {
+        "JP": {
+          "ADA": "1.211110"
+        }
+      }
+    }
+  ]
+}
