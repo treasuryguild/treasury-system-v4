@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0 USD in 0 ADA",
+    "Transaction made by Treasury Guild @0.345",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Incoming",
+      "description": [
+        "Decoy"
+      ],
+      "contributors": {
+        "test": {
+          "ADA": "0"
+        }
+      }
+    }
+  ]
+}
