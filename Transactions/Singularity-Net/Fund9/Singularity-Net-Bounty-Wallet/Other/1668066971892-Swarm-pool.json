@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "a15cc942ba0d2edd058dec88ba51a837772dcfc10ba4dc83ea879a7e3ddb5eab",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.76 USD in 2.18 ADA",
+    "Transaction made by Treasury Guild @0.351",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Other",
+      "description": [
+        "Transaction fee for staking to the Swarm pool"
+      ],
+      "contributors": {
+        "Swarm pool": {
+          "ADA": "2.176193"
+        }
+      }
+    }
+  ]
+}
