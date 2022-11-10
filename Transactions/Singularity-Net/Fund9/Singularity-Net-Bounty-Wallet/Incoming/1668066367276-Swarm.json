@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "3c64988726e1dce39bb4fc397ff26e203aceb4be982582b072033d68b80afea8",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "499.82 USD in 1424.00 ADA",
+    "485.94 USD in 11852.18 AGIX",
+    "Transaction made by Treasury Guild @0.351",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Incoming",
+      "description": [
+        "Swarm fund support for bounties"
+      ],
+      "contributors": {
+        "Swarm": {
+          "ADA": "1424.000000",
+          "AGIX": "11852.17515002"
+        }
+      }
+    }
+  ]
+}
