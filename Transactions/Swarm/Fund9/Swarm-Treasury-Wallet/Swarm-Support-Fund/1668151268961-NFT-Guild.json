@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "4b150df0d798f58e0d24f265ca996f6bbc48d375391f1e0e643241819865ed7e",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "504.14 USD in 1381.22 ADA",
+    "Transaction made by Treasury Guild @0.365",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Swarm-Support-Fund",
+      "description": [
+        "Swarm support funds for bounties"
+      ],
+      "contributors": {
+        "NFT Guild": {
+          "ADA": "1381.21547"
+        }
+      }
+    }
+  ]
+}
