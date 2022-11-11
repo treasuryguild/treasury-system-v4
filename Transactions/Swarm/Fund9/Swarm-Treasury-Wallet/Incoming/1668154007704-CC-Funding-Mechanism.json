@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "1731eafcc8f3ae7100d7c8895ba9310ce8b2c206f0c0355029a2be77bba4ddcc",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "310.25 USD in 850.00 ADA",
+    "Transaction made by Treasury Guild @0.365",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "3 Swarm bounties - CC Logo - intro and outro video",
+        "- editing video"
+      ],
+      "contributors": {
+        "CC Funding Mechanism": {
+          "ADA": "850"
+        }
+      }
+    }
+  ]
+}
