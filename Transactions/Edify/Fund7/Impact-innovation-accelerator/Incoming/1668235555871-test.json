@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "",
+  "msg": [
+    "Edify Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/385017",
+    "Recipients: 1",
+    "0 USD in 0 ADA",
+    "Transaction made by Treasury Guild @0.343",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Edify",
+      "label": "Incoming",
+      "description": [
+        "decoy"
+      ],
+      "contributors": {
+        "test": {
+          "ADA": "0"
+        }
+      }
+    }
+  ]
+}
