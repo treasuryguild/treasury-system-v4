@@ -1,0 +1,322 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "53e62bbbdfa87109dac52c52e28146cf66b1960a5db3b3d8893f6a8576e32bdc",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 27",
+    "469.06 USD in 1375.55 ADA",
+    "0 USD in 6550.00 GMBL",
+    "22.00 USD in 550.00 AGIX",
+    "Transaction made by Treasury Guild @0.341",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call Crandano, Felix ( Snet )  - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "j3xc2c": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Felix & Livia - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "w0knrl": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Walkthrough Voting Rewards & How to Check them - Catalyst",
+        "Ticker Post - 150 GMBL"
+      ],
+      "label": "Documentation",
+      "contributors": {
+        "8f9pmj": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Theodore & Felix ( Swarm ) - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "vtrfhd": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Swarm Coordinations Call - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Ambassador Town Hall Meeting #23 - Earn 50",
+        "Ada & 50 Agix & 50 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "eend5s": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Ambassador Town Hall Meeting #24 - Earn 50",
+        "Ada & 50 Agix & 50 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "c70dqg": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the NFT Guild Roundtable #10 - Earn 50 Ada,",
+        "50 Gimbal & 50 AGIX"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "mx4mae": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Swarm Session 05.11 -100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "58cnza": {
+          "gimbal": 100
+        },
+        "cvdu29": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create a CCv4 Intro & Outro Clip - 300 Ada"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "9qgazv": {
+          "gimbal": 300,
+          "ada": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Clip & Edit the CCv4 Candidate video - 500 Ada"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "9qgazv": {
+          "gimbal": 500,
+          "ada": 500
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Write an Article - Where Catalyst is broken - 100 Ada,",
+        "300 Gimbal, 100 AGIX"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "llj74u": {
+          "gimbal": 300,
+          "ada": 100,
+          "AGIX": 100
+        },
+        "w0knrl": {
+          "gimbal": 300,
+          "ada": 100,
+          "AGIX": 100
+        },
+        "lrs3kj": {
+          "gimbal": 300,
+          "ada": 100,
+          "AGIX": 100
+        },
+        "gr2t60": {
+          "gimbal": 300,
+          "ada": 100,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Treasury Guild Team 08.11 payment"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 250
+        },
+        "jnaxjp": {
+          "gimbal": 250
+        },
+        "4mg27n": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create a Bounty for 3rd Party Introduction Document -100",
+        "Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the Catalyst Swarm Veteran Call #2 - Earn 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "ptetnl": {
+          "gimbal": 100
+        },
+        "ukwpzf": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "9qgazv": {
+          "gimbal": 100
+        },
+        "n7qgup": {
+          "gimbal": 100
+        },
+        "8f9pmj": {
+          "gimbal": 100
+        },
+        "8lwcgv": {
+          "gimbal": 100
+        },
+        "g8t0fm": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the Catalyst Swarm Veteran Call #1 - Earn 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "ptetnl": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "g8t0fm": {
+          "gimbal": 100
+        },
+        "uw6w3e": {
+          "gimbal": 100
+        },
+        "dpy3c6": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        },
+        "n7qgup": {
+          "gimbal": 100
+        },
+        "8n4qu4": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}
