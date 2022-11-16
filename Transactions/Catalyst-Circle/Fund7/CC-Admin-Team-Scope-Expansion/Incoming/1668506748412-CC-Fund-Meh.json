@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "34bf4ff4295a85028c544df7a421f8d9dcc8e35c8ea66e2081984860601b1d31",
+  "msg": [
+    "Catalyst-Circle Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/384245",
+    "Recipients: 1",
+    "323.00 USD in 950.00 ADA",
+    "Transaction made by Treasury Guild @0.340",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Circle",
+      "label": "Incoming",
+      "description": [
+        "Staking rewards from CC Fund Meh for CC tools"
+      ],
+      "contributors": {
+        "CC Fund Meh": {
+          "ADA": "950"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "4e87bc145390fddc298782f6a78dfa851c5b3e5164de4c3266219334cccd120d",
+  "msg": [
+    "Catalyst-Circle Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/384245",
+    "Recipients: 2",
+    "221.30 USD in 648.97 ADA",
+    "Transaction made by Treasury Guild @0.341",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "CC Admin",
+      "description": [
+        "Payment for Gsuite 2x months"
+      ],
+      "label": "comm org tools",
+      "contributors": {
+        "u8hvl3": {
+          "ADA": "318.5840708"
+        }
+      }
+    },
+    {
+      "taskCreator": "CC Admin",
+      "description": [
+        "Payment for Gitbook 2x months"
+      ],
+      "label": "comm org tools",
+      "contributors": {
+        "uxd83r": {
+          "ADA": "330.3834808"
+        }
+      }
+    }
+  ]
+}

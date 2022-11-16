@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "3c2764910a3ad369fef317845f7a655795224694c4cf799c964653daf7732339",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "578.76 USD in 1769.91 ADA",
+    "Transaction made by Treasury Guild @0.327",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Incoming",
+      "description": [
+        "Leftovers from Catalyst Circle Treasury Management",
+        "F7 wallet"
+      ],
+      "contributors": {
+        "Leftovers F7": {
+          "ADA": "1769.911960"
+        }
+      }
+    }
+  ]
+}

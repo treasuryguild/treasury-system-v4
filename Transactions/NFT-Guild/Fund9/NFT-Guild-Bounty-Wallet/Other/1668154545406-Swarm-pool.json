@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "fcd084dfbfdb52f57ed256f3dc83880026a5bb24570372af0aaf7dff8d8fb3b3",
+  "msg": [
+    "NFT-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.79 USD in 2.17 ADA",
+    "Transaction made by Treasury Guild @0.364",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "NFT-Guild",
+      "label": "Other",
+      "description": [
+        "Transaction fee for staking to the Swarm pool"
+      ],
+      "contributors": {
+        "Swarm pool": {
+          "ADA": "2.174125"
+        }
+      }
+    }
+  ]
+}

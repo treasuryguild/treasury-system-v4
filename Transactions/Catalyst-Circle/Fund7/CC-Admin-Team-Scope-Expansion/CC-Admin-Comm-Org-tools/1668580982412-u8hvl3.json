@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "c7243c5b2262e83fdfef22748ed537f665f24f67b10e3a903ea881cfd13fff5b",
+  "msg": [
+    "Catalyst-Circle Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/384245",
+    "Recipients: 1",
+    "60.02 USD in 176.01 ADA",
+    "Transaction made by Treasury Guild @0.341",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Circle",
+      "label": "CC-Admin-Comm-Org-tools",
+      "description": [
+        "Payment of June 2022 invoice for Gsuite"
+      ],
+      "contributors": {
+        "u8hvl3": {
+          "ADA": "176.0058309"
+        }
+      }
+    }
+  ]
+}

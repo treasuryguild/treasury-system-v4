@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "315e8971869809ad2353520da2a75e57fbca16250e07fbb7a14f7e8d13b6c23c",
+  "msg": [
+    "Catalyst-Training-and-Automation Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/398140",
+    "Recipients: 1",
+    "970.00 USD in 2803.47 ADA",
+    "Transaction made by Treasury Guild @0.346",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Training-and-Automation",
+      "label": "Other",
+      "description": [
+        "Payment for translation of dRep White paper into Spanish",
+        "and Portuguese"
+      ],
+      "contributors": {
+        "LATAM Translator Team": {
+          "ADA": "2803.468208"
+        }
+      }
+    }
+  ]
+}
