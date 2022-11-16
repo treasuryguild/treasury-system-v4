@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "cc1f75a73ad34196420d7d5334ed88efd15300e7a71b05e34326cbc44a2f29cd",
+  "msg": [
+    "Edify Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "5842.02 USD in 17649.60 ADA",
+    "Transaction made by Treasury Guild @0.331",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Edify",
+      "label": "Incoming",
+      "description": [
+        "Rewards from IOG and staking rewards 11.57 ADA from",
+        "old wallet"
+      ],
+      "contributors": {
+        "IOG ": {
+          "ADA": "17649.602156"
+        }
+      }
+    }
+  ]
+}
