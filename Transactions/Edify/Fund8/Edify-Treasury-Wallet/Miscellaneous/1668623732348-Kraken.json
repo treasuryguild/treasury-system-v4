@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "ea9bae821598edc2ae0957d086454d60892ae40f0e038a69a341ae41b2fffe57",
+  "msg": [
+    "Edify Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "4881.26 USD in 14747.02 ADA",
+    "Transaction made by Treasury Guild @0.329",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Edify",
+      "label": "Miscellaneous",
+      "description": [
+        "Move to exchange to turn into stable coin"
+      ],
+      "contributors": {
+        "Kraken": {
+          "ADA": "14747.01845"
+        }
+      }
+    }
+  ]
+}
