@@ -1,0 +1,31 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "2b5c2f51aa03212af8213174f9dfa83ebf8cba2394ab7f2b8242f44996cbdc08",
+  "msg": [
+    "Treasury-Guild Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 2",
+    "993.00 USD in 3000.00 ADA",
+    "Transaction made by Treasury Guild @0.331",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury Guild",
+      "description": [
+        "Rewards for Edify treasury services"
+      ],
+      "label": "Edify treasury service",
+      "contributors": {
+        "4mg27n": {
+          "ADA": "1500"
+        },
+        "uxd83r": {
+          "ADA": "1500"
+        }
+      }
+    }
+  ]
+}
