@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "bb21270e4df42bb89ceae22ae427196dc020062b9645c8fa3f8bcbb1c1e1742e",
+  "msg": [
+    "Edify Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "1477.97 USD in 4589.96 ADA",
+    "Transaction made by Treasury Guild @0.3268",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Edify",
+      "label": "Other",
+      "description": [
+        "F8 Community hubs suport proposers project"
+      ],
+      "contributors": {
+        "WADA": {
+          "ADA": "4589.96328"
+        }
+      }
+    }
+  ]
+}
