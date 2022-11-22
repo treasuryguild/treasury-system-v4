@@ -1,0 +1,86 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "7b6a2aa0721fa45170ff10463b8f5493ccad19c29838fc28c081ff76d1b87cc4",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 3",
+    "1.21 USD in 4.03 ADA",
+    "0 USD in 1350.00 GMBL",
+    "Transaction made by Treasury Guild @0.301",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "22.11.22 - Weekly Call - Swarm & Treasury Guild",
+        "- 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Swarm payment 150 gimbals"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 150
+        },
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "08.11.22 - Weekly Call - Treasury Guild Team -",
+        "150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "15.11.22 - Weekly Call - Treasury Guild Team -",
+        "150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "4mg27n": {
+          "gimbal": 150
+        }
+      }
+    }
+  ]
+}
