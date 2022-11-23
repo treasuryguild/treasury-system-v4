@@ -83,7 +83,7 @@ function getValue(name){
 
   function validateSubmission(){
     //save all the input values
-    const fund = getValue('fund')
+    let fund = getValue('fund')
     const project = getValue('project')
     const proposal = getValue('proposal')
     const ideascale = getValue('ideascale')
