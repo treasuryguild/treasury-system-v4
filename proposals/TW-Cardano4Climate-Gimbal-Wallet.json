@@ -1,0 +1,9 @@
+{
+    "project": "Cardano4Climate",
+    "proposal": "Cardano4Climate Gimbal Wallet",
+    "fund": "TreasuryWallet",
+    "budget": "30000",
+    "budgetItems": {"Incoming":"30000","Other":"10", "bulkTransactions":"50000","Bounty":"10000","Participation":"10000","Rewards":"10000"},
+    "ideascale": "https://cardano.ideascale.com/c/idea/404971",
+    "wallet": "addr1qx4xrv2hr7qs7els0q2q2r2jmda9nqcumuksk5979kh76zsf4p9cdh7w2axu4t8v22fglzu8h5p3zen6cxe34s6n3ycq58u3u8"
+}
