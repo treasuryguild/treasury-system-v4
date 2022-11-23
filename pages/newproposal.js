@@ -105,7 +105,8 @@ function getValue(name){
     if (fund.substring(0, 4).toLowerCase() == "fund") {
         filename = "F" + parseInt(fund.replace( /^\D+/g, '')) + "-" + proposal.replace(/\s/g, '-') + ".json"
     } else {
-        filename = "TW" + "-" + proposal.replace(/\s/g, '-') + ".json"  
+        filename = "TW" + "-" + proposal.replace(/\s/g, '-') + ".json" 
+        fund = "TreasuryWallet" 
     }
     //Generate a string mimicing the file structure
     //Indentation is important here
