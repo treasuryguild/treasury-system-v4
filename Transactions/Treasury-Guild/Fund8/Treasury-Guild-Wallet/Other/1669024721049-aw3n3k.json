@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "61a7010cdfa1232c6d5c265c866b57610c8ac300e521a2de30a86110e5fd9d54",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "1075.45 USD in 3526.08 ADA",
+    "Transaction made by Treasury Guild @0.305",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Other",
+      "description": [
+        "Moving funds to stable coin"
+      ],
+      "contributors": {
+        "aw3n3k": {
+          "ADA": "3526.076005"
+        }
+      }
+    }
+  ]
+}

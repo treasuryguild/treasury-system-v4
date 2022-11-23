@@ -2,25 +2,25 @@
   "mdVersion": [
     "1.1"
   ],
-  "txid": "18d2a5fb638c0333fbfd1de440f6e455826789021a4ba6832dddbdf82101c790",
+  "txid": "33b2ea5b8e4f089e7ce906708d0d9d5d2fe7c50350d3b67774d184c4ed4d8dd0",
   "msg": [
     "Catalyst-Circle Transaction",
     "Ideascale: https://cardano.ideascale.com/c/idea/403562",
     "Recipients: 1",
-    "326.49 USD in 963.09 ADA",
-    "Transaction made by Treasury Guild @0.339",
+    "168.33 USD in 510.10 ADA",
+    "Transaction made by Treasury Guild @0.328",
     "https://www.treasuryguild.io/"
   ],
   "contributions": [
     {
       "taskCreator": "Catalyst-Circle",
-      "label": "Stake Pool Rewards",
+      "label": "Toolmakers-and-Maintainers",
       "description": [
-        "Staking rewards from Admin pool"
+        "Rewards for CC bounties"
       ],
       "contributors": {
-        "Admin pool": {
-          "ADA": "963.087288"
+        "7867hz": {
+          "ADA": "510.1"
         }
       }
     }
