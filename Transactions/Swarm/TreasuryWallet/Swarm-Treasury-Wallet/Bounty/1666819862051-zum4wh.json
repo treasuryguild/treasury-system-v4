@@ -1,0 +1,27 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "6948bcd4d2096c401e0a41c1e500ddddd791738e94c8fef065f15945ee4728be",
+  "msg": [
+    "Swarm Transaction",
+    "Recipients: 1",
+    "121.20 USD in 300.00 ADA",
+    "Transaction made by Treasury Guild @0.404",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Bounty",
+      "description": [
+        "Reward for community translations HSpanish and Portuguese"
+      ],
+      "contributors": {
+        "zum4wh": {
+          "ADA": "300"
+        }
+      }
+    }
+  ]
+}

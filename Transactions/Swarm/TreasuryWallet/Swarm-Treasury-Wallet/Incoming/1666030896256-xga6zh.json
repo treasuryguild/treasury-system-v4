@@ -1,0 +1,27 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "a4f15ca37496869b0c4daeab959c1af772c9f854502c1f8d900f5fa8221e6737",
+  "msg": [
+    "Swarm Transaction",
+    "Recipients: 1",
+    "7581.38 USD in 20271.07 ADA",
+    "Transaction made by Treasury Guild @0.374",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Funds from After Town Hall by Swarm wallet"
+      ],
+      "contributors": {
+        "xga6zh": {
+          "ADA": "20271.071317"
+        }
+      }
+    }
+  ]
+}

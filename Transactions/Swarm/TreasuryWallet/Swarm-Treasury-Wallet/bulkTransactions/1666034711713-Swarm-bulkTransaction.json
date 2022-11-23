@@ -1,0 +1,168 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "37ee4c03e81bfedaf7fd936945f864bd6ab060ce1826f9d58c13fac75540cfcb",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 19",
+    "28971.29 USD in 78089.73 ADA",
+    "Transaction made by Treasury Guild @0.371",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Monthly rewards for contributions"
+      ],
+      "label": "swarm contributors",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "5405.405405"
+        },
+        "msxzwl": {
+          "ADA": "2702.702703"
+        },
+        "ptetnl": {
+          "ADA": "2702.702703"
+        },
+        "8n4qu4": {
+          "ADA": "2702.702703"
+        },
+        "f0qnsw": {
+          "ADA": "5405.405405"
+        },
+        "uveq4y": {
+          "ADA": "4054.054054"
+        },
+        "jnaxjp": {
+          "ADA": "2702.702703"
+        },
+        "4mg27n": {
+          "ADA": "2702.702703"
+        },
+        "55smty": {
+          "ADA": "4054.054054"
+        },
+        "3wu473": {
+          "ADA": "4054.054054"
+        },
+        "lr8uxr": {
+          "ADA": "4054.054054"
+        },
+        "4fwu6e": {
+          "ADA": "4054.054054"
+        },
+        "n7qgup": {
+          "ADA": "2702.702703"
+        },
+        "ex7942": {
+          "ADA": "2702.702703"
+        },
+        "w0knrl": {
+          "ADA": "2702.702703"
+        },
+        "ye2czd": {
+          "ADA": "2702.702703"
+        },
+        "8f9pmj": {
+          "ADA": "2702.702703"
+        },
+        "9qgazv": {
+          "ADA": "2702.702703"
+        },
+        "j3hkj2": {
+          "ADA": "4054.054054"
+        },
+        "rcgctj": {
+          "ADA": "5405.405405"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Zoom Subscription"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "847.567567568"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Miro Voltiare Swarm Account"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "97.2972973"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Adobe Illustrator"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "71.08108108"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Adobe  InDesign"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "71.08108108"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Swarm Gitbook"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "648.648"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Microsoft Excel"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "83.78378378"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Payback loan"
+      ],
+      "label": "loan",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "6000"
+        }
+      }
+    }
+  ]
+}

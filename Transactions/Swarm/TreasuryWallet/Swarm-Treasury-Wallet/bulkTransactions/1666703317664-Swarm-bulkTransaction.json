@@ -1,0 +1,786 @@
+{
+  "mdVersion": [
+    "1.0"
+  ],
+  "txid": "d1285b3351833f0b68c9092ed325e925f8be9547592fc47ba32801d10d958043",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 15",
+    "0 USD in 16475.00 GMBL",
+    "Transaction made by Treasury Guild @0.362",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "set up a Idea Fest Fund9 page - Earn 200 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the Catalyst Swarm Veteran Call 15.08 - Earn 100",
+        "Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "n7qgup": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "8f9pmj": {
+          "gimbal": 100
+        },
+        "8lwcgv": {
+          "gimbal": 100
+        },
+        "jy7s8e": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the Catalyst Swarm Veteran Call 19.09 - Earn 100",
+        "Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "n7qgup": {
+          "gimbal": 100
+        },
+        "8n4qu4": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "8f9pmj": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the Catalyst Swarm Veteran Call 29.09 - Earn 100",
+        "Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "g8t0fm": {
+          "gimbal": 100
+        },
+        "8lwcgv": {
+          "gimbal": 100
+        },
+        "8f9pmj": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        },
+        "n7qgup": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the Catalyst Swarm Veteran Call 2 29.09 - Earn 100",
+        "Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "8f9pmj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the Catalyst Swarm Veteran Call 30.07 - Earn 100",
+        "Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "n7qgup": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "8n4qu4": {
+          "gimbal": 100
+        },
+        "dpy3c6": {
+          "gimbal": 100
+        },
+        "8f9pmj": {
+          "gimbal": 100
+        },
+        "8lwcgv": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Creating and Assigning weekly timestamping tasks - 500 GMBL"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "6lcdjr": {
+          "gimbal": 500
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Creating Suggestion Bounty - 100 Gimbals"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "6lcdjr": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Experimenting with payment integration -100 GMBL"
+      ],
+      "label": "Operation",
+      "contributors": {
+        "6lcdjr": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Setting up Sheet for SNET Timestamps -100 GMBL"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "6lcdjr": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool Development - Treasury Manager Excel Updates"
+      ],
+      "label": "Tool development",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 3500
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 1 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 2 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 3 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 4 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 5 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 6 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 7 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community - 200 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community - 25 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community - 300 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 1 - 300 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 2 - 300 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community - 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 1 - 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 2 - 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 3 - 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 4 - 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 5 - 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 6 - 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community 7 - 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Transactions for community - 500 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 500
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Updating/Creating the timestamp Templates for ease - 100",
+        "Gimbal"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "6lcdjr": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild 1 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild 2 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild 2- 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild 3 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 4 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "4mg27n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 5 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 6 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "4mg27n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 7 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "4mg27n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 8 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 9 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "4mg27n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 10 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 11 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 12 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "a95ysr": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 13 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 14 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "a95ysr": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 15 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "a95ysr": {
+          "gimbal": 150
+        },
+        "4mg27n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team 16 - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "4mg27n": {
+          "gimbal": 150
+        }
+      }
+    }
+  ]
+}
