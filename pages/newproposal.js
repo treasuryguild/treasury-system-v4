@@ -101,7 +101,12 @@ function getValue(name){
     console.log(budgetItems);
     //generate a filename
     let budgetItemsF = JSON.stringify(budgetItems);
-    const filename = "F" + parseInt(fund.replace( /^\D+/g, '')) + "-" + proposal.replace(/\s/g, '-') + ".json"  
+    let filename = ""
+    if (fund.substring(0, 4).toLowerCase() == "fund") {
+        filename = "F" + parseInt(fund.replace( /^\D+/g, '')) + "-" + proposal.replace(/\s/g, '-') + ".json"
+    } else {
+        filename = "TW" + "-" + proposal.replace(/\s/g, '-') + ".json"  
+    }
     //Generate a string mimicing the file structure
     //Indentation is important here
     let fileText = `{

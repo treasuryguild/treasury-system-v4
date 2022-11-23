@@ -1,7 +1,7 @@
 {
     "project": "Swarm",
     "proposal": "Swarm Treasury Wallet",
-    "fund": "Fund 9",
+    "fund": "TreasuryWallet",
     "budget": "70000",
     "budgetItems": {"Incoming":"70000","Other":"10", "bulkTransactions":"50000","Swap":"5000","Swarm-Support-Fund":"55000","Bounty":"5000","Swarm-Contributors":"55000","Comm-Org-Tools":"5000"},
     "ideascale": "https://cardano.ideascale.com/c/idea/421708",

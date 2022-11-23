@@ -59,7 +59,9 @@ window.onload = function() {
         topData = response.data;
         console.log(data);
         totals2 = data.budgetItems;
-        fundJ = ("Fund" + parseInt(data.fund.replace( /^\D+/g, '')));
+        if ((data.fund).substring(0, 4).toLowerCase() == "fund") {
+          fundJ = ("Fund" + parseInt(data.fund.replace( /^\D+/g, '')));
+        } else { fundJ = "TreasuryWallet" }
         projectJ = data.project.replace(/\s/g, '-')
         ideaJ = data.ideascale
         poolJ = data.proposal.replace(/\s/g, '-')
