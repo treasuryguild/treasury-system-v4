@@ -322,7 +322,7 @@ for (let i = 0; i < descript.length; i++) {
 }
 
   let fileText = `{
-"mdVersion": ["1.0"],
+"mdVersion": ["1.1"],
 "msg": [
 "${projectJ} Transaction",
 "Ideascale: ${ideaJ}",
