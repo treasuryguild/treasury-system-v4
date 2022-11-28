@@ -536,6 +536,18 @@ switch(project) {
   case 'Swarm':
     answer = `${orgEl}/Catalyst-Swarm`;
     break;
+  case 'Governance-Guild':
+    answer = `${orgEl}/gg`;
+    break;
+  case 'Onboarded-Companies-Playbook':
+    answer = `${orgEl}/Onboarded-companies-playbook`;
+    break;
+  case 'Accounting-Reporting-France':
+    answer = `${orgEl}/accounting-reporting-france`;
+    break;
+  case 'Ambassadors-Guild':
+    answer = `${orgEl}/ambassadros-guild`;
+    break;
   case 'Cardano-Ambassadors':
     answer = `${orgEl}/cardano-ambassadors`;
     break;
