@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "35aab971ee4b2a008082305cb47576fde85281e90d7c0b44429be29bfe3485a8",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "374.06 USD in 1180.00 ADA",
+    "Transaction made by Treasury Guild @0.317",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Incoming",
+      "description": [
+        "First reward from France acc 372 usd"
+      ],
+      "contributors": {
+        "France acc": {
+          "ADA": "1180.000000"
+        }
+      }
+    }
+  ]
+}
