@@ -1,0 +1,58 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "3bc1aed127a16200ccc7390c626a4fb7c0bba574da23e7dda6fc84153082321f",
+  "msg": [
+    "Catalyst-Circle Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/403562",
+    "Recipients: 8",
+    "2224.53 USD in 7062.00 ADA",
+    "Transaction made by Treasury Guild @0.315",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Panel member for Event"
+      ],
+      "label": "Funded Proposers",
+      "contributors": {
+        "r5tmga": {
+          "ADA": "958.4664537"
+        },
+        "cud8lw": {
+          "ADA": "958.4664537"
+        },
+        "9m0vj8": {
+          "ADA": "958.4664537"
+        },
+        "hrq5pu": {
+          "ADA": "958.4664537"
+        },
+        "cvmsew": {
+          "ADA": "958.4664537"
+        },
+        "9wffm4": {
+          "ADA": "958.4664537"
+        },
+        "uaps4p": {
+          "ADA": "958.4664537"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Handover to CCv4"
+      ],
+      "label": "Funded Proposers",
+      "contributors": {
+        "7lnpzs": {
+          "ADA": "352.7348243"
+        }
+      }
+    }
+  ]
+}
