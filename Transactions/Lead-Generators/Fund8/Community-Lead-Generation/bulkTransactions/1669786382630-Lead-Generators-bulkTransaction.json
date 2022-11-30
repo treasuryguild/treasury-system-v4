@@ -1,0 +1,49 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "cba1feb5ccea566488933883b34b2809b61298d17943e51dd8035959433b7443",
+  "msg": [
+    "Lead-Generators Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/397339",
+    "Recipients: 4",
+    "693.00 USD in 2200.00 ADA",
+    "Transaction made by Treasury Guild @0.315",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "Generated new lead"
+      ],
+      "label": "New lead",
+      "contributors": {
+        "jy60mc": {
+          "ADA": "400"
+        },
+        "4mg27n": {
+          "ADA": "200"
+        },
+        "kv4459": {
+          "ADA": "200"
+        },
+        "u8hvl3": {
+          "ADA": "400"
+        }
+      }
+    },
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "Confirmed lead collaboration"
+      ],
+      "label": "Lead Collaboration",
+      "contributors": {
+        "kv4459": {
+          "ADA": "1000"
+        }
+      }
+    }
+  ]
+}
