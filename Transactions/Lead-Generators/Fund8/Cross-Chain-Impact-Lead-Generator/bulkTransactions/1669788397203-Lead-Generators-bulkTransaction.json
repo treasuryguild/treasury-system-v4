@@ -1,0 +1,35 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "0d71c845e82592dab839e26e83fbab02bb3e245e4f813347ddcff8a16f5aa9f4",
+  "msg": [
+    "Lead-Generators Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/402760",
+    "Recipients: 3",
+    "1600.00 USD in 3112.84 ADA",
+    "Transaction made by Treasury Guild @0.514",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "First half of rewards for Cross chain coordination",
+        "meetings"
+      ],
+      "label": "Coordination Meetings",
+      "contributors": {
+        "kv4459": {
+          "ADA": "907.91"
+        },
+        "7478kg": {
+          "ADA": "1167.32"
+        },
+        "u8hvl3": {
+          "ADA": "1037.61"
+        }
+      }
+    }
+  ]
+}
