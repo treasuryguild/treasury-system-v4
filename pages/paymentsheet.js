@@ -82,7 +82,7 @@ function listQ(){
           fieldIdArr.push(fieldId);
           fieldArr2.push(fieldId)
           let td = document.createElement('td');
-          td.innerHTML= (`<input type='text' class='${l[j]}' id='${fieldId}' value='${l[j]}${fieldId}'>`)
+          td.innerHTML= (`<input type='text' class='${l[j]}' id='${fieldId}' value=''>`)  //value = ${l[j]}${fieldId}
           row.appendChild(td); 
           }
           table.appendChild(row);
