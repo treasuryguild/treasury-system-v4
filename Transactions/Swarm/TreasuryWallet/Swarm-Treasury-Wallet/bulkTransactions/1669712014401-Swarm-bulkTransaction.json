@@ -1,0 +1,193 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "2cf47132c44a470a02d8e72c7e4ac840ad67ed72ef3863cd74d5d18cc67984d5",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 17",
+    "28.64 USD in 91.52 ADA",
+    "0 USD in 5400.00 GMBL",
+    "2.94 USD in 70.00 AGIX",
+    "Transaction made by Treasury Guild @0.313",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "8.11.2022. - Weekly Call - Treasury Guild Team",
+        "- 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Execute Catalyst Community Workshop - 300 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "ukwpzf": {
+          "gimbal": 300
+        },
+        "jy7s8e": {
+          "gimbal": 300
+        },
+        "u7ywg4": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Co Organize a Catalyst Community Workshop - 400 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jy7s8e": {
+          "gimbal": 400
+        },
+        "u7ywg4": {
+          "gimbal": 400
+        },
+        "ukwpzf": {
+          "gimbal": 400
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Setup Singularity Swarm domain & Website - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "n7qgup": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Monthly Report October 2022- F9 Catalyst Swarm DAO Tools -",
+        "250 Gimbals"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 250
+        },
+        "u7ywg4": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Voting Rewards Arrived Post - Catalyst Ticker Post - 50",
+        "GMBL"
+      ],
+      "label": "Governance",
+      "contributors": {
+        "8f9pmj": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create a Proposal to Gimbalabs - 250 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly ATH Team meeting - Nov 28 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        },
+        "8n4qu4": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join Saturday Swarm Session - November 26 - Earn 200",
+        "Gimbal"
+      ],
+      "label": "Swarm Session",
+      "contributors": {
+        "w0knrl": {
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 200
+        },
+        "j3xc2c": {
+          "gimbal": 200
+        },
+        "4mg27n": {
+          "gimbal": 200
+        },
+        "ex7942": {
+          "gimbal": 200
+        },
+        "lrs3kj": {
+          "gimbal": 200
+        },
+        "xl6z2n": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp Open dApp Framework - Introductory Research Session",
+        "- Earn 70 Ada & 70 Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "yp7gg3": {
+          "gimbal": 100,
+          "ada": 70,
+          "AGIX": 70
+        }
+      }
+    }
+  ]
+}

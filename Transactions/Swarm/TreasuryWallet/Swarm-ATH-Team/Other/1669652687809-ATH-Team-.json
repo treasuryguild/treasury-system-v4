@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "2da565ad2aba100648bd68db83a255f01e43d0019ba7dc2d14130dd9b0f3ee4c",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "996.05 USD in 3276.50 ADA",
+    "Transaction made by Treasury Guild @0.304",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Other",
+      "description": [
+        "Rewards for ATH Team "
+      ],
+      "contributors": {
+        "ATH Team ": {
+          "ADA": "3276.495126"
+        }
+      }
+    }
+  ]
+}
