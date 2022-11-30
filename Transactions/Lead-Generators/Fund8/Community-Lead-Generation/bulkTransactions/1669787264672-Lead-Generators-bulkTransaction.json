@@ -1,0 +1,35 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "b41525d7ffc5706ef3e5555bbad455729429ad9683d0fc6b08b76b1b011e9981",
+  "msg": [
+    "Lead-Generators Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/397339",
+    "Recipients: 3",
+    "2666.67 USD in 5188.07 ADA",
+    "Transaction made by Treasury Guild @0.514",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "Last rewards for support meetings for Community Lead",
+        "Generators Proposal"
+      ],
+      "label": "Support meetings",
+      "contributors": {
+        "kv4459": {
+          "ADA": "902.27"
+        },
+        "7478kg": {
+          "ADA": "2932.39"
+        },
+        "u8hvl3": {
+          "ADA": "1353.41"
+        }
+      }
+    }
+  ]
+}
