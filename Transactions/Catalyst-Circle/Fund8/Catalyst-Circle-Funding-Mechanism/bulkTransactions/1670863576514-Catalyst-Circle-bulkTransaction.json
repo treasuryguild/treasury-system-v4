@@ -1,0 +1,112 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "543b7a1c10d3b8698d4153f3c077632f26ce8484c3859e6048891d56ec6a4507",
+  "msg": [
+    "Catalyst-Circle Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/403562",
+    "Recipients: 7",
+    "2860.00 USD in 9420.29 ADA",
+    "Transaction made by Treasury Guild @0.3036",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Question prep for Question time event"
+      ],
+      "label": "Funded Proposers",
+      "contributors": {
+        "mg3a4k": {
+          "ADA": "823.4519104"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Chair for Question time event"
+      ],
+      "label": "Funded Proposers",
+      "contributors": {
+        "d77t0m": {
+          "ADA": "823.4519104"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Coordinator for Question time event"
+      ],
+      "label": "Funded Proposers",
+      "contributors": {
+        "7lnpzs": {
+          "ADA": "2635.046113"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Event Documentation for Question time event"
+      ],
+      "label": "Funded Proposers",
+      "contributors": {
+        "j5wyl2": {
+          "ADA": "1976.284585"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Translation Spanish for Question time event"
+      ],
+      "label": "Funded Proposers",
+      "contributors": {
+        "zum4wh": {
+          "ADA": "790.513834"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Translation Portuguese for Question time event"
+      ],
+      "label": "Funded Proposers",
+      "contributors": {
+        "zum4wh": {
+          "ADA": "790.513834"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Translation French for Question time event"
+      ],
+      "label": "Funded Proposers",
+      "contributors": {
+        "n06epp": {
+          "ADA": "790.513834"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Translation Vietnamese for Question time event"
+      ],
+      "label": "Funded Proposers",
+      "contributors": {
+        "lzdu6z": {
+          "ADA": "790.513834"
+        }
+      }
+    }
+  ]
+}
