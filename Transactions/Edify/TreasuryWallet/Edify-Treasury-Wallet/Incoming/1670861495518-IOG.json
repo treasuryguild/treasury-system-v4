@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "9a6edf6ac023af1215cdd3c8fe8170d08f83cc9f273414227ed3e10c336c57b1",
+  "msg": [
+    "Edify Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "5790.42 USD in 18984.97 ADA",
+    "Transaction made by Treasury Guild @0.3036",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Edify",
+      "label": "Incoming",
+      "description": [
+        "Second last instalment for Train the Trainer and SPO",
+        "incubator proposals"
+      ],
+      "contributors": {
+        "IOG": {
+          "ADA": "18984.974139"
+        }
+      }
+    }
+  ]
+}
