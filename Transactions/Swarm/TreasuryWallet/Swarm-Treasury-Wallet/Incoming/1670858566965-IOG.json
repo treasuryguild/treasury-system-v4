@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "059712846866f4c6a37d8d64acb28f673cc4e977d4603b7c1ec3ecb8939b2078",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "50647.23 USD in 165513.83 ADA",
+    "Transaction made by Treasury Guild @0.306",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Second instalment for Catalyst Swarm and SingularityNet",
+        "proposal"
+      ],
+      "contributors": {
+        "IOG": {
+          "ADA": "165513.833992"
+        }
+      }
+    }
+  ]
+}
