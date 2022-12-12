@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "6237ed117df47cdf348fe8ea7a236101f61a97e77f1eddcd781ed3a0d83600b6",
+  "msg": [
+    "Edify Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "502.31 USD in 1646.90 ADA",
+    "Transaction made by Treasury Guild @0.3036",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Edify",
+      "label": "Treasury-Service",
+      "description": [
+        "Third payment for treasury service"
+      ],
+      "contributors": {
+        "rjfm7j": {
+          "ADA": "1646.903821"
+        }
+      }
+    }
+  ]
+}
