@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "4a37a341d23df1f77109cf58bc471aa3c0258b415203e512891c2236a7f51e3c",
+  "msg": [
+    "Catalyst-Circle Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/403562",
+    "Recipients: 1",
+    "6278.82 USD in 20586.30 ADA",
+    "Transaction made by Treasury Guild @0.3036",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Circle",
+      "label": "Incoming",
+      "description": [
+        "Last instalment from IOG"
+      ],
+      "contributors": {
+        "IOG": {
+          "ADA": "20586.297760"
+        }
+      }
+    }
+  ]
+}
