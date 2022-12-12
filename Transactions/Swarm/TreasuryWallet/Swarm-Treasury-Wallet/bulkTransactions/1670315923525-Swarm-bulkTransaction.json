@@ -1,0 +1,92 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "9a5ea96d76650db7ca3886cb2b782c08b237f6e6c0871c5e5d453f012162205d",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 10",
+    "4.29 USD in 13.45 ADA",
+    "0 USD in 1300.00 GMBL",
+    "Transaction made by Treasury Guild @0.319",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Ambassador Town Hall - Earn 100 GMBL"
+      ],
+      "label": "Ambassador Town Hall",
+      "contributors": {
+        "nuz9xe": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Process Guild weekly Meeting - 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "nuz9xe": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Onboarding Ambassador Pioneer candidates - 100Gimbal"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "j3hkj2": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Ambassador Town Hall #26 - Earn 100 GMBL"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "ye2czd": {
+          "gimbal": 100
+        },
+        "fkdrxm": {
+          "gimbal": 100
+        },
+        "jwrar0": {
+          "gimbal": 100
+        },
+        "rvata9": {
+          "gimbal": 100
+        },
+        "nuz9xe": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "j3xc2c": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "1fefd4404d513816db8be76291fb0d2c9772252827674628629a841ac830fe93",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 20",
+    "40.05 USD in 125.55 ADA",
+    "0 USD in 5850.00 GMBL",
+    "4.80 USD in 100.00 AGIX",
+    "Transaction made by Treasury Guild @0.319",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly ATH Team meeting - Nov 28 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "8n4qu4": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the Littlefish Birthday Party on Zoom - Earn 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "8lwcgv": {
+          "gimbal": 200
+        },
+        "tgd8fg": {
+          "gimbal": 200
+        },
+        "cvdu29": {
+          "gimbal": 200
+        },
+        "n7qgup": {
+          "gimbal": 200
+        },
+        "9qgazv": {
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "gimbal": 200
+        },
+        "c70dqg": {
+          "gimbal": 200
+        },
+        "8n4qu4": {
+          "gimbal": 200
+        },
+        "g8t0fm": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 200
+        },
+        "p8q4jl": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create an Article or Video - Your Cardano Summit 2022",
+        "Community Impressions - 100 Ada, 250 Gimbals, 100 AGIX"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "vtrfhd": {
+          "gimbal": 250,
+          "ada": 100,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Introduction to Cataylst Community Places - 100 GMBLs"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "8f9pmj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Summarize Catalyst Community Workshop - 500 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "cg2u7u": {
+          "gimbal": 500
+        },
+        "u7ywg4": {
+          "gimbal": 500
+        },
+        "jy7s8e": {
+          "gimbal": 500
+        },
+        "ukwpzf": {
+          "gimbal": 500
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Treasury Guild Call ( spontain ) - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Swarm Payment 100 gimbals"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "28.11.22 - Weekly Call - Treasury Guild Team -",
+        "150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "4mg27n": {
+          "gimbal": 150
+        }
+      }
+    }
+  ]
+}
