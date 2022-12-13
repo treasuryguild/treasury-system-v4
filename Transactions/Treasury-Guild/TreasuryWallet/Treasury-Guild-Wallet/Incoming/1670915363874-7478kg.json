@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "8414fc598cda1790d93fcbefcf0a5ac1e3ac0d52c5551a8c8d708d19b36a572c",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "564.86 USD in 1852.00 ADA",
+    "Transaction made by Treasury Guild @0.305",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Incoming",
+      "description": [
+        "Second reward from France acc 562.2672 usd"
+      ],
+      "contributors": {
+        "7478kg": {
+          "ADA": "1852"
+        }
+      }
+    }
+  ]
+}
