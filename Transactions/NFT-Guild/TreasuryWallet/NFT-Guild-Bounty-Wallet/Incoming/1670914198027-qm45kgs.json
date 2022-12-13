@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "f56108d19ada54650e420da59d051b23a8964e38f3e12ae55e88a5215c8694ca",
+  "msg": [
+    "NFT-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "753.46 USD in 2470.36 ADA",
+    "Transaction made by Treasury Guild @0.305",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "NFT-Guild",
+      "label": "Incoming",
+      "description": [
+        "Swarm support funds for bounties"
+      ],
+      "contributors": {
+        "qm45kgs": {
+          "ADA": "2470.355731"
+        }
+      }
+    }
+  ]
+}
