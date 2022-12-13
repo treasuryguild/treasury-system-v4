@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "63b83a087a3425dbb7fcbf9cb5614410aa29281fcd8da902ad69ca771730839f",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.61 USD in 2.00 ADA",
+    "491.02 USD in 8768.22 AGIX",
+    "Transaction made by Treasury Guild @0.305",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Incoming",
+      "description": [
+        "Incoming 2 ADA and 8768.21848673 AGIX from Minswap"
+      ],
+      "contributors": {
+        " MueslieSwap": {
+          "ADA": "2",
+          "AGIX": "8768.21848673"
+        }
+      }
+    }
+  ]
+}
