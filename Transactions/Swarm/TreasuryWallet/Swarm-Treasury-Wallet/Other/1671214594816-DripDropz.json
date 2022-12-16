@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "2600c1adb423234e409cac5cddbee55a47e085658efcf0fe1723142d5fc080d1",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.62 USD in 2.17 ADA",
+    "Transaction made by Treasury Guild @0.285",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Other",
+      "description": [
+        "DripDropz fee for voting in Catalyst Circle v4"
+      ],
+      "contributors": {
+        "DripDropz": {
+          "ADA": "2.166997"
+        }
+      }
+    }
+  ]
+}
