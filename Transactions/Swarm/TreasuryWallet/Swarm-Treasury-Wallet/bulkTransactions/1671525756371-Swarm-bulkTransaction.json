@@ -1,0 +1,73 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "84c43bd064f9c0d327b9a06ebcc59c4fdb039a791fa5aaf58d425a595e2b2dc9",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 6",
+    "53.33 USD in 206.72 ADA",
+    "0 USD in 950.00 GMBL",
+    "9.40 USD in 200.00 AGIX",
+    "Transaction made by Treasury Guild @0.258",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "14.12.2022. - Community Governance - Expert Group",
+        "- Weekly Call #9 - 150 AGX &150 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "uveq4y": {
+          "gimbal": 150
+        },
+        "r5nvwm": {
+          "gimbal": 150
+        },
+        "j3xc2c": {
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "29.11.2022. - Timestamp the Treasury Guild Meeting 3",
+        "- Earn  100 Ada, 100 Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "yp7gg3": {
+          "gimbal": 100,
+          "ada": 100,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "29.11.2022. - Timestamp the Treasury Guild Meeting 2",
+        "- Earn 100 Ada, 100 Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "yp7gg3": {
+          "gimbal": 100,
+          "ada": 100,
+          "AGIX": 100
+        }
+      }
+    }
+  ]
+}
