@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "957b6b92dbc695acb6ee686ba4d10c2a63d1fa1f7bb1ef1f61bb8853308621bf",
+  "msg": [
+    "Lead-Generators Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/397339",
+    "Recipients: 1",
+    "259.00 USD in 1000.00 ADA",
+    "Transaction made by Treasury Guild @0.259",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Lead-Generators",
+      "label": "Incentive-budget",
+      "description": [
+        "Confirmed Collaboration"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ADA": "1000"
+        }
+      }
+    }
+  ]
+}
