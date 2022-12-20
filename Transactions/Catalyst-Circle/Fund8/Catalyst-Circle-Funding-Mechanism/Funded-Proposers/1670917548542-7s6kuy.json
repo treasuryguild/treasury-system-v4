@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "632bbd614ff257ac8377325dce63dbe14bf7dd98846960ffc5c0a6a270cb106a",
+  "msg": [
+    "Catalyst-Circle Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/403562",
+    "Recipients: 1",
+    "238.74 USD in 790.51 ADA",
+    "Transaction made by Treasury Guild @0.3036",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Circle",
+      "label": "Funded-Proposers",
+      "description": [
+        "Payment to Socious for Japanese Translation of Question",
+        "time event"
+      ],
+      "contributors": {
+        "7s6kuy": {
+          "ADA": "790.513834"
+        }
+      }
+    }
+  ]
+}

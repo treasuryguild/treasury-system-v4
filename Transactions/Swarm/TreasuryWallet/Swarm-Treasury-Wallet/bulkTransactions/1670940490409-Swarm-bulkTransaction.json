@@ -1,0 +1,70 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "a682068d013149b12167b85842e9ff039144880f4c9df8de6afd868492e170be",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 6",
+    "65.11 USD in 205.38 ADA",
+    "0 USD in 800.00 GMBL",
+    "10.80 USD in 200.00 AGIX",
+    "Transaction made by Treasury Guild @0.317",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Timestamp the Marketing Guild Meeting 1  - Earn  100 Ada,",
+        "100 Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "yp7gg3": {
+          "gimbal": 100,
+          "ada": 100,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Timestamp the Ambassador Town Hall Meeting #24 - Earn 100",
+        "Ada, 100 Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "c70dqg": {
+          "gimbal": 100,
+          "ada": 100,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Community Governance - Expert Group - Weekly Call #8",
+        "- 150 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "xl6z2n": {
+          "gimbal": 150
+        },
+        "vuw9wz": {
+          "gimbal": 150
+        },
+        "j3hkj2": {
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "gimbal": 150
+        }
+      }
+    }
+  ]
+}

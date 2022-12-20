@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "f56108d19ada54650e420da59d051b23a8964e38f3e12ae55e88a5215c8694ca",
+  "msg": [
+    "Middle-East-Town-Hall Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "497.36 USD in 1646.90 ADA",
+    "Transaction made by Treasury Guild @0.302",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Middle-East-Town-Hall",
+      "label": "Incoming",
+      "description": [
+        "Swarm bounty support"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": "1646.90382"
+        }
+      }
+    }
+  ]
+}

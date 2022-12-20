@@ -1,0 +1,460 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "2fac325f285037b4659e30e57c2e97228d753c6618948c19db22acee503bc688",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 19",
+    "388.26 USD in 1268.83 ADA",
+    "0 USD in 7300.00 GMBL",
+    "66.25 USD in 1250.00 AGIX",
+    "Transaction made by Treasury Guild @0.306",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create your Fund 9 Voting Challenge Setting Picklist - Earn",
+        "250 Gimbals"
+      ],
+      "label": "Governance",
+      "contributors": {
+        "e6nth2": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create your Fund 9 Voting Picklist - Earn 250 Gimbals"
+      ],
+      "label": "Governance",
+      "contributors": {
+        "e6nth2": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly ATH Team meeting - Dec 12- 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "8n4qu4": {
+          "gimbal": 100
+        },
+        "9qgazv": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "30.11.22 - Organizing & Executing After Town Hall",
+        "- 200 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200
+        },
+        "8n4qu4": {
+          "gimbal": 200
+        },
+        "f0qnsw": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "07.12.22 - Organizing & Executing After Town Hall",
+        "- 200 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "f0qnsw": {
+          "gimbal": 200
+        },
+        "8n4qu4": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the MPW testing - Earn 125 Ada & 125 Agix &",
+        "100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 100,
+          "ada": 125,
+          "AGIX": 125
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Translate CIP 1694 into Swahili - Earn 200 Ada, 200 Gimbal",
+        "& 200 AGIX"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "t5f5ex": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Translate CIP 1694 into Portuguese - Earn 200 Ada, 200",
+        "Gimbal & 200 AGIX"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "w0knrl": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp Swarm Impact Growth Engine - Earn 50 Ada & 50",
+        "Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "6x29z9": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the NFT Guild Roundtable #11- Earn 50 Ada, 50",
+        "Gimbal & 50 AGIX"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "mx4mae": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Created a Catalyst Onboarding Session for future Proposers -",
+        "800 GMBLs"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "8f9pmj": {
+          "gimbal": 800
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Install theswarmproject.com domain & Website - 100",
+        "Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "n7qgup": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Setup Singularity Swarm domain & Website - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "n7qgup": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the Catalyst Swarm Veteran Call - Dec 5 - Earn 100",
+        "Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "g8t0fm": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "8lwcgv": {
+          "gimbal": 100
+        },
+        "9qgazv": {
+          "gimbal": 100
+        },
+        "n7qgup": {
+          "gimbal": 100
+        },
+        "8n4qu4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "1-on-1 [Lucas + Peter] - Earn 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "ptetnl": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "09.11.22 - 1-on-1 [Lucas + Peter] -",
+        "Earn 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "ptetnl": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "7.12.2022. - Timestamp the MPW testing - Earn 125",
+        "Ada & 125 Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 100,
+          "ada": 125,
+          "AGIX": 125
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "6.12.2022. - Translate CIP 1694 into Swahili -",
+        "Earn 200 Ada, 200 Gimbal & 200 AGIX"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "t5f5ex": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "5.12.2022. - Translate CIP 1694 into Portuguese -",
+        "Earn 200 Ada, 200 Gimbal & 200 AGIX"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "w0knrl": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "30.11.2022. - Timestamp Swarm Impact Growth Engine",
+        "- Earn 50 Ada & 50 Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "6x29z9": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "25.11.2022. - Timestamp the NFT Guild Roundtable",
+        "#11- Earn 50 Ada, 50 Gimbal & 50 AGIX"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "mx4mae": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "10.11.2022. - translation of the gitbook portuguese",
+        "- 300 gimbal"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "w0knrl": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "7.12.2022. - Create a page on notion to present",
+        "swarm - 200 gimbal"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "w0knrl": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "10.11.2022. - Meeting: Livia and Pete - 100",
+        "Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "w0knrl": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "22.11.2022. - Weekly Call - Swarm & Treasury",
+        "Guild - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "8.11.2022. - Weekly Call - Treasury Guild Team",
+        "- 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 50
+        },
+        "4mg27n": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "13.12.2022. - Join the Catalyst Swarm Veteran Call",
+        "#2 - December 12 - Earn 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "8lwcgv": {
+          "gimbal": 100
+        },
+        "n7qgup": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "9qgazv": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "039d99f367089dcd0e3e9c37dae89752dfb2b6ae47248dd067c62d26a567a54d",
+  "msg": [
+    "Catalyst-Circle Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/403562",
+    "Recipients: 1",
+    "2867.41 USD in 9494.73 ADA",
+    "Transaction made by Treasury Guild @0.300",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Circle",
+      "label": "Community-Advisors",
+      "description": [
+        "Remainder of initial 6390 usd amount for Discord Dework",
+        "and Github work for sub circle"
+      ],
+      "contributors": {
+        "nazjm6": {
+          "ADA": "9494.733333"
+        }
+      }
+    }
+  ]
+}
