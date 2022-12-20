@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "b05c0072bb4ad4acddb8a33171d135570f1e86b735c2385b531d9f18342988ab",
+  "msg": [
+    "Governance-Guild Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "16527.94 USD in 63569.00 ADA",
+    "Transaction made by Treasury Guild @0.260",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Governance-Guild",
+      "label": "Incoming",
+      "description": [
+        "Funds from the exchange that we converted from stable",
+        "coin back to ADA"
+      ],
+      "contributors": {
+        "w0t2f4": {
+          "ADA": "63569.000000"
+        }
+      }
+    }
+  ]
+}
