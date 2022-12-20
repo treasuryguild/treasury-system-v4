@@ -1,0 +1,262 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "bd411762d70f4f75bf76ab301ffa76d5cc4b859d7950201bf41eb264bce2347c",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 18",
+    "119.22 USD in 462.10 ADA",
+    "0 USD in 3200.00 GMBL",
+    "21.15 USD in 450.00 AGIX",
+    "Transaction made by Treasury Guild @0.258",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "13.12.2022. - Timestamp the Pioneer Program General",
+        "updates - Earn 50 Ada & 50 Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "eend5s": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "13.12.2022. - Timestamp Decentralization vs",
+        "Deregulation - Earn 50 Ada & 50 Agix & 100 Gimbal"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "c70dqg": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "13.12.2022. - Timestamp the DAOs Workshop w/",
+        "Newman - Earn 50 Ada & 50 Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "25.11.2022. - Fill out this awesome survey -",
+        "Littlefish - Earn 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "p8q4jl": {
+          "gimbal": 100
+        },
+        "c70dqg": {
+          "gimbal": 100
+        },
+        "uw6w3e": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "3.11.2022. - Create a Catalyst Circle Logo - 50",
+        "Ada 50 Gimbals, 50 AGIX"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        },
+        "9qgazv": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        },
+        "djrq49": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "16.10.2022. - Suggestion Bounty - Earn 25 Ada",
+        "& 25 Agix & 100 Gimbals"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "yp7gg3": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        },
+        "7nwka4": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        },
+        "tgd8fg": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        },
+        "c70dqg": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        },
+        "zpu7d8": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        },
+        "lrs3kj": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "8.11.2022. - 1Weekly Call - Treasury Guild Team",
+        "- 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "8.11.2022. - 2Weekly Call - Treasury Guild Team",
+        "- 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "19.12.2022. - Community Infrastructure Call -",
+        "Yoram & Felix - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "5jwnt2": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "16.12.2022. - Move already existing content into new",
+        "sections - Cardano Forum Governance Category - 15 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "nvvr8e": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "15.12.2022. - Create opening Document to introduce",
+        "Governance Category on Cardano Forum - 200 Gimbal"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "15.12.2022. - Governance Catagory Call with CF #1",
+        "- 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "nvvr8e": {
+          "gimbal": 100
+        },
+        "jy7s8e": {
+          "gimbal": 100
+        },
+        "8lwcgv": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "15.12.2022. - Create Sections for the Governance",
+        "Category on Cardano Forum - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "8lwcgv": {
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "jy7s8e": {
+          "gimbal": 150
+        }
+      }
+    }
+  ]
+}
