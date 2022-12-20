@@ -1,0 +1,76 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "",
+  "msg": [
+    "Lead-Generators Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/402760",
+    "Recipients: 8",
+    "1785.83 USD in 6895.09 ADA",
+    "Transaction made by Treasury Guild @0.259",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "3x New verified Leads"
+      ],
+      "label": "Incentive-budget",
+      "contributors": {
+        "jy60mc": {
+          "ADA": "600"
+        }
+      }
+    },
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "1x New verified Lead"
+      ],
+      "label": "Incentive-budget",
+      "contributors": {
+        "sr7wfk": {
+          "ADA": "200"
+        },
+        "kvg985": {
+          "ADA": "200"
+        }
+      }
+    },
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "1st Half of General Admin budget"
+      ],
+      "label": "General-Admin",
+      "contributors": {
+        "7478kg": {
+          "ADA": "851.17"
+        },
+        "u8hvl3": {
+          "ADA": "851.17"
+        },
+        "kv4459": {
+          "ADA": "1702.33"
+        }
+      }
+    },
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "Last rewards for Cross Chain administration of budget"
+      ],
+      "label": "Administration of budget",
+      "contributors": {
+        "4mg27n": {
+          "ADA": "1245.210728"
+        },
+        "uxd83r": {
+          "ADA": "1245.210728"
+        }
+      }
+    }
+  ]
+}
