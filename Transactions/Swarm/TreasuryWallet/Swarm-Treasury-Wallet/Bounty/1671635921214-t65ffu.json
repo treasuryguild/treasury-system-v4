@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "dba476b850e7f203b9e7e0387466b03824e6a44501a32fcc9a1c0c57b365f5b5",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "101.20 USD in 400.00 ADA",
+    "0 USD in 400.00 GMBL",
+    "18.80 USD in 400.00 AGIX",
+    "Transaction made by Treasury Guild @0.253",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Bounty",
+      "description": [
+        "Rewards for French and Arabic translation"
+      ],
+      "contributors": {
+        "t65ffu": {
+          "ADA": "400",
+          "GMBL": "400",
+          "AGIX": "400"
+        }
+      }
+    }
+  ]
+}
