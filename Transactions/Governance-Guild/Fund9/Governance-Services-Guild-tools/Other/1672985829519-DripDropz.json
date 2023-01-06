@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "e3193ff672e145e6963f24539140fc06c98eb2f13378426832012ce5568464c0",
+  "msg": [
+    "Governance-Guild Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "0.82 USD in 3.00 ADA",
+    "Transaction made by Treasury Guild @0.274",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Governance-Guild",
+      "label": "Other",
+      "description": [
+        "Swap ADA for Cornucopias token"
+      ],
+      "contributors": {
+        "DripDropz": {
+          "ADA": "3"
+        }
+      }
+    }
+  ]
+}
