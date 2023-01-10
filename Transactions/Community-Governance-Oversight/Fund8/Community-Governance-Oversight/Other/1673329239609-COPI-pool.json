@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "bbbe2c71bc33854a3ca3cf3e1df4f934db1118b28aca70a12e73868bfc9eead9",
+  "msg": [
+    "Community-Governance-Oversight Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/398225",
+    "Recipients: 1",
+    "0.68 USD in 2.17 ADA",
+    "Transaction made by Treasury Guild @0.315",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Community-Governance-Oversight",
+      "label": "Other",
+      "description": [
+        "Payment for staking funds to the COPI pool"
+      ],
+      "contributors": {
+        "COPI pool": {
+          "ADA": "2.174301"
+        }
+      }
+    }
+  ]
+}
