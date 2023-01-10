@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "d523d45df817cf3ca1ccac804102a9fe0d275394e317f0a5021fb439b8c9b3b3",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "1030.40 USD in 3200.00 ADA",
+    "Transaction made by Treasury Guild @0.322",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Incoming",
+      "description": [
+        "Rewards from Onboarding playbook"
+      ],
+      "contributors": {
+        "wzzhf5": {
+          "ADA": "3200"
+        }
+      }
+    }
+  ]
+}
