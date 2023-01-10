@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "dcd944fd82b4577f435cb463cfbb0b1e96ab469c89806cf5520a2523ff7e40ba",
+  "msg": [
+    "Governance-Guild Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "9824.58 USD in 31090.44 ADA",
+    "Transaction made by Treasury Guild @0.3225",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Governance-Guild",
+      "label": "Incoming",
+      "description": [
+        "Third instalment from IOG"
+      ],
+      "contributors": {
+        "IOG": {
+          "ADA": "31090.439276"
+        }
+      }
+    }
+  ]
+}
