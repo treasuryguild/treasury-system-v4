@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "ae30006e70a19e5584f5d3779b76f154c3b17737e23e60ad60cc51709f651dbd",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "1030.40 USD in 3200.00 ADA",
+    "Transaction made by Treasury Guild @0.322",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Other",
+      "description": [
+        "Swap ADA to stable coin"
+      ],
+      "contributors": {
+        "aw3n3k": {
+          "ADA": "3200"
+        }
+      }
+    }
+  ]
+}
