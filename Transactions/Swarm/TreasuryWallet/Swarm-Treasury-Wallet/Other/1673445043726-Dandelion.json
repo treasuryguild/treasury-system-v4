@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "a52ac8666c8efaa7410a06eda3c2e55bfb04a332220d2bff43defcd01951f285",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "501.90 USD in 1603.52 ADA",
+    "Transaction made by Treasury Guild @0.313",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Other",
+      "description": [
+        "Fifth Contribution IDNFT for Swarm"
+      ],
+      "contributors": {
+        "Dandelion": {
+          "ADA": "1603.520047"
+        }
+      }
+    }
+  ]
+}
