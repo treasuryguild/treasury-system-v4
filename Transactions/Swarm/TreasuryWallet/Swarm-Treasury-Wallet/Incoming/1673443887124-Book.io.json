@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "e75c279a28ce7a78574ae100ad0a29dda93120ca5d6dcd3929dd513d907a9f06",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.39 USD in 1.23 ADA",
+    "Transaction made by Treasury Guild @0.314",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Book NFT donation for Swarm"
+      ],
+      "contributors": {
+        "Book.io": {
+          "ADA": "1.232660"
+        }
+      }
+    }
+  ]
+}
