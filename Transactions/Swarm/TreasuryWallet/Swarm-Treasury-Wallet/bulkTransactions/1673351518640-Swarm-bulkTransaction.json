@@ -1,0 +1,50 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "a818bdb61795bb4e168140e65004f672e00e9700a6c8db590b126f82d9bf61b7",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 8",
+    "3.44 USD in 10.76 ADA",
+    "0 USD in 800.00 GMBL",
+    "Transaction made by Treasury Guild @0.320",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Ambassador Town Hall #28 - Earn 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "GMBL": 100
+        },
+        "ye2czd": {
+          "GMBL": 100
+        },
+        "lchsml": {
+          "GMBL": 100
+        },
+        "jwrar0": {
+          "GMBL": 100
+        },
+        "xl6z2n": {
+          "GMBL": 100
+        },
+        "j3xc2c": {
+          "GMBL": 100
+        },
+        "9klqvn": {
+          "GMBL": 100
+        },
+        "0cnk5v": {
+          "GMBL": 100
+        }
+      }
+    }
+  ]
+}

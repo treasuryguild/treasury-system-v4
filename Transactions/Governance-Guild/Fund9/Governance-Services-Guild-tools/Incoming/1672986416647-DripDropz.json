@@ -2,25 +2,25 @@
   "mdVersion": [
     "1.1"
   ],
-  "txid": "fb6eaa27d355d4bdffbcc1e4d4f6be54308b2f55a24ea7211e6f0fad3078f060",
+  "txid": "6ecb0aefca4abd9cdbc5105382f4f92536d1902e6543f25002621f374c382a08",
   "msg": [
     "Governance-Guild Transaction",
     "Ideascale: https://cardano.ideascale.com/c/idea/420109",
     "Recipients: 1",
-    "0.56 USD in 2.17 ADA",
-    "Transaction made by Treasury Guild @0.259",
+    "0.40 USD in 1.45 ADA",
+    "Transaction made by Treasury Guild @0.274",
     "https://www.treasuryguild.io/"
   ],
   "contributions": [
     {
       "taskCreator": "Governance-Guild",
-      "label": "Other",
+      "label": "Incoming",
       "description": [
-        "Payment for staking funds to the COPI pool"
+        "Incoming 163.865177 Copi tokens "
       ],
       "contributors": {
-        "COPI pool": {
-          "ADA": "2.174301"
+        "DripDropz": {
+          "ADA": "1.448160"
         }
       }
     }
