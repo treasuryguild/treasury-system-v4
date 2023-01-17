@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "",
+  "msg": [
+    "European-Cardano-Community Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "119.73 USD in 341.11 ADA",
+    "Transaction made by Treasury Guild @0.351",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "European-Cardano-Community",
+      "label": "Incoming",
+      "description": [
+        "Donation of 341 ADA from Swarm Community"
+      ],
+      "contributors": {
+        "Swarm": {
+          "ADA": "341.113000"
+        }
+      }
+    }
+  ]
+}
