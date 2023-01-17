@@ -1,0 +1,734 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "2ad46c29ba67aed5071a88453a80315927a9afbac9bb1ab452daca2b0a8651fd",
+  "msg": [
+    "Governance-Guild Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 10",
+    "2100.03 USD in 5983.00 ADA",
+    "0 USD in 15200.00 GMBL",
+    "Transaction made by Treasury Guild @0.351",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Twitter account Setup and Planning"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "mg3a4k": {
+          "GMBL": 200
+        },
+        "rcgctj": {
+          "GMBL": 200
+        },
+        "f0qnsw": {
+          "GMBL": 200
+        },
+        "55smty": {
+          "GMBL": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Attend Weekly GSG Call 10"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "rcgctj": {
+          "GMBL": 100
+        },
+        "f0qnsw": {
+          "GMBL": 100
+        },
+        "4mg27n": {
+          "GMBL": 100
+        },
+        "u7ywg4": {
+          "GMBL": 100
+        },
+        "jhyhwp": {
+          "GMBL": 100
+        },
+        "jnaxjp": {
+          "GMBL": 100
+        },
+        "7lnpzs": {
+          "GMBL": 100
+        },
+        "55smty": {
+          "GMBL": 100
+        },
+        "uveq4y": {
+          "GMBL": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Attend Weekly GSG Call 9"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "55smty": {
+          "GMBL": 100
+        },
+        "7lnpzs": {
+          "GMBL": 100
+        },
+        "u7ywg4": {
+          "GMBL": 100
+        },
+        "jhyhwp": {
+          "GMBL": 100
+        },
+        "jnaxjp": {
+          "GMBL": 100
+        },
+        "f0qnsw": {
+          "GMBL": 100
+        },
+        "4mg27n": {
+          "GMBL": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Attend Weekly GSG Call 8"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "GMBL": 100
+        },
+        "7lnpzs": {
+          "GMBL": 100
+        },
+        "55smty": {
+          "GMBL": 100
+        },
+        "uveq4y": {
+          "GMBL": 100
+        },
+        "f0qnsw": {
+          "GMBL": 100
+        },
+        "rcgctj": {
+          "GMBL": 100
+        },
+        "jhyhwp": {
+          "GMBL": 100
+        },
+        "jnaxjp": {
+          "GMBL": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Decision - Pay out all old tasks audited by Tevo Saks - 10",
+        "ADA"
+      ],
+      "label": "Decision",
+      "contributors": {
+        "jhyhwp": {
+          "ADA": 10
+        },
+        "jnaxjp": {
+          "ADA": 10
+        },
+        "7lnpzs": {
+          "ADA": 10
+        },
+        "f0qnsw": {
+          "ADA": 10
+        },
+        "uveq4y": {
+          "ADA": 10
+        },
+        "4mg27n": {
+          "ADA": 10
+        },
+        "rcgctj": {
+          "ADA": 10
+        },
+        "u7ywg4": {
+          "ADA": 10
+        },
+        "55smty": {
+          "ADA": 10
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GSG Call 10 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jhyhwp": {
+          "GMBL": 100,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GSG Call 9 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "GMBL": 100,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GSG Call 8 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "uveq4y": {
+          "GMBL": 100,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GSG Call 6 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "55smty": {
+          "GMBL": 100,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GSG Call 7 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "rcgctj": {
+          "GMBL": 100,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GSG Call 5 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "f0qnsw": {
+          "GMBL": 200,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "12.22 Monthly Reporting - 50 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "GMBL": 100,
+          "ADA": 143
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Attend Weekly GSG Call 7 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "7lnpzs": {
+          "GMBL": 100
+        },
+        "4mg27n": {
+          "GMBL": 100
+        },
+        "uveq4y": {
+          "GMBL": 100
+        },
+        "55smty": {
+          "GMBL": 100
+        },
+        "jnaxjp": {
+          "GMBL": 100
+        },
+        "rcgctj": {
+          "GMBL": 100
+        },
+        "u7ywg4": {
+          "GMBL": 100
+        },
+        "jhyhwp": {
+          "GMBL": 100
+        },
+        "f0qnsw": {
+          "GMBL": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Clean Up Meeting Item Format"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "rcgctj": {
+          "GMBL": 400
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Attend Weekly GSG Call 6 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "f0qnsw": {
+          "GMBL": 100
+        },
+        "uveq4y": {
+          "GMBL": 100
+        },
+        "55smty": {
+          "GMBL": 100
+        },
+        "jnaxjp": {
+          "GMBL": 100
+        },
+        "u7ywg4": {
+          "GMBL": 100
+        },
+        "rcgctj": {
+          "GMBL": 100
+        },
+        "4mg27n": {
+          "GMBL": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Test Transactions-F9 GG Tools"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "GMBL": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GSG Call 4 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "GMBL": 100,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GSG Call 3 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jhyhwp": {
+          "GMBL": 100,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "11.22 Monthly Reporting - 50 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "55smty": {
+          "GMBL": 100,
+          "ADA": 143
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "GG F9 Proposal Admin - 50 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "mg3a4k": {
+          "GMBL": 100,
+          "ADA": 143
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Budget Review"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "GMBL": 200
+        },
+        "mg3a4k": {
+          "GMBL": 200
+        },
+        "uveq4y": {
+          "GMBL": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "End of session survey - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "rcgctj": {
+          "GMBL": 200,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Admin - Calendar for Chair and notetaking - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jhyhwp": {
+          "GMBL": 200,
+          "ADA": 286
+        },
+        "55smty": {
+          "GMBL": 200,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly GSG Call 5 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "mg3a4k": {
+          "GMBL": 100
+        },
+        "f0qnsw": {
+          "GMBL": 100
+        },
+        "4mg27n": {
+          "GMBL": 100
+        },
+        "rcgctj": {
+          "GMBL": 100
+        },
+        "u7ywg4": {
+          "GMBL": 100
+        },
+        "jhyhwp": {
+          "GMBL": 100
+        },
+        "7lnpzs": {
+          "GMBL": 100
+        },
+        "55smty": {
+          "GMBL": 100
+        },
+        "uveq4y": {
+          "GMBL": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly GSG Call 4 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "f0qnsw": {
+          "GMBL": 100
+        },
+        "4mg27n": {
+          "GMBL": 100
+        },
+        "rcgctj": {
+          "GMBL": 100
+        },
+        "u7ywg4": {
+          "GMBL": 100
+        },
+        "jhyhwp": {
+          "GMBL": 100
+        },
+        "jnaxjp": {
+          "GMBL": 100
+        },
+        "7lnpzs": {
+          "GMBL": 100
+        },
+        "55smty": {
+          "GMBL": 100
+        },
+        "uveq4y": {
+          "GMBL": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Attend Weekly GSG Call 3 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jhyhwp": {
+          "GMBL": 100
+        },
+        "f0qnsw": {
+          "GMBL": 100
+        },
+        "4mg27n": {
+          "GMBL": 100
+        },
+        "rcgctj": {
+          "GMBL": 100
+        },
+        "u7ywg4": {
+          "GMBL": 100
+        },
+        "jnaxjp": {
+          "GMBL": 100
+        },
+        "mg3a4k": {
+          "GMBL": 100
+        },
+        "7lnpzs": {
+          "GMBL": 100
+        },
+        "55smty": {
+          "GMBL": 100
+        },
+        "uveq4y": {
+          "GMBL": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GSG Call 2 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "mg3a4k": {
+          "GMBL": 150,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GSG Call 1 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "55smty": {
+          "GMBL": 200,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Dework / Discord integration setup - 200 Gimbal, 100",
+        "USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "GMBL": 200,
+          "ADA": 286
+        },
+        "4mg27n": {
+          "GMBL": 200,
+          "ADA": 286
+        },
+        "mg3a4k": {
+          "GMBL": 200,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Send invite link to GSG members - 10 ADA"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "mg3a4k": {
+          "GMBL": 50,
+          "ADA": 10
+        },
+        "jnaxjp": {
+          "GMBL": 50,
+          "ADA": 10
+        },
+        "4mg27n": {
+          "GMBL": 50,
+          "ADA": 10
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Attend Weekly GSG Call 2 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jhyhwp": {
+          "GMBL": 100
+        },
+        "jnaxjp": {
+          "GMBL": 100
+        },
+        "mg3a4k": {
+          "GMBL": 100
+        },
+        "7lnpzs": {
+          "GMBL": 100
+        },
+        "55smty": {
+          "GMBL": 100
+        },
+        "uveq4y": {
+          "GMBL": 100
+        },
+        "f0qnsw": {
+          "GMBL": 100
+        },
+        "4mg27n": {
+          "GMBL": 100
+        },
+        "rcgctj": {
+          "GMBL": 100
+        },
+        "u7ywg4": {
+          "GMBL": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Basic documentation of Dework task process - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "GMBL": 200,
+          "ADA": 286
+        },
+        "mg3a4k": {
+          "GMBL": 200,
+          "ADA": 286
+        },
+        "4mg27n": {
+          "GMBL": 200,
+          "ADA": 286
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Attend Weekly GSG Call 1 - 200 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "GMBL": 200
+        },
+        "jnaxjp": {
+          "GMBL": 200
+        },
+        "uveq4y": {
+          "GMBL": 200
+        },
+        "55smty": {
+          "GMBL": 200
+        },
+        "7lnpzs": {
+          "GMBL": 200
+        },
+        "mg3a4k": {
+          "GMBL": 200
+        },
+        "jhyhwp": {
+          "GMBL": 200
+        },
+        "f0qnsw": {
+          "GMBL": 200
+        },
+        "4mg27n": {
+          "GMBL": 200
+        },
+        "rcgctj": {
+          "GMBL": 200
+        }
+      }
+    }
+  ]
+}
