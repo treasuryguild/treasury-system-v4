@@ -1,0 +1,164 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "339bc0756fd7cb8ba220805e5957860007b6c98d142288a92c0fc5d3651f141b",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 19",
+    "79.14 USD in 224.21 ADA",
+    "0 USD in 3800.00 GMBL",
+    "288.75 USD in 1650.00 AGIX",
+    "Transaction made by Treasury Guild @0.353",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Community Governance - Expert Group - Weekly Call #10",
+        "- 150 AGX &amp;150 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "GMBL": 150
+        },
+        "uw6w3e": {
+          "GMBL": 150
+        },
+        "xl6z2n": {
+          "GMBL": 150
+        },
+        "r5nvwm": {
+          "GMBL": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join DeepFund Town Hall #1 - Earn 100 AGIX &amp; 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "rcgctj": {
+          "GMBL": 150,
+          "AGIX": 50
+        },
+        "0cnk5v": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "5jwnt2": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "8n4qu4": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "f0qnsw": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "ex7942": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "r83kme": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "9qgazv": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "8f9pmj": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "uw6w3e": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "xl6z2n": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "jy7s8e": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "u7ywg4": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "ul20uj": {
+          "GMBL": 150,
+          "AGIX": 100
+        },
+        "p8q4jl": {
+          "GMBL": 150,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Community Governance - Expert Group - Weekly Call #9",
+        "- 150 AGX &amp;150 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "xl6z2n": {
+          "GMBL": 150
+        },
+        "u7ywg4": {
+          "GMBL": 150
+        },
+        "j3xc2c": {
+          "GMBL": 150
+        },
+        "r5nvwm": {
+          "GMBL": 150
+        },
+        "uveq4y": {
+          "GMBL": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Timestamp the Treasury Guild Meeting 3 - Earn  100 Ada,",
+        "100 Agix &amp; 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "yp7gg3": {
+          "GMBL": 100,
+          "ADA": 100,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Timestamp the Treasury Guild Meeting 2 - Earn 100 Ada, 100",
+        "Agix &amp; 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "yp7gg3": {
+          "GMBL": 100,
+          "ADA": 100,
+          "AGIX": 100
+        }
+      }
+    }
+  ]
+}
