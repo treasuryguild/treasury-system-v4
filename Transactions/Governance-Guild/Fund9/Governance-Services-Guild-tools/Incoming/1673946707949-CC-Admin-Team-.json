@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "7833e19d31e37833dfe0577339e486bfbbaa265de24f420bdab8ba4c6e0518dd",
+  "msg": [
+    "Governance-Guild Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "0.47 USD in 1.34 ADA",
+    "0 USD in 42400.00 GMBL",
+    "Transaction made by Treasury Guild @0.352",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Governance-Guild",
+      "label": "Incoming",
+      "description": [
+        "Moving 42400 Gimbals from CC Admin wallet"
+      ],
+      "contributors": {
+        "CC Admin Team ": {
+          "ADA": "1.344798",
+          "GMBL": "42400"
+        }
+      }
+    }
+  ]
+}
