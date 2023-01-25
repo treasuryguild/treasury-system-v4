@@ -322,7 +322,7 @@ for (let i = 0; i < descript.length; i++) {
 }
 
   let fileText = `{
-"mdVersion": ["1.2"],
+"mdVersion": ["1.3"],
 "msg": [
 "${projectJ} Transaction",
 "Ideascale: ${ideaJ}",
@@ -491,7 +491,7 @@ for (let i = 0; i < descript.length; i++) {
 }
 
 let fileText = `{
-"mdVersion": ["1.2"],
+"mdVersion": ["1.3"],
 "txid": "",
 "msg": [
 "${projectJ} Transaction",

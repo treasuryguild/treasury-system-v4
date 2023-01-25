@@ -756,7 +756,7 @@ if (localStorage.getItem("typeMeta") === "submit" || localStorage.getItem("typeM
 }
 
   let metaDataExport = `{
-"mdVersion": ["1.2"],${txid}
+"mdVersion": ["1.3"],${txid}
 "msg": [
 "${projectJ} Bulk Transaction",
 "Ideascale: ${ideaJ}",
