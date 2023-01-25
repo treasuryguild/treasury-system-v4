@@ -1,0 +1,162 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "ceac353ea50c17a25d3daebd0b112384102c5f0255e002e9656ab6523748de27",
+  "msg": [
+    "Governance-Guild Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 10",
+    "41.69 USD in 110.00 ADA",
+    "0 USD in 2100.00 GMBL",
+    "Transaction made by Treasury Guild @0.379",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly Call 12 - 12.5 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GG Call 11 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "55smty": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly GG Call 11"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Transfer GG funds to stablecoin"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Migration of GG Documentation GitBook - 10 ADA"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 100,
+          "ada": 10
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Decision - Basic Code of Conduct - 10 ADA"
+      ],
+      "label": "Decision",
+      "contributors": {
+        "u7ywg4": {
+          "ada": 10
+        },
+        "rcgctj": {
+          "ada": 10
+        },
+        "4mg27n": {
+          "ada": 10
+        },
+        "55smty": {
+          "ada": 10
+        },
+        "uveq4y": {
+          "ada": 10
+        },
+        "jhyhwp": {
+          "ada": 10
+        },
+        "jnaxjp": {
+          "ada": 10
+        },
+        "f0qnsw": {
+          "ada": 10
+        },
+        "mg3a4k": {
+          "ada": 10
+        },
+        "7lnpzs": {
+          "ada": 10
+        }
+      }
+    }
+  ]
+}

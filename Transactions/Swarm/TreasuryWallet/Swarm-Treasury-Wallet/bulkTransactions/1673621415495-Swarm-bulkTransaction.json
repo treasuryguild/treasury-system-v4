@@ -1,0 +1,165 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "c1dc73b1e828a3ec7fd4b27531325a0d9ee3b88151e0c82939c8009d013aa732",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 11",
+    "17338.18 USD in 53021.96 ADA",
+    "0 USD in 10000.00 GMBL",
+    "Transaction made by Treasury Guild @0.327",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Zoom Subscription"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "959.0519878"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Miro Subscription"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "177.3700306"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Adobe Illustrrator"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "80.42813456"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Adobe InDesign"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "80.42813456"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Swarm GitBook"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "406.6360856"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Microsoft Excel"
+      ],
+      "label": "swarm tools",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "94.80122324"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Monthly Swarm Contributor Rewards"
+      ],
+      "label": "swarm contributors",
+      "contributors": {
+        "f0qnsw": {
+          "ADA": "6116.207951",
+          "GMBL": "1000"
+        },
+        "u7ywg4": {
+          "ADA": "6116.207951",
+          "GMBL": "1000"
+        },
+        "8n4qu4": {
+          "ADA": "6116.207951",
+          "GMBL": "1000"
+        },
+        "jnaxjp": {
+          "ADA": "6116.207951",
+          "GMBL": "1000"
+        },
+        "4mg27n": {
+          "ADA": "6116.207951",
+          "GMBL": "1000"
+        },
+        "ex7942": {
+          "ADA": "4587.155963",
+          "GMBL": "1000"
+        },
+        "w0knrl": {
+          "ADA": "3058.103976",
+          "GMBL": "1000"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Malik"
+      ],
+      "label": "Support Fund",
+      "contributors": {
+        "6lcdjr": {
+          "ADA": "2293.577982",
+          "GMBL": "1000"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Slate"
+      ],
+      "label": "Support Fund",
+      "contributors": {
+        "tgd8fg": {
+          "ADA": "1529.051988",
+          "GMBL": "1000"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Meshjs"
+      ],
+      "label": "Meshjs",
+      "contributors": {
+        "mt3al0": {
+          "ADA": "9174.311927",
+          "GMBL": "1000"
+        }
+      }
+    }
+  ]
+}

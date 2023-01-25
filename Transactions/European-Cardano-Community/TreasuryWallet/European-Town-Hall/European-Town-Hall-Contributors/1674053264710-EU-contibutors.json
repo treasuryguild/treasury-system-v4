@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "990661db5433cf940ae8cca80faa4340ce8279357af6bb414206f32568d65f1b",
+  "msg": [
+    "European-Cardano-Community Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "120.00 USD in 340.91 ADA",
+    "Transaction made by Treasury Guild @0.352",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "European-Cardano-Community",
+      "label": "European-Town-Hall-Contributors",
+      "description": [
+        "Marketing support for December 2022"
+      ],
+      "contributors": {
+        "EU contibutors": {
+          "ADA": "340.909090"
+        }
+      }
+    }
+  ]
+}

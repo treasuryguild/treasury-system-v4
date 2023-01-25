@@ -1,0 +1,162 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "324e8e9736ac75d4ab6aa9acb09e1214412603762736c60c449aa25ebd76563e",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 13",
+    "6.68 USD in 17.48 ADA",
+    "0 USD in 3500.00 GMBL",
+    "Transaction made by Treasury Guild @0.382",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join Saturday Swarm Session - January 14 - Earn 150 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "q5xpal": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Meshjs - chatGPT SingularityNET & Cardano",
+        "integration - 100 Gimbal"
+      ],
+      "label": "Tool development",
+      "contributors": {
+        "yj98kn": {
+          "gimbal": 100
+        },
+        "mt3al0": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly ATH Team meeting - Jan 23- 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 100
+        },
+        "9qgazv": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create a Impact Engine Swarm - Gitbook for documentation -",
+        "50 Gimbal"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Impact Growth Engine Operations Meeting #1 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200
+        },
+        "f0qnsw": {
+          "gimbal": 200
+        },
+        "q5xpal": {
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "gimbal": 200
+        },
+        "j99kct": {
+          "gimbal": 200
+        },
+        "uw6w3e": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool Development - Treasury Manager Updates 23.11"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 450
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild - January 17 -",
+        "100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team - January 23 - 100",
+        "Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}

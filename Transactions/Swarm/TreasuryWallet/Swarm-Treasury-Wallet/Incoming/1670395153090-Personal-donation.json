@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "beca5569c1d4ba9c18f002eb0ee8902057368f92ee37155fae48f4ab2958845b",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.38 USD in 1.20 ADA",
+    "Transaction made by Treasury Guild @0.317",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Swarm won Oliver Twist book from Book.io"
+      ],
+      "contributors": {
+        "Personal donation": {
+          "ADA": "1.202490"
+        }
+      }
+    }
+  ]
+}

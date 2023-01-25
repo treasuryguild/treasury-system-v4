@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.1"
+  ],
+  "txid": "7833e19d31e37833dfe0577339e486bfbbaa265de24f420bdab8ba4c6e0518dd",
+  "msg": [
+    "Catalyst-Circle Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/384245",
+    "Recipients: 1",
+    "0.53 USD in 1.52 ADA",
+    "0 USD in 42400.00 GMBL",
+    "Transaction made by Treasury Guild @0.352",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Circle",
+      "label": "Other",
+      "description": [
+        "Moving Gimbal tokens to GSG wallet"
+      ],
+      "contributors": {
+        "GSG": {
+          "ADA": "1.517823",
+          "GMBL": "42400"
+        }
+      }
+    }
+  ]
+}
