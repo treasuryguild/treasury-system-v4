@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "83568968de05a8476b3cfc1fa90c89925ae88fc8a07b55b2d7c50cb72f9c4736",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "37.90 USD in 100.00 ADA",
+    "Transaction made by Treasury Guild @0.379",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Incoming",
+      "description": [
+        "Donation from Felix for Cardano Lisbon Meetup. Miro",
+        "gave wrong wallet address so funds end in Snet wallet"
+      ],
+      "contributors": {
+        "Personal donation": {
+          "ADA": "100"
+        }
+      }
+    }
+  ]
+}
