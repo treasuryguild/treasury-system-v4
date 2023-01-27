@@ -26,6 +26,9 @@ let walletChanges = [];
 let balance = "";
 let balAGIX = "";
 let balGMBL = "";
+let balDJED = "";
+let balAUSD = "";
+let balIUSD = "";
 let tokensList = [];
 const bi = [];
 const budgetI = [];
@@ -43,10 +46,16 @@ const sheetnames = [];
 let totalADA = 0;
 let totalGMBL = 0;
 let totalAGIX = 0;
+let totalDJED = 0;
+let totalAUSD = 0;
+let totalIUSD = 0;
 let tokens = [];
 let ada = 0;
 let gmbl = 0;
 let agix = 0;
+let djed = 0;
+let ausd = 0;
+let iusd = 0;
 let totalRecipients = 0;
 let currentXchangeAda = 0;
 let currentXchangeAgix = 0;
@@ -247,6 +256,15 @@ window.onload = function() {
                   case 'AGIX':
                     balAGIX = (topData2.tokens[i].quantity/100000000).toFixed(2);
                     break;
+                  case 'DJED':
+                    balDJED = (topData2.tokens[i].quantity/100000000).toFixed(2);
+                    break;
+                  case 'AUSD':
+                    balAUSD = (topData2.tokens[i].quantity/100000000).toFixed(2);
+                    break;
+                  case 'IUSD':
+                    balIUSD = (topData2.tokens[i].quantity/100000000).toFixed(2);
+                    break;
                 }
               }
           }
@@ -444,7 +462,7 @@ async function loadSheet() {
               csvJson2[newValue][val] = csvJson[i][val]
             } else {
               csvJson[newValue][val] = `${csvJson[newValue][val]},${csvJson[i][val]}` //First value gets added with csvJson[newValue][val], because newValue points to firts index before modifying it.
-              csvJson2[newValue][val] = (n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?((csvJson2[newValue][val]?csvJson2[newValue][val]:0) + csvJson[i][val]):0);
+              csvJson2[newValue][val] = (n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "AUSD" || n[k] == "IUSD"?((csvJson2[newValue][val]?csvJson2[newValue][val]:0) + csvJson[i][val]):0);
             }
              
             
@@ -456,7 +474,7 @@ async function loadSheet() {
               td[k] = document.createElement('td');
               //copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson2[newValue][val]}`
               valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
-              copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`; 
+              copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "AUSD" || n[k] == "IUSD"?`${valBut}`:""}`; 
               adaVal = (csvJson[newValue][val]?csvJson[newValue][val]:0);
               if (n[k] == "ADA") {
                 xy = sumStr(adaVal)
@@ -477,7 +495,7 @@ async function loadSheet() {
             td[k] = document.createElement('td');
             //copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson[i][val]}`
             valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
-            copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX"?`${valBut}`:""}`;       
+            copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "AUSD" || n[k] == "IUSD"?`${valBut}`:""}`;       
             adaVal = csvJson[i][val]
             td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? "1.344798" : adaVal}'>${copyButton}`)
             row.appendChild(td[k]);
@@ -614,6 +632,9 @@ async function seprateTasks() {
   totalADA = 0;
   totalGMBL = 0;
   totalAGIX = 0;
+  totalDJED = 0;
+  totalAUSD = 0;
+  totalIUSD = 0;
 
   for (let i in reps.contributors) {    
     if (reps.contributors[i].contributionID.length > 1) {
@@ -657,6 +678,15 @@ async function seprateTasks() {
           if (reps.contributors[k].AGIX[m] > 0) {
             contTokens.AGIX = (reps.contributors[k].AGIX[m])
           }
+          if (reps.contributors[k].DJED[m] > 0) {
+            contTokens.DJED = (reps.contributors[k].DJED[m])
+          }
+          if (reps.contributors[k].AUSD[m] > 0) {
+            contTokens.AUSD = (reps.contributors[k].AUSD[m])
+          }
+          if (reps.contributors[k].IUSD[m] > 0) {
+            contTokens.IUSD = (reps.contributors[k].IUSD[m])
+          }
           //amountTotal = `{${amountADA}${amountGMBL?amountGMBL:""}${amountAGIX?amountAGIX:""}}`
           //amountTotal = contTokens;
           //amountTotal = JSON.stringify(amountTotal, null, 2);
@@ -670,6 +700,9 @@ async function seprateTasks() {
           totalADA = parseFloat(totalADA) + parseFloat(reps.contributors[k].ADA[m])
           totalGMBL = parseFloat(totalGMBL) + parseFloat(reps.contributors[k].GMBL[m])
           totalAGIX = parseFloat(totalAGIX) + parseFloat(reps.contributors[k].AGIX[m])
+          totalDJED = parseFloat(totalDJED) + parseFloat(reps.contributors[k].DJED[m])
+          totalAUSD = parseFloat(totalAUSD) + parseFloat(reps.contributors[k].AUSD[m])
+          totalIUSD = parseFloat(totalIUSD) + parseFloat(reps.contributors[k].IUSD[m])
         }
       }
     }
@@ -688,6 +721,9 @@ if (bulkType === "Dework Bulk") {
   totalADA = 0;
   totalGMBL = 0;
   totalAGIX = 0;
+  totalDJED = 0;
+  totalAUSD = 0;
+  totalIUSD = 0;
   let reps = [];
   let repsADA = {};
   totalRecipients = 1;
@@ -713,6 +749,12 @@ if (bulkType === "Dework Bulk") {
           totalGMBL = totalGMBL + contVals[n][l]
         } else if (l === "agix" || l === "AGIX") {
           totalAGIX = totalAGIX + contVals[n][l]
+        } else if (l === "djed" || l === "DJED") {
+          totalDJED = totalDJED + contVals[n][l]
+        } else if (l === "ausd" || l === "AUSD") {
+          totalAUSD = totalAUSD + contVals[n][l]
+        } else if (l === "iusd" || l === "IUSD") {
+          totalIUSD = totalIUSD + contVals[n][l]
         } 
       }
     }
@@ -729,6 +771,9 @@ if (bulkType === "Dework Bulk") {
   ada = parseFloat(totalADA).toFixed(2);
   gmbl = (parseFloat(totalGMBL).toFixed(2)>0?parseFloat(totalGMBL).toFixed(2):"");
   agix = (parseFloat(totalAGIX).toFixed(2)>0?parseFloat(totalAGIX).toFixed(2):"");
+  djed = (parseFloat(totalDJED).toFixed(2)>0?parseFloat(totalDJED).toFixed(2):"");
+  ausd = (parseFloat(totalAUSD).toFixed(2)>0?parseFloat(totalAUSD).toFixed(2):"");
+  iusd = (parseFloat(totalIUSD).toFixed(2)>0?parseFloat(totalIUSD).toFixed(2):"");
   descript = JSON.stringify(mData.contributions, null, 2);
   //console.log("repsADA", repsADA)
 } else {
@@ -737,6 +782,9 @@ if (bulkType === "Dework Bulk") {
   ada = parseFloat(totalADA).toFixed(2);
   gmbl = (parseFloat(totalGMBL).toFixed(2)>0?parseFloat(totalGMBL).toFixed(2):"");
   agix = (parseFloat(totalAGIX).toFixed(2)>0?parseFloat(totalAGIX).toFixed(2):"");
+  djed = (parseFloat(totalDJED).toFixed(2)>0?parseFloat(totalDJED).toFixed(2):"");
+  ausd = (parseFloat(totalAUSD).toFixed(2)>0?parseFloat(totalAUSD).toFixed(2):"");
+  iusd = (parseFloat(totalIUSD).toFixed(2)>0?parseFloat(totalIUSD).toFixed(2):"");
   descript = JSON.stringify(contributions, null, 2);
 }
 
@@ -746,7 +794,13 @@ let tAda = (totalADA>0?(`
 "${totalGMBL>0?("0" + " USD in " + totalGMBL.toFixed(2) + " GMBL"):""}",`):"");
   let tAgix = (totalAGIX>0?(`
 "${totalAGIX>0?((totalAGIX*currentXchangeAgix).toFixed(2) + " USD in " + totalAGIX.toFixed(2) + " AGIX"):""}",`):"");
-  let tokens = `${tAda}${tGmbl}${tAgix}`
+  let tDjed = (totalDJED>0?(`
+"${totalDJED>0?(totalDJED.toFixed(2) + " USD in " + totalDJED.toFixed(2) + " DJED"):""}",`):"");
+  let tAusd = (totalAUSD>0?(`
+"${totalAUSD>0?(totalAUSD.toFixed(2) + " USD in " + totalAUSD.toFixed(2) + " AUSD"):""}",`):"");
+  let tIusd = (totalIUSD>0?(`
+"${totalIUSD>0?(totalIUSD.toFixed(2) + " USD in " + totalIUSD.toFixed(2) + " IUSD"):""}",`):"");
+let tokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tAusd}${tIusd}`
 let txid = "";
 if (localStorage.getItem("typeMeta") === "submit" || localStorage.getItem("typeMeta") === "copyForJson") {
   txid = (`
@@ -821,9 +875,9 @@ async function validateSubmission(){
   let newBal = 0;
   let tok = "";
   let tok2 = "";
-  tokens = [ada, gmbl, agix];
-  let tokens2 = ["ada", "gmbl", "agix"];
-  let tokens3 = ["ADA", "GMBL", "AGIX"];
+  tokens = [ada, gmbl, agix, djed, ausd, iusd];
+  let tokens2 = ["ada", "gmbl", "agix", "djed", "ausd", "iusd"];
+  let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "AUSD", "IUSD"];
 
   for (let i in tokens) {
     if (tokens[i] != "") {
@@ -845,6 +899,15 @@ ${tokens3[i] === "ADA" ? (parseFloat(tokens[i])).toFixed(2) : parseFloat(tokens[
        case 'AGIX':
          newBal = `${newBal}, "${isNaN((parseFloat(balAGIX) - parseFloat(agix)).toFixed(2)) ? parseFloat(balAGIX).toFixed(2) : (parseFloat(balAGIX) - parseFloat(agix)).toFixed(2)} AGIX"`;
          break;
+       case 'DJED':
+         newBal = `${newBal}, "${isNaN((parseFloat(balDJED) - parseFloat(djed)).toFixed(2)) ? parseFloat(balDJED).toFixed(2) : (parseFloat(balDJED) - parseFloat(djed)).toFixed(2)} DJED"`;
+         break;
+       case 'AUSD':
+         newBal = `${newBal}, "${isNaN((parseFloat(balAUSD) - parseFloat(ausd)).toFixed(2)) ? parseFloat(balAUSD).toFixed(2) : (parseFloat(balAUSD) - parseFloat(ausd)).toFixed(2)} AUSD"`;
+         break;
+       case 'IUSD':
+         newBal = `${newBal}, "${isNaN((parseFloat(balIUSD) - parseFloat(iusd)).toFixed(2)) ? parseFloat(balIUSD).toFixed(2) : (parseFloat(balIUSD) - parseFloat(iusd)).toFixed(2)} IUSD"`;
+         break;
      }
     }
   } else if (walletStatus2 == false) {
@@ -856,6 +919,15 @@ ${tokens3[i] === "ADA" ? (parseFloat(tokens[i])).toFixed(2) : parseFloat(tokens[
          break;
        case 'AGIX':
          newBal = `${newBal}, "${parseFloat(balAGIX).toFixed(2)} AGIX"`;
+         break;
+       case 'DJED':
+         newBal = `${newBal}, "${parseFloat(balDJED).toFixed(2)} DJED"`;
+         break;
+       case 'AUSD':
+         newBal = `${newBal}, "${parseFloat(balAUSD).toFixed(2)} AUSD"`;
+         break;
+       case 'IUSD':
+         newBal = `${newBal}, "${parseFloat(balIUSD).toFixed(2)} IUSD"`;
          break;
      }
     }

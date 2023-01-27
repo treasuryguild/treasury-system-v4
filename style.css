@@ -219,10 +219,10 @@ body {
     filter: brightness(1.5);
   }
 
- .ADA , .GMBL , .AGIX , .contributionID {
+ .ADA , .GMBL , .AGIX, .DJED, .AUSD, .IUSD , .contributionID {
   margin: 0;
   padding: 0;
-  width: 100px;
+  width: 70px;
  }
 
   .payeeID {

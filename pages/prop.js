@@ -21,6 +21,9 @@ let walletChanges = [];
 let balance = "";
 let balAGIX = "";
 let balGMBL = "";
+let balDJED = "";
+let balAUSD = "";
+let balIUSD = "";
 let tokensList = [];
 const bi = [];
 const budgetI = [];
@@ -220,6 +223,15 @@ window.onload = function() {
                   case 'AGIX':
                     balAGIX = (topData2.tokens[i].quantity/100000000).toFixed(2);
                     break;
+                  case 'DJED':
+                    balDJED = (topData2.tokens[i].quantity/1000000).toFixed(2);
+                    break;
+                  case 'aUSD':
+                    balAUSD = (topData2.tokens[i].quantity/1000000).toFixed(2);
+                    break;
+                  case 'iUSD':
+                    balIUSD = (topData2.tokens[i].quantity/1000000).toFixed(2);
+                    break;
                 }
               }
           }
@@ -275,14 +287,17 @@ async function copyMetaData() {
    }
    const gmbl = getValue('gmbl')
    const agix = getValue('agix')
+   const djed = getValue('djed')
+   const ausd = getValue('ausd')
+   const iusd = getValue('iusd')
    const description = getValue('description')
    const xrate = getValue('xrate')
    let tok = "";
    let tok2 = "";
    let tok3 = [];
-   let tokens = [ada, gmbl, agix];
-   let tokens2 = ["ada", "gmbl", "agix"];
-   let tokens3 = ["ADA", "GMBL", "AGIX"];
+   let tokens = [ada, gmbl, agix, djed, ausd, iusd];
+   let tokens2 = ["ada", "gmbl", "agix", "djed", "ausd", "iusd"];
+   let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "AUSD", "IUSD"];
    
  
    for (let i in tokens) {
@@ -298,13 +313,22 @@ async function copyMetaData() {
 let totalADA = (parseFloat(ada)?parseFloat(ada):0)
 let totalGMBL = (parseFloat(gmbl)?parseFloat(gmbl):0)
 let totalAGIX = (parseFloat(agix)?parseFloat(agix):0)
+let totalDJED = (parseFloat(djed)?parseFloat(djed):0)
+let totalAUSD = (parseFloat(ausd)?parseFloat(ausd):0)
+let totalIUSD = (parseFloat(iusd)?parseFloat(iusd):0)
 let tAda = (totalADA>0?(`
 "${totalADA>0?((totalADA*currentXchangeAda).toFixed(2) + " USD in " + totalADA.toFixed(2) + " ADA"):""}",`):"");
 let tGmbl = (totalGMBL>0?(`
 "${totalGMBL>0?("0" + " USD in " + totalGMBL.toFixed(2) + " GMBL"):""}",`):"");
 let tAgix = (totalAGIX>0?(`
 "${totalAGIX>0?((totalAGIX*currentXchangeAgix).toFixed(2) + " USD in " + totalAGIX.toFixed(2) + " AGIX"):""}",`):"");
-let totalTokens = `${tAda}${tGmbl}${tAgix}`
+let tDjed = (totalDJED>0?(`
+"${totalDJED>0?(totalDJED.toFixed(2) + " USD in " + totalDJED.toFixed(2) + " DJED"):""}",`):"");
+let tAusd = (totalAUSD>0?(`
+"${totalAUSD>0?(totalAUSD.toFixed(2) + " USD in " + totalAUSD.toFixed(2) + " AUSD"):""}",`):"");
+let tIusd = (totalIUSD>0?(`
+"${totalIUSD>0?(totalIUSD.toFixed(2) + " USD in " + totalIUSD.toFixed(2) + " IUSD"):""}",`):"");
+let totalTokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tAusd}${tIusd}`
 
 
 for (let i = 0; i < descript.length; i++) {
@@ -366,6 +390,9 @@ async function validateSubmission(){
   }
   const gmbl = getValue('gmbl')
   const agix = getValue('agix')
+  const djed = getValue('djed')
+  const ausd = getValue('ausd')
+  const iusd = getValue('iusd')
   const description = getValue('description')
   const pool = poolJ
   const idea = ideaJ
@@ -376,9 +403,9 @@ async function validateSubmission(){
   let tok = "";
   let tok2 = "";
   let tok3 = [];
-  let tokens = [ada, gmbl, agix];
-  let tokens2 = ["ada", "gmbl", "agix"];
-  let tokens3 = ["ADA", "GMBL", "AGIX"];
+  let tokens = [ada, gmbl, agix, djed, ausd, iusd];
+  let tokens2 = ["ada", "gmbl", "agix", "djed", "ausd", "iusd"];
+  let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "AUSD", "IUSD"];
   let isSwap3 = "";
 
 if (budgetB == "Incoming") {
@@ -414,6 +441,15 @@ ${tokens3[i] === "ADA" ? parseFloat(tokens[i]).toFixed(2) : parseFloat(tokens[i]
         case 'AGIX':
           newBal = `${newBal}, "${parseFloat(balAGIX).toFixed(2)} AGIX"`;
           break;
+        case 'DJED':
+          newBal = `${newBal}, "${parseFloat(balDJED).toFixed(2)} DJED"`;
+          break;
+        case 'AUSD':
+          newBal = `${newBal}, "${parseFloat(balAUSD).toFixed(2)} AUSD"`;
+          break;
+        case 'IUSD':
+          newBal = `${newBal}, "${parseFloat(balIUSD).toFixed(2)} IUSD"`;
+          break;
       }
      }
   } else if (walletStatus2 == true) {
@@ -426,6 +462,15 @@ ${tokens3[i] === "ADA" ? parseFloat(tokens[i]).toFixed(2) : parseFloat(tokens[i]
        case 'AGIX':
          newBal = `${newBal}, "${isNaN((parseFloat(balAGIX) - parseFloat(agix)).toFixed(2)) ? parseFloat(balAGIX).toFixed(2) : (parseFloat(balAGIX) - parseFloat(agix)).toFixed(2)} AGIX"`;
          break;
+       case 'DJED':
+         newBal = `${newBal}, "${isNaN((parseFloat(balDJED) - parseFloat(djed)).toFixed(2)) ? parseFloat(balDJED).toFixed(2) : (parseFloat(balDJED) - parseFloat(djed)).toFixed(2)} DJED"`;
+         break;
+       case 'AUSD':
+         newBal = `${newBal}, "${isNaN((parseFloat(balAUSD) - parseFloat(ausd)).toFixed(2)) ? parseFloat(balAUSD).toFixed(2) : (parseFloat(balAUSD) - parseFloat(ausd)).toFixed(2)} AUSD"`;
+         break;
+       case 'IUSD':
+         newBal = `${newBal}, "${isNaN((parseFloat(balIUSD) - parseFloat(iusd)).toFixed(2)) ? parseFloat(balIUSD).toFixed(2) : (parseFloat(balIUSD) - parseFloat(iusd)).toFixed(2)} IUSD"`;
+         break;
      }
     }
   } else if (walletStatus2 == false) {
@@ -437,6 +482,15 @@ ${tokens3[i] === "ADA" ? parseFloat(tokens[i]).toFixed(2) : parseFloat(tokens[i]
          break;
        case 'AGIX':
          newBal = `${newBal}, "${parseFloat(balAGIX).toFixed(2)} AGIX"`;
+         break;
+       case 'DJED':
+         newBal = `${newBal}, "${parseFloat(balDJED).toFixed(2)} DJED"`;
+         break;
+       case 'AUSD':
+         newBal = `${newBal}, "${parseFloat(balAUSD).toFixed(2)} AUSD"`;
+         break;
+       case 'IUSD':
+         newBal = `${newBal}, "${parseFloat(balIUSD).toFixed(2)} IUSD"`;
          break;
      }
     }
@@ -468,13 +522,22 @@ let descript = JSON.stringify((description).replace(/.{50}\S*\s+/g, "$&@").split
 let totalADA = (parseFloat(ada)?parseFloat(ada):0)
 let totalGMBL = (parseFloat(gmbl)?parseFloat(gmbl):0)
 let totalAGIX = (parseFloat(agix)?parseFloat(agix):0)
+let totalDJED = (parseFloat(djed)?parseFloat(djed):0)
+let totalAUSD = (parseFloat(ausd)?parseFloat(ausd):0)
+let totalIUSD = (parseFloat(iusd)?parseFloat(iusd):0)
 let tAda = (totalADA>0?(`
 "${totalADA>0?((totalADA*currentXchangeAda).toFixed(2) + " USD in " + totalADA.toFixed(2) + " ADA"):""}",`):"");
 let tGmbl = (totalGMBL>0?(`
 "${totalGMBL>0?("0" + " USD in " + totalGMBL.toFixed(2) + " GMBL"):""}",`):"");
 let tAgix = (totalAGIX>0?(`
 "${totalAGIX>0?((totalAGIX*currentXchangeAgix).toFixed(2) + " USD in " + totalAGIX.toFixed(2) + " AGIX"):""}",`):"");
-let totalTokens = `${tAda}${tGmbl}${tAgix}`
+let tDjed = (totalDJED>0?(`
+"${totalDJED>0?(totalDJED.toFixed(2) + " USD in " + totalDJED.toFixed(2) + " DJED"):""}",`):"");
+let tAusd = (totalAUSD>0?(`
+"${totalAUSD>0?(totalAUSD.toFixed(2) + " USD in " + totalAUSD.toFixed(2) + " AUSD"):""}",`):"");
+let tIusd = (totalIUSD>0?(`
+"${totalIUSD>0?(totalIUSD.toFixed(2) + " USD in " + totalIUSD.toFixed(2) + " IUSD"):""}",`):"");
+let totalTokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tAusd}${tIusd}`
 
 for (let i = 0; i < descript.length; i++) {
   console.log("descript",descript[i])
