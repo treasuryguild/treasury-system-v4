@@ -1,0 +1,191 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "ea211aa44c462cb4eb4ade66c02ea7ce5d56019a18f4d3aaa066fe351f71dd20",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 10",
+    "106.15 USD in 283.07 ADA",
+    "0 USD in 1750.00 GMBL",
+    "46.75 USD in 275.00 AGIX",
+    "Transaction made by Treasury Guild @0.375",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Swarm Fund discussion - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Ideate a Governance Pilot draft - 200 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200
+        },
+        "q5xpal": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Saturday Swarm Session - Earn 75 Ada 75 Agix",
+        "100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "eend5s": {
+          "gimbal": 100,
+          "ada": 75,
+          "AGIX": 75
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Testing Mini Proposal Workshop: Chapters 5,",
+        "6 and 7 - Earn 100 Ada 100 Agix 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "c70dqg": {
+          "gimbal": 100,
+          "ada": 100,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Proposal Ideation Templates and Workshops -",
+        "Earn 50 Ada 50 Agix 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "6x29z9": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Swarm - Governance Toolmaker Roundtable #2",
+        "- Earn 50 Ada, 100 Gimbal & 50 AGIX"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "yp7gg3": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Tommy (CF) - 50 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with CCv4 Member - Ninh Tran -24.12.2022",
+        "-100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "58cnza": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Host Governance Toolmaker Roundtable #2 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Organise Governance Toolmaker Roundtable #2 - 100 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Implement Treasury & Accounting system - 50 Gimbal"
+      ],
+      "label": "Integration",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 50
+        },
+        "4mg27n": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Nico ( CF ) & Samuel - January 26 - 100",
+        "Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}
