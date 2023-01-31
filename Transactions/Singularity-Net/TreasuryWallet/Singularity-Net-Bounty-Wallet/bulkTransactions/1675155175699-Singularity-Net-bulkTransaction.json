@@ -1,0 +1,294 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "f099199791f222c58027513944af8b982415f875ef4ce5782a29b5a2b5a5b386",
+  "msg": [
+    "Singularity-Net Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 18",
+    "52.79 USD in 141.52 ADA",
+    "0 USD in 4600.00 GMBL",
+    "439.47 USD in 2570.00 AGIX",
+    "Transaction made by Treasury Guild @0.373",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Timestamp the Treasury Guild Meeting 2 - Earn 100 Ada, 100",
+        "Agix & 100 Gimbals"
+      ],
+      "label": "timestamping",
+      "contributors": {
+        "yp7gg3": {
+          "gimbal": 100,
+          "ada": 100,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Collecting SingularityNET Marketplace services on Miro Board",
+        "- 120 AGIX, 200 GMBL, 20 ADA"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "t65ffu": {
+          "gimbal": 200,
+          "ada": 20,
+          "AGIX": 120
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Ambassador Town Hall #31 - 50 AGIX & 100 GMBL"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "xl6z2n": {
+          "gimbal": 100,
+          "AGIX": 50
+        },
+        "9klqvn": {
+          "gimbal": 100,
+          "AGIX": 50
+        },
+        "t65ffu": {
+          "gimbal": 100,
+          "AGIX": 50
+        },
+        "j3xc2c": {
+          "gimbal": 100,
+          "AGIX": 50
+        },
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 50
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 50
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 50
+        },
+        "rvata9": {
+          "gimbal": 100,
+          "AGIX": 50
+        },
+        "ye2czd": {
+          "gimbal": 100,
+          "AGIX": 50
+        },
+        "lchsml": {
+          "gimbal": 100,
+          "AGIX": 50
+        },
+        "0cnk5v": {
+          "gimbal": 100,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Call with SingularityNET Foundation - DFTH Alignment - 100",
+        "Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "xl6z2n": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Call with Felix & Nils"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Mentor Call - Curtis & Harry - 250 AGIX & 250 Gimbal"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "j99kct": {
+          "gimbal": 250,
+          "AGIX": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Mentor Call - Curtis & Jingles - 250 Agix - 250",
+        "Gimbal"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "mt3al0": {
+          "gimbal": 250,
+          "AGIX": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Create Mycelium X Swarm Bounty - 50 Gimbal"
+      ],
+      "label": "Tool development",
+      "contributors": {
+        "r83kme": {
+          "gimbal": 50
+        },
+        "u7ywg4": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Mentor Call - Curtis & Harry - 100 Gimbal"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "r83kme": {
+          "gimbal": 100
+        },
+        "j99kct": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Mentor Call - Curtis & Jingles - 100 Gimbal"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "r83kme": {
+          "gimbal": 100
+        },
+        "mt3al0": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Call with Curtis - Jan 24 - 200 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "r83kme": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Mycelium X Swarm Follow up Task #1 - 100 AGIX & 100",
+        "Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 100
+        },
+        "tgd8fg": {
+          "gimbal": 100,
+          "AGIX": 100
+        },
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 100
+        },
+        "j3xc2c": {
+          "gimbal": 100,
+          "AGIX": 100
+        },
+        "0cnk5v": {
+          "gimbal": 100,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Singularity Swarm X Mycelium Project - Community Call -",
+        "100 AGIX & 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "uw6w3e": {
+          "gimbal": 100,
+          "AGIX": 100
+        },
+        "n7qgup": {
+          "gimbal": 100,
+          "AGIX": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 100
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 100
+        },
+        "r83kme": {
+          "gimbal": 100,
+          "AGIX": 100
+        },
+        "j3xc2c": {
+          "gimbal": 100,
+          "AGIX": 100
+        },
+        "j99kct": {
+          "gimbal": 100,
+          "AGIX": 100
+        },
+        "0cnk5v": {
+          "gimbal": 100,
+          "AGIX": 100
+        }
+      }
+    }
+  ]
+}
