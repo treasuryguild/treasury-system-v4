@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "6cc7295b7ef6003d20d9caf1520fbb3b82946a2a64b26955a3e98e78ac813d28",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "18.80 USD in 50.00 ADA",
+    "Transaction made by Treasury Guild @0.376",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Personal donation from Felix for Lisbon Meetup"
+      ],
+      "contributors": {
+        "0hze6c": {
+          "ADA": "50"
+        }
+      }
+    }
+  ]
+}
