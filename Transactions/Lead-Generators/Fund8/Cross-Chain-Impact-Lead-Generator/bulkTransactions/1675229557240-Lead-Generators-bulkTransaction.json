@@ -1,0 +1,94 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "f6eb2ec73553b7847a3978b4f80f77afa82b29d1df7a459863ffa92b388b37d4",
+  "msg": [
+    "Lead-Generators Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/402760",
+    "Recipients: 4",
+    "4725.03 USD in 12177.91 ADA",
+    "Transaction made by Treasury Guild @0.388",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "Final payment for coordination meetings"
+      ],
+      "label": "Coordination meetings",
+      "contributors": {
+        "7478kg": {
+          "ADA": "778.21"
+        },
+        "kv4459": {
+          "ADA": "1167.32"
+        },
+        "jhyhwp": {
+          "ADA": "1167.32"
+        }
+      }
+    },
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "First half of Support meeting budget"
+      ],
+      "label": "Support meetings",
+      "contributors": {
+        "7478kg": {
+          "ADA": "2515.77"
+        },
+        "kv4459": {
+          "ADA": "1174.02"
+        },
+        "jhyhwp": {
+          "ADA": "1174.02"
+        }
+      }
+    },
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "Final Payment for CrossChain General Admin"
+      ],
+      "label": "General admin",
+      "contributors": {
+        "7478kg": {
+          "ADA": "1133.75"
+        },
+        "kv4459": {
+          "ADA": "1133.75"
+        },
+        "jhyhwp": {
+          "ADA": "1133.75"
+        }
+      }
+    },
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "Generated 1x new lead"
+      ],
+      "label": "New Lead",
+      "contributors": {
+        "jhyhwp": {
+          "ADA": "200"
+        }
+      }
+    },
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "Generated 3x new leads"
+      ],
+      "label": "New Lead",
+      "contributors": {
+        "jy60mc": {
+          "ADA": "600"
+        }
+      }
+    }
+  ]
+}
