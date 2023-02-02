@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "cf7111b3b6c8f8c2ac7af4bb78cf1f2507d5f98637d68d798fd80042a87ae48c",
+  "msg": [
+    "Edify Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "32.27 USD in 79.69 ADA",
+    "Transaction made by Treasury Guild @0.405",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Edify",
+      "label": "Incoming",
+      "description": [
+        "Withdrawal of funds from staking pool"
+      ],
+      "contributors": {
+        "Withdrawal": {
+          "ADA": "79.690059"
+        }
+      }
+    }
+  ]
+}
