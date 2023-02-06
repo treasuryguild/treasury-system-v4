@@ -281,17 +281,17 @@ async function copyMetaData() {
    //save all the input values
    const name = getValue('name')
    const budgetB = getValue('budgetB')
-   let ada = getValue('ada')
+   let ada = (getValue('ada')).replace(/\s/g, '').replace(/,/g, '.');
    if (!ada) {
     ada = "1.344798"
    }
-   const gmbl = getValue('gmbl')
-   const agix = getValue('agix')
-   const djed = getValue('djed')
-   const ausd = getValue('ausd')
-   const iusd = getValue('iusd')
-   const description = getValue('description')
-   const xrate = getValue('xrate')
+   const gmbl = (getValue('gmbl')).replace(/\s/g, '').replace(/,/g, '.');
+   const agix = (getValue('agix')).replace(/\s/g, '').replace(/,/g, '.');
+   const djed = (getValue('djed')).replace(/\s/g, '').replace(/,/g, '.');
+   const ausd = (getValue('ausd')).replace(/\s/g, '').replace(/,/g, '.');
+   const iusd = (getValue('iusd')).replace(/\s/g, '').replace(/,/g, '.');
+   const description = (getValue('description')).replace(/,/g, '.');
+   const xrate = (getValue('xrate')).replace(/\s/g, '').replace(/,/g, '.');
    let tok = "";
    let tok2 = "";
    let tok3 = [];
