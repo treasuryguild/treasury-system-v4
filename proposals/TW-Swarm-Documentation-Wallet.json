@@ -3,7 +3,7 @@
     "proposal": "Swarm Documentation Wallet",
     "fund": "TreasuryWallet",
     "budget": "100000",
-    "budgetItems": {"Incoming":"100000","Other":"10", "bulkTransactions":"50000","Rewards":"90000","Bounties":"40000","Tools":"10000"},
+    "budgetItems": {"Incoming":"100000","Other":"10", "bulkTransactions":"50000","Rewards-Withdrawal":"5000","Rewards":"90000","Bounties":"40000","Tools":"10000"},
     "ideascale": "",
     "wallet": "addr1q8zwf8e0esef00hfxfdu22e6px2w2u0cnq4f7uurw7m9j4mcn8wd65mu966fhljkte8vgjfdjd9e400pul682k7ytcys9q8m5a"
 }

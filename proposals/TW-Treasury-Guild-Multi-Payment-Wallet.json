@@ -3,7 +3,7 @@
     "proposal": "Treasury Guild Multi Payment Wallet",
     "fund": "TreasuryWallet",
     "budget": "10000",
-    "budgetItems": {"Incoming":"10000","Other":"10", "bulkTransactions":"50000","Swarm":"1000","GSG":"1000","Ambassadors-Guild":"1000","Singularity-Net":"1000","European-Town-Hall":"1000","Africa-Town-Hall":"1000"},
+    "budgetItems": {"Incoming":"10000","Other":"10", "bulkTransactions":"50000","Rewards-Withdrawal":"5000","Swarm":"1000","GSG":"1000","Ambassadors-Guild":"1000","Singularity-Net":"1000","European-Town-Hall":"1000","Africa-Town-Hall":"1000"},
     "ideascale": "",
     "wallet": "addr1q839rv9kt3z786mljjs00hraqu6u9g0rct0ud8jwxkk6kxrs6zvkclktn69dsw2y4y8gwf86lha8lsvjw55rny6vp4uslcy4ah"
 }

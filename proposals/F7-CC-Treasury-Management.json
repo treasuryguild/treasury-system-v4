@@ -3,7 +3,7 @@
     "proposal": "CC Treasury Management",
     "fund": "Fund 7",
     "budget": "11400",
-    "budgetItems": {"Incoming":"11400","Other":"10", "bulkTransactions":"50000","CC-Treasurer-remuneration":"10800","CC-Treasury-system":"400","CC-Treasury-system-documentation":"200"},
+    "budgetItems": {"Incoming":"11400","Other":"10", "bulkTransactions":"50000","Rewards-Withdrawal":"5000","CC-Treasurer-remuneration":"10800","CC-Treasury-system":"400","CC-Treasury-system-documentation":"200"},
     "ideascale": "https://cardano.ideascale.com/c/idea/383284",
     "wallet": "addr1qyk8lkwtmud53yq7syz5du22ry9tshfe5ynt506qz0qy0lpunkgr6lzht0qhwn9rpqs4z7zlctnpwu40gftfvl8ca62snws5va"
 }

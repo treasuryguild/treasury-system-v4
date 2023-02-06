@@ -3,7 +3,7 @@
     "proposal": "Treasury Guild Wallet",
     "fund": "TreasuryWallet",
     "budget": "20000",
-    "budgetItems": {"Incoming":"20000","Other":"10", "bulkTransactions":"50000","Remuneration":"8000","Comm-Org-Tools":"2000","Misc":"10000"},
+    "budgetItems": {"Incoming":"20000","Other":"10", "bulkTransactions":"50000","Rewards-Withdrawal":"5000","Remuneration":"8000","Comm-Org-Tools":"2000","Misc":"10000"},
     "ideascale": "",
     "wallet": "addr1q8x8afrkfv5x87lek6r2w6ly8cme52tcxkv2v9sqa02tw94c9w5yvk8rureqfd95cpj9wktcxtkejm2c0uvxtqxcqr7q7xcueh"
 }

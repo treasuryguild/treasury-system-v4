@@ -3,7 +3,7 @@
     "proposal": "Fluid 7 Bounty wallet",
     "fund": "TreasuryWallet",
     "budget": "50000",
-    "budgetItems": {"Incoming":"50000","Other":"10","bulkTransactions":"50000","Bounty":"50000"},
+    "budgetItems": {"Incoming":"50000","Other":"10","bulkTransactions":"50000","Rewards-Withdrawal":"5000","Bounty":"50000"},
     "ideascale": "",
     "wallet": "addr1qxtk7kmp698jlgm36w6aejyws0rmnm5l2v9647ykxltawhsgns0v322v85u7ucwlflr396vgnt03u5a2eur8vglthmjqzcx5as"
 }
