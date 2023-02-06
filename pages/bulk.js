@@ -146,7 +146,7 @@ window.onload = function() {
             li3.innerHTML = (`<button type='button'>${Object.values(data)[n]}</button>`);
             // Append each li to the ul
             ul.appendChild(li);
-            if (n < 4) {  // the first 4 budgetitems in proposals
+            if (n < 3) {  
               ul3.appendChild(li3);
             }   
           }

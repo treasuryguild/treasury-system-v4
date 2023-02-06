@@ -112,7 +112,7 @@ window.onload = function() {
             // Append each li to the ul
             ul.appendChild(li);
             ul2.appendChild(li2);
-            if (n < 4) {  // the first 4 budgetitems in proposals
+            if (n < 3) {  
               ul3.appendChild(li3);
             }   
           }
