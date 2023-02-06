@@ -712,7 +712,7 @@ async function seprateTasks() {
 }
 
 async function createMetadata () {
-  const xrate = getValue('xrate')
+  const xrate = (getValue('xrate')).replace(/\s/g, '').replace(/,/g, '.');
   let contributions = await seprateTasks();
 
   contributions = contributions.filter(elm => elm); //Takes out any empty values in the array
@@ -869,7 +869,7 @@ async function validateSubmission(){
   //const description = getValue('description')
   const pool = poolJ
   //const idea = ideaJ
-  const xrate = getValue('xrate')
+  const xrate = (getValue('xrate')).replace(/\s/g, '').replace(/,/g, '.');
   const fund = fundJ
   const project = projectJ
   let newBal = 0;

@@ -384,19 +384,19 @@ async function validateSubmission(){
   
   const name = getValue('name')
   const budgetB = getValue('budgetB')
-  let ada = getValue('ada')
+  let ada = (getValue('ada')).replace(/\s/g, '').replace(/,/g, '.');
   if (!ada) {
     ada = "1.344798"
   }
-  const gmbl = getValue('gmbl')
-  const agix = getValue('agix')
-  const djed = getValue('djed')
-  const ausd = getValue('ausd')
-  const iusd = getValue('iusd')
-  const description = getValue('description')
+  const gmbl = (getValue('gmbl')).replace(/\s/g, '').replace(/,/g, '.');
+  const agix = (getValue('agix')).replace(/\s/g, '').replace(/,/g, '.');
+  const djed = (getValue('djed')).replace(/\s/g, '').replace(/,/g, '.');
+  const ausd = (getValue('ausd')).replace(/\s/g, '').replace(/,/g, '.');
+  const iusd = (getValue('iusd')).replace(/\s/g, '').replace(/,/g, '.');
+  const description = (getValue('description')).replace(/,/g, '.');
   const pool = poolJ
   const idea = ideaJ
-  const xrate = getValue('xrate')
+  const xrate = (getValue('xrate')).replace(/\s/g, '').replace(/,/g, '.');
   const fund = fundJ
   const project = projectJ
   let newBal = 0;
