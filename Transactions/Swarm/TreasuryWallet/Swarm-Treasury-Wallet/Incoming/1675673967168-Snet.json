@@ -1,14 +1,15 @@
 {
   "mdVersion": [
-    "1.1"
+    "1.3"
   ],
-  "txid": "4459b411b81192b53a507532eab40958b2f801dfcb88ed8d95312e2247ea9c27",
+  "txid": "4421f4a10abe50e63b5c78ff446be9287f17692572157068b94daa10b34abad5",
   "msg": [
     "Swarm Transaction",
     "Ideascale: https://cardano.ideascale.com/c/idea/421708",
     "Recipients: 1",
-    "1.68 USD in 5.49 ADA",
-    "Transaction made by Treasury Guild @0.306",
+    "0.39 USD in 1.00 ADA",
+    "844.00 USD in 2000.00 AGIX",
+    "Transaction made by Treasury Guild @0.394",
     "https://www.treasuryguild.io/"
   ],
   "contributions": [
@@ -16,11 +17,12 @@
       "taskCreator": "Swarm",
       "label": "Incoming",
       "description": [
-        "Internal wallet transfer and staking rewards"
+        "Incoming of 2000 AGIX from Snet"
       ],
       "contributors": {
-        "m45kgs": {
-          "ADA": "5.491429"
+        "Snet": {
+          "ADA": "1.344798",
+          "AGIX": "2000"
         }
       }
     }

@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "fd95d12b527d07580ded299acd53b9c24a4515a84f91ba287354862c211d9cb4",
+  "msg": [
+    "Edify Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "500.89 USD in 1246.00 ADA",
+    "Transaction made by Treasury Guild @0.402",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Edify",
+      "label": "Other",
+      "description": [
+        "Reward for contributor"
+      ],
+      "contributors": {
+        "nehhsl": {
+          "ADA": "1246"
+        }
+      }
+    }
+  ]
+}
