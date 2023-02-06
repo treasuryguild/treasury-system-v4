@@ -129,7 +129,7 @@ window.onload = function() {
             li.className = "graph_item green";
             li3.className = "button2";
             
-            if (n > 0) {
+            if (n > 0) { // This is where "Incoming" is skipped
             li.innerHTML = (`
             <span class="graph_item_title">
             <a href="https://github.com/${orgEl}/${repoEl}/tree/main/Transactions/${projectJ}/${fundJ}/${poolJ}/${i}" target="_blank">
