@@ -1,0 +1,33 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "689ee365199d8801e8157c7d312d867fe1a172d3f33a61f58ebee068e71075de",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "583.50 USD in 1500.00 ADA",
+    "0 USD in 1500.00 GMBL",
+    "844.50 USD in 1500.00 AGIX",
+    "Transaction made by Treasury Guild @0.389",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Bounty",
+      "description": [
+        "Rewards for Edit and create clips for each proposal",
+        "presentation at the Deepfunding Townhall 2."
+      ],
+      "contributors": {
+        "9qgazv": {
+          "ADA": "1500",
+          "GMBL": "1500",
+          "AGIX": "1500"
+        }
+      }
+    }
+  ]
+}
