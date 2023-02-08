@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "e3cb89c397784138a01538dff62f8beeabfca1f53459357ed5b0255db8ccba60",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "1.36 USD in 3.41 ADA",
+    "Transaction made by Treasury Guild @0.399",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Rewards-Withdrawal",
+      "description": [
+        "Internal transfer and rewards withdrawal"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": "3.408202"
+        }
+      }
+    }
+  ]
+}
