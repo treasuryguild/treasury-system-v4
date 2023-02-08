@@ -1,0 +1,222 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "f2e4f5adb542268c0a1803c0885f2490b9fd507a563cbdbfa64b861c78520570",
+  "msg": [
+    "Singularity-Net Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 20",
+    "783.23 USD in 2013.45 ADA",
+    "0 USD in 4250.00 GMBL",
+    "1243.49 USD in 2265.00 AGIX",
+    "Transaction made by Treasury Guild @0.389",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Create all DFTH Dework tasks"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "DF TH #2 - Co-host onboarding - 100 Gimbal & 5",
+        "AGIX"
+      ],
+      "label": "Onboarding",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 5
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "DF TH #2 - Announce on social media - 50 AGIX & 50",
+        "Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "j3xc2c": {
+          "gimbal": 50,
+          "AGIX": 50
+        },
+        "xl6z2n": {
+          "gimbal": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Create all DFTH Dework tasks - 200Gimbal & 5 AGIX"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 200,
+          "AGIX": 5
+        },
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 5
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Create a intro clip for the DFTH - 200 AGIX, 200 Ada &",
+        "200 Gimbal"
+      ],
+      "label": "Content Creation",
+      "contributors": {
+        "t65ffu": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        },
+        "rvata9": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        },
+        "fkdrxm": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Co - host DFTH - 200 AGIX, 200 Ada & 200 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        },
+        "9qgazv": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        },
+        "8f9pmj": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        },
+        "ukwpzf": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        },
+        "qsty7m": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        },
+        "f0qnsw": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        },
+        "8n4qu4": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Host the DFTH #2 - 100 AGIX & 100 Gimbal"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 200,
+          "AGIX": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Setting up DFTH #2 Sign up Process - 150 Gimbal"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Ambassador Town Hall #33 - Earn 100 GMBL & 5 AGIX"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "nuz9xe": {
+          "gimbal": 100,
+          "AGIX": 5
+        },
+        "ye2czd": {
+          "gimbal": 100,
+          "AGIX": 5
+        },
+        "0cnk5v": {
+          "gimbal": 100,
+          "AGIX": 5
+        },
+        "9klqvn": {
+          "gimbal": 100,
+          "AGIX": 5
+        },
+        "j3xc2c": {
+          "gimbal": 100,
+          "AGIX": 5
+        },
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 5
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 5
+        },
+        "xl6z2n": {
+          "gimbal": 100,
+          "AGIX": 5
+        },
+        "rvata9": {
+          "gimbal": 100,
+          "AGIX": 5
+        },
+        "jwrar0": {
+          "gimbal": 100,
+          "AGIX": 5
+        }
+      }
+    }
+  ]
+}

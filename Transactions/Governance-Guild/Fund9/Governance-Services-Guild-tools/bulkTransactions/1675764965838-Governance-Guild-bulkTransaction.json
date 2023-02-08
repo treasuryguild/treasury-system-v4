@@ -1,0 +1,100 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "248552d9b55d5e677bd544324807cc9f4b4405c440d589ddb1a29edae7538d8e",
+  "msg": [
+    "Governance-Guild Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 7",
+    "202.30 USD in 518.72 ADA",
+    "0 USD in 1500.00 GMBL",
+    "Transaction made by Treasury Guild @0.390",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GG Call 14 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100,
+          "ada": 256
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GG Call 13 - 100 USD"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100,
+          "ada": 256
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly Call 14"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "uveq4y": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly Call 13"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}
