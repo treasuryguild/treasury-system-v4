@@ -526,7 +526,7 @@ let totalDJED = (parseFloat(djed)?parseFloat(djed):0)
 let totalAUSD = (parseFloat(ausd)?parseFloat(ausd):0)
 let totalIUSD = (parseFloat(iusd)?parseFloat(iusd):0)
 let tAda = (totalADA>0?(`
-"${totalADA>0?((totalADA*currentXchangeAda).toFixed(2) + " USD in " + totalADA.toFixed(2) + " ADA"):""}",`):"");
+"${totalADA>0?((totalADA*currentXchangeAda).toFixed(2) + " USD in " + totalADA.toFixed(6) + " ADA"):""}",`):"");
 let tGmbl = (totalGMBL>0?(`
 "${totalGMBL>0?("0" + " USD in " + totalGMBL.toFixed(2) + " GMBL"):""}",`):"");
 let tAgix = (totalAGIX>0?(`
