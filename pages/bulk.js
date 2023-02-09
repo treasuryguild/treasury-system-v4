@@ -313,7 +313,7 @@ async function bulkPayments() {
       sheetnames.push(data[key].name);
     }
     sheetData.push(downloadResponse.data);
-    //break;
+    break;
   }
   shNames = sheetnames;
   //lastSheetData = (`${JSON.stringify(sheetData[0]).replace(/['"]+/g, '')}`);
