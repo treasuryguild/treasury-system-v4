@@ -69,7 +69,7 @@ window.onload = function() {
         ideaJ = data.ideascale
         poolJ = data.proposal.replace(/\s/g, '-')
         walletEl = data.wallet   
-        balEl.textContent = "USD " + parseFloat(data.budget).toFixed(2);
+        //balEl.textContent = "USD " + parseFloat(data.budget).toFixed(2);
         console.log(data);
         // Loop over each object in data array
         let ul4 = document.getElementById('main-title');
@@ -80,21 +80,21 @@ window.onload = function() {
             // Get the ul with id of of userRepos
             var n = Object.keys(data.budgetItems).indexOf(i);
             totals[i] = 0;
-            let ul = document.getElementById('grps');
+            //let ul = document.getElementById('grps');
             let ul2 = document.getElementById('budgetB');
             let ul3 = document.getElementById('propo');
             // Create variable that will create li's to be added to ul
-            let li = document.createElement('div');
+            //let li = document.createElement('div');
             let li2 = document.createElement('option');
             let li3 = document.createElement('div');
             // Create the html markup for each li
             k = ("t" + `${n+1}`);
             l[i] = ("b" + `${n+1}`);
-            li.className = "graph_item green";
+            //li.className = "graph_item green";
             li3.className = "button2";
             li2.value = i;
             if (n > 0) { // This is where "Incoming" is skipped
-            li.innerHTML = (`
+            /*li.innerHTML = (`
             <span class="graph_item_title">
             <a href="https://github.com/${orgEl}/${repoEl}/tree/main/Transactions/${projectJ}/${fundJ}/${poolJ}/${i}" target="_blank">
             <span class="title" id=${k}>${i}</span>
@@ -105,12 +105,12 @@ window.onload = function() {
             <span class="value" id=${l[i]}></span>
             </a>
             </span>
-            `);
+            `);*/
             }
             li2.innerHTML = (`${i}`);
             li3.innerHTML = (`<button type='button'>${Object.values(data)[n]}</button>`);
             // Append each li to the ul
-            ul.appendChild(li);
+            //ul.appendChild(li);
             ul2.appendChild(li2);
             if (n < 3) {  
               ul3.appendChild(li3);
@@ -167,6 +167,7 @@ window.onload = function() {
           async function getWallet() {
             //const {data} = await axios.get(`https://pool.pm/wallet/${walletEl}`)
             await walletStatus();
+/*
             await loadData(orgEl, repoEl, projectJ, fundJ, poolJ);
             let bulkB = "bulkTransactions"
             totals[bulkB] = 0;
@@ -212,7 +213,7 @@ window.onload = function() {
               }
             };
             console.log("totals.outgoing",totals.outgoing)
-      
+      */
             if (Array.isArray(topData2.tokens) && topData2.tokens.length) { //checking if there are tokens
               for (let i in topData2.tokens) {
                 tokensList.push(topData2.tokens[i].name);
@@ -237,6 +238,7 @@ window.onload = function() {
           }
             console.log("AGIX",balAGIX);
             console.log(tokensList);
+/*
             saveEl2.textContent = "₳ " + parseFloat(balance).toFixed(2)
             document.getElementById("save-el2").style.width = (balance/topData.budget*100)+"%"
             saveEl.textContent = "₳ " + parseFloat(totals.Incoming).toFixed(2)
@@ -249,7 +251,7 @@ window.onload = function() {
                 document.getElementById(`${l[i]}`).style.width = x[i]+"%"
             console.log(b[i]);
               }
-            }
+            }*/
             hideLoading();
           }
     getWallet();
@@ -385,7 +387,7 @@ async function validateSubmission(){
   const name = getValue('name')
   const budgetB = getValue('budgetB')
   let ada = (getValue('ada')).replace(/\s/g, '').replace(/,/g, '.');
-  if (!ada || ada < 1.344798) {
+  if (!(budgetB == "Rewards-Withdrawal" || budgetB == "Incoming") && (!ada || ada < 1.344798)) {
     ada = "1.344798"
   }
   const gmbl = (getValue('gmbl')).replace(/\s/g, '').replace(/,/g, '.');
