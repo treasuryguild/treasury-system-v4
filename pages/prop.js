@@ -389,7 +389,7 @@ async function validateSubmission(){
     ada = "1.344798"
   }
   const gmbl = (getValue('gmbl')).replace(/\s/g, '').replace(/,/g, '.');
-  const agix = (getValue('agix')).replace(/\s/g, '').replace(/,/g, '.');
+  let agix = (getValue('agix')).replace(/\s/g, '').replace(/,/g, '.');
   const djed = (getValue('djed')).replace(/\s/g, '').replace(/,/g, '.');
   const ausd = (getValue('ausd')).replace(/\s/g, '').replace(/,/g, '.');
   const iusd = (getValue('iusd')).replace(/\s/g, '').replace(/,/g, '.');
