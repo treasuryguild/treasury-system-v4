@@ -479,14 +479,14 @@ async function loadSheet() {
 
               if (n[k] == "ADA") {
                 xy = sumStr(adaVal)
-                if (xy == 0) { //1.344798
+                if (xy < 1.344798) { //1.344798
                   adaVal = ("1.344798");
                 }
               }
 
               if (n[k] == "AGIX" && (projectJ == "Swarm" || projectJ == "Singularity-Net")) {
                 xy = sumStr(adaVal)
-                if (xy == 0) { //Minimum value of 2
+                if (xy < 2) { //Minimum value of 2
                   adaVal = ("2");
                 }
               }
@@ -509,14 +509,14 @@ async function loadSheet() {
             
             if (n[k] == "ADA") {
               xy = sumStr(adaVal)
-              if (xy == 0) { //1.344798
+              if (xy < 1.344798) { //1.344798
                 adaVal = ("1.344798");
               }
             }
 
             if (n[k] == "AGIX" && (projectJ == "Swarm" || projectJ == "Singularity-Net")) {
               xy = sumStr(adaVal)
-              if (xy == 0) { //Minimum value of 2
+              if (xy < 2) { //Minimum value of 2
                 adaVal = ("2");
               }
             }

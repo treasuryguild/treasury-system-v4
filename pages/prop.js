@@ -385,7 +385,7 @@ async function validateSubmission(){
   const name = getValue('name')
   const budgetB = getValue('budgetB')
   let ada = (getValue('ada')).replace(/\s/g, '').replace(/,/g, '.');
-  if (!ada) {
+  if (!ada || ada < 1.344798) {
     ada = "1.344798"
   }
   const gmbl = (getValue('gmbl')).replace(/\s/g, '').replace(/,/g, '.');
@@ -401,7 +401,7 @@ async function validateSubmission(){
   const project = projectJ
 
   if (project == "Swarm" || project == "Singularity-Net") {
-    if (agix == 0) {
+    if (agix < 2) {
       agix = 2
     }
   }
