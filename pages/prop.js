@@ -399,6 +399,13 @@ async function validateSubmission(){
   const xrate = (getValue('xrate')).replace(/\s/g, '').replace(/,/g, '.');
   const fund = fundJ
   const project = projectJ
+
+  if (project == "Swarm" || project == "Singularity-Net") {
+    if (agix == 0) {
+      agix = 2
+    }
+  }
+
   let newBal = 0;
   let tok = "";
   let tok2 = "";

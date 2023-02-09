@@ -476,12 +476,21 @@ async function loadSheet() {
               valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
               copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "AUSD" || n[k] == "IUSD"?`${valBut}`:""}`; 
               adaVal = (csvJson[newValue][val]?csvJson[newValue][val]:0);
+
               if (n[k] == "ADA") {
                 xy = sumStr(adaVal)
                 if (xy == 0) { //1.344798
                   adaVal = ("1.344798");
                 }
               }
+
+              if (n[k] == "AGIX" && (projectJ == "Swarm" || projectJ == "Singularity-Net")) {
+                xy = sumStr(adaVal)
+                if (xy == 0) { //Minimum value of 2
+                  adaVal = ("2");
+                }
+              }
+
               console.log("adaVal",xy)
               td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${adaVal}'>${copyButton}`)
               row.appendChild(td[k]);
@@ -497,6 +506,21 @@ async function loadSheet() {
             valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
             copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "AUSD" || n[k] == "IUSD"?`${valBut}`:""}`;       
             adaVal = csvJson[i][val]
+            
+            if (n[k] == "ADA") {
+              xy = sumStr(adaVal)
+              if (xy == 0) { //1.344798
+                adaVal = ("1.344798");
+              }
+            }
+
+            if (n[k] == "AGIX" && (projectJ == "Swarm" || projectJ == "Singularity-Net")) {
+              xy = sumStr(adaVal)
+              if (xy == 0) { //Minimum value of 2
+                adaVal = ("2");
+              }
+            }
+
             td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? "1.344798" : adaVal}'>${copyButton}`)
             row.appendChild(td[k]);
             }
