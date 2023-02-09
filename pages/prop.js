@@ -616,7 +616,7 @@ switch(project) {
     answer = `${orgEl}/accounting-reporting-france`;
     break;
   case 'Ambassadors-Guild':
-    answer = `${orgEl}/ambassadros-guild`;
+    answer = `${orgEl}/ambassadors-guild`;
     break;
   case 'Cardano-Ambassadors':
     answer = `${orgEl}/cardano-ambassadors`;
