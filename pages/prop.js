@@ -400,7 +400,7 @@ async function validateSubmission(){
   const fund = fundJ
   const project = projectJ
 
-  if (budgetB == "Bounty" && ( project == "Swarm" || project == "Singularity-Net" )) {
+  if ((budgetB == "Bounty" || budgetB == "Swarm-Contributors") && ( project == "Swarm" || project == "Singularity-Net" )) {
     if (!agix || agix < 2) {
       agix = 2
     }
