@@ -401,7 +401,7 @@ async function validateSubmission(){
   const project = projectJ
 
   if (project == "Swarm" || project == "Singularity-Net") {
-    if (agix < 2) {
+    if (!agix || agix < 2) {
       agix = 2
     }
   }
