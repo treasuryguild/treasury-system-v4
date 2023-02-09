@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "2087c3f73f328174556fe487f00199c9349471a0b9fc3bf93dbc55a15731259c",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "78.40 USD in 200.000000 ADA",
+    "0 USD in 200.00 GMBL",
+    "93.00 USD in 200.00 AGIX",
+    "Transaction made by Treasury Guild @0.392",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Bounty",
+      "description": [
+        "Reward for SNet contributor"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "ADA": "200",
+          "GMBL": "200",
+          "AGIX": "200"
+        }
+      }
+    }
+  ]
+}
