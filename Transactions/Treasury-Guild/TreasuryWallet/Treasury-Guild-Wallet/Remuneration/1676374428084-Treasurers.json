@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "241df26d7b6f0f788500b532cfc736cfaf5558fb0b6f715f3d9c4b0011b127b6",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "2005.54 USD in 5540.166204 ADA",
+    "Transaction made by Treasury Guild @0.361",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Remuneration",
+      "description": [
+        "Monthly Remuneration "
+      ],
+      "contributors": {
+        "Treasurers": {
+          "ADA": "5540.166204"
+        }
+      }
+    }
+  ]
+}
