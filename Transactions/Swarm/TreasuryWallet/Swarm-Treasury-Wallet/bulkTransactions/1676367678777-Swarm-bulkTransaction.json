@@ -1,0 +1,189 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 7",
+    "38.42 USD in 106.72 ADA",
+    "0 USD in 1900.00 GMBL",
+    "47.86 USD in 124.00 AGIX",
+    "Transaction made by Treasury Guild @0.360",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool Development - Treasury Manager Updates 12.02"
+      ],
+      "label": [
+        "Tool development"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 250,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create a Dework - Swarm Treasury System - Step Guide -",
+        "250 Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Tool development,Operations,Content Creation"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 250,
+          "AGIX": 2
+        },
+        "pfwaf6": {
+          "gimbal": 250,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Organise / Host Mycelium X Swarm workshop - 23rd Jan"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "pfwaf6": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Reply to comments, re-edit Swae Proposal"
+      ],
+      "label": [
+        "Content Creation, Operations"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create Step by step guide for dework / swae onboarding"
+      ],
+      "label": [
+        "Onboarding,Content Creation"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 50,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create Task for MyceliumNET Swae proposal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Feeback meet with Eric"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "0cnk5v": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Swarm X Lisbon meetup #2"
+      ],
+      "label": [
+        "Documentation, Operations"
+      ],
+      "contributors": {
+        "q5xpal": {
+          "gimbal": 50,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 50,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Cyber Security Support - Earn 50 Ada 50 Agix",
+        "100 Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "c70dqg": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Serverless for Cardano - Earn 50 Ada 50 Agix",
+        "100 Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "6x29z9": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    }
+  ]
+}
