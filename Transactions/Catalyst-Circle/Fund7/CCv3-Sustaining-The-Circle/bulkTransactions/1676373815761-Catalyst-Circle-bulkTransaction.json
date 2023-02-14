@@ -1,0 +1,88 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "45ab8af9ec224292733e95ec05e3e8aefda7953723d726448bc6d630e0e73604",
+  "msg": [
+    "Catalyst-Circle Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/384250",
+    "Recipients: 2",
+    "330.91 USD in 914.13 ADA",
+    "Transaction made by Treasury Guild @0.362",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Gsuite December 54 USD"
+      ],
+      "label": "Comm Org Tools",
+      "contributors": {
+        "jhyhwp": {
+          "ADA": "149.5844875"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Gsuite January 54 USD"
+      ],
+      "label": "Comm Org Tools",
+      "contributors": {
+        "jhyhwp": {
+          "ADA": "149.5844875"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "Gsuite February 54 USD"
+      ],
+      "label": "Comm Org Tools",
+      "contributors": {
+        "jhyhwp": {
+          "ADA": "149.5844875"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "GitBook December 56 USD"
+      ],
+      "label": "Comm Org Tools",
+      "contributors": {
+        "uxd83r": {
+          "ADA": "155.1246537"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "GitBook January 56 USD"
+      ],
+      "label": "Comm Org Tools",
+      "contributors": {
+        "uxd83r": {
+          "ADA": "155.1246537"
+        }
+      }
+    },
+    {
+      "taskCreator": "Catalyst Circle",
+      "description": [
+        "GitBook February 56 USD"
+      ],
+      "label": "Comm Org Tools",
+      "contributors": {
+        "uxd83r": {
+          "ADA": "155.1246537"
+        }
+      }
+    }
+  ]
+}
