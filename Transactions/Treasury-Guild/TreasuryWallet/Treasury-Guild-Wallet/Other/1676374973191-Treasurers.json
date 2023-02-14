@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "ae30006e70a19e5584f5d3779b76f154c3b17737e23e60ad60cc51709f651dbd",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "1158.40 USD in 3200.000000 ADA",
+    "Transaction made by Treasury Guild @0.362",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Other",
+      "description": [
+        "Spliting 3200 ADA from stable coin for Treasurers remuneration"
+      ],
+      "contributors": {
+        "Treasurers": {
+          "ADA": "3200"
+        }
+      }
+    }
+  ]
+}
