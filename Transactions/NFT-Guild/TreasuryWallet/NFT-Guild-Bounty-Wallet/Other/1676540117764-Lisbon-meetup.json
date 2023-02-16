@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "fcecd575e4fec2c99e4f5d0ea9217c725eb186d2ba7f4231187c6e6963b3de6e",
+  "msg": [
+    "NFT-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "1576.88 USD in 3874.405352 ADA",
+    "Transaction made by Treasury Guild @0.407",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "NFT-Guild",
+      "label": "Other",
+      "description": [
+        "Sending funds to Lisbon meetup wallet"
+      ],
+      "contributors": {
+        "Lisbon meetup": {
+          "ADA": "3874.405352"
+        }
+      }
+    }
+  ]
+}
