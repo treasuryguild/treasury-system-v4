@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "76179e04756acb90e8fafbebc991276bb2dc05ddb2de7e839fd21926ecb4769c",
+  "msg": [
+    "NFT-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "10.18 USD in 25.008276 ADA",
+    "Transaction made by Treasury Guild @0.407",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "NFT-Guild",
+      "label": "Incoming",
+      "description": [
+        "Withdrawing ADA from staking pool"
+      ],
+      "contributors": {
+        "Swarm pool": {
+          "ADA": "25.008276"
+        }
+      }
+    }
+  ]
+}
