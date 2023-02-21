@@ -1,0 +1,637 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "4983e72149fa2452d741f7d2a1933d3c65b2cc8f1fc338fab54f3d964d0f753a",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 38",
+    "212.53 USD in 534.00 ADA",
+    "0 USD in 13100.00 GMBL",
+    "294.98 USD in 633.00 AGIX",
+    "Transaction made by Treasury Guild @0.398",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Translate CIP 1694 into Dutch - Earn 200 Ada, 200 Gimbal",
+        "& 200 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "8jjeq9": {
+          "gimbal": 200,
+          "ada": 200,
+          "AGIX": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Swarm [F10] Mini Proposal Workshop - Earn",
+        "50 Ada - & 50 AGIX 50 gimbal"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "6x29z9": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Daedalus Turbo Milestone 1 - Earn 75 Ada 75",
+        "Agix 100 Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "yp7gg3": {
+          "gimbal": 100,
+          "ada": 75,
+          "AGIX": 75
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the CIP 1694 Call on Feb 15 - Earn 50 Ada, 50",
+        "Gimbal & 50 AGIX"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Helped SNET Spin-Off set up a Discord Server - 300 GMBLs",
+        "& 2 AGIX"
+      ],
+      "label": [
+        "Operations,Tool development"
+      ],
+      "contributors": {
+        "8f9pmj": {
+          "gimbal": 300,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Impact Growth Engine - Feedback Call - Feb 15"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "f0qnsw": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "n7qgup": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "j99kct": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "9qgazv": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create a MBO/Governance Event format"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "contributors": {
+        "cg2u7u": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "dpy3c6": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "nvvr8e": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "ex7942": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "ukwpzf": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "jy7s8e": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "jhyhwp": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "mg3a4k": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "uw6w3e": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Vanessa and Zoe - 100 GMBL & 2 AGIX"
+      ],
+      "label": [
+        "Documentation,Operations"
+      ],
+      "contributors": {
+        "8f9pmj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "7lnpzs": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Alex ( CF ) - Feb 17 -100 Gimbal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "nt04m3": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Host the CIP 1694 Swarm Session - 200 Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "jhyhwp": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Host CIP 1694 - Breakout room - Feb 15"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "r5nvwm": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Work out Swarm Session CIP 1694 #1- Format"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jhyhwp": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "7lnpzs": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Co Host Swarm Session CIP 1694 -2 AGIX & 200 Gimbal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "7lnpzs": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "jhyhwp": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join Saturday Swarm Session - Feb 18 - CIP 1694 - Earn",
+        "200 Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "g8glkf": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "jhyhwp": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "lrs3kj": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "mg3a4k": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "7lnpzs": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "uw6w3e": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "8f9pmj": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "55smty": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "9qgazv": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "8jjeq9": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "f39ntm": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "333a38": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "5jwnt2": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "s52l54": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "r5nvwm": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "429vj2": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "p8q4jl": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "g8t0fm": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with CCv4 members - Feb 10"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Alex ( CF ) - Feb 10 -100 Gimbal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "nt04m3": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Tommy (CF) - Feb 7 - 100 Gimbal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "333a38": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Alex ( CF ) - January 27 - 100 Gimbal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "nt04m3": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Define & organise first serie of online governance workshops"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 300,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create budget proposals for in- person pilot Gov -",
+        "workshops"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "q5xpal": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Tommy (CF) - Jan 24 - 100 Gimbal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "333a38": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Alex ( CF ) -Janaury 20 -100 Gimbal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "nt04m3": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Lisbon Logo thanks - Earn 20 Ada, 20 AGIX & 100 Gimbal"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "h2hc92": {
+          "gimbal": 100,
+          "ada": 20,
+          "AGIX": 20
+        },
+        "tgd8fg": {
+          "gimbal": 100,
+          "ada": 20,
+          "AGIX": 20
+        },
+        "ytrzaf": {
+          "gimbal": 100,
+          "ada": 20,
+          "AGIX": 20
+        },
+        "t65ffu": {
+          "gimbal": 100,
+          "ada": 20,
+          "AGIX": 20
+        },
+        "q5xpal": {
+          "gimbal": 100,
+          "ada": 20,
+          "AGIX": 20
+        },
+        "d3jfmz": {
+          "gimbal": 100,
+          "ada": 20,
+          "AGIX": 20
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Set times to tasks"
+      ],
+      "label": [
+        "Documentation"
+      ],
+      "contributors": {
+        "q5xpal": {
+          "gimbal": 300,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Collect receiving addr1 for Meetup attendees"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "q5xpal": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Organise a initial  meetup in Lisbon"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 400,
+          "AGIX": 2
+        },
+        "q5xpal": {
+          "gimbal": 400,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}
