@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "7e6f446420ddfabad9f5274526382944b5feb9f6784054926383d142c93eea12",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "127.91 USD in 323.002746 ADA",
+    "Transaction made by Treasury Guild @0.396",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Swap",
+      "description": [
+        "Swaping 323.002746 ADA for AGIX"
+      ],
+      "contributors": {
+        "Minswap": {
+          "ADA": "323.002746"
+        }
+      }
+    }
+  ]
+}
