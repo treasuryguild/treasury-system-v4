@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "121312225e87ed91eb72660d035624b6b9f694e64fbebe687896006d9f04af62",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "22.86 USD in 59.687495 ADA",
+    "Transaction made by Treasury Guild @0.383",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Rewards-Withdrawal",
+      "description": [
+        "Withdrawal of 59.687495 ADA from staking pool"
+      ],
+      "contributors": {
+        "Titan pool": {
+          "ADA": "59.687495"
+        }
+      }
+    }
+  ]
+}
