@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "ef33992f670e3c398a6659a7350127b2258cf15670c31f9ad85a38840479e044",
+  "msg": [
+    "Catalyst-Circle Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/385019",
+    "Recipients: 1",
+    "0.73 USD in 2.000000 ADA",
+    "Transaction made by Treasury Guild @0",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Circle",
+      "label": "Other",
+      "description": [
+        "Staking to Admin pool"
+      ],
+      "contributors": {
+        "Admin Pool": {
+          "ADA": "2"
+        }
+      }
+    }
+  ]
+}
