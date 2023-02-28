@@ -1,0 +1,124 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "3018b42b6adc608a992c2b291d174ba03ae37965c9854f9c2c91ad7e1f385d87",
+  "msg": [
+    "Singularity-Net Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 6",
+    "21.37 USD in 59.03 ADA",
+    "0 USD in 1130.00 GMBL",
+    "40.95 USD in 91.00 AGIX",
+    "Transaction made by Treasury Guild @0.362",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Proposal Feedback - 25 Ada, 25 AGIX & 25 Gimbal"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Create an Account on deepfunding.ai - Earn 10 Ada, 10",
+        "AGIX & 10 Gimbal"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "gvx6ky": {
+          "gimbal": 10,
+          "ada": 10,
+          "AGIX": 10
+        },
+        "fu9paa": {
+          "gimbal": 10,
+          "ada": 10,
+          "AGIX": 10
+        },
+        "9p4mch": {
+          "gimbal": 10,
+          "ada": 10,
+          "AGIX": 10
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Process Guild call on February 14th."
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "gimbal": 150,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in loyalty voting test session feb 16th 11UTC -",
+        "10usd"
+      ],
+      "label": [
+        "Governance,Community Communication"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "gimbal": 100,
+          "AGIX": 24
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Community Governance - Expert Group - Weekly Call #12",
+        "- 5 AGX &150 Gimbal"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "xl6z2n": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "r5nvwm": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "fu9paa": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "9p4mch": {
+          "gimbal": 150,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}
