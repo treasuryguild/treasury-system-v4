@@ -1,0 +1,836 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "ed0155b730d6688668c66468d27bb7dc1c7a234b529e2ac19aa6b04d709cf4b4",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 37",
+    "208.57 USD in 576.17 ADA",
+    "0 USD in 7360.00 GMBL",
+    "290.56 USD in 640.00 AGIX",
+    "Transaction made by Treasury Guild @0.362",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join Fund 9 Insight Fest - Earn 100 GMBL"
+      ],
+      "label": [
+        "F9 Insight fest"
+      ],
+      "contributors": {
+        "473ed4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join Saturday Swarm Session - Earn 100 GMBL"
+      ],
+      "label": [
+        "Swarm Session"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the Catalyst Swarm Veteran Call #1 - Earn 100 Gimbal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4fwu6e": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Fill out this awesome survey - Littlefish - Earn 100",
+        "Gimbal"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join Saturday Swarm Session - Feb 18 - CIP 1694 - Earn",
+        "200 Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "4fwu6e": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "3qz0k2": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "fu9paa": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly ATH Team meeting - Feb 27"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "uveq4y": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "9qgazv": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "8n4qu4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Organizing After Town Hall - Feb 22- 200 Gimbal & 2",
+        "AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "f0qnsw": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "8n4qu4": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Created a Forum Post - Overview over CIP-1694 Swarm",
+        "Session (Feb18)"
+      ],
+      "label": [
+        "Documentation,Content Creation,Community Communication"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "8f9pmj": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "7lnpzs": {
+          "gimbal": 300,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Cluster/Categorize CIP 1694 - Miro from Swarm Session Feb",
+        "18"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "8f9pmj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the [F10] Mini Proposal Workshop: An AI tool",
+        "to automate meeting documentation and retrieve insights -",
+        "Earn 25 Ada 25 Agix 100 Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "ya5t5l": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the [F10] Mini Proposal Workshop: Tooling for",
+        "Decentralised Groups - Earn 25 Ada 25 Agix 100 Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "ya5t5l": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the CIP 1694 Swarm Session - Earn 25 Ada 25 Agix",
+        "100 Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "wv2mhm": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the MESHJS Session - Earn 35 Ada 35 Agix 100",
+        "Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "c70dqg": {
+          "gimbal": 100,
+          "ada": 35,
+          "AGIX": 35
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Exploring Dynamic Governance - Earn 25 Ada 25",
+        "Agix 100 Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Experimental Agreement - Earn 25 Ada 25 Agix",
+        "100 Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "eend5s": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join SingularityNET - Ambassadors Dework - Earn 2 Ada,",
+        "2 AGIX & 2 Gimbal"
+      ],
+      "label": [
+        "Onboarding"
+      ],
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "adxfhy": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "fu9paa": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "6x29z9": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "sh8upr": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "wv2mhm": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "c70dqg": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "d3jfmz": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "tgd8fg": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "lrs3kj": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "t65ffu": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "6lcdjr": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create a Cardano Forum Article - Cardano Governance - 30",
+        "Ada, 30 AGIX & 30 Gimbal"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 30,
+          "ada": 30,
+          "AGIX": 30
+        },
+        "d3jfmz": {
+          "gimbal": 30,
+          "ada": 30,
+          "AGIX": 30
+        },
+        "sh8upr": {
+          "gimbal": 30,
+          "ada": 30,
+          "AGIX": 30
+        },
+        "h2hc92": {
+          "gimbal": 30,
+          "ada": 30,
+          "AGIX": 30
+        },
+        "t65ffu": {
+          "gimbal": 30,
+          "ada": 30,
+          "AGIX": 30
+        },
+        "yp7gg3": {
+          "gimbal": 30,
+          "ada": 30,
+          "AGIX": 30
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Read & Share your thoughts - CIP 1694 - 10 Ada, 10",
+        "AGIX & 10 Gimbal"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "adxfhy": {
+          "gimbal": 20,
+          "ada": 10,
+          "AGIX": 10
+        },
+        "yp7gg3": {
+          "gimbal": 20,
+          "ada": 10,
+          "AGIX": 10
+        },
+        "d3jfmz": {
+          "gimbal": 20,
+          "ada": 10,
+          "AGIX": 10
+        },
+        "lrs3kj": {
+          "gimbal": 20,
+          "ada": 10,
+          "AGIX": 10
+        },
+        "fu9paa": {
+          "gimbal": 20,
+          "ada": 10,
+          "AGIX": 10
+        },
+        "t65ffu": {
+          "gimbal": 20,
+          "ada": 10,
+          "AGIX": 10
+        },
+        "h2hc92": {
+          "gimbal": 20,
+          "ada": 10,
+          "AGIX": 10
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tweet about CIP 1694 - 5 Ada, 5 AGIX & 10 Gimbal"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 20,
+          "ada": 5,
+          "AGIX": 5
+        },
+        "c70dqg": {
+          "gimbal": 20,
+          "ada": 5,
+          "AGIX": 5
+        },
+        "t65ffu": {
+          "gimbal": 20,
+          "ada": 5,
+          "AGIX": 5
+        },
+        "sh8upr": {
+          "gimbal": 20,
+          "ada": 5,
+          "AGIX": 5
+        },
+        "fu9paa": {
+          "gimbal": 20,
+          "ada": 5,
+          "AGIX": 5
+        },
+        "yp7gg3": {
+          "gimbal": 20,
+          "ada": 5,
+          "AGIX": 5
+        },
+        "adxfhy": {
+          "gimbal": 20,
+          "ada": 5,
+          "AGIX": 5
+        },
+        "d3jfmz": {
+          "gimbal": 20,
+          "ada": 5,
+          "AGIX": 5
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Treasury Guild and Done Collectively Call 21.02"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Coaching Meeting 24.02"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "j99kct": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Impact Growth Engine Operations Meeting 22.02"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "j99kct": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "uw6w3e": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Impact Growth Engine Operations Meeting 15.02"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "n7qgup": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "j99kct": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "f0qnsw": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 150,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool Development - Treasury Manager Updates 24.02"
+      ],
+      "label": [
+        "Tool development"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Meshjs Call - Business Advisory Call"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "yj98kn": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "mt3al0": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Meshjs Call - Felix & Jingles"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 50,
+          "AGIX": 2
+        },
+        "mt3al0": {
+          "gimbal": 50,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create a Bounty ideation sheet"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "contributors": {
+        "yj98kn": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Set up Starter Bounties"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "mt3al0": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "yj98kn": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Set up Meshjs Dework + Discord integration"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 50,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Create a MESHJS Logo animation - 50 Ada, 50 AGIX & 50",
+        "Gimbal"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "9qgazv": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join MESHJS Dework Space - Earn 2 Ada, 2 AGIX & 2",
+        "Gimbal"
+      ],
+      "label": [
+        "Onboarding"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "lrs3kj": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "xl6z2n": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "adxfhy": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "p8q4jl": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "yp7gg3": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "7nwka4": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "fu9paa": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "ht0jjj": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "t65ffu": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "6lcdjr": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "c70dqg": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "9qgazv": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "wv2mhm": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "mt3al0": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        },
+        "d3jfmz": {
+          "gimbal": 10,
+          "ada": 2,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}
