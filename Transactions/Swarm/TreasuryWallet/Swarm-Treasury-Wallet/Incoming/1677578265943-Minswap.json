@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "7dbfc60c3b0336c4f61e6e02ed099b0f170754e3734a8e293dbcc1424638f90e",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "4.36 USD in 12.073915 ADA",
+    "724.80 USD in 1600.00 AGIX",
+    "Transaction made by Treasury Guild @0.361",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Incoming 1600 AGIX tokens"
+      ],
+      "contributors": {
+        "Minswap": {
+          "ADA": "12.073915",
+          "AGIX": "1600"
+        }
+      }
+    }
+  ]
+}
