@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "51facd4bfd6fcb984386bde7b8b6d22c2d761ee75c317d96193d3647d5d52103",
+  "msg": [
+    "Catalyst-Circle Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/383284",
+    "Recipients: 1",
+    "0.73 USD in 2.000000 ADA",
+    "Transaction made by Treasury Guild @0.364",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Circle",
+      "label": "Other",
+      "description": [
+        "Staking to Swarm Pool"
+      ],
+      "contributors": {
+        "Swarm pool": {
+          "ADA": "2"
+        }
+      }
+    }
+  ]
+}
