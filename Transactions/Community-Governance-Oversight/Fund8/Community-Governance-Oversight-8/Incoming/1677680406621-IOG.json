@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "c2a20730d4124aece71a995f4a944d1b18bb834d0697f3632ad4fafb9ddbed30",
+  "msg": [
+    "Community-Governance-Oversight Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/398225",
+    "Recipients: 1",
+    "5422.10 USD in 14978.165939 ADA",
+    "Transaction made by Treasury Guild @0.362",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Community-Governance-Oversight",
+      "label": "Incoming",
+      "description": [
+        "Instalment from IOG"
+      ],
+      "contributors": {
+        "IOG": {
+          "ADA": "14978.165939"
+        }
+      }
+    }
+  ]
+}
