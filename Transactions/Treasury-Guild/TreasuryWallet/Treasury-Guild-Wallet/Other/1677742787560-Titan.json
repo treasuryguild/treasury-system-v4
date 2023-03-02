@@ -1,14 +1,14 @@
 {
   "mdVersion": [
-    "1.1"
+    "1.3"
   ],
-  "txid": "ae30006e70a19e5584f5d3779b76f154c3b17737e23e60ad60cc51709f651dbd",
+  "txid": "677340a149ddd85a2239c94d84c9d0f262e3814dfa16c64dd4e954d3c90445c1",
   "msg": [
     "Treasury-Guild Transaction",
     "Ideascale: ",
     "Recipients: 1",
-    "1030.40 USD in 3200.00 ADA",
-    "Transaction made by Treasury Guild @0.322",
+    "0.04 USD in 0.172629 ADA",
+    "Transaction made by Treasury Guild @0",
     "https://www.treasuryguild.io/"
   ],
   "contributions": [
@@ -16,11 +16,11 @@
       "taskCreator": "Treasury-Guild",
       "label": "Other",
       "description": [
-        "Swap ADA to stable coin"
+        "Stake to Titan pool"
       ],
       "contributors": {
-        "aw3n3k": {
-          "ADA": "3200"
+        "Copi": {
+          "ADA": "0.172629"
         }
       }
     }
