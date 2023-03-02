@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "84deb62927347a4cf467f40554b47f9fa1e76733a450aa2a717539964e58723a",
+  "msg": [
+    "Community-Governance-Oversight Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/398225",
+    "Recipients: 1",
+    "0.48 USD in 1.344798 ADA",
+    "Transaction made by Treasury Guild @0.358",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Community-Governance-Oversight",
+      "label": "Other",
+      "description": [
+        "Fees for changing from the COPI pool to Qadao pool"
+      ],
+      "contributors": {
+        "": {
+          "ADA": "1.344798"
+        }
+      }
+    }
+  ]
+}
