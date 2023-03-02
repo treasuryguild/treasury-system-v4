@@ -5,11 +5,11 @@
 "project": "Swarm",
 "proposal": "Treasury-Swarm-pool-Rewards",
 "ideascale": "https://cardano.ideascale.com/c/idea/402129",
-"budget": "Incoming",
+"budget": "Rewards-Withdrawal",
 "name": "Swarm pool",
 "exchangeRate": "0.50 USD per ADA",
 "ada" : "14.062758",
 "walletBalance": ["2197.00 ADA", "62815.00 GMBL", "10350.00 AGIX"],
 "txid": "01f7f5b743a0cc2e91b9f2e0f0721402b12092441ee0f1aa0df18d2fe7291a82",
-"description": "Incoming ADA from staking rewards"
+"description": "Internal Transfer"
 }
