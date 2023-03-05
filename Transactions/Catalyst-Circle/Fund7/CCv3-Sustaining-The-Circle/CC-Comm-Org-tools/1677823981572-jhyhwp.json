@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "755d3beaa37ef9117f2b48a5c721d42a9a9ccf2ccb2712189315a42c907fb474",
+  "msg": [
+    "Catalyst-Circle Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/384250",
+    "Recipients: 1",
+    "54.32 USD in 160.714286 ADA",
+    "Transaction made by Treasury Guild @0.338",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Circle",
+      "label": "CC-Comm-Org-tools",
+      "description": [
+        "Google workspace 54usd "
+      ],
+      "contributors": {
+        "jhyhwp": {
+          "ADA": "160.7142857"
+        }
+      }
+    }
+  ]
+}
