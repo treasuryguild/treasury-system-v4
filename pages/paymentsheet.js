@@ -12,7 +12,7 @@ let paymentList = "";
 let val = [];
 let fieldArr2 = [];
 //    description == dework task titles thats why it is called name in metadata...
-let heading = ["taskCreator","contributionID","contribution","description","payeeID","ADA","GMBL","AGIX","DJED","AUSD","IUSD"]
+let heading = ["taskCreator","contributionID","contribution","description","payeeID","ADA","GMBL","AGIX","DJED","COPI","NTX"]
 //  
 let propValue = "";
 let globValue = "";
@@ -82,7 +82,7 @@ function listQ(){
           fieldIdArr.push(fieldId);
           fieldArr2.push(fieldId)
           let td = document.createElement('td');
-          td.innerHTML= (`<input type='text' class='${l[j]}' id='${fieldId}' value=''>`)  //value = ${l[j]}${fieldId}
+          td.innerHTML= (`<input type='text' class='${l[j]}' id='${fieldId}' value='0'>`)  //value = ${l[j]}${fieldId}
           row.appendChild(td); 
           }
           table.appendChild(row);

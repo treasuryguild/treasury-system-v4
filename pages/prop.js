@@ -22,8 +22,8 @@ let balance = "";
 let balAGIX = "";
 let balGMBL = "";
 let balDJED = "";
-let balAUSD = "";
-let balIUSD = "";
+let balCOPI = "";
+let balNTX = "";
 let tokensList = [];
 const bi = [];
 const budgetI = [];
@@ -34,6 +34,8 @@ const b = []
 const x = []
 let currentXchangeAda = 0;
 let currentXchangeAgix = 0;
+let currentXchangeCopi = 0;
+let currentXchangeNtx = 0;
 
 let topData = {};
 let topData2 = {};
@@ -227,11 +229,11 @@ window.onload = function() {
                   case 'DJED':
                     balDJED = (topData2.tokens[i].quantity/1000000).toFixed(2);
                     break;
-                  case 'aUSD':
-                    balAUSD = (topData2.tokens[i].quantity/1000000).toFixed(2);
+                  case 'COPI':
+                    balCOPI = (topData2.tokens[i].quantity/1000000).toFixed(2);
                     break;
-                  case 'iUSD':
-                    balIUSD = (topData2.tokens[i].quantity/1000000).toFixed(2);
+                  case 'NTX':
+                    balNTX = (topData2.tokens[i].quantity/1000000).toFixed(2);
                     break;
                 }
               }
@@ -272,6 +274,16 @@ async function getExchange() {
     currentXchangeAgix = parseFloat(rate).toFixed(3);
     console.log("exchangeAgix",rate);
   });
+  axios.get('https://api.coingecko.com/api/v3/simple/price?ids=cornucopias&vs_currencies=usd').then(response => {
+    const rate = response.data.cornucopias.usd;
+    currentXchangeCopi = parseFloat(rate).toFixed(3);
+    console.log("exchangeCopi",rate);
+  });
+  axios.get('https://api.coingecko.com/api/v3/simple/price?ids=nunet&vs_currencies=usd').then(response => {
+    const rate = response.data.nunet.usd;
+    currentXchangeNtx = parseFloat(rate).toFixed(3);
+    console.log("exchangeNtx",rate);
+  });
 }
 getExchange();
 
@@ -290,16 +302,16 @@ async function copyMetaData() {
    const gmbl = (getValue('gmbl')).replace(/\s/g, '').replace(/,/g, '.');
    const agix = (getValue('agix')).replace(/\s/g, '').replace(/,/g, '.');
    const djed = (getValue('djed')).replace(/\s/g, '').replace(/,/g, '.');
-   const ausd = (getValue('ausd')).replace(/\s/g, '').replace(/,/g, '.');
-   const iusd = (getValue('iusd')).replace(/\s/g, '').replace(/,/g, '.');
+   const copi = (getValue('copi')).replace(/\s/g, '').replace(/,/g, '.');
+   const ntx = (getValue('ntx')).replace(/\s/g, '').replace(/,/g, '.');
    const description = (getValue('description')).replace(/,/g, '.');
    const xrate = (getValue('xrate')).replace(/\s/g, '').replace(/,/g, '.');
    let tok = "";
    let tok2 = "";
    let tok3 = [];
-   let tokens = [ada, gmbl, agix, djed, ausd, iusd];
-   let tokens2 = ["ada", "gmbl", "agix", "djed", "ausd", "iusd"];
-   let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "AUSD", "IUSD"];
+   let tokens = [ada, gmbl, agix, djed, copi, ntx];
+   let tokens2 = ["ada", "gmbl", "agix", "djed", "copi", "ntx"];
+   let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "COPI", "NTX"];
    
  
    for (let i in tokens) {
@@ -316,8 +328,8 @@ let totalADA = (parseFloat(ada)?parseFloat(ada):0)
 let totalGMBL = (parseFloat(gmbl)?parseFloat(gmbl):0)
 let totalAGIX = (parseFloat(agix)?parseFloat(agix):0)
 let totalDJED = (parseFloat(djed)?parseFloat(djed):0)
-let totalAUSD = (parseFloat(ausd)?parseFloat(ausd):0)
-let totalIUSD = (parseFloat(iusd)?parseFloat(iusd):0)
+let totalCOPI = (parseFloat(copi)?parseFloat(copi):0)
+let totalNTX = (parseFloat(ntx)?parseFloat(ntx):0)
 let tAda = (totalADA>0?(`
 "${totalADA>0?((totalADA*currentXchangeAda).toFixed(2) + " USD in " + totalADA.toFixed(2) + " ADA"):""}",`):"");
 let tGmbl = (totalGMBL>0?(`
@@ -326,11 +338,11 @@ let tAgix = (totalAGIX>0?(`
 "${totalAGIX>0?((totalAGIX*currentXchangeAgix).toFixed(2) + " USD in " + totalAGIX.toFixed(2) + " AGIX"):""}",`):"");
 let tDjed = (totalDJED>0?(`
 "${totalDJED>0?(totalDJED.toFixed(2) + " USD in " + totalDJED.toFixed(2) + " DJED"):""}",`):"");
-let tAusd = (totalAUSD>0?(`
-"${totalAUSD>0?(totalAUSD.toFixed(2) + " USD in " + totalAUSD.toFixed(2) + " AUSD"):""}",`):"");
-let tIusd = (totalIUSD>0?(`
-"${totalIUSD>0?(totalIUSD.toFixed(2) + " USD in " + totalIUSD.toFixed(2) + " IUSD"):""}",`):"");
-let totalTokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tAusd}${tIusd}`
+let tCopi = (totalCOPI>0?(`
+"${totalCOPI>0?((totalCOPI*currentXchangeCopi).toFixed(2) + " USD in " + totalCOPI.toFixed(2) + " COPI"):""}",`):"");
+let tNtx = (totalNTX>0?(`
+"${totalNTX>0?((totalNTX*currentXchangeNtx).toFixed(2) + " USD in " + totalNTX.toFixed(2) + " NTX"):""}",`):"");
+let totalTokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tCopi}${tNtx}`
 
 
 for (let i = 0; i < descript.length; i++) {
@@ -393,8 +405,8 @@ async function validateSubmission(){
   const gmbl = (getValue('gmbl')).replace(/\s/g, '').replace(/,/g, '.');
   let agix = (getValue('agix')).replace(/\s/g, '').replace(/,/g, '.');
   const djed = (getValue('djed')).replace(/\s/g, '').replace(/,/g, '.');
-  const ausd = (getValue('ausd')).replace(/\s/g, '').replace(/,/g, '.');
-  const iusd = (getValue('iusd')).replace(/\s/g, '').replace(/,/g, '.');
+  const copi = (getValue('copi')).replace(/\s/g, '').replace(/,/g, '.');
+  const ntx = (getValue('ntx')).replace(/\s/g, '').replace(/,/g, '.');
   const description = (getValue('description')).replace(/,/g, '.');
   const pool = poolJ
   const idea = ideaJ
@@ -412,9 +424,9 @@ async function validateSubmission(){
   let tok = "";
   let tok2 = "";
   let tok3 = [];
-  let tokens = [ada, gmbl, agix, djed, ausd, iusd];
-  let tokens2 = ["ada", "gmbl", "agix", "djed", "ausd", "iusd"];
-  let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "AUSD", "IUSD"];
+  let tokens = [ada, gmbl, agix, djed, copi, ntx];
+  let tokens2 = ["ada", "gmbl", "agix", "djed", "copi", "ntx"];
+  let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "COPI", "NTX"];
   let isSwap3 = "";
 
 if (budgetB == "Incoming") {
@@ -453,11 +465,11 @@ ${tokens3[i] === "ADA" ? parseFloat(tokens[i]).toFixed(2) : parseFloat(tokens[i]
         case 'DJED':
           newBal = `${newBal}, "${parseFloat(balDJED).toFixed(2)} DJED"`;
           break;
-        case 'AUSD':
-          newBal = `${newBal}, "${parseFloat(balAUSD).toFixed(2)} AUSD"`;
+        case 'COPI':
+          newBal = `${newBal}, "${parseFloat(balCOPI).toFixed(2)} COPI"`;
           break;
-        case 'IUSD':
-          newBal = `${newBal}, "${parseFloat(balIUSD).toFixed(2)} IUSD"`;
+        case 'NTX':
+          newBal = `${newBal}, "${parseFloat(balNTX).toFixed(2)} NTX"`;
           break;
       }
      }
@@ -474,11 +486,11 @@ ${tokens3[i] === "ADA" ? parseFloat(tokens[i]).toFixed(2) : parseFloat(tokens[i]
        case 'DJED':
          newBal = `${newBal}, "${isNaN((parseFloat(balDJED) - parseFloat(djed)).toFixed(2)) ? parseFloat(balDJED).toFixed(2) : (parseFloat(balDJED) - parseFloat(djed)).toFixed(2)} DJED"`;
          break;
-       case 'AUSD':
-         newBal = `${newBal}, "${isNaN((parseFloat(balAUSD) - parseFloat(ausd)).toFixed(2)) ? parseFloat(balAUSD).toFixed(2) : (parseFloat(balAUSD) - parseFloat(ausd)).toFixed(2)} AUSD"`;
+       case 'COPI':
+         newBal = `${newBal}, "${isNaN((parseFloat(balCOPI) - parseFloat(copi)).toFixed(2)) ? parseFloat(balCOPI).toFixed(2) : (parseFloat(balCOPI) - parseFloat(copi)).toFixed(2)} COPI"`;
          break;
-       case 'IUSD':
-         newBal = `${newBal}, "${isNaN((parseFloat(balIUSD) - parseFloat(iusd)).toFixed(2)) ? parseFloat(balIUSD).toFixed(2) : (parseFloat(balIUSD) - parseFloat(iusd)).toFixed(2)} IUSD"`;
+       case 'NTX':
+         newBal = `${newBal}, "${isNaN((parseFloat(balNTX) - parseFloat(ntx)).toFixed(2)) ? parseFloat(balNTX).toFixed(2) : (parseFloat(balNTX) - parseFloat(ntx)).toFixed(2)} NTX"`;
          break;
      }
     }
@@ -495,11 +507,11 @@ ${tokens3[i] === "ADA" ? parseFloat(tokens[i]).toFixed(2) : parseFloat(tokens[i]
        case 'DJED':
          newBal = `${newBal}, "${parseFloat(balDJED).toFixed(2)} DJED"`;
          break;
-       case 'AUSD':
-         newBal = `${newBal}, "${parseFloat(balAUSD).toFixed(2)} AUSD"`;
+       case 'COPI':
+         newBal = `${newBal}, "${parseFloat(balCOPI).toFixed(2)} COPI"`;
          break;
-       case 'IUSD':
-         newBal = `${newBal}, "${parseFloat(balIUSD).toFixed(2)} IUSD"`;
+       case 'NTX':
+         newBal = `${newBal}, "${parseFloat(balNTX).toFixed(2)} NTX"`;
          break;
      }
     }
@@ -532,8 +544,8 @@ let totalADA = (parseFloat(ada)?parseFloat(ada):0)
 let totalGMBL = (parseFloat(gmbl)?parseFloat(gmbl):0)
 let totalAGIX = (parseFloat(agix)?parseFloat(agix):0)
 let totalDJED = (parseFloat(djed)?parseFloat(djed):0)
-let totalAUSD = (parseFloat(ausd)?parseFloat(ausd):0)
-let totalIUSD = (parseFloat(iusd)?parseFloat(iusd):0)
+let totalCOPI = (parseFloat(copi)?parseFloat(copi):0)
+let totalNTX = (parseFloat(ntx)?parseFloat(ntx):0)
 let tAda = (totalADA>0?(`
 "${totalADA>0?((totalADA*currentXchangeAda).toFixed(2) + " USD in " + totalADA.toFixed(6) + " ADA"):""}",`):"");
 let tGmbl = (totalGMBL>0?(`
@@ -542,11 +554,11 @@ let tAgix = (totalAGIX>0?(`
 "${totalAGIX>0?((totalAGIX*currentXchangeAgix).toFixed(2) + " USD in " + totalAGIX.toFixed(2) + " AGIX"):""}",`):"");
 let tDjed = (totalDJED>0?(`
 "${totalDJED>0?(totalDJED.toFixed(2) + " USD in " + totalDJED.toFixed(2) + " DJED"):""}",`):"");
-let tAusd = (totalAUSD>0?(`
-"${totalAUSD>0?(totalAUSD.toFixed(2) + " USD in " + totalAUSD.toFixed(2) + " AUSD"):""}",`):"");
-let tIusd = (totalIUSD>0?(`
-"${totalIUSD>0?(totalIUSD.toFixed(2) + " USD in " + totalIUSD.toFixed(2) + " IUSD"):""}",`):"");
-let totalTokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tAusd}${tIusd}`
+let tCopi = (totalCOPI>0?(`
+"${totalCOPI>0?((totalCOPI*currentXchangeCopi).toFixed(2) + " USD in " + totalCOPI.toFixed(2) + " COPI"):""}",`):"");
+let tNtx = (totalNTX>0?(`
+"${totalNTX>0?((totalNTX*currentXchangeNtx).toFixed(2) + " USD in " + totalNTX.toFixed(2) + " NTX"):""}",`):"");
+let totalTokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tCopi}${tNtx}`
 
 for (let i = 0; i < descript.length; i++) {
   console.log("descript",descript[i])
