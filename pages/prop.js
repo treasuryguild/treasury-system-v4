@@ -398,21 +398,16 @@ async function validateSubmission(){
   
   const name = getValue('name')
   const budgetB = getValue('budgetB')
-  const description = (getValue('description')).replace(/,/g, '.');
-  let staking = false
-  if (description.toLowerCase().includes("staking")) {
-    staking = true
-  }
   let ada = (getValue('ada')).replace(/\s/g, '').replace(/,/g, '.');
-  if (!(budgetB == "Rewards-Withdrawal" || budgetB == "Incoming") && (!ada || ada < 1.344798) && (staking == false)) {
+  if (!(budgetB == "Rewards-Withdrawal" || budgetB == "Incoming") && (!ada || ada < 1.344798)) {
     ada = "1.344798"
-  } else if (staking == true) { ada = "0.17"}
+  }
   const gmbl = (getValue('gmbl')).replace(/\s/g, '').replace(/,/g, '.');
   let agix = (getValue('agix')).replace(/\s/g, '').replace(/,/g, '.');
   const djed = (getValue('djed')).replace(/\s/g, '').replace(/,/g, '.');
   const copi = (getValue('copi')).replace(/\s/g, '').replace(/,/g, '.');
   const ntx = (getValue('ntx')).replace(/\s/g, '').replace(/,/g, '.');
-  
+  const description = (getValue('description')).replace(/,/g, '.');
   const pool = poolJ
   const idea = ideaJ
   const xrate = (getValue('xrate')).replace(/\s/g, '').replace(/,/g, '.');
