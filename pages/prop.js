@@ -406,7 +406,7 @@ async function validateSubmission(){
   let ada = (getValue('ada')).replace(/\s/g, '').replace(/,/g, '.');
   if (!(budgetB == "Rewards-Withdrawal" || budgetB == "Incoming") && (!ada || ada < 1.344798) && (staking == false)) {
     ada = "1.344798"
-  } else if (staking == true) { ada = "0"}
+  } else if (staking == true) { ada = "0.17"}
   const gmbl = (getValue('gmbl')).replace(/\s/g, '').replace(/,/g, '.');
   let agix = (getValue('agix')).replace(/\s/g, '').replace(/,/g, '.');
   const djed = (getValue('djed')).replace(/\s/g, '').replace(/,/g, '.');
