@@ -404,9 +404,9 @@ async function validateSubmission(){
     staking = true
   }
   let ada = (getValue('ada')).replace(/\s/g, '').replace(/,/g, '.');
-  if (!(budgetB == "Rewards-Withdrawal" || budgetB == "Incoming" || staking == true) && (!ada || ada < 1.344798)) {
+  if (!(budgetB == "Rewards-Withdrawal" || budgetB == "Incoming") && (!ada || ada < 1.344798) && (staking == false)) {
     ada = "1.344798"
-  }
+  } else if (staking == true) { ada = "0"}
   const gmbl = (getValue('gmbl')).replace(/\s/g, '').replace(/,/g, '.');
   let agix = (getValue('agix')).replace(/\s/g, '').replace(/,/g, '.');
   const djed = (getValue('djed')).replace(/\s/g, '').replace(/,/g, '.');
