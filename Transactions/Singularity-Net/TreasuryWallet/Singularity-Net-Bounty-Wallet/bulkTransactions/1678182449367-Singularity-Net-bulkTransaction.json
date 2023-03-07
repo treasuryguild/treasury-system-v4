@@ -1,0 +1,1259 @@
+{
+  "type": "tx",
+  "title": "Bundle Transaction",
+  "description": "Created with Catalyst Swarm Treasury Manager Excel",
+  "outputs": {
+       "addr1q88k74wpqxw75q6jtmczndla4kc38pkjsw66e692z2ql6s4swc7rexme89elm2g9ggtgd5xngk2aetlse5kttkavkfdsnggwcw": [
+         {
+            "quantity": "800000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "5300000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1v9rphvvj60z9sck4n586k8ttpstgdhnc3tmtxmcrmuv0wlcnuz9xe": [
+         {
+            "quantity": "800000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "5500000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qycekwxmrg74wgn3an7rxhht9c0dc34q4tjzzp722ks4npwk23rd90mftusnj04jlq66klp76hhqqaty9a5j8gghc0gqu7ywg4": [
+         {
+            "quantity": "1400000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "11800000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qxxwkxve2z3m07k60xxauq25c2ayzfqcf4yu8sqx5c0hnnetuuavn0f9afnku4kadme00cskagm3tyytjxyxylvgwswqpfwaf6": [
+         {
+            "quantity": "1750000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "4400000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qyeju0jzu7j83vevlzr8da4axyxj8uh2g9lkwm7wtpj263tagvwxczny5xhyu6ugj63pjfea4rycfyl8xa5rd90arllst65ffu": [
+         {
+            "quantity": "1450000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "16300000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q9nw8a4srf0n6zs6hss8kj9msncstyvamt4e677xksksd5eu7reg2tcepwevcxs0thgrkp3ru7v0mgtvy0d0wdsd43usj3xc2c": [
+         {
+            "quantity": "300000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "2200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q8h8uk4te6lxhhyf236uyxhuhuxxacmjcxvz4z58fupwp8j7zg9ryu9mtznu5f59mg4p4w6ksa9wey8u0ynhnffm9lyqfkdrxm": [
+         {
+            "quantity": "1300000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "15900000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qyf2zu04z6qjnqwt0jr3z0qxsl660ms8tgsxa8eaec0z57yhtdmqd7rhvtj64rkdt8td5f0evzce57tw99cqp6zl989stgd8fg": [
+         {
+            "quantity": "500000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "10400000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qxltkk6ex7udvyhus8rlsmjf8t20hvlzz37eltcejge6wec7f2sy0phx76dlhdee4wak0g6007q2q3f0xy58zu5uvldqrvata9": [
+         {
+            "quantity": "1000000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "11200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q9hhykekl4jww3qxxh0sewxaj6fxkmx37nwamqkn7t3sj66wn7amuvhgehtya5442ss96twe7t05vazsgzu7x37lrhaqrcgctj": [
+         {
+            "quantity": "750000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "1400000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q9kxv5tt5xgajwvccdrahw0lwnvk3dayf4qrmcpjlysregnd57lx9s8mv9csgd5x0d3mq5medh5akm3tghr04sfq962qfu9paa": [
+         {
+            "quantity": "1200000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "2000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qyp92eph6e60fc7d8qw6xq9d6rqsmc3d0qut0myh49eaxz4u7rguanzqzn6kl55735q7yyuv2uqhzthkglh9ll6rynrqjwrar0": [
+         {
+            "quantity": "550000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "1000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qx0kd0z3m7w3kmapmhqa7xdntwelux5k5u7y6hm0t0exagc8sk0xyy80lla2l72jtmx8x76aks6zqyj2838h6p6z2wgslrs3kj": [
+         {
+            "quantity": "950000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "11200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qyeuykp3p4mparuhv6xtuzptu7yt42hvfdej00ftgdn3gsrpg4cvwr9dw72llsj438ngczh89eesjhmluztc97zmshesxl6z2n": [
+         {
+            "quantity": "1150000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "2000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qy7zvfjxwc7lrl9dttkq8tafetufqsuxen77nrnrdcam9pgwecuy2560cqdhwn4ghz7rpurvks63yzzlhm4rr5te33ms9p4mch": [
+         {
+            "quantity": "400000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "800000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q8hlcptt4prukwcr57kkdtxv80dh6097s5qm6q3kcrse36cfkqmwrf2r2vzrvcx9q8ev9dm6plfzavc3v6cwnulaxwzsf39ntm": [
+         {
+            "quantity": "1150000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "1800000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qxge90avmzv0ntzq8z7g2xgcgevs8pkk47lq7jplatrtgffww9xrm79cyy40st2djy4eljtchem5l37y03kn5lxxgd6q4mg27n": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q8j586jcmjjdfrd9sscdhnw3peyzwy0a74d5fnng4c8r6hyrdcnj6lwu3zw854y76snq07kauuw4uj3s3hz2v6k4t5gqjnaxjp": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qxshc5jwkjah7wtplwtrx0fnxtd96jt3spz5n3nz40mce9gghz47zpalc8dp7yzz6aqzjdzm6jyxpvfw0hgf70sqjhrsfup7a9": [
+         {
+            "quantity": "950000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "1600000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q9ankw4ln20pz9et8rvhrlh40dgxc7wdxmdnmwae58dsur9jqa9du9q46dfwc7w4u6t04hfa04zuxdes2tjunsn0nh4q0cnk5v": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q8e89ff23gxk45nkqzhq20d9we805me27wqekafn5qu3286znc7mn7daxgxmqv6dgqevut9ktmx6phm69k9gqg9p4h4q9klqvn": [
+         {
+            "quantity": "800000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "5700000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qywt8qt6d9ytu8u6vzk58rh3sjny4uqf4ega8zhcnj63k7hy07u389c8m045lqa8lhghgj3smugmq84hyg0asqsx8cmqadxfhy": [
+         {
+            "quantity": "200000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "400000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q8xkdcx6g0eqah28uqd2a7ltxn9h9vwhn0hfuvqdwvcf97cnxskhgggmqupr3ehczl6we7zfc3ctyx9tcuhpl7ls07ws8n4qu4": [
+         {
+            "quantity": "200000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "400000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qytjn6qlg7d7q6492gjradu2t4vzqs0ls8un7uj6rkzatx7ra944kya0vnc6v5pyxwhnhuh2swsezhwn3klfxnaghexqq5xpal": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qxvke8f5tj80pdj3qqmwr6nag6lnccr9x6rzy2w8y7anjfayymf695mahm68yy7lgkp8k00wfrmx7hg3tcdskxs5mf2qmg3a4k": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qx2rhevr07na8v2ejq0xjaxs2m8nnw5ddv9kz3yrwr650fmy3377y7pmdf7sf2d3ral3ke54uwk6lz49dker65s009tqul20uj": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qy5xk4lm2r4x3rh60w0r43m7mckv28neeha6k2u5w9894kne69ykzwnem33zdglnk3rm6n2pl4xw6y0ackyke0vx0n7qp8q4jl": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q9sy0pddsptd3pqerqk3dzynvxyyu9zuuvn3922qq6sdqrd4y2ut7wwmw05uwm793lzgcgyanzkgqgzjrkm44v0pc3hsr5nvwm": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qx4286gy8vceph39devp03jkvvdj23yqevvq4ekhmed0nlf8cta873u5mvvtcmpyycrl6pa397rq4a0hlg3ujy30sfyqr83kme": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qxp6k558npqxkvhf68jm5yvmcpwasn0su8yqnr2rdf73geawwkvrk7cjf59seauv9l3q5ev9qyphj9a8akmhmkq3exmq9qgazv": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qyuulcs20tdesnsua4fz94gzyzgwe0lg5ngaw6vtt5s5e2ts50r68kw5tggg6fpk5lda4kdauxjqa0cceyqx7vtuptwscvdu29": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qxhqmv7uagalrrauwr3r5xyg79dyee9ce7ux9z5ckd3zekfd87wvuhdytvyxq78tffv9x820x8v8c0fgxq4ghmz3nz6quw6w3e": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qx7p9jx3t830f8txtvw928uc96dn34q47hfeg8glwmvsx58xe4yvvr3v0wzyy4wykauvn9ft0uzdpjxj9uxavef2c98q7g6qxt": [
+         {
+            "quantity": "250000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "10000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q9hm5hhe65ymtuf7g40py95qk0a9mqjgvu7ypxlcqs4zpsucq5hkkazrfqwnxdkj3wgs0h6388hhlm8reec5fpyx7a2s7lnpzs": [
+         {
+            "quantity": "250000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "10000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q8t554sy4yj9tr8gj6x44fw0hv22u0vwmajhx809vd54j7fgjmkmnrm72k5u3ztekdthdeca3956xrss8jgrxmdt9f2sllj74u": [
+         {
+            "quantity": "250000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "10000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q9qgcexqzwclsuj6tae95la82863g29l6kj94jaaj2wqrqp4d47mw2j382vnz4ef2skszavdah5vlmmmaxd76cj6335qd3jfmz": [
+         {
+            "quantity": "200000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ]
+   },
+  "metadata": {
+      "674": {
+          "mdVersion": ["1.4"],
+          "msg": [
+              "Swarm Bulk Transaction",
+              "Recipients: 36",
+              "0 USD in 19750 GMBL",
+              "633.16 USD in 1439 AGIX",
+              "Transaction made by Treasury Guild ;-)",
+              "https://www.treasuryguild.io/"
+           ],
+          "contributions": [
+           {
+              "taskCreator": "singularitynet",
+              "name": ["singularitynet contribution handling fee"],
+              "label": ["Operations"],
+              "contributors": {
+                  "3ynval": {
+                      "gimbal": 197.5, 
+                      "AGIX": 14.39
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Join Ambassador Town Hall #26 - Earn 100 GMBL"],
+              "label": ["Community Communication"],
+              "contributors": {
+                  "nggwcw": {
+                      "gimbal": 100
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Join Ambassador Town Hall #30 - Earn 100 GMBL"],
+              "label": ["Community Communication"],
+              "contributors": {
+                  "nggwcw": {
+                      "gimbal": 100
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["DFTH Team Call - Check in for DFTH 3"],
+              "label": ["Operations"],
+              "contributors": {
+                  "nuz9xe": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "u7ywg4": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "pfwaf6": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "t65ffu": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Setup DFTH Breakout room Sign up - process"],
+              "label": ["Operations"],
+              "contributors": {
+                  "pfwaf6": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "u7ywg4": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["DeepFunding Town Hall - Leadership Team Build"],
+              "label": ["Operations"],
+              "contributors": {
+                  "j3xc2c": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "pfwaf6": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "t65ffu": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "u7ywg4": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "fkdrxm": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "nuz9xe": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["AI marketplace write-up - 100 AGIX"],
+              "label": ["Content Creation"],
+              "contributors": {
+                  "tgd8fg": {
+                      "gimbal": 200, 
+                      "AGIX": 100
+                   },
+                  "rvata9": {
+                      "gimbal": 200, 
+                      "AGIX": 100
+                   },
+                  "fkdrxm": {
+                      "gimbal": 200, 
+                      "AGIX": 100
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Process Guild - February 28"],
+              "label": ["Community Communication"],
+              "contributors": {
+                  "rcgctj": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "pfwaf6": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fu9paa": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "t65ffu": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "jwrar0": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "lrs3kj": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "xl6z2n": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "9p4mch": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "f39ntm": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Treasury Guild Meeting February 23"],
+              "label": ["Community Communication"],
+              "contributors": {
+                  "4mg27n": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "jwrar0": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "xl6z2n": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "jnaxjp": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "u7ywg4": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "rcgctj": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fu9paa": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Process Guild - February 21"],
+              "label": ["Community Communication"],
+              "contributors": {
+                  "rcgctj": {
+                      "gimbal": 150, 
+                      "AGIX": 2
+                   },
+                  "pfwaf6": {
+                      "gimbal": 150, 
+                      "AGIX": 2
+                   },
+                  "f39ntm": {
+                      "gimbal": 150, 
+                      "AGIX": 2
+                   },
+                  "jwrar0": {
+                      "gimbal": 150, 
+                      "AGIX": 2
+                   },
+                  "xl6z2n": {
+                      "gimbal": 150, 
+                      "AGIX": 2
+                   },
+                  "u7ywg4": {
+                      "gimbal": 150, 
+                      "AGIX": 2
+                   },
+                  "fup7a9": {
+                      "gimbal": 150, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Participate in loyalty voting session feb 16th 15 UTC - 100","Gimbal"],
+              "label": ["Governance,Community Communication"],
+              "contributors": {
+                  "fu9paa": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "rcgctj": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "u7ywg4": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "0cnk5v": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "f39ntm": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fkdrxm": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fup7a9": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "xl6z2n": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "rvata9": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "tgd8fg": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "t65ffu": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Join Ambassador Town Hall #37 - Earn 100 GMBL & 2 AGIX"],
+              "label": ["Community Communication"],
+              "contributors": {
+                  "fup7a9": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "xl6z2n": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "lrs3kj": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "nggwcw": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "jwrar0": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fkdrxm": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "t65ffu": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fu9paa": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "9klqvn": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "9p4mch": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "rvata9": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "pfwaf6": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "adxfhy": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Join Ambassador Town Hall #36 - Earn 100 GMBL & 2 AGIX"],
+              "label": ["Community Communication"],
+              "contributors": {
+                  "u7ywg4": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "9klqvn": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "8n4qu4": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "f39ntm": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fu9paa": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "pfwaf6": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "9p4mch": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "xl6z2n": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "nuz9xe": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "rcgctj": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "jwrar0": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fkdrxm": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "lrs3kj": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "rvata9": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fup7a9": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "q5xpal": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["DFTH #3 Participation Rewards - 100 Gimbal & 2 AGIX"],
+              "label": ["Community Communication"],
+              "contributors": {
+                  "8n4qu4": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "mg3a4k": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "ul20uj": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "u7ywg4": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "xl6z2n": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "rcgctj": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "p8q4jl": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "r5nvwm": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fu9paa": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "pfwaf6": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "r83kme": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "f39ntm": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fup7a9": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "9qgazv": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "cvdu29": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "uw6w3e": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "lrs3kj": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Catalyst veteran Proposal Assessors needed -100 Ada, 100","AGIX & 250 Gimbal"],
+              "label": ["Content Creation"],
+              "contributors": {
+                  "t65ffu": {
+                      "gimbal": 250, 
+                      "AGIX": 100
+                   },
+                  "7g6qxt": {
+                      "gimbal": 250, 
+                      "AGIX": 100
+                   },
+                  "u7ywg4": {
+                      "gimbal": 250, 
+                      "AGIX": 100
+                   },
+                  "lrs3kj": {
+                      "gimbal": 250, 
+                      "AGIX": 100
+                   },
+                  "7lnpzs": {
+                      "gimbal": 250, 
+                      "AGIX": 100
+                   },
+                  "llj74u": {
+                      "gimbal": 250, 
+                      "AGIX": 100
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Marketing Guild Call - March 6th"],
+              "label": ["Operations,Community Communication"],
+              "contributors": {
+                  "t65ffu": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fu9paa": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "adxfhy": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "xl6z2n": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "lrs3kj": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "rvata9": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fup7a9": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "nggwcw": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "f39ntm": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "9klqvn": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Marketing Guild Meeting - 3.2.23"],
+              "label": ["Operations,Community Communication"],
+              "contributors": {
+                  "d3jfmz": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "f39ntm": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "9klqvn": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "t65ffu": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "fu9paa": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "pfwaf6": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "xl6z2n": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "nuz9xe": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "lrs3kj": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "tgd8fg": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Marketing Workshop Notes - 27.2.23"],
+              "label": ["Operations,Community Communication"],
+              "contributors": {
+                  "pfwaf6": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Marketing Workshop - 27.2.23"],
+              "label": ["Operations,Community Communication"],
+              "contributors": {
+                  "fkdrxm": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "f39ntm": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "fu9paa": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "pfwaf6": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "rvata9": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "fup7a9": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["missing rewards 020323 20 agix"],
+              "label": ["Documentation"],
+              "contributors": {
+                  "j3xc2c": {
+                      "gimbal": 100, 
+                      "AGIX": 20
+                   },
+                  "pfwaf6": {
+                      "gimbal": 100, 
+                      "AGIX": 20
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Translate into Spanish - Loyalty rewards community governance","Blogpost - 20 usd"],
+              "label": ["Content Creation"],
+              "contributors": {
+                  "9klqvn": {
+                      "gimbal": 200, 
+                      "AGIX": 47
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Translate into Russian - Loyalty rewards community governance","Blogpost - 20 usd"],
+              "label": ["Content Creation"],
+              "contributors": {
+                  "fkdrxm": {
+                      "gimbal": 200, 
+                      "AGIX": 47
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Translate into Chinese - Loyalty rewards community governance","Blogpost - 20 usd"],
+              "label": ["Content Creation"],
+              "contributors": {
+                  "nuz9xe": {
+                      "gimbal": 200, 
+                      "AGIX": 47
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Translate into French - Loyalty rewards community governance","Blogpost - 20 usd"],
+              "label": ["Content Creation"],
+              "contributors": {
+                  "t65ffu": {
+                      "gimbal": 200, 
+                      "AGIX": 47
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Translate into Portuguese - Loyalty rewards community","governance Blogpost - 20 usd"],
+              "label": ["Content Creation"],
+              "contributors": {
+                  "nggwcw": {
+                      "gimbal": 200, 
+                      "AGIX": 47
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["[added to forum] Translate into Chinese - AI-DSL","2022 Blogpost"],
+              "label": ["Content Creation"],
+              "contributors": {
+                  "rvata9": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["[added to forum] Translate into Russian - AI-DSL","2022 Blogpost"],
+              "label": ["Content Creation"],
+              "contributors": {
+                  "nggwcw": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["[added to forum] Translate into French - Progress to","AGI in 2022 Blogpost"],
+              "label": ["Content Creation"],
+              "contributors": {
+                  "fkdrxm": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "singularitynet",
+              "name": ["Treasury Guild Meeting - March 2"],
+              "label": ["Operations,Community Communication"],
+              "contributors": {
+                  "u7ywg4": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "f39ntm": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "t65ffu": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "xl6z2n": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fup7a9": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "9klqvn": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "9p4mch": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "fu9paa": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "pfwaf6": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "rcgctj": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   }
+               }
+            }]
+        }
+   }
+}
+
