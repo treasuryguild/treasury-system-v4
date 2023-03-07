@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "002836d01e8b870a736709938d5aff0190cb463197aead136c3b69a146a17039",
+  "msg": [
+    "Governance-Guild Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "123.18 USD in 369.908556 ADA",
+    "Transaction made by Treasury Guild @0.333",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Governance-Guild",
+      "label": "Rewards-Withdrawal",
+      "description": [
+        "Withrawal rewards"
+      ],
+      "contributors": {
+        "t49ftp": {
+          "ADA": "369.908556"
+        }
+      }
+    }
+  ]
+}
