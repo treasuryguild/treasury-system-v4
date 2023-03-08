@@ -7,20 +7,20 @@
     "Edify Transaction",
     "Ideascale: ",
     "Recipients: 1",
-    "32.27 USD in 79.69 ADA",
+    "32.27 USD in 79.86 ADA",
     "Transaction made by Treasury Guild @0.405",
     "https://www.treasuryguild.io/"
   ],
   "contributions": [
     {
       "taskCreator": "Edify",
-      "label": "Incoming",
+      "label": "Rewards-Withdrawal",
       "description": [
-        "Withdrawal of funds from staking pool"
+        "Withdrawal of rewards"
       ],
       "contributors": {
-        "Withdrawal": {
-          "ADA": "79.690059"
+        "wvkdrt": {
+          "ADA": "79.861456"
         }
       }
     }

@@ -1,0 +1,143 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "95610e6aab162f0f545d27d9b27bf2ff3ab3ac8495c54543e0e2436f062b9126",
+  "msg": [
+    "Governance-Guild Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 7",
+    "303.57 USD in 914.38 ADA",
+    "0 USD in 1900.00 GMBL",
+    "Transaction made by Treasury Guild @0.332",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GG Call 18 - 100 USD"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "jhyhwp": {
+          "gimbal": 100,
+          "ada": 303
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly Call 18"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GG Call 17 - 100 USD"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100,
+          "ada": 303
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GG Call 16 - 100 USD"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100,
+          "ada": 303
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly Call 17"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly Call 16"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}

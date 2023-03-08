@@ -1,0 +1,357 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "a8c5a217a1d7989f4f647064e40e35cf8dffa3b6f699e17c05c0ce21835cd6fb",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 15",
+    "39.00 USD in 117.48 ADA",
+    "0 USD in 12300.00 GMBL",
+    "71.12 USD in 162.00 AGIX",
+    "Transaction made by Treasury Guild @0.332",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the [F10] Mini Proposal Workshop: Proposal",
+        "Type, Taxonomy and Stakeholders - Earn 25 Ada 25 Agix 100",
+        "Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "ya5t5l": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the [F10] Mini Proposal Workshop: Refining",
+        "solution components - Earn 25 Ada 25 Agix 100 Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "ya5t5l": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the [F10] Mini Proposal Workshop: Making",
+        "sense of solution components - Earn 25 Ada 25 Agix 100",
+        "Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "ya5t5l": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the GOMA MONTHLY - Earn 25 Ada 25 Agix 100 Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "d3jfmz": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool Development - Treasury Manager Updates 05.03"
+      ],
+      "label": [
+        "Documentation,Tool development"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 500,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild - February 21 -",
+        "200 Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team - March 6 - 100",
+        "Gimbal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team - February 27 -  100",
+        "Gimbal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 150,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool development - Treasury Dashboard"
+      ],
+      "label": [
+        "Tool development"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 7600,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #76 Organise the event & Sign up process"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "8n4qu4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #76 Host ATH Introduction"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 50,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH#76 Host Breakout Room"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "5jwnt2": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "58cnza": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "473ed4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "429vj2": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #76 Set up Bounties to timestamp videos"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "gimbal": 50,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #76 Upload recordings"
+      ],
+      "label": [
+        "Documentation"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Daolens - March 6th"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "xl6z2n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "s52l54": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with NewMindflow on SWARM Token & NFT (Inception)"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Dev Collaboration - Genesis"
+      ],
+      "label": [
+        "Tool development,Operations"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}
