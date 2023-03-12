@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "72c8485874633772ed947b9e2e860af097b6b8bcb9199fbdbc5ca144357f0419",
+  "msg": [
+    "Governance-Guild Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "0.44 USD in 1.448160 ADA",
+    "5.39 USD in 185.82 COPI",
+    "Transaction made by Treasury Guild @0.304",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Governance-Guild",
+      "label": "Incoming",
+      "description": [
+        "Incoming of 1.448160 ADA and 185.815096 COPI tokens"
+      ],
+      "contributors": {
+        "DripDropz": {
+          "ADA": "1.448160",
+          "COPI": "185.815096"
+        }
+      }
+    }
+  ]
+}
