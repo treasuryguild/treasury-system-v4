@@ -8,7 +8,7 @@
     "Ideascale: https://cardano.ideascale.com/c/idea/421708",
     "Recipients: 1",
     "0.00 USD in 2.000000 ADA",
-    "8600.00 USD in 8600.00 DJED",
+    "8600.00 USD in 8600.99 DJED",
     "Transaction made by Treasury Guild @0.365",
     "https://www.treasuryguild.io/"
   ],
@@ -17,12 +17,12 @@
       "taskCreator": "Swarm",
       "label": "Incoming",
       "description": [
-        "Incoming 2 Ada and 8600 Djed from MuesliSwap"
+        "Incoming 2 Ada and 8600.99 Djed from MuesliSwap"
       ],
       "contributors": {
         "MuesliSwap": {
           "ADA": "2",
-          "DJED": "8600"
+          "DJED": "8600.99"
         }
       }
     }
