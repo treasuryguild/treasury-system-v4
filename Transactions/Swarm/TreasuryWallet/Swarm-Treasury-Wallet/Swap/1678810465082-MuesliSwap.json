@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "b10e76d3d7cf949d3f34946fdd7b6d5c602fbfb78f2c50aa00d90fdc8689ee5d",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "9047.62 USD in 24720.260037 ADA",
+    "Transaction made by Treasury Guild @0.366",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Swap",
+      "description": [
+        "Swaping 24720.260037 ADA for 8600 Djed"
+      ],
+      "contributors": {
+        "MuesliSwap": {
+          "ADA": "24720.260037"
+        }
+      }
+    }
+  ]
+}
