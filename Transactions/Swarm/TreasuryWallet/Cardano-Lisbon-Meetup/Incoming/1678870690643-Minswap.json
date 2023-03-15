@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "8bf94e10e74179d65f3b899f94d117f44d72bc3d5f3d6b8ceded00aac0f7bdcf",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.80 USD in 2.314894 ADA",
+    "10.82 USD in 20.00 AGIX",
+    "Transaction made by Treasury Guild @0.344",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Incoming of 20 AGIX and 2.314894 ADA tokens"
+      ],
+      "contributors": {
+        "Minswap": {
+          "ADA": "2.314894",
+          "AGIX": "20"
+        }
+      }
+    }
+  ]
+}
