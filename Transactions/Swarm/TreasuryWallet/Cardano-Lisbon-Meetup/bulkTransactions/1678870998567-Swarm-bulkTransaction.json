@@ -1,0 +1,102 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "ccc5a2ba1cd4e279c52e0aa3f3dd7a50916c063dbe6ab2d3f2f9feb0ffabe495",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 2",
+    "1204.00 USD in 3500.00 ADA",
+    "0 USD in 1400.00 GMBL",
+    "10.80 USD in 20.00 AGIX",
+    "Transaction made by Treasury Guild @0.344",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Payments for Organising Lisbon Meetup February & March",
+        "- Felix"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "500",
+          "AGIX": "2"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Payments for Organising Lisbon Meetup February & March",
+        "- Judith"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "q5xpal": {
+          "ADA": "2000",
+          "AGIX": "2"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Research & determine Meetup #2 location"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "q5xpal": {
+          "ADA": "400",
+          "AGIX": "2"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Host Cardano Lisbon Meetup #2"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "300",
+          "AGIX": "5"
+        },
+        "q5xpal": {
+          "ADA": "300",
+          "AGIX": "5"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "General Cardano Lisbon Meetup"
+      ],
+      "label": "Community Communication",
+      "contributors": {
+        "q5xpal": {
+          "GMBL": "1200",
+          "AGIX": "2"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Collect receiving addr1 for Meetup attendees #2"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "q5xpal": {
+          "GMBL": "200",
+          "AGIX": "2"
+        }
+      }
+    }
+  ]
+}
