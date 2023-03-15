@@ -1,0 +1,94 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "065384c0cf1e45c3e5d309e5f1aaa589b63cee8e3d70be7734e2699402aca897",
+  "msg": [
+    "Governance-Guild Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 5",
+    "516.00 USD in 1500.00 ADA",
+    "0 USD in 3017.00 GMBL",
+    "Transaction made by Treasury Guild @0.344",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Governance Guild",
+      "description": [
+        "Miro activity list - February 2023"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "ADA": "300",
+          "GMBL": "50"
+        }
+      }
+    },
+    {
+      "taskCreator": "Governance Guild",
+      "description": [
+        "Miro activity list - December 2022"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "4mg27n": {
+          "GMBL": "150"
+        }
+      }
+    },
+    {
+      "taskCreator": "Governance Guild",
+      "description": [
+        "Nori Activity List February 2023"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jhyhwp": {
+          "ADA": "300",
+          "GMBL": "50"
+        }
+      }
+    },
+    {
+      "taskCreator": "Governance Guild",
+      "description": [
+        "Tevo Activity List - February 2023"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "300",
+          "GMBL": "367"
+        }
+      }
+    },
+    {
+      "taskCreator": "Governance Guild",
+      "description": [
+        "Andre activity list - February 2023"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "300",
+          "GMBL": "1300"
+        }
+      }
+    },
+    {
+      "taskCreator": "Governance Guild",
+      "description": [
+        "Vanessa activity list - February 2023"
+      ],
+      "label": "Operations",
+      "contributors": {
+        "7lnpzs": {
+          "ADA": "300",
+          "GMBL": "1100"
+        }
+      }
+    }
+  ]
+}
