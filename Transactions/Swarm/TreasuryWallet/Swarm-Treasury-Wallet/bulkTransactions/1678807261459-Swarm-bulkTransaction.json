@@ -1,0 +1,224 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "43c76853a6e2fba8576ad22cbe1c859b01810c4b5ffb0bd417f2a71d15525b0f",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 7",
+    "12190.42 USD in 33126.15 ADA",
+    "0 USD in 6000.00 GMBL",
+    "Transaction made by Treasury Guild @0.368",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools - Zoom - February"
+      ],
+      "label": "Fixed Costs",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "869.6894065"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Miro - February"
+      ],
+      "label": "Fixed Costs",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "160.8430394"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Adobe Illustrator - February"
+      ],
+      "label": "Fixed Costs",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "72.93399889"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Adobe  InDesign - February"
+      ],
+      "label": "Fixed Costs",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "72.93399889"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Swarm Gitbook - February"
+      ],
+      "label": "Fixed Costs",
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "390.6544648"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Microsoft Excel - February"
+      ],
+      "label": "Fixed Costs",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "85.96783139"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools - Zoom - March"
+      ],
+      "label": "Fixed Costs",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "869.6894065"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Miro  - March"
+      ],
+      "label": "Fixed Costs",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "183.0282862"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Adobe Illustrator - March"
+      ],
+      "label": "Fixed Costs",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "72.93399889"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Adobe  InDesign - March"
+      ],
+      "label": "Fixed Costs",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "72.93399889"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Swarm Gitbook - March"
+      ],
+      "label": "Fixed Costs",
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "377.1491958"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Microsoft Excel - March"
+      ],
+      "label": "Fixed Costs",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "85.96783139"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Treasury and Accounting"
+      ],
+      "label": "Swarm Contributor",
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "5546.311703",
+          "GMBL": "1000"
+        },
+        "4mg27n": {
+          "ADA": "5546.311703",
+          "GMBL": "1000"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Swarm and SingularityNet"
+      ],
+      "label": "Swarm Contributor",
+      "contributors": {
+        "rcgctj": {
+          "ADA": "5546.311703",
+          "GMBL": "1000"
+        },
+        "u7ywg4": {
+          "ADA": "5546.311703",
+          "GMBL": "1000"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Swarm Support Fund"
+      ],
+      "label": "Swarm Contributor",
+      "contributors": {
+        "6lcdjr": {
+          "ADA": "2079.866889",
+          "GMBL": "1000"
+        },
+        "tgd8fg": {
+          "ADA": "1386.577926",
+          "GMBL": "1000"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Meshjs"
+      ],
+      "label": "Meshjs",
+      "contributors": {
+        "mt3al0": {
+          "ADA": "4159.733777"
+        }
+      }
+    }
+  ]
+}
