@@ -363,12 +363,23 @@ async function testCsv(selectedSheet) {
 }
 
 async function walletList(blep) {
-  const {data} = await axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/data/wallets.json`);  
+  const {data} = await axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/data/wallets.json`); 
+  const data2 = await axios.get(`https://raw.githubusercontent.com/${orgEl}/${repoEl}/main/data/dework-wallets.txt`); 
   let walletAddress = "No wallet address in database";
   for(var i in data){
     if (i === blep) {
       walletAddress = data[i];
       console.log("success",walletAddress);
+    } 
+  }
+  const lines = data2.data.split("\n");
+  for(var i in lines){
+    const line = lines[i].trim();
+    const last6 = line.substr(-6);
+    if (last6 === blep) {
+      walletAddress = line;
+      console.log("success", walletAddress);
+      break;
     } 
   }
   return walletAddress;
