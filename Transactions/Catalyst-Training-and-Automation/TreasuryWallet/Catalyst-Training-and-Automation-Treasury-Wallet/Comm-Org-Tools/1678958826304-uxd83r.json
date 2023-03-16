@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "4563a3f8b1546a9aa746560a3dd0930de8ed9ace1fee8352b2d193fcdbb52da4",
+  "msg": [
+    "Catalyst-Training-and-Automation Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "40.06 USD in 123.250000 ADA",
+    "Transaction made by Treasury Guild @0.325",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Training-and-Automation",
+      "label": "Comm-Org-Tools",
+      "description": [
+        "Monthly gitbook subscription"
+      ],
+      "contributors": {
+        "uxd83r": {
+          "ADA": "123.25"
+        }
+      }
+    }
+  ]
+}
