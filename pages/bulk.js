@@ -558,10 +558,10 @@ async function listQ(){
         required
     ></textarea>
             `);
-    //li7.innerHTML = (`<button type='button' onclick='copyMetaForJson()' id='createMeta' class ='metaButton'>Copy Metadata</button>`);
+    li7.innerHTML = (`<button type='button' onclick='deworkJsonToCsv()' id='createMeta' class ='metaButton'>Create CSV</button>`);
     console.log("bulkType",bulkType);
     ul5.appendChild(li5);
-    //ul7.appendChild(li7);
+    ul7.appendChild(li7);
   } else if (bulkType === "Manual Bulk") {
     await selectSheet();
     document.getElementById("sheetList").onchange = loadSheet;
@@ -714,6 +714,43 @@ async function seprateTasks() {
   }
   console.log("reps",reps)
   return contributions;
+}
+
+function deworkJsonToCsv() {
+  const deworkData = JSON.parse(getValue('dework'));
+  const json = deworkData.metadata[674];
+  let deworkGroup = "";
+  let csv = "taskCreator,contributionID,contribution,description,payeeID,ADA,GMBL,AGIX,DJED,COPI,NTX\n";
+  let contributionID = 1;
+  
+  json.contributions.forEach((contribution) => {
+    let contributionLabels = contribution.label;
+    contributionLabel = (contributionLabels.toString().replace(/,/g, ''));
+    let contributionDescriptions = contribution.description || contribution.name;
+    contributionDescription = (contributionDescriptions.toString().replace(/,/g, ''));
+    
+    Object.keys(contribution.contributors).forEach((payeeID) => {
+      const payeeData = contribution.contributors[payeeID];
+      const ADA = payeeData.ADA || payeeData.ada || "";
+      const GMBL = payeeData.GMBL || payeeData.gimbal || "";
+      const AGIX = payeeData.AGIX || "";
+      const DJED = payeeData.DJED || "";
+      const COPI = payeeData.COPI || "";
+      const NTX = payeeData.NTX || "";
+      deworkGroup = contribution.taskCreator;
+      csv += `${contribution.taskCreator},${contributionID},${contributionLabel},"${contributionDescription}",${payeeID},${ADA},${GMBL},${AGIX},${DJED},${COPI},${NTX}\n`;
+    });
+    
+    contributionID++;
+  });
+  
+  var mData = csv
+  navigator.clipboard.writeText(mData);
+  console.log("csv",csv)
+  //const encodedText = encodeURIComponent(csv)
+  const filename = new Date().getTime().toString() + '-' + deworkGroup.replace(/\s/g, '-') + '-'+ "payment-sheet" + ".csv"
+  window.open(`https://github.com/${orgEl}/${repoEl}/new/main/bulk-payments/` + "new?filename=" + filename);
+  return csv;
 }
 
 async function createMetadata () {
