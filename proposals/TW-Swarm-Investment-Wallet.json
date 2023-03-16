@@ -1,0 +1,9 @@
+{
+    "project": "Swarm",
+    "proposal": "Swarm Investment Wallet",
+    "fund": "TreasuryWallet",
+    "budget": "100000",
+    "budgetItems": {"Incoming":"100000","Other":"10","bulkTransactions":"50000","Swap":"10000","Rewards-Withdrawal":"5000","Fixed-Costs":"5000","Operations":"10000"},
+    "ideascale": "",
+    "wallet": "addr1q9l8rc7k8gwpcf6lcxzznr3uh8jag7jqx853quzsc6fpv8hnh7yj72nd5c58nk565sv6y5k57rl22y3s4encax3qasqsz0dhq8"
+}
