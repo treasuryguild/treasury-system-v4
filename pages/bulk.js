@@ -476,7 +476,7 @@ async function loadSheet() {
               fieldIdArr.push(fieldId);
               td[k] = document.createElement('td');
               //copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson2[newValue][val]}`
-              valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
+              valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>${i}copy</button>`
               copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX"?`${valBut}`:""}`; 
               adaVal = (csvJson[newValue][val]?csvJson[newValue][val]:0);
 
@@ -499,7 +499,7 @@ async function loadSheet() {
             fieldIdArr.push(fieldId);
             td[k] = document.createElement('td');
             //copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson[i][val]}`
-            valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>copy</button>`
+            valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>${i}copy</button>`
             copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX"?`${valBut}`:""}`;       
             adaVal = csvJson[i][val]
             td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? "1.344798" : adaVal}'>${copyButton}`)
