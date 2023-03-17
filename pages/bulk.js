@@ -412,6 +412,8 @@ async function selectSheet() {
 
 async function loadSheet() {
   fieldId = 0;
+  let tokenCount = 0;
+  let tokenCountAmount = 0;
   fieldIdArr = [];
   selectedSheet = this.value;
   let ul5 = document.getElementById('userRepos');
@@ -455,6 +457,8 @@ async function loadSheet() {
     console.log("existingItems",existingItems); 
     /////////
     for (let i in csvJson) {
+      tokenCount = 0;
+      tokenCountAmount = 0;
       const duplicateElements = toFindDuplicates(payeeList2);
       lastIndex = existingItems[csvJson[i].payeeID]
       console.log("dupItems",duplicateElements);
@@ -466,7 +470,7 @@ async function loadSheet() {
           let val = "";
           val = n[k];
           csvJson[i][val] = (csvJson[i][val]?csvJson[i][val]:0)
-          console.log("agg",fieldId);
+          console.log("agg",fieldId, csvJson[i][val]);
           
           if (payeeList.includes(csvJson[i].payeeID)) {
             newValue = payeeList.indexOf(csvJson[i].payeeID);
@@ -482,6 +486,8 @@ async function loadSheet() {
             
             if ((i) == (lastIndex)) {   //Writes to last index of duplicate items
               let adaVal = 0;
+              let tokVal = 0;
+              let tokVal2 = 0;
               let xy = 0;
               fieldId = fieldId + 1;
               fieldIdArr.push(fieldId);
@@ -490,11 +496,21 @@ async function loadSheet() {
               valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>${i}copy</button>`
               copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX"?`${valBut}`:""}`; 
               adaVal = (csvJson[newValue][val]?csvJson[newValue][val]:0);
+              tokVal = (csvJson2[newValue][val]?csvJson2[newValue][val]:0);
+              tokVal2 = (csvJson[i][val]?csvJson[i][val]:0);
 
-              if (n[k] == "ADA") {
+              if ((n[k] != "ADA") && (parseInt(tokVal) > 0)) {
+                tokenCount++
+                tokenCountAmount = 0;
+              }
+              if ((n[k] != "ADA") && (parseInt(tokVal2) > 0)) {
+                tokenCount++
+                tokenCountAmount = tokenCountAmount + 0.206892;
+              }
+              if (n[k] == "ADA") {     
                 xy = sumStr(adaVal)
                 if (xy < 1.344798) { //1.344798
-                  adaVal = ("1.344798");
+                  adaVal = (1.344798 + tokenCountAmount).toFixed(6);
                 }
               }
               
@@ -506,6 +522,8 @@ async function loadSheet() {
           } else {  // Writes non duplicate items
             if (!duplicateElements.includes(csvJson[i].payeeID)) {    //////////////////If ada is zero in one of these values above and below make it 1.35
             let adaVal = 0;
+            let tokVal = 0;
+            let tokVal2 = 0;
             fieldId = fieldId + 1;
             fieldIdArr.push(fieldId);
             td[k] = document.createElement('td');
@@ -513,6 +531,16 @@ async function loadSheet() {
             valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>${i}copy</button>`
             copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX"?`${valBut}`:""}`;       
             adaVal = csvJson[i][val]
+            tokVal2 = (csvJson[i][val]?csvJson[i][val]:0);
+
+            if ((n[k] != "ADA" && n[k] != "description" && n[k] != "payeeID") && (parseInt(tokVal2) > 0)) {
+              tokenCount++
+              tokenCountAmount = tokenCountAmount + 0.206892;
+            }
+            if (n[k] == "ADA" && csvJson[i][val] < 1.344798) {     
+                adaVal = (1.344798 + tokenCountAmount).toFixed(6);
+            }
+
             td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? "1.344798" : adaVal}'>${copyButton}`)
             row.appendChild(td[k]);
             }
