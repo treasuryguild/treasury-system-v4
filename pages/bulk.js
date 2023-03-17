@@ -667,7 +667,7 @@ async function seprateTasks() {
     for (let m in reps.contributors[k].contributionID) {
       for (let l in cId) {
         if (reps.contributors[k].contributionID[m] == cId[l]) {
-          contributions[cId[l]] = {"taskCreator":"","description":[],"label":"","contributors":{}}  
+          contributions[cId[l]] = {"taskCreator":"","description":[],"label":[],"contributors":{}}  
         }
       }
     }
@@ -709,7 +709,14 @@ async function seprateTasks() {
           //amountTotal = JSON.parse(amountTotal);
           //contTokens = {"ADA":100,"GMBL":200,"AGIX":100};
           contributions[cId[l]].contributors[reps.contributors[k].payeeID[0]] = contTokens;
-          contributions[cId[l]].label = reps.contributors[k].contribution[m]
+          contributions[cId[l]].label = reps.contributors[k].contribution[m].split(",")
+          if (contributions[cId[l]].label[0].includes("-")) {
+            contributions[cId[l]].label = [];
+            contributions[cId[l]].label = (reps.contributors[k].contribution[m].replace(/-/g, ',')).split(",")
+            for (let y in contributions[cId[l]].label) {
+              contributions[cId[l]].label[y] = contributions[cId[l]].label[y].trim();
+            }
+          }
           contributions[cId[l]].taskCreator = reps.contributors[k].taskCreator[m]
           let desript = (reps.contributors[k].description[m]).replace(/.{50}\S*\s+/g, "$&@").split(/\s+@/);
           contributions[cId[l]].description = desript
@@ -736,9 +743,9 @@ function deworkJsonToCsv() {
   
   json.contributions.forEach((contribution) => {
     let contributionLabels = contribution.label;
-    contributionLabel = (contributionLabels.toString().replace(/,/g, ''));
+    let contributionLabel = (contributionLabels.toString().replace(/,/g, ' - '));
     let contributionDescriptions = contribution.description || contribution.name;
-    contributionDescription = (contributionDescriptions.toString().replace(/,/g, ''));
+    let contributionDescription = (contributionDescriptions.toString().replace(/,/g, ''));
     
     Object.keys(contribution.contributors).forEach((payeeID) => {
       const payeeData = contribution.contributors[payeeID];
@@ -765,7 +772,7 @@ function deworkJsonToCsv() {
 }
 
 async function createMetadata () {
-  let mdV = "1.3"
+  let mdV = "1.4"
   const xrate = (getValue('xrate')).replace(/\s/g, '').replace(/,/g, '.');
   let contributions = await seprateTasks();
 
