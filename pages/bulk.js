@@ -342,7 +342,7 @@ async function bulkPayments() {
 
   const lines = text.split('\n');
   const heads = headers ?? match(lines.shift());
-  csvHeads = heads
+  csvHeads = heads.slice().reverse();
   return lines.map(line => {
     return match(line).reduce((acc, cur, i) => {
       // Attempt to parse as a number; replace blank matches with `0`
@@ -414,6 +414,7 @@ async function loadSheet() {
   fieldId = 0;
   let tokenCount = 0;
   let tokenCountAmount = 0;
+  let tokenCountAmount2 = 0;
   fieldIdArr = [];
   selectedSheet = this.value;
   let ul5 = document.getElementById('userRepos');
@@ -454,11 +455,12 @@ async function loadSheet() {
     existingItems[value] = index;
     });
 
-    console.log("existingItems",existingItems); 
+    console.log("existingItems",existingItems, csvJson, csvHeads); 
     /////////
     for (let i in csvJson) {
       tokenCount = 0;
       tokenCountAmount = 0;
+      tokenCountAmount2 = 0;
       const duplicateElements = toFindDuplicates(payeeList2);
       lastIndex = existingItems[csvJson[i].payeeID]
       console.log("dupItems",duplicateElements);
@@ -480,7 +482,7 @@ async function loadSheet() {
               csvJson2[newValue][val] = csvJson[i][val]
             } else {
               csvJson[newValue][val] = `${csvJson[newValue][val]},${csvJson[i][val]}` //First value gets added with csvJson[newValue][val], because newValue points to firts index before modifying it.
-              csvJson2[newValue][val] = (n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX"?((csvJson2[newValue][val]?csvJson2[newValue][val]:0) + csvJson[i][val]):0);
+              csvJson2[newValue][val] = (n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX"?(parseFloat(csvJson2[newValue][val]?csvJson2[newValue][val]:0) + parseFloat(csvJson[i][val])).toFixed(6):0);
             }
              
             
@@ -498,14 +500,13 @@ async function loadSheet() {
               adaVal = (csvJson[newValue][val]?csvJson[newValue][val]:0);
               tokVal = (csvJson2[newValue][val]?csvJson2[newValue][val]:0);
               tokVal2 = (csvJson[i][val]?csvJson[i][val]:0);
-
-              if ((n[k] != "ADA") && (parseInt(tokVal) > 0)) {
+              
+              if ((n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX") && (sumStr(adaVal) > 0)) {
                 tokenCount++
-                tokenCountAmount = 0;
-              }
-              if ((n[k] != "ADA") && (parseInt(tokVal2) > 0)) {
-                tokenCount++
-                tokenCountAmount = tokenCountAmount + 0.206892;
+                if (tokenCount > 1) {
+                  tokenCountAmount = tokenCountAmount + 0.206892;
+                }
+                console.log("Counted token", sumStr(adaVal), tokenCount, tokenCountAmount)
               }
               if (n[k] == "ADA") {     
                 xy = sumStr(adaVal)
@@ -513,8 +514,8 @@ async function loadSheet() {
                   adaVal = (1.344798 + tokenCountAmount).toFixed(6);
                 }
               }
-              
-              console.log("adaVal",xy)
+              //tokVal2 = (1.344798 + tokenCountAmount).toFixed(6);
+              console.log("Duplicates",sumStr(adaVal))
               td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${adaVal}'>${copyButton}`)
               row.appendChild(td[k]);
             }
@@ -531,17 +532,24 @@ async function loadSheet() {
             valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>${i}copy</button>`
             copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX"?`${valBut}`:""}`;       
             adaVal = csvJson[i][val]
-            tokVal2 = (csvJson[i][val]?csvJson[i][val]:0);
-
-            if ((n[k] != "ADA" && n[k] != "description" && n[k] != "payeeID") && (parseInt(tokVal2) > 0)) {
+            
+            
+            console.log("none duplicates", adaVal)
+            if ((n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX") && (parseInt(adaVal) > 0)) {
               tokenCount++
-              tokenCountAmount = tokenCountAmount + 0.206892;
+              if (tokenCount > 1) {
+                tokenCountAmount2 = tokenCountAmount2 + 0.206892;
+              }
+              console.log("Counted token", adaVal, tokenCount, tokenCountAmount2)
             }
-            if (n[k] == "ADA" && csvJson[i][val] < 1.344798) {     
-                adaVal = (1.344798 + tokenCountAmount).toFixed(6);
+            if (n[k] == "ADA") {     
+              if (adaVal < 1.344798) { //1.344798
+                adaVal = (1.344798 + tokenCountAmount2).toFixed(6);
+              }
             }
-
-            td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${n[k] == "ADA" && adaVal === 0 ? "1.344798" : adaVal}'>${copyButton}`)
+            
+            //tokVal2 = (1.344798 + tokenCountAmount2).toFixed(6);
+            td[k].innerHTML= (`<input type='input' class='${n[k]}' id='${fieldId}' value='${adaVal}'>${copyButton}`)
             row.appendChild(td[k]);
             }
           }
@@ -628,6 +636,22 @@ async function copyValue(val) {
    /* Copy the text inside the text field */
   navigator.clipboard.writeText(backupData);
    console.log(backupData , blep2);
+};
+
+async function getValue2(val) {
+  /* Save value of myText to input variable */
+  let blep = document.getElementById(val).value
+  let blep2 = document.getElementById(val).className
+  
+  if (blep.indexOf(',') > -1) {
+   blep = sumStr(blep)
+  }
+  
+  var backupData = blep;
+  
+  /* Copy the text inside the text field */
+  console.log(backupData , blep);
+  return backupData;
 };
 // Create metadata
 
