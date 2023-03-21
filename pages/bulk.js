@@ -857,19 +857,19 @@ if (bulkType === "Dework Bulk") {
       if (mData.contributions[m].name[0].includes("handling fee")) { //doesnt add fees to total out
         for (let l in contVals[n]) {
           if (l === "ada" || l === "ADA") {
-            totalADA = totalADA + 0
-            repsADA[n] = repsADA[n] + 0
+            totalADA = totalADA + contVals[n][l]
+            repsADA[n] = repsADA[n] + contVals[n][l]
             console.log("ADA", l)
           } else if (l === "gimbal" || l === "GMBL") {
-            totalGMBL = totalGMBL + 0
+            totalGMBL = totalGMBL + contVals[n][l]
           } else if (l === "agix" || l === "AGIX") {
-            totalAGIX = totalAGIX + 0
+            totalAGIX = totalAGIX + contVals[n][l]
           } else if (l === "djed" || l === "DJED") {
-            totalDJED = totalDJED + 0
+            totalDJED = totalDJED + contVals[n][l]
           } else if (l === "copi" || l === "COPI") {
-            totalCOPI = totalCOPI + 0
+            totalCOPI = totalCOPI + contVals[n][l]
           } else if (l === "ntx" || l === "NTX") {
-            totalNTX = totalNTX + 0
+            totalNTX = totalNTX + contVals[n][l]
           } 
         }
       } else {
