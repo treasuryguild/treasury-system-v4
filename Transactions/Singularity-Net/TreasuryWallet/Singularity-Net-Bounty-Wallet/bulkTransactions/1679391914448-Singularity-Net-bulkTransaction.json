@@ -1,0 +1,60 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "a3ffdd126bc0dbfe37377269ae20173046c836921d36cf10b83ea48d7f8fa069",
+  "msg": [
+    "Singularity-Net Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 7",
+    "205.43 USD in 606.00 ADA",
+    "Transaction made by Treasury Guild @0.339",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "singularitynet contribution handling fee"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "ADA": "6"
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Catalyst veteran Proposal Assessors needed -100 Ada",
+        "0AGIX& 0 Gimbal (missing rewards)"
+      ],
+      "label": [
+        "missing Rewards"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "ADA": "100"
+        },
+        "vpyqlf": {
+          "ADA": "100"
+        },
+        "llj74u": {
+          "ADA": "100"
+        },
+        "7lnpzs": {
+          "ADA": "100"
+        },
+        "u7ywg4": {
+          "ADA": "100"
+        },
+        "7g6qxt": {
+          "ADA": "100"
+        }
+      }
+    }
+  ]
+}
