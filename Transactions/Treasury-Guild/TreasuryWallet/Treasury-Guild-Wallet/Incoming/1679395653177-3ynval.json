@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "a3ffdd126bc0dbfe37377269ae20173046c836921d36cf10b83ea48d7f8fa069",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "2.05 USD in 6.000000 ADA",
+    "Transaction made by Treasury Guild @0.342",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Incoming",
+      "description": [
+        "SNet Amabasador wallet payments fees for the system"
+      ],
+      "contributors": {
+        "3ynval": {
+          "ADA": "6"
+        }
+      }
+    }
+  ]
+}
