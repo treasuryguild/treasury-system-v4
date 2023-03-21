@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "996175be4eb3d4a108e65215834b619a5495bbe4214892e6008f082542d54adb",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.46 USD in 1.344798 ADA",
+    "803.90 USD in 1696.00 AGIX",
+    "Transaction made by Treasury Guild @0.342",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Incoming",
+      "description": [
+        "Income monthly service fee from Snet "
+      ],
+      "contributors": {
+        "3ynval": {
+          "ADA": "1.344798",
+          "AGIX": "1696.00000000"
+        }
+      }
+    }
+  ]
+}
