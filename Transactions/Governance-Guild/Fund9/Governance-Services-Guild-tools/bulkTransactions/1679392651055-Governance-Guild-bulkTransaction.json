@@ -1,0 +1,67 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "28f6542c3f03ebe62bfc833d4279b5738efbaddc49b27ab6f91a9aeeb27da3f2",
+  "msg": [
+    "Governance-Guild Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 3",
+    "207.10 USD in 607.34 ADA",
+    "0 USD in 500.00 GMBL",
+    "Transaction made by Treasury Guild @0.341",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "governance guild",
+      "description": [
+        "Chair Weekly GG Call meeting #19 100 USD"
+      ],
+      "label": [
+        "Operations",
+        "Community Communication"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "ADA": "303",
+          "GMBL": "100"
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "description": [
+        "Chair weekly GG call 20 - 100 USD"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ADA": "303",
+          "GMBL": "100"
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "description": [
+        "Testing data for GG in the Treasury Dashboard"
+      ],
+      "label": [
+        "Operations",
+        "Tool Development"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "GMBL": "150"
+        },
+        "jnaxjp": {
+          "ADA": "1.344798",
+          "GMBL": "150"
+        }
+      }
+    }
+  ]
+}
