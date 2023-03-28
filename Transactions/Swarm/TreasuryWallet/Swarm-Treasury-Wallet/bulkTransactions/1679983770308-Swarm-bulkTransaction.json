@@ -1,0 +1,179 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "78d170498bd02301a16b70bb6113470152c6106d026c0b104bfdeb77d5445c8d",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 8",
+    "36.29 USD in 106.72 ADA",
+    "0 USD in 2175.00 GMBL",
+    "0.00 USD in 99.00 AGIX",
+    "Transaction made by Treasury Guild @0.34",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Saturday Swarm Session 25.03"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Set up spreadsheet for Gap Analysis -100 Gimbal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #79 Organise the event & Sign up process"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #78 Host ATH Introduction - 50 Ada, 50 AGIX & 50",
+        "Gimbal"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #78 Organise the event & Sign up process"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #77 Set up timestamp Bounties 25 Ada and 125 GMBL "
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "gimbal": 125,
+          "ada": 25,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool Development - Treasury Manager Updates 26.03"
+      ],
+      "label": [
+        "Documentation,Tool development"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 800,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team - March 27 - 100",
+        "Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the [F10] MPW - Revised Problem and Solution",
+        "Statement - Earn 25 Ada 25 Agix"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "ya5t5l": {
+          "gimbal": 200,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    }
+  ]
+}
