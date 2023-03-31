@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "7e985d20b34180a8d5db6cee770ce2af79bee7342fcc3bfe44e88360b7e7bbb4",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.51 USD in 1.344798 ADA",
+    "2035.00 USD in 5000.00 AGIX",
+    "Transaction made by Treasury Guild @0.376",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Incoming",
+      "description": [
+        "Receiving 5000 AGIX from Snet"
+      ],
+      "contributors": {
+        "SNet": {
+          "ADA": "1.344798",
+          "AGIX": "5000"
+        }
+      }
+    }
+  ]
+}

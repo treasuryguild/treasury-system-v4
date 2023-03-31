@@ -1,0 +1,98 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "6c1c542bf5d69da653c6367d5922dea32fc9f03decc9ca03e57fd1bb1a04fd8d",
+  "msg": [
+    "Lead-Generators Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/402760",
+    "Recipients: 10",
+    "1672.23 USD in 4366.13 ADA",
+    "Transaction made by Treasury Guild @0.383",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "Translation"
+      ],
+      "label": [
+        "Translation"
+      ],
+      "contributors": {
+        "x3qe9j": {
+          "ADA": "134.68"
+        },
+        "7gfjvs": {
+          "ADA": "134.68"
+        }
+      }
+    },
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "Completed Impact Lead Generation Community Collaboration",
+        "Questions"
+      ],
+      "label": [
+        "Report"
+      ],
+      "contributors": {
+        "zdlgea": {
+          "ADA": "250"
+        },
+        "cdqvq7": {
+          "ADA": "250"
+        },
+        "mlss3y": {
+          "ADA": "250"
+        },
+        "3jf7cz": {
+          "ADA": "250"
+        }
+      }
+    },
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "Completed Impact Lead Generation Community Collaboration",
+        "Questions and submitted video"
+      ],
+      "label": [
+        "Report"
+      ],
+      "contributors": {
+        "e7kjkm": {
+          "ADA": "350"
+        },
+        "jy60mc": {
+          "ADA": "350"
+        },
+        "7gfjvs": {
+          "ADA": "350"
+        },
+        "ul20uj": {
+          "ADA": "350"
+        },
+        "t7g6t6": {
+          "ADA": "350"
+        }
+      }
+    },
+    {
+      "taskCreator": "Lead Generators",
+      "description": [
+        "10 hours of work on proposal"
+      ],
+      "label": [
+        "Proposal"
+      ],
+      "contributors": {
+        "t7g6t6": {
+          "ADA": "1346.77"
+        }
+      }
+    }
+  ]
+}

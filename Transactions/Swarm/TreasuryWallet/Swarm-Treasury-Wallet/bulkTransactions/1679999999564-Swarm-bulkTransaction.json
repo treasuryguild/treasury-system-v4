@@ -1,0 +1,35 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "ef1cdd3e37fa775e491da517cb969b2f1cc7d5bf36e7159b784dba3dcc6ef966",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "8.50 USD in 25.00 ADA",
+    "0 USD in 100.00 GMBL",
+    "0.00 USD in 25.00 AGIX",
+    "Transaction made by Treasury Guild @0.34",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Cardano Talent ATH session - Earn 25 Ada 25",
+        "Agix 100 Gimbals"
+      ],
+      "label": [
+        "timestamping,Community Communication,Content Creation"
+      ],
+      "contributors": {
+        "yp7gg3": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    }
+  ]
+}
