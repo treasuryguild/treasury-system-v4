@@ -1,0 +1,33 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "69497a691ae273aa596e111f63c2ade176621269e0c7f8a8ac9ebd1d47858e3f",
+  "msg": [
+    "Community-Governance-Oversight Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/381354",
+    "Recipients: 2",
+    "167.77 USD in 409.20 ADA",
+    "Transaction made by Treasury Guild @0.41",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Community Governance Oversight",
+      "description": [
+        "Leftovers for treasury guild"
+      ],
+      "label": [
+        "Other"
+      ],
+      "contributors": {
+        "x2mrrm": {
+          "ADA": "204.650000"
+        },
+        "4mg27n": {
+          "ADA": "204.650000"
+        }
+      }
+    }
+  ]
+}

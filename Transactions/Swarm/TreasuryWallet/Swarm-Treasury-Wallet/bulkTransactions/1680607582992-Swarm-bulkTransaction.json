@@ -1,0 +1,156 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "1bae3ff7486d850ff9c8ece2a0d8ecb6ee5e634bd7a958d17b2f8e3d46199ad7",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 6",
+    "1261.49 USD in 3177.57 ADA",
+    "8599.21 USD in 8599.21 DJED",
+    "Transaction made by Treasury Guild @0.397",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools - Zoom"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "1.379280",
+          "DJED": "313.61"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Miro"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "1.379280",
+          "DJED": "66"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Adobe Illustrator"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DJED": "26.3"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Adobe  InDesign"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DJED": "26.3"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Swarm Gitbook"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "1.379280",
+          "DJED": "136"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Microsoft Excel"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "DJED": "31"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Treasury and Accounting"
+      ],
+      "label": [
+        "Swarm Contributor"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "DJED": "2000"
+        },
+        "4mg27n": {
+          "ADA": "1.379280",
+          "DJED": "2000"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Swarm and SingularityNet"
+      ],
+      "label": [
+        "Swarm Contributor"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "DJED": "2000"
+        },
+        "u7ywg4": {
+          "DJED": "2000"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Swarm Support Fund"
+      ],
+      "label": [
+        "Swarm Contributor"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "ADA": "1903.23"
+        },
+        "tgd8fg": {
+          "ADA": "1268.82"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "a4f8e90a6629344f5723e148eab9670140fdda0ca7b7cae6f9a6100f07ff89fd",
+  "msg": [
+    "Treasury-Guild Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 4",
+    "2.14 USD in 5.38 ADA",
+    "1410.25 USD in 3414.64 AGIX",
+    "Transaction made by Treasury Guild @0.398",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury Guild",
+      "description": [
+        "Monthly SNet contributions"
+      ],
+      "label": [
+        "TG and SNet Contributor"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "1.344798",
+          "AGIX": "853.66"
+        },
+        "rcgctj": {
+          "ADA": "1.344798",
+          "AGIX": "853.66"
+        },
+        "4mg27n": {
+          "ADA": "1.344798",
+          "AGIX": "853.66"
+        },
+        "jnaxjp": {
+          "ADA": "1.344798",
+          "AGIX": "853.66"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "0d4d05f9bfe37d540cb8c43ec1296d55071a183b568280bef42367e46e71065a",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 20",
+    "19.87 USD in 50.55 ADA",
+    "0 USD in 2200.00 GMBL",
+    "25.70 USD in 63.00 AGIX",
+    "Transaction made by Treasury Guild @0.393",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "Proposal Feedback - 25 Ada, 25 AGIX & 25 Gimbal"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "vqn25z": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "DF TH #5 - Create & Manage tasks"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 300,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "Host DF TH Intro #5"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "Co-Host  DFTH #5"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "Co-Host  DFTH #4"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "Co-Host  DFTH #3"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "r83kme": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "DF TH #3 Proposal Reel Presenter Schedule Creation"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "urzspl": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "Join Deep Funding Town Hall #4 - Earn 100 Gimbal & 2",
+        "AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "ex7942": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "xl6z2n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "lrs3kj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "9qgazv": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "q5xpal": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "fu9paa": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "0cnk5v": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "Join Deep Funding Town Hall #3 - Earn 100 Gimbal & 2",
+        "AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "r5nvwm": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "mg3a4k": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "fup7a9": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "Setup DFTH #3 Introduction slide deck & content"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "cu9ctl": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "93ah9r": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}

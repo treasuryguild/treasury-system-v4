@@ -1,0 +1,88 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "dbe796065501b69965782d34193d147701391790963f44505388c2d0616a5b54",
+  "msg": [
+    "Community-Governance-Oversight Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/381354",
+    "Recipients: 9",
+    "4780.97 USD in 11804.87 ADA",
+    "Transaction made by Treasury Guild @0.41",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Community Governance Oversight",
+      "description": [
+        "Completion of surveys for Audit Circle"
+      ],
+      "label": [
+        "Surveys"
+      ],
+      "contributors": {
+        "22yma2": {
+          "ADA": "975.609"
+        },
+        "7lnpzs": {
+          "ADA": "975.609"
+        },
+        "ukwpzf": {
+          "ADA": "975.609"
+        }
+      }
+    },
+    {
+      "taskCreator": "Community Governance Oversight",
+      "description": [
+        "Production of a final report for Audit Circle"
+      ],
+      "label": [
+        "Report"
+      ],
+      "contributors": {
+        "89c9vp": {
+          "ADA": "975.609"
+        },
+        "7lnpzs": {
+          "ADA": "975.609"
+        }
+      }
+    },
+    {
+      "taskCreator": "Community Governance Oversight",
+      "description": [
+        "Final rewards for Audit Circle Meeting attendance"
+      ],
+      "label": [
+        "Meetings"
+      ],
+      "contributors": {
+        "p8ghml": {
+          "ADA": "865.853"
+        },
+        "22yma2": {
+          "ADA": "865.853"
+        },
+        "49q2gn": {
+          "ADA": "865.853"
+        },
+        "sjy4st": {
+          "ADA": "865.853"
+        },
+        "mg3a4k": {
+          "ADA": "865.853"
+        },
+        "7lnpzs": {
+          "ADA": "865.853"
+        },
+        "4fmpj4": {
+          "ADA": "865.853"
+        },
+        "ukwpzf": {
+          "ADA": "865.853"
+        }
+      }
+    }
+  ]
+}
