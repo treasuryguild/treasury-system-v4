@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "df4c2ccf077bdbe30f88c773df175e5c2ac4a2e395281b6effe026defc0c0e69",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "3.11 USD in 7.805554 ADA",
+    "Transaction made by Treasury Guild @0.398",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Rewards-Withdrawal",
+      "description": [
+        "Witdrawal funds from the pool"
+      ],
+      "contributors": {
+        "Titan pool": {
+          "ADA": "7.805554"
+        }
+      }
+    }
+  ]
+}
