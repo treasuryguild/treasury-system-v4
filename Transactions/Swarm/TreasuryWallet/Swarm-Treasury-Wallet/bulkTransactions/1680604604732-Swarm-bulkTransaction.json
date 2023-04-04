@@ -1,0 +1,194 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "48402b93f069a2bed73622c451ae5bcc6bf6ad09c41fd66314c4f4420f1698bb",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 8",
+    "61.75 USD in 156.72 ADA",
+    "0 USD in 4550.00 GMBL",
+    "69.53 USD in 170.00 AGIX",
+    "Transaction made by Treasury Guild @0.394",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the [F10] MPW - Defining Proposal Success for",
+        "Catalyst Fund 10 - Earn 25 Ada 25 Agix"
+      ],
+      "label": [
+        "Community Communication,timestamping,Content Creation"
+      ],
+      "contributors": {
+        "ya5t5l": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the [F10] MPW - Defining Proposal Success",
+        "- Earn 25 Ada 25 Agix"
+      ],
+      "label": [
+        "Community Communication,timestamping,Content Creation"
+      ],
+      "contributors": {
+        "ya5t5l": {
+          "gimbal": 200,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #80 Organise the event & Sign up process"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #80 Host ATH Introduction - 50 Ada, 50 AGIX & 50",
+        "Gimbal"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "ul20uj": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #79 Host ATH Introduction - 50 Ada, 50 AGIX & 50",
+        "Gimbal"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "8n4qu4": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool Development - Treasury Manager Updates 02.04"
+      ],
+      "label": [
+        "Documentation,Tool development"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 450,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team - April 03- 100",
+        "Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Treasury System Updates - March"
+      ],
+      "label": [
+        "Tool Development"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 2500,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild - March 28 -",
+        "150 Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 150,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Saturday Swarm Session 01.04"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "lrs3kj": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}
