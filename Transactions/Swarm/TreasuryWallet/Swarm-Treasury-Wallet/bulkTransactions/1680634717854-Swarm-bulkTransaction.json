@@ -1,0 +1,57 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "bb980395854ee7bee0f1ae6427e2bf8570569879417023f17dadfb7632426c4a",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 7",
+    "3.69 USD in 9.41 ADA",
+    "0 USD in 700.00 GMBL",
+    "5.75 USD in 14.00 AGIX",
+    "Transaction made by Treasury Guild @0.392",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Join the Gimbalabs - 100 GMBL"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "n7qgup": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "p8q4jl": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "4fwu6e": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}
