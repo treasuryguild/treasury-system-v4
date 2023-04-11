@@ -1,0 +1,333 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "5b42288ca08ad022ebecb6bf1f08994d679dd1758c7bb3dd544ef80a867ec436",
+  "msg": [
+    "Singularity-Net Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 22",
+    "12.07 USD in 29.59 ADA",
+    "0 USD in 4949.00 GMBL",
+    "157.06 USD in 384.00 AGIX",
+    "Transaction made by Treasury Guild @0.408",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "gimbal": 49,
+          "AGIX": 4
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Meeting for Video Workgroup - 07Apr23 - 10USD"
+      ],
+      "label": [
+        "Operations,Community Communication,Coordination"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "gimbal": 100,
+          "AGIX": 26
+        },
+        "j3xc2c": {
+          "gimbal": 100,
+          "AGIX": 26
+        },
+        "vpyqlf": {
+          "gimbal": 100,
+          "AGIX": 26
+        },
+        "70ygy0": {
+          "gimbal": 100,
+          "AGIX": 26
+        },
+        "93ah9r": {
+          "gimbal": 100,
+          "AGIX": 26
+        },
+        "lrs3kj": {
+          "gimbal": 100,
+          "AGIX": 26
+        },
+        "uemkyt": {
+          "gimbal": 100,
+          "AGIX": 26
+        },
+        "h2hc92": {
+          "gimbal": 100,
+          "AGIX": 26
+        },
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 26
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Submitting your Portfolio for the initial Video Workgroup"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "uemkyt": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "h2hc92": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "fu9paa": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "70ygy0": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "93ah9r": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Ideating on the next Treasury Guild Agendas"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 50,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 50,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in Treasury Guild 06.04.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "f39ntm": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "fup7a9": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "mg3a4k": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "xl6z2n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "fu9paa": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in Treasury Guild 30.03.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "xl6z2n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Setting up Daolens platform - 02 Apr"
+      ],
+      "label": [
+        "Documentation,Operations"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "11.04.23 - My First Bounty Task - Introduction Task",
+        "- 10 AGIX"
+      ],
+      "label": [
+        "Onboarding"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "gimbal": 50,
+          "AGIX": 10
+        },
+        "tgd8fg": {
+          "gimbal": 50,
+          "AGIX": 10
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Community Feedback #3 - 2.3.23 -10 USD"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 26
+        },
+        "j99kct": {
+          "gimbal": 100,
+          "AGIX": 26
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in Process Guild 04.04.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "fup7a9": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "xl6z2n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "lrs3kj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "mg3a4k": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "f39ntm": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "9klqvn": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "vpyqlf": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "j3xc2c": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}
