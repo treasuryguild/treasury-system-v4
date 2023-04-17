@@ -1,74 +1,402 @@
 {
-    "type": "tx",
-    "title": "Bundle Transaction",
-    "description": "Created with Catalyst Swarm Treasury Manager Excel",
-    "outputs": {
-         "addr1q9z8k0dpfv9a8vqeh5cfg4uaw2apum3jrhasalk2z30u6qj7z67h2zueq2gvuqnqwk2rk348ddcvhauafxwkwfs6k4wsa95ysr": [
+  "type": "tx",
+  "title": "Bundle Transaction",
+  "description": "Created with Catalyst Swarm Treasury Manager Excel",
+  "outputs": {
+       "addr1qxp6k558npqxkvhf68jm5yvmcpwasn0su8yqnr2rdf73geawwkvrk7cjf59seauv9l3q5ev9qyphj9a8akmhmkq3exmq9qgazv": [
+         {
+            "quantity": "250000000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "700000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "25200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q9hhykekl4jww3qxxh0sewxaj6fxkmx37nwamqkn7t3sj66wn7amuvhgehtya5442ss96twe7t05vazsgzu7x37lrhaqrcgctj": [
+         {
+            "quantity": "250000000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "1375000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "25600000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qx95t7nvm9qeecdvwudt4j2azp3xmj08g20x6gaqfu4tlxxwasadu8nc86ppfrhxnse0qemhnavpw8rs4eerklv3m9rsptetnl": [
+         {
+            "quantity": "500000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "250000000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "25000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q9h6e8wqkyvmqdqalf3ek4ralpc50gsyk6yrtpfddjdu5tqsjmy7ykfp8vymp42790gus7rvr24cckhvyxawcljmhehsqsty7m": [
+         {
+            "quantity": "500000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "250000000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "25000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qy5csc9tjll4rdjrdhk02gs4ukcjfvlvflrlmedt0j348r4ahqn4x3hndagzutg3n9lql790fngd0t643snklhl8x77qf0qnsw": [
+         {
+            "quantity": "500000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "250000000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "25000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qx2rhevr07na8v2ejq0xjaxs2m8nnw5ddv9kz3yrwr650fmy3377y7pmdf7sf2d3ral3ke54uwk6lz49dker65s009tqul20uj": [
+         {
+            "quantity": "550000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "300000000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "30000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qycekwxmrg74wgn3an7rxhht9c0dc34q4tjzzp722ks4npwk23rd90mftusnj04jlq66klp76hhqqaty9a5j8gghc0gqu7ywg4": [
+         {
+            "quantity": "250000000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "700000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "25200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qxl2gqneh0ku627k54k5nnjn7lev7av3l2twp53ycl6jcwws6wk8djq3t7rt8jh6fqhv4edaheh8sdljpqnful6us26q8f9pmj": [
+         {
+            "quantity": "500000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "250000000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "25000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q8dstr3yseyhpz78phzkxaswvszhgszsc0rz2v7hqww5azdltzuwtzwzzrzdkgpjn04ltad0ws5lrw5tnlclnv654mfq55smty": [
+         {
+            "quantity": "500000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "250000000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "25000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qyxwjdzhsuahyp6c06n22l8y7utzfafgqh33lu8hyna7fznfk2qq6ycu2v7qnl607ta0nc3lw6dazs0k3ta03uyn948qeend5s": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "25000000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "2500000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qxreanjyt5h2uc6falm7jmq53y8qy0gq5lxtdh5wj076s8jmrvphdt49v5xtz9jca2edmgnra5v86xqnsr5fv3gkhvgqc70dqg": [
+         {
+            "quantity": "100000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "40000000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "4000000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qx4286gy8vceph39devp03jkvvdj23yqevvq4ekhmed0nlf8cta873u5mvvtcmpyycrl6pa397rq4a0hlg3ujy30sfyqr83kme": [
+         {
+            "quantity": "200000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "200000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qxge90avmzv0ntzq8z7g2xgcgevs8pkk47lq7jplatrtgffww9xrm79cyy40st2djy4eljtchem5l37y03kn5lxxgd6q4mg27n": [
+         {
+            "quantity": "300000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "400000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q8j586jcmjjdfrd9sscdhnw3peyzwy0a74d5fnng4c8r6hyrdcnj6lwu3zw854y76snq07kauuw4uj3s3hz2v6k4t5gqjnaxjp": [
+         {
+            "quantity": "300000000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "400000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ]
+   },
+  "metadata": {
+      "674": {
+          "mdVersion": ["1.4"],
+          "msg": [
+              "Swarm Bulk Transaction",
+              "Recipients: 14",
+              "0 USD in 6825 GMBL",
+              "969.65 USD in 2365 ADA",
+              "977.85 USD in 2385 AGIX",
+              "Transaction made by Treasury Guild ;-)",
+              "https://www.treasuryguild.io/"
+           ],
+          "contributions": [
            {
-              "quantity": "350",
-              "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
-              "assetName": "gimbal"
-           }
-       ],
-         "addr1q8t554sy4yj9tr8gj6x44fw0hv22u0vwmajhx809vd54j7fgjmkmnrm72k5u3ztekdthdeca3956xrss8jgrxmdt9f2sllj74u": [
+              "taskCreator": "catalyst swarm",
+              "name": ["Idea Fest Fund 9 - Hosts - ( Swarm Veterans Only )","250 Ada, 250 AGIX & 500 Gimbal"],
+              "label": ["Community Communication"],
+              "contributors": {
+                  "9qgazv": {
+                      "gimbal": 500, 
+                      "ada": 250, 
+                      "AGIX": 250
+                   },
+                  "rcgctj": {
+                      "gimbal": 500, 
+                      "ada": 250, 
+                      "AGIX": 250
+                   },
+                  "ptetnl": {
+                      "gimbal": 500, 
+                      "ada": 250, 
+                      "AGIX": 250
+                   },
+                  "qsty7m": {
+                      "gimbal": 500, 
+                      "ada": 250, 
+                      "AGIX": 250
+                   },
+                  "f0qnsw": {
+                      "gimbal": 500, 
+                      "ada": 250, 
+                      "AGIX": 250
+                   },
+                  "ul20uj": {
+                      "gimbal": 500, 
+                      "ada": 250, 
+                      "AGIX": 250
+                   },
+                  "u7ywg4": {
+                      "gimbal": 500, 
+                      "ada": 250, 
+                      "AGIX": 250
+                   },
+                  "8f9pmj": {
+                      "gimbal": 500, 
+                      "ada": 250, 
+                      "AGIX": 250
+                   },
+                  "55smty": {
+                      "gimbal": 500, 
+                      "ada": 250, 
+                      "AGIX": 250
+                   }
+               }
+           },
            {
-              "quantity": "500",
-              "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
-              "assetName": "gimbal"
-           }
-       ]
-     },
-    "metadata": {
-        "674": {
-            "mdVersion": ["1.0"],
-            "msg": [
-                "Swarm Bulk Payment",
-                "Recipients: 2",
-                "0 USD in 850 gimbal",
-                "Payment made by Treasury Guild ;-)",
-                "https://www.treasuryguild.io/"
-             ],
-            "contributions": [
-             {
-                "taskCreator": "catalyst swarm",
-                "name": ["Onboarding Vlatka 19.08.22 - 150 GMBL"],
-                "label": "Onboarding",
-                "contributors": {
-                    "a95ysr": {
-                        "gimbal": 150
-                     }
-                 }
-             },
-             {
-                "taskCreator": "catalyst swarm",
-                "name": ["Onboarding Vlatka 18.08.22 - 200 GMBL"],
-                "label": "Onboarding",
-                "contributors": {
-                    "a95ysr": {
-                        "gimbal": 200
-                     }
-                 }
-             },
-             {
-                "taskCreator": "catalyst swarm",
-                "name": [" Create your Fund 9 Voting Challenge Setting Picklist - Earn","250 Gimbals"],
-                "label": "Governance",
-                "contributors": {
-                    "llj74u": {
-                        "gimbal": 250
-                     }
-                 }
-             },
-             {
-                "taskCreator": "catalyst swarm",
-                "name": ["Create your Fund 9 Voting Picklist - Earn 250 Gimbals"],
-                "label": "Governance",
-                "contributors": {
-                    "llj74u": {
-                        "ada": 250
-                     }
-                 }
-              }]
-          }
-     }
-  }
+              "taskCreator": "catalyst swarm",
+              "name": ["ATH #81 Host ATH Introduction - 50 Ada, 50 AGIX & 50","Gimbal"],
+              "label": ["Operations,Community Communication"],
+              "contributors": {
+                  "ul20uj": {
+                      "gimbal": 50, 
+                      "ada": 50, 
+                      "AGIX": 50
+                   }
+               }
+           },
+           {
+              "taskCreator": "catalyst swarm",
+              "name": ["Timestamp the CIP-1694 - Secret Plutocracy - Earn 25","Ada 25 Agix 100 Gimbals"],
+              "label": ["Community Communication,timestamping,Content Creation"],
+              "contributors": {
+                  "eend5s": {
+                      "gimbal": 100, 
+                      "ada": 25, 
+                      "AGIX": 25
+                   }
+               }
+           },
+           {
+              "taskCreator": "catalyst swarm",
+              "name": ["Timestamp the Open dApp Framework - Earn  40 Ada 40 Agix 100","Gimbals"],
+              "label": ["Community Communication,timestamping,Content Creation"],
+              "contributors": {
+                  "c70dqg": {
+                      "gimbal": 100, 
+                      "ada": 40, 
+                      "AGIX": 40
+                   }
+               }
+           },
+           {
+              "taskCreator": "catalyst swarm",
+              "name": ["Saturday Swarm Session 08.04"],
+              "label": ["Community Communication"],
+              "contributors": {
+                  "9qgazv": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "rcgctj": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "r83kme": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "catalyst swarm",
+              "name": ["Coordination Call - 04.04.23"],
+              "label": ["Operations,Community Communication"],
+              "contributors": {
+                  "u7ywg4": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "rcgctj": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "4mg27n": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   },
+                  "jnaxjp": {
+                      "gimbal": 200, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "catalyst swarm",
+              "name": ["Weekly Call - Treasury Guild Team - April 10 - 100","Gimbal & 2 AGIX"],
+              "label": ["Operations,Community Communication"],
+              "contributors": {
+                  "jnaxjp": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   },
+                  "4mg27n": {
+                      "gimbal": 100, 
+                      "AGIX": 2
+                   }
+               }
+           },
+           {
+              "taskCreator": "catalyst swarm",
+              "name": ["Community Support Q1"],
+              "label": ["Community Communication"],
+              "contributors": {
+                  "rcgctj": {
+                      "gimbal": 475, 
+                      "AGIX": 2
+                   }
+               }
+            }]
+        }
+   }
+}
+
