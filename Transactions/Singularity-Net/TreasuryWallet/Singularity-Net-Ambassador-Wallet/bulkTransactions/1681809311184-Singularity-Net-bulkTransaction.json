@@ -1,0 +1,255 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "7f98bf5ff2acb1210ebcaf07de0a854e01c5e3e524db5115f5b51d2dfcf6308c",
+  "msg": [
+    "Singularity-Net Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 14",
+    "8.30 USD in 18.83 ADA",
+    "0 USD in 1818.00 GMBL",
+    "228.10 USD in 528.00 AGIX",
+    "Transaction made by Treasury Guild @0.441",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "gimbal": 18,
+          "AGIX": 5
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into Chinese - Rejuve intro by Ben Blogpost SNET",
+        "- 10usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "rvata9": {
+          "gimbal": 100,
+          "AGIX": 23
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into Portuguese - Rejuve intro by Ben Blogpost SNET",
+        "- 10usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100,
+          "AGIX": 23
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into French - Rejuve intro by Ben Blogpost SNET",
+        "- 10usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 100,
+          "AGIX": 23
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into Russian - February Ecosystem roundup Blogpost",
+        "SNET - 10usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "93ah9r": {
+          "gimbal": 100,
+          "AGIX": 23
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into Portuguese - February Ecosystem roundup",
+        "Blogpost SNET - 10usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "nggwcw": {
+          "gimbal": 100,
+          "AGIX": 23
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into Chinese - SNET Ecosystem collaboration -",
+        "25usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "cu9ctl": {
+          "gimbal": 250,
+          "AGIX": 58
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into French - SNET Ecosystem collaboration -",
+        "25usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 250,
+          "AGIX": 58
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into Spanish - SNET Ecosystem collaboration -",
+        "25usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "70ygy0": {
+          "gimbal": 250,
+          "AGIX": 58
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into Chinese - Rejuve Launch Blogpost SNET -",
+        "10usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "rvata9": {
+          "gimbal": 100,
+          "AGIX": 23
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into French - Rejuve Launch Blogpost SNET -",
+        "10usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 100,
+          "AGIX": 23
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into Spanish - Rejuve Launch Blogpost SNET -",
+        "10usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "nggwcw": {
+          "gimbal": 100,
+          "AGIX": 23
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Engage in Daolens - 5 AGIX & 50 Gimbals"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "gimbal": 50,
+          "AGIX": 5
+        },
+        "9klqvn": {
+          "gimbal": 50,
+          "AGIX": 5
+        },
+        "tgd8fg": {
+          "gimbal": 50,
+          "AGIX": 5
+        },
+        "a3amjj": {
+          "gimbal": 50,
+          "AGIX": 5
+        },
+        "fu9paa": {
+          "gimbal": 50,
+          "AGIX": 5
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Process Guild and Treasury Guild Thumbnails - with",
+        "Retrospective rewards"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "uemkyt": {
+          "AGIX": 140
+        }
+      }
+    }
+  ]
+}
