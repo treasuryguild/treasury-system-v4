@@ -1,0 +1,169 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "ebab390e14ff9e65a0526210e57f9a8e9a4fbfc517489dae31f1992b991ca984",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 12",
+    "116.80 USD in 263.07 ADA",
+    "0 USD in 2150.00 GMBL",
+    "116.58 USD in 268.00 AGIX",
+    "Transaction made by Treasury Guild @0.444",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call with Malik, Slate & Felix - 17.4.2023"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 50,
+          "AGIX": 2
+        },
+        "tgd8fg": {
+          "gimbal": 50,
+          "AGIX": 2
+        },
+        "6lcdjr": {
+          "gimbal": 50,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Catalyst Voting & UI Community Review - Earn",
+        "40 Ada 40 Agix 100 Gimbals"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "contributors": {
+        "eend5s": {
+          "gimbal": 100,
+          "ada": 40,
+          "AGIX": 40
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #81 Set up timestamp Bounties - 15 Ada and 75 GMBL",
+        "total"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "gimbal": 100,
+          "ada": 15,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Impact Growth Engine - Session 3 -  50 ADA and 50 AGIX"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "j99kct": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        },
+        "q5xpal": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        },
+        "p8q4jl": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Impact Growth Engine - Session 2"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "j99kct": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "q5xpal": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "f0qnsw": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "8f9pmj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "p8q4jl": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild - April 11 -",
+        "200 Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}
