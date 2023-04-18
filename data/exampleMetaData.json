@@ -5,160 +5,41 @@
   "outputs": {
        "addr1qxp6k558npqxkvhf68jm5yvmcpwasn0su8yqnr2rdf73geawwkvrk7cjf59seauv9l3q5ev9qyphj9a8akmhmkq3exmq9qgazv": [
          {
-            "quantity": "250000",
+            "quantity": "25000",
             "policyId": "ada",
             "assetName": "ada"
          },
          {
-            "quantity": "700000",
+            "quantity": "70000",
             "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
             "assetName": "gimbal"
          },
          {
-            "quantity": "25200000",
+            "quantity": "2520000",
             "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
             "assetName": "AGIX"
          }
      ],
        "addr1q9hhykekl4jww3qxxh0sewxaj6fxkmx37nwamqkn7t3sj66wn7amuvhgehtya5442ss96twe7t05vazsgzu7x37lrhaqrcgctj": [
          {
-            "quantity": "250000",
+            "quantity": "25000",
             "policyId": "ada",
             "assetName": "ada"
          },
          {
-            "quantity": "1375000",
+            "quantity": "137500",
             "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
             "assetName": "gimbal"
          },
          {
-            "quantity": "25600000",
+            "quantity": "2560000",
             "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
             "assetName": "AGIX"
          }
      ],
        "addr1qx95t7nvm9qeecdvwudt4j2azp3xmj08g20x6gaqfu4tlxxwasadu8nc86ppfrhxnse0qemhnavpw8rs4eerklv3m9rsptetnl": [
          {
-            "quantity": "500000",
-            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
-            "assetName": "gimbal"
-         },
-         {
-            "quantity": "250000",
-            "policyId": "ada",
-            "assetName": "ada"
-         },
-         {
-            "quantity": "25000000",
-            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
-            "assetName": "AGIX"
-         }
-     ],
-       "addr1q9h6e8wqkyvmqdqalf3ek4ralpc50gsyk6yrtpfddjdu5tqsjmy7ykfp8vymp42790gus7rvr24cckhvyxawcljmhehsqsty7m": [
-         {
-            "quantity": "500000",
-            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
-            "assetName": "gimbal"
-         },
-         {
-            "quantity": "250000",
-            "policyId": "ada",
-            "assetName": "ada"
-         },
-         {
-            "quantity": "25000000",
-            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
-            "assetName": "AGIX"
-         }
-     ],
-       "addr1qy5csc9tjll4rdjrdhk02gs4ukcjfvlvflrlmedt0j348r4ahqn4x3hndagzutg3n9lql790fngd0t643snklhl8x77qf0qnsw": [
-         {
-            "quantity": "500000",
-            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
-            "assetName": "gimbal"
-         },
-         {
-            "quantity": "250000",
-            "policyId": "ada",
-            "assetName": "ada"
-         },
-         {
-            "quantity": "25000000",
-            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
-            "assetName": "AGIX"
-         }
-     ],
-       "addr1qx2rhevr07na8v2ejq0xjaxs2m8nnw5ddv9kz3yrwr650fmy3377y7pmdf7sf2d3ral3ke54uwk6lz49dker65s009tqul20uj": [
-         {
-            "quantity": "550000",
-            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
-            "assetName": "gimbal"
-         },
-         {
-            "quantity": "300000",
-            "policyId": "ada",
-            "assetName": "ada"
-         },
-         {
-            "quantity": "30000000",
-            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
-            "assetName": "AGIX"
-         }
-     ],
-       "addr1qycekwxmrg74wgn3an7rxhht9c0dc34q4tjzzp722ks4npwk23rd90mftusnj04jlq66klp76hhqqaty9a5j8gghc0gqu7ywg4": [
-         {
-            "quantity": "250000",
-            "policyId": "ada",
-            "assetName": "ada"
-         },
-         {
-            "quantity": "700000",
-            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
-            "assetName": "gimbal"
-         },
-         {
-            "quantity": "25200000",
-            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
-            "assetName": "AGIX"
-         }
-     ],
-       "addr1qxl2gqneh0ku627k54k5nnjn7lev7av3l2twp53ycl6jcwws6wk8djq3t7rt8jh6fqhv4edaheh8sdljpqnful6us26q8f9pmj": [
-         {
-            "quantity": "500000",
-            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
-            "assetName": "gimbal"
-         },
-         {
-            "quantity": "250000",
-            "policyId": "ada",
-            "assetName": "ada"
-         },
-         {
-            "quantity": "25000000",
-            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
-            "assetName": "AGIX"
-         }
-     ],
-       "addr1q8dstr3yseyhpz78phzkxaswvszhgszsc0rz2v7hqww5azdltzuwtzwzzrzdkgpjn04ltad0ws5lrw5tnlclnv654mfq55smty": [
-         {
-            "quantity": "500000",
-            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
-            "assetName": "gimbal"
-         },
-         {
-            "quantity": "250000",
-            "policyId": "ada",
-            "assetName": "ada"
-         },
-         {
-            "quantity": "25000000",
-            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
-            "assetName": "AGIX"
-         }
-     ],
-       "addr1qyxwjdzhsuahyp6c06n22l8y7utzfafgqh33lu8hyna7fznfk2qq6ycu2v7qnl607ta0nc3lw6dazs0k3ta03uyn948qeend5s": [
-         {
-            "quantity": "100000",
+            "quantity": "50000",
             "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
             "assetName": "gimbal"
          },
@@ -173,55 +54,174 @@
             "assetName": "AGIX"
          }
      ],
-       "addr1qxreanjyt5h2uc6falm7jmq53y8qy0gq5lxtdh5wj076s8jmrvphdt49v5xtz9jca2edmgnra5v86xqnsr5fv3gkhvgqc70dqg": [
+       "addr1q9h6e8wqkyvmqdqalf3ek4ralpc50gsyk6yrtpfddjdu5tqsjmy7ykfp8vymp42790gus7rvr24cckhvyxawcljmhehsqsty7m": [
          {
-            "quantity": "100000",
+            "quantity": "50000",
             "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
             "assetName": "gimbal"
          },
          {
-            "quantity": "40000",
+            "quantity": "25000",
             "policyId": "ada",
             "assetName": "ada"
          },
          {
-            "quantity": "4000000",
+            "quantity": "2500000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qy5csc9tjll4rdjrdhk02gs4ukcjfvlvflrlmedt0j348r4ahqn4x3hndagzutg3n9lql790fngd0t643snklhl8x77qf0qnsw": [
+         {
+            "quantity": "50000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "25000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "2500000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qx2rhevr07na8v2ejq0xjaxs2m8nnw5ddv9kz3yrwr650fmy3377y7pmdf7sf2d3ral3ke54uwk6lz49dker65s009tqul20uj": [
+         {
+            "quantity": "55000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "30000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "3000000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qycekwxmrg74wgn3an7rxhht9c0dc34q4tjzzp722ks4npwk23rd90mftusnj04jlq66klp76hhqqaty9a5j8gghc0gqu7ywg4": [
+         {
+            "quantity": "25000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "70000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "2520000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qxl2gqneh0ku627k54k5nnjn7lev7av3l2twp53ycl6jcwws6wk8djq3t7rt8jh6fqhv4edaheh8sdljpqnful6us26q8f9pmj": [
+         {
+            "quantity": "50000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "25000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "2500000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1q8dstr3yseyhpz78phzkxaswvszhgszsc0rz2v7hqww5azdltzuwtzwzzrzdkgpjn04ltad0ws5lrw5tnlclnv654mfq55smty": [
+         {
+            "quantity": "50000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "25000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "2500000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qyxwjdzhsuahyp6c06n22l8y7utzfafgqh33lu8hyna7fznfk2qq6ycu2v7qnl607ta0nc3lw6dazs0k3ta03uyn948qeend5s": [
+         {
+            "quantity": "10000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "2500",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "250000",
+            "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+            "assetName": "AGIX"
+         }
+     ],
+       "addr1qxreanjyt5h2uc6falm7jmq53y8qy0gq5lxtdh5wj076s8jmrvphdt49v5xtz9jca2edmgnra5v86xqnsr5fv3gkhvgqc70dqg": [
+         {
+            "quantity": "10000",
+            "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
+            "assetName": "gimbal"
+         },
+         {
+            "quantity": "4000",
+            "policyId": "ada",
+            "assetName": "ada"
+         },
+         {
+            "quantity": "400000",
             "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
             "assetName": "AGIX"
          }
      ],
        "addr1qx4286gy8vceph39devp03jkvvdj23yqevvq4ekhmed0nlf8cta873u5mvvtcmpyycrl6pa397rq4a0hlg3ujy30sfyqr83kme": [
          {
-            "quantity": "200000",
+            "quantity": "20000",
             "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
             "assetName": "gimbal"
          },
          {
-            "quantity": "200000",
+            "quantity": "20000",
             "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
             "assetName": "AGIX"
          }
      ],
        "addr1qxge90avmzv0ntzq8z7g2xgcgevs8pkk47lq7jplatrtgffww9xrm79cyy40st2djy4eljtchem5l37y03kn5lxxgd6q4mg27n": [
          {
-            "quantity": "300000",
+            "quantity": "30000",
             "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
             "assetName": "gimbal"
          },
          {
-            "quantity": "400000",
+            "quantity": "40000",
             "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
             "assetName": "AGIX"
          }
      ],
        "addr1q8j586jcmjjdfrd9sscdhnw3peyzwy0a74d5fnng4c8r6hyrdcnj6lwu3zw854y76snq07kauuw4uj3s3hz2v6k4t5gqjnaxjp": [
          {
-            "quantity": "300000",
+            "quantity": "30000",
             "policyId": "2b0a04a7b60132b1805b296c7fcb3b217ff14413991bf76f72663c30",
             "assetName": "gimbal"
          },
          {
-            "quantity": "400000",
+            "quantity": "40000",
             "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
             "assetName": "AGIX"
          }
