@@ -2,15 +2,7 @@
   "mdVersion": [
     "1.4"
   ],
-  "msg": [
-    "Signius Bulk Transaction",
-    "Recipients: 2",
-    "0 USD in 10 GMBL",
-    "1 USD in 2 ADA",
-    "1 USD in 2 AGIX",
-    "Transaction made by Treasury Guild ;-)",
-    "https://www.treasuryguild.io/"
-  ],
+  "msg": "[\n\"Treasury Guild Transaction\",\n\"Recipients: 1\",\n\"Exchange rate - 0.386\",\n\"https://www.treasuryguild.io/\"\n]",
   "contributions": [
     {
       "taskCreator": "Signius",
