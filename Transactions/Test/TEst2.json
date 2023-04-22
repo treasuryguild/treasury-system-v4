@@ -10,41 +10,17 @@
   ],
   "contributions": [
     {
-      "taskCreator": "Signius",
+      "taskCreator": "Catalyst Swarm",
       "name": [
-        "Testing the dework",
-        "bulk with metadata",
-        "and sending to",
-        "different addresses"
+        "Testing github and Discord"
       ],
       "label": [
-        "Operations"
+        "Content Creation"
       ],
       "contributors": {
         "c95tmr": {
-          "AGIX": "0.125"
-        },
-        "7zxn7j": {
-          "GMBL": "5",
-          "AGIX": "0.125"
-        }
-      }
-    },
-    {
-      "taskCreator": "Signius",
-      "name": [
-        "Still only testing"
-      ],
-      "label": [
-        "Fixed Costs"
-      ],
-      "contributors": {
-        "c95tmr": {
-          "AGIX": "0.125"
-        },
-        "7zxn7j": {
-          "GMBL": "5",
-          "AGIX": "0.125"
+          "ADA": "2",
+          "COPI": "1"
         }
       }
     }
