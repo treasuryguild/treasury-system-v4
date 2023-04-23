@@ -5,22 +5,46 @@
   "msg": [
     "Treasury Guild Transaction",
     "Recipients: 1",
-    "Exchange rate - 0.388",
+    "Exchange rate - 0.394",
     "https://www.treasuryguild.io/"
   ],
   "contributions": [
     {
-      "taskCreator": "Catalyst Swarm",
+      "taskCreator": "Signius",
       "name": [
-        "Testing github and Discord"
+        "Testing the dework",
+        "bulk with metadata",
+        "and sending to",
+        "different addresses"
       ],
       "label": [
-        "Content Creation"
+        "Operations"
       ],
       "contributors": {
         "c95tmr": {
-          "ADA": "2",
-          "COPI": "1"
+          "AGIX": "0.125"
+        },
+        "7zxn7j": {
+          "GMBL": "5",
+          "AGIX": "0.125"
+        }
+      }
+    },
+    {
+      "taskCreator": "Signius",
+      "name": [
+        "Still only testing"
+      ],
+      "label": [
+        "Fixed Costs"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "AGIX": "0.125"
+        },
+        "7zxn7j": {
+          "GMBL": "5",
+          "AGIX": "0.125"
         }
       }
     }
