@@ -3,7 +3,7 @@
     "1.4"
   ],
   "msg": [
-    "Signius Bulk Transaction",
+    "Treasury Guild Bulk Transaction",
     "Recipients: 2",
     "0 USD in 10 GMBL",
     "1 USD in 2 ADA",
@@ -13,7 +13,7 @@
   ],
   "contributions": [
     {
-      "taskCreator": "Signius",
+      "taskCreator": "Treasury Guild",
       "name": [
         "Testing the dework",
         "bulk with metadata",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "taskCreator": "Signius",
+      "taskCreator": "Treasury Guild",
       "name": [
         "Still only testing"
       ],
@@ -52,5 +52,5 @@
       }
     }
   ],
-  "txid": "test tx ID"
+  "txid": "edba2ffc5031120e2ccbf857ef565a951c0c31233923a8c29475b4874b155b89"
 }
