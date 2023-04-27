@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "90440fed72dd2c54f536b908dd632b591a0a118af5f6ed8e11484c0c30502ce4",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "2022.92 USD in 4910.000000 ADA",
+    "Transaction made by Treasury Guild @0.412",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Other",
+      "description": [
+        "Rewards for Andre and Miro"
+      ],
+      "contributors": {
+        "Treasury Guild": {
+          "ADA": "4910"
+        }
+      }
+    }
+  ]
+}
