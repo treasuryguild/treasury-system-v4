@@ -1,0 +1,274 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 8",
+    "32.15 USD in 83.07 ADA",
+    "0 USD in 9217.00 GMBL",
+    "38.75 USD in 125.00 AGIX",
+    "Transaction made by Treasury Guild @0.387",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the [F10] MPW - Key Performance Measurements",
+        "- Earn 25 Ada 25 Agix"
+      ],
+      "label": [
+        "Community Communication,timestamping,Content Creation"
+      ],
+      "contributors": {
+        "ya5t5l": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the CIP-1694 - Earn 25 Ada 25 Agix 100 Gimbals"
+      ],
+      "label": [
+        "Community Communication,timestamping,Content Creation"
+      ],
+      "contributors": {
+        "9n4kna": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the [F10] MPW - Ideating Key Performance",
+        "Measurements - Earn 25 Ada 25 Agix"
+      ],
+      "label": [
+        "Community Communication,timestamping,Content Creation"
+      ],
+      "contributors": {
+        "ya5t5l": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team - May 1 - 100 Gimbal",
+        "& 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team - April 24 - 100",
+        "Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool Development - Treasury Manager Updates - April"
+      ],
+      "label": [
+        "Documentation,Tool development"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 317,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool Development - Treasury System Updates - April"
+      ],
+      "label": [
+        "Tool development"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 3400,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild - April 25 -",
+        "200 Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 300,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild - April 18 -",
+        "200 Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 300,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild - April 04 -",
+        "200 Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 300,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team - April 17 - 100",
+        "Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Fund 9 Proposal - Swarmlabs - Treasury & Accounting",
+        "systems"
+      ],
+      "label": [
+        "Documentation"
+      ],
+      "contributors": {
+        "ukwpzf": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "n7qgup": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}
