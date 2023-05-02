@@ -1,0 +1,533 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "e29bd8006898058afa17ebf1e95e518179a4bffdd7fb5730ab4b4f422af4b73e",
+  "msg": [
+    "Singularity-Net Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 10",
+    "22.04 USD in 57.10 ADA",
+    "0 USD in 10150.00 GMBL",
+    "783.37 USD in 2527.00 AGIX",
+    "Transaction made by Treasury Guild @0.386",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "ada": 0,
+          "AGIX": 25,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Marketing Workshop - 27.2.23"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "m75ur9": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into French - February Ecosystem roundup Blogpost",
+        "SNET - 10usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "m75ur9": {
+          "gimbal": 100,
+          "AGIX": 32
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Onboarding Translator - French, Spanish, Chinese"
+      ],
+      "label": [
+        "Onboarding"
+      ],
+      "contributors": {
+        "m75ur9": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Onboarding Translator - french"
+      ],
+      "label": [
+        "Onboarding"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Onboarding Translator - French, Spanish and Yoruba"
+      ],
+      "label": [
+        "Onboarding"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Marketing Guild Meeting - 7.4.23"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "f39ntm": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Claim Ambassador Badge on awrd.gg - 2 AGIX & 50 Gimbals"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "AI Sandbox with ChatGPT4, Fly & Felix - 27.4.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 150
+        },
+        "f39ntm": {
+          "gimbal": 150
+        },
+        "mg3a4k": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Summit preperation Call - 20.4.2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Create Ambassador NFTs  10.04.23 45 ADA"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 100,
+          "ada": 45
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Broadcast Ideation - 11.4.23"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "contributors": {
+        "93ah9r": {
+          "gimbal": 100
+        },
+        "f39ntm": {
+          "gimbal": 100
+        },
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Onboarding Dework Video"
+      ],
+      "label": [
+        "Documentation,Content Creation,Onboarding"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 900
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Questions for Ambassadors"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into Russian - Rejuve Launch Blogpost SNET -",
+        "10usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "93ah9r": {
+          "gimbal": 100,
+          "AGIX": 32
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into Portuguese - Rejuve Launch Blogpost SNET -",
+        "10usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100,
+          "AGIX": 32
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Lilycupcake's videos 21.04.23 150 USD"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "h2hc92": {
+          "gimbal": 1500,
+          "AGIX": 484
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Cryptofly's video 21.04.23 100 USD"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "j5wkd0": {
+          "gimbal": 1000,
+          "AGIX": 323
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Meeting for Video Workgroup - 28.04.23"
+      ],
+      "label": [
+        "Operations,Community Communication,Coordination"
+      ],
+      "contributors": {
+        "h2hc92": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Create Promotional Clips of the SingualarityNET Decentralisation",
+        "Summit - 10USD"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "ya5t5l": {
+          "gimbal": 100,
+          "AGIX": 32
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Meeting for Video Workgroup 21.04.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 100
+        },
+        "h2hc92": {
+          "gimbal": 100
+        },
+        "j5wkd0": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in Treasury Guild 27.04.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in Treasury Guild 20.04.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in Treasury Guild 13.04.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "NuNet Public Alpha Testnet release Announcement Thread -",
+        "15USD"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 150,
+          "AGIX": 48
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Marketing Guild Meeting - 28.4.23"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "f39ntm": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Marketing Guild Meeting - 21.4.23"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 50
+        },
+        "9klqvn": {
+          "gimbal": 50
+        },
+        "f39ntm": {
+          "gimbal": 50
+        },
+        "mg3a4k": {
+          "gimbal": 50
+        },
+        "h2hc92": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "CryptoFly's SNET Eco video - 450 USD"
+      ],
+      "label": [
+        "Community Communication,Content Creation"
+      ],
+      "contributors": {
+        "j5wkd0": {
+          "gimbal": 1400,
+          "AGIX": 1452
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Create Ambassador / Marketing Guild Gitbook - 20USD"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 200,
+          "AGIX": 65
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in Process Guild 25.04.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 150
+        },
+        "9klqvn": {
+          "gimbal": 150
+        },
+        "vpyqlf": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in Process Guild 18.04.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 200
+        },
+        "vpyqlf": {
+          "gimbal": 200
+        },
+        "9klqvn": {
+          "gimbal": 200
+        }
+      }
+    }
+  ]
+}
