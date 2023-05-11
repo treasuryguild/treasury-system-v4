@@ -1130,11 +1130,11 @@ switch(project) {
 return answer
 }
 
-let finalUrl = (`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "new?value=" + encodedMetaData +"&filename=" + filename);
+let finalUrl = (`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "?value=" + encodedMetaData +"&filename=" + filename);
 
 if (finalUrl.length > 2048) {
   copyMetaForJson();
-  finalUrl = (`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "new?&filename=" + filename);
+  finalUrl = (`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2() + "?&filename=" + filename);
 } 
 
 setTimeout(function openWindows() {

@@ -132,6 +132,6 @@ function getValue(name){
     const encodedFileText = encodeURIComponent(fileText)
     
     //Open in a new tab
-  window.open(`https://github.com/${orgEl}/${repoEl}/new/main/bulk-payments/` + "new?value=" + encodedFileText +"&filename=" + filename);
+  window.open(`https://github.com/${orgEl}/${repoEl}/new/main/bulk-payments/` + "?value=" + encodedFileText +"&filename=" + filename);
     
   }

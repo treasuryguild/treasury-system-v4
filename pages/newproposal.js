@@ -127,6 +127,6 @@ function getValue(name){
     const encodedFileText = encodeURIComponent(fileText)
     
     //Open in a new tab
-  window.open(`https://github.com/${orgEl}/${repoEl}/new/main/proposals/` + "new?value=" + encodedFileText +"&filename=" + filename);
+  window.open(`https://github.com/${orgEl}/${repoEl}/new/main/proposals/` + "?value=" + encodedFileText +"&filename=" + filename);
     
   }

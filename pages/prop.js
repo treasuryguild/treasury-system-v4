@@ -667,7 +667,7 @@ return answer
 
   function openWindows() {
     window.open(`https://github.com/` + repo2(project) + `/issues/` + `new?assignees=miroslavrajh&title=${tok2}+${budget2(budgetB)}&labels=${budget2(budgetB)},${isSwap3},${pool},${fund}&body=` + encodedIssueText);  
-    window.open(`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2(budgetB) + "new?value=" + encodedFileText +"&filename=" + filename);
+    window.open(`https://github.com/${orgEl}/${repoEl}/new/main/Transactions/` + project.replace(/\s/g, '-') + "/" + githubQueryLink(pool) + githubQueryLink2(budgetB) + "?value=" + encodedFileText +"&filename=" + filename);
     setTimeout(() => {window.location.reload()}, 10000);
     //setTimeout(() => {console.log("this is the second message")}, 3000);
     //window.location.reload();
