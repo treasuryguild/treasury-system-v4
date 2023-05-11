@@ -1,0 +1,146 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "29c517b3e3ca3a84461661bf8995d9bc63ffb2e49da5841dd5f800d25b820f4e",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 14",
+    "7.70 USD in 18.83 ADA",
+    "0 USD in 2450.00 GMBL",
+    "11.45 USD in 28.00 AGIX",
+    "Transaction made by Treasury Guild @0.409",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "Call Rafael & Felix - 4.5.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "q0av5m": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "DFTH Team & sNET Check in 5.4.2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "q0av5m": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "DFTH Team Meet - 04.04.2023"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "pfwaf6": {
+          "gimbal": 150
+        },
+        "vpyqlf": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularity swarm",
+      "name": [
+        "Join Deep Funding Town Hall #6 - Earn 100 Gimbal & 2",
+        "AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "0cnk5v": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "r5nvwm": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "vpyqlf": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "ex7942": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "j3xc2c": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "pfwaf6": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "r83kme": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "xl6z2n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "lrs3kj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "70ygy0": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "q5xpal": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "q0av5m": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}

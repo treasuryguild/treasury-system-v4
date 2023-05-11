@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "dc2bec6fcd00f8222411b8bf9aee9fdfbc121d110ad3530e53e7933419e778b7",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "144.29 USD in 364.362969 ADA",
+    "Transaction made by Treasury Guild @0.396",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Swarm Pool Block rewards"
+      ],
+      "contributors": {
+        "Block rewards": {
+          "ADA": "364.362969"
+        }
+      }
+    }
+  ]
+}

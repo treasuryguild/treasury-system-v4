@@ -1,0 +1,118 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "fdb56932c6cf28a30b51f11a61b3c059227466951eacafd3c364f3531e1f9171",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 3",
+    "2613.21 USD in 6769.97 ADA",
+    "0 USD in 1000.00 GMBL",
+    "0.62 USD in 2.00 AGIX",
+    "Transaction made by Treasury Guild @0.386",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools - Zoom"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "812.4611399"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools - Miro"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "207.253886"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Adobe Illustrator"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "68.13471503"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Adobe  InDesign"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "68.13471503"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Swarm Gitbook"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "352.3316062"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Microsoft Excel"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "80.31088083"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Monthly Swarm contribution rewards"
+      ],
+      "label": [
+        "Swarm and SingularityNet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "5181.34715",
+          "GMBL": "1000",
+          "AGIX": "2"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "87b432ba0a029577581fc7827290fbd6f19fe0c08688d3e414315574143c24b6",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 4",
+    "14573.39 USD in 39818.01 ADA",
+    "0 USD in 7000.00 GMBL",
+    "1.96 USD in 8.00 AGIX",
+    "Transaction made by Treasury Guild @0.366",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools - Zoom"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "854.52316"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Miro"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "217.983651"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Adobe Illustrator"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "71.662125"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Adobe  InDesign"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "71.662125"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Swarm Gitbook"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "370.572207"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Microsoft Excel"
+      ],
+      "label": [
+        "General Admin stuff"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "84.468664"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Treasury and Accounting"
+      ],
+      "label": [
+        "Swarm Contributor"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "10899.18256",
+          "GMBL": "2000",
+          "AGIX": "2"
+        },
+        "4mg27n": {
+          "ADA": "10899.18256",
+          "GMBL": "2000",
+          "AGIX": "2"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Swarm and SingularityNet"
+      ],
+      "label": [
+        "Swarm Contributor"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "10899.18256",
+          "GMBL": "2000",
+          "AGIX": "2"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Swarm and SingularityNet"
+      ],
+      "label": [
+        "Swarm Contributor"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "5449.591281",
+          "GMBL": "1000",
+          "AGIX": "2"
+        }
+      }
+    }
+  ]
+}

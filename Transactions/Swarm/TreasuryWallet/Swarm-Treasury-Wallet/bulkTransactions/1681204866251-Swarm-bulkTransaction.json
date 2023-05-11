@@ -1,0 +1,211 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "e515903dcfa1baf742d3a96d2ccd28ff8791726fcfa8dfcf031459fb1ba04f42",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 14",
+    "966.57 USD in 2369.03 ADA",
+    "0 USD in 6825.00 GMBL",
+    "970.69 USD in 2385.00 AGIX",
+    "Transaction made by Treasury Guild @0.408",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Idea Fest Fund 9 - Hosts - ( Swarm Veterans Only )",
+        "250 Ada, 250 AGIX & 500 Gimbal"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "9qgazv": {
+          "gimbal": 500,
+          "ada": 250,
+          "AGIX": 250
+        },
+        "rcgctj": {
+          "gimbal": 500,
+          "ada": 250,
+          "AGIX": 250
+        },
+        "ptetnl": {
+          "gimbal": 500,
+          "ada": 250,
+          "AGIX": 250
+        },
+        "qsty7m": {
+          "gimbal": 500,
+          "ada": 250,
+          "AGIX": 250
+        },
+        "f0qnsw": {
+          "gimbal": 500,
+          "ada": 250,
+          "AGIX": 250
+        },
+        "ul20uj": {
+          "gimbal": 500,
+          "ada": 250,
+          "AGIX": 250
+        },
+        "u7ywg4": {
+          "gimbal": 500,
+          "ada": 250,
+          "AGIX": 250
+        },
+        "8f9pmj": {
+          "gimbal": 500,
+          "ada": 250,
+          "AGIX": 250
+        },
+        "55smty": {
+          "gimbal": 500,
+          "ada": 250,
+          "AGIX": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "ATH #81 Host ATH Introduction - 50 Ada, 50 AGIX & 50",
+        "Gimbal"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "ul20uj": {
+          "gimbal": 50,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the CIP-1694 - Secret Plutocracy - Earn 25",
+        "Ada 25 Agix 100 Gimbals"
+      ],
+      "label": [
+        "Community Communication,timestamping,Content Creation"
+      ],
+      "contributors": {
+        "eend5s": {
+          "gimbal": 100,
+          "ada": 25,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Timestamp the Open dApp Framework - Earn  40 Ada 40 Agix 100",
+        "Gimbals"
+      ],
+      "label": [
+        "Community Communication,timestamping,Content Creation"
+      ],
+      "contributors": {
+        "c70dqg": {
+          "gimbal": 100,
+          "ada": 40,
+          "AGIX": 40
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Saturday Swarm Session 08.04"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "9qgazv": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "r83kme": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Coordination Call - 04.04.23"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team - April 10 - 100",
+        "Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Community Support Q1"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 475,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "d96c5ff3650f82a1e9d89414ec6cb5f6bf08b965aebf35431316d1b04a6e9c15",
+  "msg": [
+    "Lead-Generators Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/402760",
+    "Recipients: 1",
+    "7841.41 USD in 18894.970029 ADA",
+    "Transaction made by Treasury Guild @0.415",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Lead-Generators",
+      "label": "Incoming",
+      "description": [
+        "Last instalment from IOG"
+      ],
+      "contributors": {
+        "IOG": {
+          "ADA": "18894.970029"
+        }
+      }
+    }
+  ]
+}

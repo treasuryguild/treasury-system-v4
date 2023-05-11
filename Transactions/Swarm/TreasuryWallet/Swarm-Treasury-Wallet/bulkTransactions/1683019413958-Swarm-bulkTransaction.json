@@ -1,0 +1,98 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "8c841dbbe0a5689a5908a4f68d783a83d5ee31376231bfedbb508e1731417a2a",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 3",
+    "1.56 USD in 4.03 ADA",
+    "0 USD in 2878.00 GMBL",
+    "122.14 USD in 394.00 AGIX",
+    "Transaction made by Treasury Guild @0.387",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "gimbal": 28,
+          "AGIX": 4
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "How AI is going to change the future - 07Apr - 150 USD"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "j5wkd0": {
+          "gimbal": 2500,
+          "AGIX": 351
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Meeting for Video Workgroup - 07Apr23 - 10USD"
+      ],
+      "label": [
+        "Operations,Community Communication,Coordination"
+      ],
+      "contributors": {
+        "z5rk0k": {
+          "gimbal": 100,
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Submitting your Portfolio for the initial Video Workgroup"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "z5rk0k": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "j5wkd0": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "11.04.23 - My First Bounty Task - Introduction Task",
+        "- 10 AGIX"
+      ],
+      "label": [
+        "Onboarding"
+      ],
+      "contributors": {
+        "j5wkd0": {
+          "gimbal": 50,
+          "AGIX": 10
+        }
+      }
+    }
+  ]
+}

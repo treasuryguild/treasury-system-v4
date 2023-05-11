@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "8bac587707eedc2c19c951650c559c395a49b4353f4b0cbede8a86bd560ed6a4",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "910.22 USD in 2310.200000 ADA",
+    "Transaction made by Treasury Guild @0.394",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Donation from Cardano Scaling Solutions challenge rewards"
+      ],
+      "contributors": {
+        "6zcveq": {
+          "ADA": "2310.2"
+        }
+      }
+    }
+  ]
+}
