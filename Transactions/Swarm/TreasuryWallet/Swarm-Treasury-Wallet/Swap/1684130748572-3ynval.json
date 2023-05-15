@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "1544357667c5def59b3109fe4983cd25c92a0159627166160499e475eeaf2804",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "111.90 USD in 300.000000 ADA",
+    "Transaction made by Treasury Guild @0.373",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Swap",
+      "description": [
+        "Sending 300 ADA to Snet Ambasador wallet for 452.12",
+        "AGIX tokens"
+      ],
+      "contributors": {
+        "3ynval": {
+          "ADA": "300"
+        }
+      }
+    }
+  ]
+}
