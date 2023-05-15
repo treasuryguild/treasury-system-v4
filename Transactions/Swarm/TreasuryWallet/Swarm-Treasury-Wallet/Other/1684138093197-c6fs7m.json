@@ -1,0 +1,31 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "217b5736094f08ea9b96e67172348025bd4aecb2f9754a4ed9e5a0d4227973e9",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "18.70 USD in 50.000000 ADA",
+    "0 USD in 10000.00 GMBL",
+    "Transaction made by Treasury Guild @0.374",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Other",
+      "description": [
+        "Experiment of 50 ADA and 10K GMBL tokens for Snet Ambasador",
+        "Governance Workgroup"
+      ],
+      "contributors": {
+        "c6fs7m": {
+          "ADA": "50",
+          "GMBL": "10000"
+        }
+      }
+    }
+  ]
+}
