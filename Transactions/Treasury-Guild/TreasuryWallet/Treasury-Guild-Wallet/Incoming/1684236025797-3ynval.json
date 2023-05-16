@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "f14b1a3ba42be71761a8a5f81b8e3d95e1fc5661eeabad8b0038ff7ba53a6714",
+  "msg": [
+    "Treasury-Guild Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.57 USD in 1.551690 ADA",
+    "0 USD in 322.00 GMBL",
+    "0.26 USD in 1.00 AGIX",
+    "Transaction made by Treasury Guild @0.367",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury-Guild",
+      "label": "Incoming",
+      "description": [
+        "Distribution fees"
+      ],
+      "contributors": {
+        "3ynval": {
+          "ADA": "1.551690",
+          "GMBL": "322",
+          "AGIX": "1"
+        }
+      }
+    }
+  ]
+}
