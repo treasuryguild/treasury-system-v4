@@ -1,0 +1,44 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "5ef6b7bf1a8cddd40d414c885861c9ef089638bf875ca027c1703d05a3723a1d",
+  "msg": [
+    "Treasury-Guild Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 4",
+    "1.98 USD in 5.38 ADA",
+    "597.17 USD in 2288.00 AGIX",
+    "Transaction made by Treasury Guild @0.368",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury Guild",
+      "description": [
+        "Rewards for SNET Treasury and accounting"
+      ],
+      "label": [
+        "Monthly Rewards"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ADA": "1.344798",
+          "AGIX": "572"
+        },
+        "uxd83r": {
+          "ADA": "1.344798",
+          "AGIX": "572"
+        },
+        "u7ywg4": {
+          "ADA": "1.344798",
+          "AGIX": "572"
+        },
+        "rcgctj": {
+          "ADA": "1.344798",
+          "AGIX": "572"
+        }
+      }
+    }
+  ]
+}
