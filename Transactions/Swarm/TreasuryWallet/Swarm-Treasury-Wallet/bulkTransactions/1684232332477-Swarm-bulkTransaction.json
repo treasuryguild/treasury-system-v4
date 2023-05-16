@@ -1,0 +1,36 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "33af1600fadfc1bc7c7dd51516552a9d3b1a5b07294d13a1db07abe745c32954",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 3",
+    "850.08 USD in 2310.00 ADA",
+    "Transaction made by Treasury Guild @0.368",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Donation from Cardano Scaling Solutions challenge rewards"
+      ],
+      "label": [
+        "Operations, Community Communication"
+      ],
+      "contributors": {
+        "f0qnsw": {
+          "ada": 770
+        },
+        "8n4qu4": {
+          "ada": 770
+        },
+        "9qgazv": {
+          "ada": 770
+        }
+      }
+    }
+  ]
+}
