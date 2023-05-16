@@ -1,0 +1,129 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "fbfb3df805f3b5554cbbc44dd88c5536007eba4ee20e0f142ac28c8ad2e15909",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 5",
+    "347.44 USD in 939.03 ADA",
+    "0 USD in 1400.00 GMBL",
+    "5.83 USD in 22.00 AGIX",
+    "Transaction made by Treasury Guild @0.370",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Website Hosting - 228 USD"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100,
+          "ada": 616,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call SNET & Swarm - 15.5.2023"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "xl6z2n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call Tevo & Felix - 7.5.2023"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call Tevo & Felix - 9.5.2023"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Call Tevo & Felix - 14.5.2023"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Meshjs support - USD 118"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "mt3al0": {
+          "ada": 319,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}
