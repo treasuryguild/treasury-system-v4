@@ -1,0 +1,372 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "d24ee1d30d55844fbf43482e494d54b21658845724bd091d1ecccc20e8dc7390",
+  "msg": [
+    "Governance-Guild Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 8",
+    "486.72 USD in 1319.03 ADA",
+    "0 USD in 7350.00 GMBL",
+    "Transaction made by Treasury Guild @0.369",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GG Call 27 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 100,
+          "ada": 263
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly Call 27"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly Call 25"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GG Call 25 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "contributors": {
+        "55smty": {
+          "gimbal": 100,
+          "ada": 263
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GG Call 24 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "contributors": {
+        "jhyhwp": {
+          "gimbal": 100,
+          "ada": 263
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly Call 26"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Vanessa activity list April"
+      ],
+      "label": [
+        "Documentation,Operations,Community Communication,Reporting"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GG Call MEETING #26 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100,
+          "ada": 263
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Miro activity list -April 2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly Call 24"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "contributors": {
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Weekly Call 23"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 200
+        },
+        "mg3a4k": {
+          "gimbal": 200
+        },
+        "7lnpzs": {
+          "gimbal": 200
+        },
+        "55smty": {
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "gimbal": 200
+        },
+        "jhyhwp": {
+          "gimbal": 200
+        },
+        "4mg27n": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Chair Weekly GG Call 23 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100,
+          "ada": 263
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Tevo Activity List April 2023"
+      ],
+      "label": [
+        "Documentation,Operations,Community Communication,Reporting"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Andre activity list April 2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 900
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Tevo Activity List March 2023"
+      ],
+      "label": [
+        "Documentation,Operations,Community Communication,Reporting"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Miro activity list -March 2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Nori Activity List March 2023"
+      ],
+      "label": [
+        "Documentation,Operations,Community Communication,Reporting"
+      ],
+      "contributors": {
+        "jhyhwp": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Andre activity list March 2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 700
+        }
+      }
+    },
+    {
+      "taskCreator": "governance guild",
+      "name": [
+        "Vanessa activity list March 2023"
+      ],
+      "label": [
+        "Documentation,Operations,Community Communication,Reporting"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 250
+        }
+      }
+    }
+  ]
+}

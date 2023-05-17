@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "fec7e022d356892efc3898e5f808a3f8873297ea500f22d4bed7f34a35096c55",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.49 USD in 1.344798 ADA",
+    "599.46 USD in 2288.00 AGIX",
+    "Transaction made by Treasury Guild @0.368",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Other",
+      "description": [
+        "Monthly rewards for Treasury Guild"
+      ],
+      "contributors": {
+        "Treasury Guild": {
+          "ADA": "1.344798",
+          "AGIX": "2288"
+        }
+      }
+    }
+  ]
+}

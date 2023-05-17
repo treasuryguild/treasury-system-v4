@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "cf0aef69b0ad5b775e56f63d57784473ea3ad5ffa02eebd25dcaededb97c0dcd",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.50 USD in 1.344798 ADA",
+    "0 USD in 200000.00 GMBL",
+    "Transaction made by Treasury Guild @0.369",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Incoming",
+      "description": [
+        "Incoming 200K GMBL tokens from swarm wallet"
+      ],
+      "contributors": {
+        "Swarm": {
+          "ADA": "1.344798",
+          "GMBL": "200000"
+        }
+      }
+    }
+  ]
+}

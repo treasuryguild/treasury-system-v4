@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "9a951b83acbd7e3ea66ad27c67f4958c697a7bfa69a45b3e4fd95c4eabd75767",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.51 USD in 1.379280 ADA",
+    "Transaction made by Treasury Guild @0.367",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Other",
+      "description": [
+        "Sending 500k TestTokens to Andre to burn all tokens"
+      ],
+      "contributors": {
+        "Burning test tokens": {
+          "ADA": "1.379280"
+        }
+      }
+    }
+  ]
+}
