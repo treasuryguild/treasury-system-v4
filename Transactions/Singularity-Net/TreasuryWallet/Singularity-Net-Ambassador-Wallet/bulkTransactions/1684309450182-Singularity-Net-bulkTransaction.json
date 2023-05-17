@@ -1,0 +1,134 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "24146d1328c3c64f59248a14e8af9d02666586336c0617a128bc7bc1db85aa13",
+  "msg": [
+    "Singularity-Net Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 8",
+    "3.97 USD in 10.76 ADA",
+    "0 USD in 5353.00 GMBL",
+    "7846.41 USD in 30295.00 AGIX",
+    "Transaction made by Treasury Guild @0.369",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "gimbal": 53,
+          "AGIX": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Rojo's Activity List - April 23"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting,Documenting"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 5100,
+          "AGIX": 4285
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Felix Activity List April 2023"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting,Documenting"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 4285
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Peter Activity List April 23"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting,Documenting"
+      ],
+      "contributors": {
+        "xl6z2n": {
+          "gimbal": 100,
+          "AGIX": 4285
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "tx2 - Fly's Activity List - April '23"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting,Documenting"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 4285
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "tx2 - Tevo Activity List March and April 2023"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting,Documenting"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 4285
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "tx2 - Headelf Activity List March/April 2023"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting,Documenting"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 4285
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "tx2 - Cran's Activity List - March & Apri"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting,Documenting"
+      ],
+      "contributors": {
+        "j3xc2c": {
+          "AGIX": 4285
+        }
+      }
+    }
+  ]
+}
