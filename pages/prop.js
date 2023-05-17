@@ -24,6 +24,7 @@ let balGMBL = "";
 let balDJED = "";
 let balCOPI = "";
 let balNTX = "";
+let balGovWG = "";
 let tokensList = [];
 const bi = [];
 const budgetI = [];
@@ -235,6 +236,9 @@ window.onload = function() {
                   case 'NTX':
                     balNTX = (topData2.tokens[i].quantity/1000000).toFixed(2);
                     break;
+                  case 'GovWG':
+                    balGovWG = (topData2.tokens[i].quantity/1000000).toFixed(2);
+                    break;
                 }
               }
           }
@@ -304,14 +308,15 @@ async function copyMetaData() {
    const djed = (getValue('djed')).replace(/\s/g, '').replace(/,/g, '.');
    const copi = (getValue('copi')).replace(/\s/g, '').replace(/,/g, '.');
    const ntx = (getValue('ntx')).replace(/\s/g, '').replace(/,/g, '.');
+   const GovWG = (getValue('GovWG')).replace(/\s/g, '').replace(/,/g, '.');
    const description = (getValue('description')).replace(/,/g, '.');
    const xrate = (getValue('xrate')).replace(/\s/g, '').replace(/,/g, '.');
    let tok = "";
    let tok2 = "";
    let tok3 = [];
-   let tokens = [ada, gmbl, agix, djed, copi, ntx];
-   let tokens2 = ["ada", "gmbl", "agix", "djed", "copi", "ntx"];
-   let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "COPI", "NTX"];
+   let tokens = [ada, gmbl, agix, djed, copi, ntx, GovWG];
+   let tokens2 = ["ada", "gmbl", "agix", "djed", "copi", "ntx", "GovWG"];
+   let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "COPI", "NTX", "GovWG"];
    
  
    for (let i in tokens) {
@@ -330,6 +335,7 @@ let totalAGIX = (parseFloat(agix)?parseFloat(agix):0)
 let totalDJED = (parseFloat(djed)?parseFloat(djed):0)
 let totalCOPI = (parseFloat(copi)?parseFloat(copi):0)
 let totalNTX = (parseFloat(ntx)?parseFloat(ntx):0)
+let totalGovWG = (parseFloat(GovWG)?parseFloat(GovWG):0)
 let tAda = (totalADA>0?(`
 "${totalADA>0?((totalADA*currentXchangeAda).toFixed(2) + " USD in " + totalADA.toFixed(2) + " ADA"):""}",`):"");
 let tGmbl = (totalGMBL>0?(`
@@ -342,7 +348,9 @@ let tCopi = (totalCOPI>0?(`
 "${totalCOPI>0?((totalCOPI*currentXchangeCopi).toFixed(2) + " USD in " + totalCOPI.toFixed(2) + " COPI"):""}",`):"");
 let tNtx = (totalNTX>0?(`
 "${totalNTX>0?((totalNTX*currentXchangeNtx).toFixed(2) + " USD in " + totalNTX.toFixed(2) + " NTX"):""}",`):"");
-let totalTokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tCopi}${tNtx}`
+let tGovWG = (totalGovWG>0?(`
+"${totalGovWG>0?("0" + " USD in " + totalGovWG.toFixed(2) + " GovWG"):""}",`):"");
+let totalTokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tCopi}${tNtx}${tGovWG}`
 
 
 for (let i = 0; i < descript.length; i++) {
@@ -407,6 +415,7 @@ async function validateSubmission(){
   const djed = (getValue('djed')).replace(/\s/g, '').replace(/,/g, '.');
   const copi = (getValue('copi')).replace(/\s/g, '').replace(/,/g, '.');
   const ntx = (getValue('ntx')).replace(/\s/g, '').replace(/,/g, '.');
+  const GovWG = (getValue('GovWG')).replace(/\s/g, '').replace(/,/g, '.');
   const description = (getValue('description')).replace(/,/g, '.');
   const pool = poolJ
   const idea = ideaJ
@@ -424,9 +433,9 @@ async function validateSubmission(){
   let tok = "";
   let tok2 = "";
   let tok3 = [];
-  let tokens = [ada, gmbl, agix, djed, copi, ntx];
-  let tokens2 = ["ada", "gmbl", "agix", "djed", "copi", "ntx"];
-  let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "COPI", "NTX"];
+  let tokens = [ada, gmbl, agix, djed, copi, ntx, GovWG];
+  let tokens2 = ["ada", "gmbl", "agix", "djed", "copi", "ntx", "GovWG"];
+  let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "COPI", "NTX", "GovWG"];
   let isSwap3 = "";
 
 if (budgetB == "Incoming") {
@@ -471,6 +480,9 @@ ${tokens3[i] === "ADA" ? parseFloat(tokens[i]).toFixed(2) : parseFloat(tokens[i]
         case 'NTX':
           newBal = `${newBal}, "${parseFloat(balNTX).toFixed(2)} NTX"`;
           break;
+        case 'GovWG':
+          newBal = `${newBal}, "${parseFloat(balGovWG).toFixed(2)} GovWG"`;
+          break;
       }
      }
   } else if (walletStatus2 == true) {
@@ -492,6 +504,9 @@ ${tokens3[i] === "ADA" ? parseFloat(tokens[i]).toFixed(2) : parseFloat(tokens[i]
        case 'NTX':
          newBal = `${newBal}, "${isNaN((parseFloat(balNTX) - parseFloat(ntx)).toFixed(2)) ? parseFloat(balNTX).toFixed(2) : (parseFloat(balNTX) - parseFloat(ntx)).toFixed(2)} NTX"`;
          break;
+       case 'GovWG':
+         newBal = `${newBal}, "${isNaN((parseFloat(balGovWG) - parseFloat(GovWG)).toFixed(2)) ? parseFloat(balGovWG).toFixed(2) : (parseFloat(balGovWG) - parseFloat(GovWG)).toFixed(2)} GovWG"`;
+         break;
      }
     }
   } else if (walletStatus2 == false) {
@@ -512,6 +527,9 @@ ${tokens3[i] === "ADA" ? parseFloat(tokens[i]).toFixed(2) : parseFloat(tokens[i]
          break;
        case 'NTX':
          newBal = `${newBal}, "${parseFloat(balNTX).toFixed(2)} NTX"`;
+         break;
+       case 'GovWG':
+         newBal = `${newBal}, "${parseFloat(balGovWG).toFixed(2)} GovWG"`;
          break;
      }
     }
@@ -546,6 +564,7 @@ let totalAGIX = (parseFloat(agix)?parseFloat(agix):0)
 let totalDJED = (parseFloat(djed)?parseFloat(djed):0)
 let totalCOPI = (parseFloat(copi)?parseFloat(copi):0)
 let totalNTX = (parseFloat(ntx)?parseFloat(ntx):0)
+let totalGovWG = (parseFloat(GovWG)?parseFloat(GovWG):0)
 let tAda = (totalADA>0?(`
 "${totalADA>0?((totalADA*currentXchangeAda).toFixed(2) + " USD in " + totalADA.toFixed(6) + " ADA"):""}",`):"");
 let tGmbl = (totalGMBL>0?(`
@@ -558,7 +577,9 @@ let tCopi = (totalCOPI>0?(`
 "${totalCOPI>0?((totalCOPI*currentXchangeCopi).toFixed(2) + " USD in " + totalCOPI.toFixed(2) + " COPI"):""}",`):"");
 let tNtx = (totalNTX>0?(`
 "${totalNTX>0?((totalNTX*currentXchangeNtx).toFixed(2) + " USD in " + totalNTX.toFixed(2) + " NTX"):""}",`):"");
-let totalTokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tCopi}${tNtx}`
+let tGovWG = (totalGovWG>0?(`
+"${totalGovWG>0?("0" + " USD in " + totalGovWG.toFixed(2) + " GovWG"):""}",`):"");
+let totalTokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tCopi}${tNtx}${tGovWG}`
 
 for (let i = 0; i < descript.length; i++) {
   console.log("descript",descript[i])

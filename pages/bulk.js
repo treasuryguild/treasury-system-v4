@@ -29,6 +29,7 @@ let balGMBL = "";
 let balDJED = "";
 let balCOPI = "";
 let balNTX = "";
+let balGovWG = "";
 let tokensList = [];
 const bi = [];
 const budgetI = [];
@@ -49,6 +50,7 @@ let totalAGIX = 0;
 let totalDJED = 0;
 let totalCOPI = 0;
 let totalNTX = 0;
+let totalGovWG = 0;
 let tokens = [];
 let ada = 0;
 let gmbl = 0;
@@ -56,6 +58,7 @@ let agix = 0;
 let djed = 0;
 let copi = 0;
 let ntx = 0;
+let GovWG = 0;
 let totalRecipients = 0;
 let currentXchangeAda = 0;
 let currentXchangeAgix = 0;
@@ -266,6 +269,9 @@ window.onload = function() {
                     break;
                   case 'NTX':
                     balNTX = (topData2.tokens[i].quantity/1000000).toFixed(2);
+                    break;
+                  case 'GovWG':
+                    balGovWG = (topData2.tokens[i].quantity/1000000).toFixed(2);
                     break;
                 }
               }
@@ -482,7 +488,7 @@ async function loadSheet() {
               csvJson2[newValue][val] = csvJson[i][val]
             } else {
               csvJson[newValue][val] = `${csvJson[newValue][val]},${csvJson[i][val]}` //First value gets added with csvJson[newValue][val], because newValue points to firts index before modifying it.
-              csvJson2[newValue][val] = (n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX"?(parseFloat(csvJson2[newValue][val]?csvJson2[newValue][val]:0) + parseFloat(csvJson[i][val])).toFixed(6):0);
+              csvJson2[newValue][val] = (n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX" || n[k] == "GovWG"?(parseFloat(csvJson2[newValue][val]?csvJson2[newValue][val]:0) + parseFloat(csvJson[i][val])).toFixed(6):0);
             }
              
             
@@ -496,12 +502,12 @@ async function loadSheet() {
               td[k] = document.createElement('td');
               //copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson2[newValue][val]}`
               valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>${i}copy</button>`
-              copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX"?`${valBut}`:""}`; 
+              copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX" || n[k] == "GovWG"?`${valBut}`:""}`; 
               adaVal = (csvJson[newValue][val]?csvJson[newValue][val]:0);
               tokVal = (csvJson2[newValue][val]?csvJson2[newValue][val]:0);
               tokVal2 = (csvJson[i][val]?csvJson[i][val]:0);
               
-              if ((n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX") && (sumStr(adaVal) > 0)) {
+              if ((n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX" || n[k] == "GovWG") && (sumStr(adaVal) > 0)) {
                 tokenCount++
                 if (tokenCount > 1) {
                   tokenCountAmount = tokenCountAmount + 0.206892;
@@ -530,12 +536,12 @@ async function loadSheet() {
             td[k] = document.createElement('td');
             //copyAddress = `${n[k] == "payeeID"?"wallet-address":csvJson[i][val]}`
             valBut = `<button type='button' onclick='copyValue(${fieldId})' id='${fieldId}' class ='copyButton'>${i}copy</button>`
-            copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX"?`${valBut}`:""}`;       
+            copyButton = `${n[k] == "payeeID" || n[k] == "ADA" || n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX" || n[k] == "GovWG"?`${valBut}`:""}`;       
             adaVal = csvJson[i][val]
             
             
             console.log("none duplicates", adaVal)
-            if ((n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX") && (parseInt(adaVal) > 0)) {
+            if ((n[k] == "GMBL" || n[k] == "AGIX" || n[k] == "DJED" || n[k] == "COPI" || n[k] == "NTX" || n[k] == "GovWG") && (parseInt(adaVal) > 0)) {
               tokenCount++
               if (tokenCount > 1) {
                 tokenCountAmount2 = tokenCountAmount2 + 0.206892;
@@ -703,6 +709,7 @@ async function seprateTasks() {
   totalDJED = 0;
   totalCOPI = 0;
   totalNTX = 0;
+  totalGovWG = 0;
 
   for (let i in reps.contributors) {    
     if (reps.contributors[i].contributionID.length > 1) {
@@ -755,6 +762,9 @@ async function seprateTasks() {
           if (reps.contributors[k].NTX[m] > 0) {
             contTokens.NTX = (reps.contributors[k].NTX[m])
           }
+          if (reps.contributors[k].GovWG[m] > 0) {
+            contTokens.GovWG = (reps.contributors[k].GovWG[m])
+          }
           //amountTotal = `{${amountADA}${amountGMBL?amountGMBL:""}${amountAGIX?amountAGIX:""}}`
           //amountTotal = contTokens;
           //amountTotal = JSON.stringify(amountTotal, null, 2);
@@ -778,6 +788,7 @@ async function seprateTasks() {
           totalDJED = parseFloat(totalDJED) + parseFloat(reps.contributors[k].DJED[m])
           totalCOPI = parseFloat(totalCOPI) + parseFloat(reps.contributors[k].COPI[m])
           totalNTX = parseFloat(totalNTX) + parseFloat(reps.contributors[k].NTX[m])
+          totalGovWG = parseFloat(totalGovWG) + parseFloat(reps.contributors[k].GovWG[m])
         }
       }
     }
@@ -790,7 +801,7 @@ function deworkJsonToCsv() {
   const deworkData = JSON.parse(getValue('dework'));
   const json = deworkData.metadata[674];
   let deworkGroup = "";
-  let csv = "taskCreator,contributionID,contribution,description,payeeID,ADA,GMBL,AGIX,DJED,COPI,NTX\n";
+  let csv = "taskCreator,contributionID,contribution,description,payeeID,ADA,GMBL,AGIX,DJED,COPI,NTX,GovWG\n";
   let contributionID = 1;
   
   json.contributions.forEach((contribution) => {
@@ -807,8 +818,9 @@ function deworkJsonToCsv() {
       const DJED = payeeData.DJED || "";
       const COPI = payeeData.COPI || "";
       const NTX = payeeData.NTX || "";
+      const GovWG = payeeData.GovWG || "";
       deworkGroup = contribution.taskCreator;
-      csv += `${contribution.taskCreator},${contributionID},${contributionLabel},"${contributionDescription}",${payeeID},${ADA},${GMBL},${AGIX},${DJED},${COPI},${NTX}\n`;
+      csv += `${contribution.taskCreator},${contributionID},${contributionLabel},"${contributionDescription}",${payeeID},${ADA},${GMBL},${AGIX},${DJED},${COPI},${NTX},${GovWG}\n`;
     });
     
     contributionID++;
@@ -838,6 +850,7 @@ if (bulkType === "Dework Bulk") {
   totalDJED = 0;
   totalCOPI = 0;
   totalNTX = 0;
+  totalGovWG = 0;
   let reps = [];
   let repsADA = {};
   totalRecipients = 1;
@@ -869,6 +882,8 @@ if (bulkType === "Dework Bulk") {
             totalCOPI = totalCOPI + contVals[n][l]
           } else if (l === "ntx" || l === "NTX") {
             totalNTX = totalNTX + contVals[n][l]
+          } else if (l === "GovWG") {
+            totalGovWG = totalGovWG + contVals[n][l]
           } 
         }     
     }
@@ -888,6 +903,7 @@ if (bulkType === "Dework Bulk") {
   djed = (parseFloat(totalDJED).toFixed(2)>0?parseFloat(totalDJED).toFixed(2):"");
   copi = (parseFloat(totalCOPI).toFixed(2)>0?parseFloat(totalCOPI).toFixed(2):"");
   ntx = (parseFloat(totalNTX).toFixed(2)>0?parseFloat(totalNTX).toFixed(2):"");
+  GovWG = (parseFloat(totalGovWG).toFixed(2)>0?parseFloat(totalGovWG).toFixed(2):"");
   descript = JSON.stringify(mData.contributions, null, 2);
   //console.log("repsADA", repsADA)
 } else {
@@ -899,6 +915,7 @@ if (bulkType === "Dework Bulk") {
   djed = (parseFloat(totalDJED).toFixed(2)>0?parseFloat(totalDJED).toFixed(2):"");
   copi = (parseFloat(totalCOPI).toFixed(2)>0?parseFloat(totalCOPI).toFixed(2):"");
   ntx = (parseFloat(totalNTX).toFixed(2)>0?parseFloat(totalNTX).toFixed(2):"");
+  GovWG = (parseFloat(totalGovWG).toFixed(2)>0?parseFloat(totalGovWG).toFixed(2):"");
   descript = JSON.stringify(contributions, null, 2);
 }
 
@@ -914,7 +931,9 @@ let tAda = (totalADA>0?(`
 "${totalCOPI>0?((totalCOPI*currentXchangeCopi).toFixed(2) + " USD in " + totalCOPI.toFixed(2) + " COPI"):""}",`):"");
   let tNtx = (totalNTX>0?(`
 "${totalNTX>0?((totalNTX*currentXchangeNtx).toFixed(2) + " USD in " + totalNTX.toFixed(2) + " NTX"):""}",`):"");
-let tokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tCopi}${tNtx}`
+  let tGovWG = (totalGovWG>0?(`
+"${totalGovWG>0?("0" + " USD in " + totalGovWG.toFixed(2) + " GovWG"):""}",`):"");
+let tokens = `${tAda}${tGmbl}${tAgix}${tDjed}${tCopi}${tNtx}${tGovWG}`
 let txid = "";
 if (localStorage.getItem("typeMeta") === "submit" || localStorage.getItem("typeMeta") === "copyForJson") {
   txid = (`
@@ -999,9 +1018,9 @@ async function validateSubmission(){
   let newBal = 0;
   let tok = "";
   let tok2 = "";
-  tokens = [ada, gmbl, agix, djed, copi, ntx];
-  let tokens2 = ["ada", "gmbl", "agix", "djed", "copi", "ntx"];
-  let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "COPI", "NTX"];
+  tokens = [ada, gmbl, agix, djed, copi, ntx, GovWG];
+  let tokens2 = ["ada", "gmbl", "agix", "djed", "copi", "ntx", "GovWG"];
+  let tokens3 = ["ADA", "GMBL", "AGIX", "DJED", "COPI", "NTX", "GovWG"];
 
   for (let i in tokens) {
     if (tokens[i] != "") {
@@ -1032,6 +1051,9 @@ ${tokens3[i] === "ADA" ? (parseFloat(tokens[i])).toFixed(2) : parseFloat(tokens[
        case 'NTX':
          newBal = `${newBal}, "${isNaN((parseFloat(balNTX) - parseFloat(ntx)).toFixed(2)) ? parseFloat(balNTX).toFixed(2) : (parseFloat(balNTX) - parseFloat(ntx)).toFixed(2)} NTX"`;
          break;
+       case 'GovWG':
+         newBal = `${newBal}, "${isNaN((parseFloat(balGovWG) - parseFloat(GovWG)).toFixed(2)) ? parseFloat(balGovWG).toFixed(2) : (parseFloat(balGovWG) - parseFloat(GovWG)).toFixed(2)} GovWG"`;
+         break;
      }
     }
   } else if (walletStatus2 == false) {
@@ -1052,6 +1074,9 @@ ${tokens3[i] === "ADA" ? (parseFloat(tokens[i])).toFixed(2) : parseFloat(tokens[
          break;
        case 'NTX':
          newBal = `${newBal}, "${parseFloat(balNTX).toFixed(2)} NTX"`;
+         break;
+       case 'GovWG':
+         newBal = `${newBal}, "${parseFloat(balGovWG).toFixed(2)} GovWG"`;
          break;
      }
     }

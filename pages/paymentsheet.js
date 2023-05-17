@@ -12,7 +12,7 @@ let paymentList = "";
 let val = [];
 let fieldArr2 = [];
 //    description == dework task titles thats why it is called name in metadata...
-let heading = ["taskCreator","contributionID","contribution","description","payeeID","ADA","GMBL","AGIX","DJED","COPI","NTX"]
+let heading = ["taskCreator","contributionID","contribution","description","payeeID","ADA","GMBL","AGIX","DJED","COPI","NTX","GovWG"]
 //  
 let propValue = "";
 let globValue = "";
@@ -67,7 +67,7 @@ function listQ(){
       ul.removeChild(ul.firstChild);
     }
 
-    for (let k = 0; k < 11; k++) {
+    for (let k = 0; k < 12; k++) {
         let th = document.createElement('th');
         th.innerHTML= heading[k]
         row.appendChild(th); 
@@ -77,7 +77,7 @@ function listQ(){
 
     for (let i = 0; i < paymentList; i++) {
 
-        for (let j = 0; j < 11; j++) {
+        for (let j = 0; j < 12; j++) {
           fieldId = fieldId + 1;
           fieldIdArr.push(fieldId);
           fieldArr2.push(fieldId)
@@ -103,20 +103,20 @@ function getValue(name){
     //save all the input values      Submit button moet in listQ function wees om values te kry
     let csvExport = "";
     for (let i = 0; i < l.length; i++) {
-      if ((i % 10) !== 0 || i == 0) {
+      if ((i % 11) !== 0 || i == 0) {
         csvExport = csvExport + l[i] + ","
       }
-      if ((i % 10) == 0 && i > 0) {
+      if ((i % 11) == 0 && i > 0) {
         csvExport = csvExport + l[i] + "\n"
       }  
     }
     for (i in fieldArr2) { 
       let val = document.getElementById(fieldArr2[i]).value
       console.log("value",val); 
-      if ((fieldArr2[i] % 11) !== 0) {
+      if ((fieldArr2[i] % 12) !== 0) {
         csvExport = csvExport + val + ","
       }
-      if ((fieldArr2[i] % 11) == 0 && i > 0) {
+      if ((fieldArr2[i] % 12) == 0 && i > 0) {
         csvExport = csvExport + val + "\n"
       }
     }
