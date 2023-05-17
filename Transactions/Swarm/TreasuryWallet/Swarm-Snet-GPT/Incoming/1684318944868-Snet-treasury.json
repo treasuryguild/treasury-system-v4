@@ -1,0 +1,31 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "325b5f5b699da929daa45717c1cd3242c4d2cede00cf5c50b1d9f9af1b0de458",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.49 USD in 1.344798 ADA",
+    "0.26 USD in 1.00 AGIX",
+    "Transaction made by Treasury Guild @0.367",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Test transaction of 1.344798 ADA and 1 AGIX token from",
+        "Snet treasury"
+      ],
+      "contributors": {
+        "Snet treasury": {
+          "ADA": "1.344798",
+          "AGIX": "1"
+        }
+      }
+    }
+  ]
+}
