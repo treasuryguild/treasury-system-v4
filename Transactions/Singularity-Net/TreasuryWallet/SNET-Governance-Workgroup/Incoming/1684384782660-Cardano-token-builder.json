@@ -8,7 +8,7 @@
     "Ideascale: ",
     "Recipients: 1",
     "0.75 USD in 2.000000 ADA",
-    "0 USD in 500.00 GovWG",
+    "0 USD in 499999 GovWG",
     "Transaction made by Treasury Guild @0.377",
     "https://www.treasuryguild.io/"
   ],
@@ -23,7 +23,7 @@
       "contributors": {
         "Cardano token builder": {
           "ADA": "2.000000",
-          "GovWG": "499.999"
+          "GovWG": "499999"
         }
       }
     }
