@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "679f619d9100503cd2e54376f6d0844e068db555464651a28b4c58be5f1efdb2",
+  "msg": [
+    "Edify Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/384982",
+    "Recipients: 1",
+    "5098.97 USD in 13383.132188 ADA",
+    "Transaction made by Treasury Guild @0.381",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Edify",
+      "label": "Incoming",
+      "description": [
+        "Last instalment for Small SPO Impact Business Programme",
+        "from IOG"
+      ],
+      "contributors": {
+        "IOG": {
+          "ADA": "13383.132188"
+        }
+      }
+    }
+  ]
+}
