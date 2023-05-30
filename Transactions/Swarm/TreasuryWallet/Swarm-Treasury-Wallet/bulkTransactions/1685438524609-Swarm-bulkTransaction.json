@@ -1,0 +1,166 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "9cc0894df561b9f85751bf6600ec1c811c9613056326d73f10002a8fe08f6082",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 4",
+    "8613.21 USD in 22666.34 ADA",
+    "0 USD in 4000.00 GMBL",
+    "2.46 USD in 8.00 AGIX",
+    "Transaction made by Treasury Guild @0.380",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools - Zoom"
+      ],
+      "label": [
+        "swarm tools"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "825.289473"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Miro"
+      ],
+      "label": [
+        "swarm tools"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "210.526315"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Adobe Illustrator"
+      ],
+      "label": [
+        "swarm tools"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "69.210526"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Adobe  InDesign"
+      ],
+      "label": [
+        "swarm tools"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "69.210526"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Swarm Gitbook"
+      ],
+      "label": [
+        "swarm tools"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "357.894736"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Tools -  Microsoft Excel"
+      ],
+      "label": [
+        "swarm tools"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "81.578947"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Monthly rewards"
+      ],
+      "label": [
+        "swarm contributor"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "5263.157895",
+          "GMBL": "1000",
+          "AGIX": "2"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Monthly rewards"
+      ],
+      "label": [
+        "swarm contributor"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "5263.157895",
+          "GMBL": "1000",
+          "AGIX": "2"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Monthly rewards"
+      ],
+      "label": [
+        "swarm contributor"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "5263.157895",
+          "GMBL": "1000",
+          "AGIX": "2"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Monthly rewards"
+      ],
+      "label": [
+        "swarm contributor"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ADA": "5263.157895",
+          "GMBL": "1000",
+          "AGIX": "2"
+        }
+      }
+    }
+  ]
+}
