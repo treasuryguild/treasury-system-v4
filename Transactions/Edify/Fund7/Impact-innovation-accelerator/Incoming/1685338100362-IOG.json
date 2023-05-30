@@ -1,0 +1,29 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "d6f13733bece89bf677e907e8d4e24a02e972d45e307a0d28ce2d8114a65c720",
+  "msg": [
+    "Edify Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/385017",
+    "Recipients: 1",
+    "7393.89 USD in 19406.543720 ADA",
+    "Transaction made by Treasury Guild @0.3607",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Edify",
+      "label": "Incoming",
+      "description": [
+        "Last instalment for Impact innovation accelerator proposal",
+        "from IOG"
+      ],
+      "contributors": {
+        "IOG": {
+          "ADA": "19406.543720"
+        }
+      }
+    }
+  ]
+}
