@@ -1,0 +1,459 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "99b62eea96584f9f0fb76cd584bfcef2b3d413b6d6be5988ea95e7851a6c6979",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 19",
+    "95.85 USD in 271.52 ADA",
+    "0 USD in 19075.00 GMBL",
+    "76.44 USD in 294.00 AGIX",
+    "Transaction made by Treasury Guild @0.353",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool Development - Treasury System Updates - May"
+      ],
+      "label": [
+        "Tool development"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 2800,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tool Development - Treasury Manager Updates - May"
+      ],
+      "label": [
+        "Documentation,Tool development"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 900,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild - May 23 - 200",
+        "Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 300,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 300,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild - May 16 - 200",
+        "Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 200,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild - May 9 - 200",
+        "Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Swarm & Treasury Guild - May 2 - 200",
+        "Gimbal & 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "u7ywg4": {
+          "gimbal": 150,
+          "AGIX": 2
+        },
+        "rcgctj": {
+          "gimbal": 150,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team - May 22 - 100 Gimbal",
+        "& 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Weekly Call - Treasury Guild Team - May 15 - 100 Gimbal",
+        "& 2 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Community Support Q2"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 200,
+          "AGIX": 2
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Impact Growth Engine - Session 4"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "5jwnt2": {
+          "gimbal": 150
+        },
+        "j99kct": {
+          "gimbal": 150
+        },
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "9qgazv": {
+          "gimbal": 150
+        },
+        "4fwu6e": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        },
+        "jhyhwp": {
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "p8q4jl": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        },
+        "w0knrl": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Catalyst Swarm Veteran Call - 8.5.2023 - 100 Gimbal"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "ptetnl": {
+          "gimbal": 100
+        },
+        "9qgazv": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Impact Growth Engine Operations Meeting 19.04"
+      ],
+      "label": [
+        "Operations,Community Communication,Coordination"
+      ],
+      "contributors": {
+        "q5xpal": {
+          "gimbal": 100
+        },
+        "p8q4jl": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "What type of organization is Swarm? - 50 ADA and 50 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Who can fund Swarm? - 50 ADA and 50 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Harry Activity List"
+      ],
+      "label": [
+        "Documentation,Operations"
+      ],
+      "contributors": {
+        "j99kct": {
+          "gimbal": 500
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Juana Activity List"
+      ],
+      "label": [
+        "Documentation,Operations"
+      ],
+      "contributors": {
+        "uw6w3e": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Peter Activity List"
+      ],
+      "label": [
+        "Documentation,Operations"
+      ],
+      "contributors": {
+        "f0qnsw": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "What do we want to get out of the Impact Engine - 100 Gimbal",
+        "50 AGIX & 50 Ada"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "q5xpal": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        },
+        "uw6w3e": {
+          "gimbal": 100,
+          "ada": 50,
+          "AGIX": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Edify Dashboard Excel Prototype"
+      ],
+      "label": [
+        "Tool Development"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 2050
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Tevo Activity List 2023"
+      ],
+      "label": [
+        "Documentation,Operations,Community Communication,Reporting"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 5375
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "name": [
+        "Catalyst After Townall - Community Calendar 31.05.23"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "4fwu6e": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        },
+        "f0qnsw": {
+          "gimbal": 150
+        },
+        "n7qgup": {
+          "gimbal": 150
+        }
+      }
+    }
+  ]
+}
