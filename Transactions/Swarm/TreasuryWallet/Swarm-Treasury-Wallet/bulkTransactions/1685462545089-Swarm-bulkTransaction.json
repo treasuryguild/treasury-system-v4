@@ -1,0 +1,44 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "760ef070cf5b6138e7bc58c70d4af37184dbf78b62f08946732e4d8d1fc6811d",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 2",
+    "571.10 USD in 1518.88 ADA",
+    "Transaction made by Treasury Guild @0.376",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Initial fee for creating a website treasuryguild.io one year ago"
+      ],
+      "label": [
+        "Swarm Tools"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "1327.31617"
+        }
+      }
+    },
+    {
+      "taskCreator": "catalyst swarm",
+      "description": [
+        "Annual fee for domain for treasuryguild.io"
+      ],
+      "label": [
+        "Swarm Tools"
+      ],
+      "contributors": {
+        "uxd83r": {
+          "ADA": "191.56"
+        }
+      }
+    }
+  ]
+}
