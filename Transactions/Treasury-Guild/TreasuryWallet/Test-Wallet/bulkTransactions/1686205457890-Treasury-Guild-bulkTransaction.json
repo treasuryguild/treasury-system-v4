@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "msg": [
+    "Recipients: 1",
+    "13.197 USD in 53.00 AGIX",
+    "Transaction made by Treasury Guild @0.324",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury Guild",
+      "name": [
+        "Testing"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "AGIX": "53"
+        }
+      }
+    }
+  ],
+  "txid": "655082dbba8817829306e5686623f2d5981d96f7edc4969c1baa5b5bd58293b4"
+}
