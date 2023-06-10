@@ -1,0 +1,55 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "msg": [
+    "Treasury Guild Bulk Transaction",
+    "Recipients: 2",
+    "0 USD in 10 GMBL",
+    "1 USD in 2 ADA",
+    "1 USD in 2 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Treasury Guild",
+      "name": [
+        "Testing the dework",
+        "bulk with metadata",
+        "and sending to",
+        "different addresses"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "GMBL": "5"
+        },
+        "7zxn7j": {
+          "GMBL": "5",
+          "AGIX": "0.125"
+        }
+      }
+    },
+    {
+      "taskCreator": "Treasury Guild",
+      "name": [
+        "Still only testing"
+      ],
+      "label": [
+        "Fixed Costs"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "AGIX": "0.125"
+        },
+        "7zxn7j": {
+          "ADA": "1"
+        }
+      }
+    }
+  ],
+  "txid": "a97b5ac0f9736f29486d13984ec1911eab6143478f2ebf5a60871cf27f7b25e2"
+}
