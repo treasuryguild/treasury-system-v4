@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "82beb760080741e806f31de4d9a9eddd108d9cbfe79b207172e796147d943e06",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.37 USD in 1.344798 ADA",
+    "2481.55 USD in 12346.00 AGIX",
+    "Transaction made by Treasury Guild @0.278",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Incoming of first instalment of Deep Funding proposal"
+      ],
+      "contributors": {
+        "Snet": {
+          "ADA": "1.344798",
+          "AGIX": "12346.00000000"
+        }
+      }
+    }
+  ]
+}
