@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "be358f17866c0e56c20f9886716abd2d29cbefc35f9929b511cc0a1b8b882047",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.43 USD in 1.536127 ADA",
+    "422.00 USD in 2000.00 AGIX",
+    "Transaction made by Treasury Guild @0.283",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Incoming",
+      "description": [
+        "Incoming borrowed 2000 AGIX from DeepFunding TH"
+      ],
+      "contributors": {
+        "94cqxx": {
+          "ADA": "1.536127",
+          "AGIX": "2000"
+        }
+      }
+    }
+  ]
+}
