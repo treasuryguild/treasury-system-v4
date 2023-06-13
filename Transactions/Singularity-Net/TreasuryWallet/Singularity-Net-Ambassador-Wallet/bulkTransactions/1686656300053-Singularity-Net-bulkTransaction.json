@@ -1,0 +1,1144 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "4b376b2e8a4eb807b69b3f5c8abdfd18b817dc3af0968d364ceabdf8224ba59e",
+  "msg": [
+    "Singularity-Net Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 31",
+    "11.84 USD in 41.69 ADA",
+    "0 USD in 44945.00 GMBL",
+    "6705.79 USD in 31781.00 AGIX",
+    "0 USD in 2450.00 GovWG",
+    "Transaction made by Treasury Guild @0.284",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "gimbal": 445,
+          "AGIX": 315
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join SC Governance Workshop - 11.5.2023"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "7g6qxt": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Ambassador Town Hall #42 - 4.4.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Ambassador Town Hall #43 - 11.4.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "e6nth2": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Ambassador Town Hall #44 - 18.4.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "z5rk0k": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Ambassador Town Hall #46 - 2.5.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in Process Guild 16.05.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Governance WG Call #2 - 23.5.2023"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Education Guild Meeting 05.06.2023"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "contributors": {
+        "289935": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Incubation Workgroup & Strategy Guild - 31.05.23"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "contributors": {
+        "289935": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "24/5 - Strategy Guild Meeting - 1tp"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translate into Indonesian - Operations Q1 2023 Blogpost SNET",
+        "- 15usd"
+      ],
+      "label": [
+        "Translation,Content Creation"
+      ],
+      "contributors": {
+        "cehfqz": {
+          "gimbal": 100,
+          "AGIX": 71
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Meeting for Video Workgroup - 02.06.23"
+      ],
+      "label": [
+        "Operations,Community Communication,Coordination"
+      ],
+      "contributors": {
+        "289935": {
+          "gimbal": 100
+        },
+        "h2hc92": {
+          "gimbal": 100
+        },
+        "uwtdjm": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Tevo Activity List April 2023 (Dework PBL)"
+      ],
+      "label": [
+        "Documentation,Operations",
+        "Community Communication,Reporting"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Translator Support Activities - 15 USD"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 150,
+          "AGIX": 71
+        },
+        "nggwcw": {
+          "gimbal": 150,
+          "AGIX": 71
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Onboard MajorDefi as Translator Support"
+      ],
+      "label": [
+        "Onboarding"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Onboarding Translator - Indonesia"
+      ],
+      "label": [
+        "Onboarding"
+      ],
+      "contributors": {
+        "cehfqz": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Onboarding Translator - Chinese"
+      ],
+      "label": [
+        "Onboarding"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Facilitating the CIP-1694 workshop"
+      ],
+      "label": [
+        "Operations,Facilitating"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 300
+        },
+        "rcgctj": {
+          "gimbal": 300
+        },
+        "vpyqlf": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participation in the CIP-1694 workshop"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 300
+        },
+        "r83kme": {
+          "gimbal": 300
+        },
+        "vpyqlf": {
+          "gimbal": 300
+        },
+        "lq9wke": {
+          "gimbal": 300
+        },
+        "tgd8fg": {
+          "gimbal": 300
+        },
+        "lrs3kj": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Daily tasks 13.06.23"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Meeting for Video Workgroup 09.06.23"
+      ],
+      "label": [
+        "Operations,Community Communication,Coordination"
+      ],
+      "contributors": {
+        "289935": {
+          "gimbal": 100
+        },
+        "h2hc92": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Facilitating the Video Workgroup 09.06.23"
+      ],
+      "label": [
+        "Documentation,Facilitating,Operations"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Daily tasks 09.06.23"
+      ],
+      "label": [
+        "Documentation,Operations"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Daily tasks 06.06.23"
+      ],
+      "label": [
+        "Documentation,Operations"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Promotional video for the CIP-1694 Workshop 50 USD"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "h2hc92": {
+          "gimbal": 500,
+          "AGIX": 238
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Editing and Proofreading - 25USD"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 250,
+          "AGIX": 119
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Twitter Thread: Inside TrueAGI: Exciting Updates! -",
+        "10USD"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 100,
+          "AGIX": 48
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Twitter: CIP-1694 Workshop -10USD"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 100,
+          "AGIX": 48
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Draft: CIP-1694 Workshop - 40USD"
+      ],
+      "label": [
+        "Content Creation,Documentation"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 400,
+          "AGIX": 190
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Blogpost: CIP-1694 Workshop - 20USD"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 200,
+          "AGIX": 95
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Introduce SingularityDAO - 30USD"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "gimbal": 300,
+          "AGIX": 143
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Draft: Zarqa;the next generation of neural-symbolic",
+        "LLMs - 30USD"
+      ],
+      "label": [
+        "Documenting,Content Creation,Documentation"
+      ],
+      "contributors": {
+        "fup7a9": {
+          "gimbal": 300,
+          "AGIX": 143
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Draft: Inside TrueAGI (May Edition) - 20USD"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting,Documentation"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 200,
+          "AGIX": 95
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Draft: Jamgalaxy - 40USD"
+      ],
+      "label": [
+        "Content Creation,Documentation"
+      ],
+      "contributors": {
+        "fup7a9": {
+          "gimbal": 400,
+          "AGIX": 190
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Draft: Cogito Protocol vs Other Stablecoins - 30USD"
+      ],
+      "label": [
+        "Content Creation,Documentation"
+      ],
+      "contributors": {
+        "6qmkll": {
+          "gimbal": 300,
+          "AGIX": 143
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in Treasury Guild 08.06.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Fly's Activity List - May 2023"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting,Documenting"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 1700
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "TheFreysDefi Activity List May 2023"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting,Documenting"
+      ],
+      "contributors": {
+        "a3amjj": {
+          "AGIX": 4273
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Call with David, Ezter & Felix Gov Experiment Framework",
+        "- 12.6.2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100,
+          "GovWG": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Join Governance WG Call #4 - 6.6.2023"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "contributors": {
+        "289935": {
+          "gimbal": 100,
+          "GovWG": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100,
+          "GovWG": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100,
+          "GovWG": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100,
+          "GovWG": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100,
+          "GovWG": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100,
+          "GovWG": 100
+        },
+        "rcgctj": {
+          "gimbal": 100,
+          "GovWG": 100
+        },
+        "p8q4jl": {
+          "gimbal": 100,
+          "GovWG": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100,
+          "GovWG": 100
+        },
+        "cu9ctl": {
+          "gimbal": 100,
+          "GovWG": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "AR FG - Cluster Comments"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 50,
+          "GovWG": 50
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "GovDoc - categorise and cluster comments - 30.5.2023"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 200,
+          "GovWG": 200
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "GOV Framework Doc (Initial) - Clean up -",
+        "12.6.2023"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "contributors": {
+        "55smty": {
+          "gimbal": 1100,
+          "GovWG": 1100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Tevo Average Discord Communication - May"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "a3amjj": {
+          "gimbal": 4500
+        },
+        "rcgctj": {
+          "gimbal": 3600
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Felix Average Discord Communication - May"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 2750
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Tommy Average Discord Communication - May"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 1500
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Crandano Average Discord Communication - May"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "j3xc2c": {
+          "gimbal": 2150
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Fly's Average Discord Communication - May"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 3000
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Kenichi Average Discord Communication - May"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 1700
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Peter Average Discord Communication - May"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "xl6z2n": {
+          "gimbal": 6400
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Rojo Average Discord Communication - May"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "gimbal": 2000
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in Process Modeling Workgroup 07.06.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100,
+          "AGIX": 48
+        },
+        "tgd8fg": {
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "9klqvn": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Participate in Process Guild 06.06.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "f39ntm": {
+          "gimbal": 100
+        },
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "j3xc2c": {
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "lq9wke": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "CIP-1694 preparation discussion"
+      ],
+      "label": [
+        "Coordination"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "gimbal": 100
+        },
+        "h2hc92": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Ambassador WG Call - 06.06.23"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Stephen Activity List May 2023 - missing rewards"
+      ],
+      "label": [
+        "Documentation, Reporting"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "AGIX": 2548
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Peter Activity List May 2023 - missing rewards"
+      ],
+      "label": [
+        "Documentation, Reporting"
+      ],
+      "contributors": {
+        "xl6z2n": {
+          "AGIX": 2548
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "SucrenSpice Activity List - May 2023 - missing rewards"
+      ],
+      "label": [
+        "Documentation, Reporting"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 2548
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Process Guild Tevo Activity List May 2023 - missing rewards"
+      ],
+      "label": [
+        "Documentation, Reporting"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 2548
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Kenichi Activity List May 2023 - missing rewards"
+      ],
+      "label": [
+        "Documentation, Reporting"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 2548
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Cran's Activity List - May 2023 - missing rewards"
+      ],
+      "label": [
+        "Documentation, Reporting"
+      ],
+      "contributors": {
+        "j3xc2c": {
+          "AGIX": 2548
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Rojo Activity list May 2023 - missing rewards"
+      ],
+      "label": [
+        "Documentation, Reporting"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 2548
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Felix Activity List April 2023 - missing rewards"
+      ],
+      "label": [
+        "Documentation, Reporting"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": 2548
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Headelf Activity List April 2023 - missing rewards"
+      ],
+      "label": [
+        "Documentation, Reporting"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 2548
+        }
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Fly Activity List April 2023 - missing rewards"
+      ],
+      "label": [
+        "Documentation, Reporting"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 2548
+        }
+      }
+    }
+  ]
+}
