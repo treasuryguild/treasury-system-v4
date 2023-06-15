@@ -1,0 +1,18 @@
+{
+  "project": "Catalyst Training and Automation",
+  "proposal": "Training and Automation Treasury Wallet",
+  "fund": "TreasuryWallet",
+  "budget": "50000",
+  "budgetItems": {
+    "Incoming": "50000",
+    "Other": "10",
+    "bulkTransactions": "50000",
+    "Swap": "5000",
+    "Bounty": "20000",
+    "Contributors": "20000",
+    "Fixed-Costs": "5000"
+  },
+  "website": "",
+  "wallet": "addr1qyxf72mzfctq7y7k06wtj6x68m7p5f7qx3v3xyjv69efy8mmltkrh2f58lyp0etyflvt3l8z75er8sva7lzye0c5v05qw69q20",
+  "description": ""
+}
