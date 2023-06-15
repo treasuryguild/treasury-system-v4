@@ -1,0 +1,30 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "0.00 USD in 0 ADA",
+    "Transaction made by Treasury Guild @0.255",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "90f4236bb20d6fd7b513e6dc2efe0350d8fe21af565bb97632de85ae1065e62c",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Staking"
+      ],
+      "description": [
+        "Staking to Pool"
+      ],
+      "taskCreator": "Test Wallet",
+      "contributors": {
+        "lq69gt": {
+          "ADA": 0
+        }
+      }
+    }
+  ]
+}
