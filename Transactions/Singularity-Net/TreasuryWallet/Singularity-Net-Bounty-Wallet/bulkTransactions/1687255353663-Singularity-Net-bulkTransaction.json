@@ -1,0 +1,34 @@
+{
+  "msg": [
+    "Singularity Net Bounty Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "4.128 USD in 16.00 ADA",
+    "0.000 USD in 68755.00 GMBL",
+    "5.647 USD in 26.39 AGIX",
+    "Transaction made by Treasury Guild @0.258",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "666fd25d6763f94484dff093349d380ab4341262d40a3f7187c162abcb9b306b",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending all funds to Deep Fund wallet"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "Singularity Net",
+      "contributors": {
+        "94cqxx": {
+          "ADA": "16",
+          "AGIX": "26.39363675",
+          "GMBL": "68755.000000"
+        }
+      }
+    }
+  ]
+}
