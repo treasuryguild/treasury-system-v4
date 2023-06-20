@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Swarm SNET Town Halls Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "4.13 USD in 16 ADA",
+    "5.65 USD in 26.39 AGIX",
+    "0.00 USD in 68755.00 GMBL",
+    "Transaction made by Treasury Guild @0.258",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "666fd25d6763f94484dff093349d380ab4341262d40a3f7187c162abcb9b306b",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": "Incoming",
+      "description": [
+        "Incoming rewards from Singularity Net Bounty Wallet"
+      ],
+      "taskCreator": "Swarm SNET Town Halls",
+      "contributors": {
+        "l0lw53": {
+          "ADA": 16,
+          "AGIX": 26.39363675,
+          "GMBL": 68755
+        }
+      }
+    }
+  ]
+}
