@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "2d69051926ef0c064be504293fa45f395be79e0f13e2a7512b4afc3016d3a4ec",
+  "msg": [
+    "Singularity-Net Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "0.39 USD in 1.344798 ADA",
+    "0 USD in 200000.00 GovWG",
+    "Transaction made by Treasury Guild @0.287",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Singularity-Net",
+      "label": "Other",
+      "description": [
+        "Send GovWG tokens to Ambassador wallet"
+      ],
+      "contributors": {
+        "3ynval": {
+          "ADA": "1.344798",
+          "GovWG": "200000"
+        }
+      }
+    }
+  ]
+}
