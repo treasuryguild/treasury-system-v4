@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "88d647c009f3648ca6b6b4c71c4037c5df039cacaa93e9f7f12fafc0e9b9ea47",
+  "msg": [
+    "Governance-Guild Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "0.00 USD in 0 ADA",
+    "Transaction made by Treasury Guild @0.282",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Governance-Guild",
+      "label": "Staking",
+      "description": [
+        "Staking to Pool"
+      ],
+      "contributors": {
+        "t49ftp": {
+          "ADA": "0"
+        }
+      }
+    }
+  ]
+}
