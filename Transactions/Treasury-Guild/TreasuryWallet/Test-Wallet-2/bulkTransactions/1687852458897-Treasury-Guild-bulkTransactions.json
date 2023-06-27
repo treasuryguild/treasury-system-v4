@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Test Wallet 2 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.06 USD in 2.00 COPI",
+    "0.36 USD in 1.27145 ADA",
+    "Transaction made by Treasury Guild @0.282",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "c3dfc5a28ae3951f121a87c58e18c1ee1096a86b976456f677a7b80d5c03d7cc",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Operations"
+      ],
+      "description": [
+        ""
+      ],
+      "taskCreator": "Test Wallet 2",
+      "contributors": {
+        "lq69gt": {
+          "ADA": 1.27145,
+          "COPI": 2
+        }
+      }
+    }
+  ]
+}
