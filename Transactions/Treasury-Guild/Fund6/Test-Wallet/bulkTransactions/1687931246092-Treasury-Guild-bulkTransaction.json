@@ -1,0 +1,30 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "5.600 USD in 20.00 ADA",
+    "Transaction made by Treasury Guild @0.280",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "882b7fdb1e34a16bc4a547289830d58d7cd66713e1874aa6af7af3f9158181f5",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "TEsting"
+      ],
+      "label": [
+        "Documentation",
+        "Operations"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "ADA": "20"
+        }
+      }
+    }
+  ]
+}
