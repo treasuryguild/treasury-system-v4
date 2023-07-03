@@ -1,0 +1,61 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 8",
+    "10836.734 USD in 36734.69 ADA",
+    "56.320 USD in 1760.00 COPI",
+    "Transaction made by Treasury Guild @0.295",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "520e6f7955cd18ed5fca895466710eaf0fa981aea1bbcff0718404328307b1dd",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Payment for PBL-documentation and Consultant "
+      ],
+      "label": [
+        "Content Creation",
+        "Consultant"
+      ],
+      "taskCreator": "Governance Guild",
+      "contributors": {
+        "4mg27n": {
+          "ADA": "4081.632653",
+          "COPI": "220"
+        },
+        "7lnpzs": {
+          "ADA": "6802.721088",
+          "COPI": "220"
+        },
+        "ghae2z": {
+          "ADA": "3401.360544",
+          "COPI": "220"
+        },
+        "jhyhwp": {
+          "ADA": "3401.360544",
+          "COPI": "220"
+        },
+        "nqezzp": {
+          "ADA": "4081.632653",
+          "COPI": "220"
+        },
+        "t9s8fg": {
+          "ADA": "6802.721088",
+          "COPI": "220"
+        },
+        "vfpp2w": {
+          "ADA": "4081.632653",
+          "COPI": "220"
+        },
+        "w0t2f4": {
+          "ADA": "4081.632653",
+          "COPI": "220"
+        }
+      }
+    }
+  ]
+}
