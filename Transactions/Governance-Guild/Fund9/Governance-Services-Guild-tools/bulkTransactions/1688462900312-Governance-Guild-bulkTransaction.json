@@ -1,0 +1,397 @@
+{
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 8",
+    "0 USD in 8015 GMBL",
+    "700.35 USD in 2415 ADA",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "7479dc0e839dc976fe6d16ed346b6ce426cfd07e374b715910d0d501ae46e053",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "GG Tevo Activity List May 2023"
+      ],
+      "label": [
+        "Coordination,Operations"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 550
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 34"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 33 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination,Facilitating"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "7lnpzs": {
+          "ada": 345,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 33"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 32 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination,Facilitating"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "55smty": {
+          "ada": 345,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 31- 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination,Facilitating"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "jhyhwp": {
+          "ada": 345,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 34 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination,Facilitating"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "mg3a4k": {
+          "ada": 345,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call MEETING_#32"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Vanessa activity list June 2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 915
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 31"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 30 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination,Facilitating"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "rcgctj": {
+          "ada": 345,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 28 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination,Facilitating"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "f0qnsw": {
+          "ada": 345,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 28"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 30"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 29"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "f0qnsw": {
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 29 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination,Facilitating"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "ada": 345,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "GG Internal Tevo Activity List May 2023"
+      ],
+      "label": [
+        "Documentation,Operations,Community Communication,Reporting"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 650
+        }
+      }
+    },
+    {
+      "name": [
+        "Andre activity list May 2023"
+      ],
+      "label": [
+        "Tool development,Operations"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 800
+        }
+      }
+    },
+    {
+      "name": [
+        "Andamio Set-up workshop with Gimbalabs Andamio team"
+      ],
+      "label": [
+        "Operations,Coordination,Tool development"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}
