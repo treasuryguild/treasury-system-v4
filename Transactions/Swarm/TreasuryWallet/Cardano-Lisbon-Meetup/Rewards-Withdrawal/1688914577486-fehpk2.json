@@ -1,0 +1,29 @@
+{
+  "msg": [
+    "Cardano Lisbon Meetup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.288",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "dc8985000c00cdab951faf5e4de367db07f4cde8f65ac1ad0ddbf7206a5e4f54",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Rewards Withdrawal"
+      ],
+      "description": [
+        "Rewards Withdrawal"
+      ],
+      "taskCreator": "Cardano Lisbon Meetup",
+      "contributors": {
+        "fehpk2": {
+          "ADA": 12.390634
+        }
+      }
+    }
+  ]
+}
