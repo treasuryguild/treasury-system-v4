@@ -1,0 +1,47 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 2",
+    "NaN USD in NaN ADA",
+    "0.000 USD in 10.00 GMBL",
+    "Transaction made by Treasury Guild @0.293",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "8f5a9b35aebef6b49b00f85c5c09daf3fe13a335ec070094abe3cbb1900ae281",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Test"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "Treasury Guild",
+      "contributors": {
+        "7zxn7j": {
+          "ADA": "",
+          "GMBL": "5"
+        }
+      }
+    },
+    {
+      "name": [
+        "Testing"
+      ],
+      "label": [
+        "Fixed Costs"
+      ],
+      "taskCreator": "Treasury Guild",
+      "contributors": {
+        "c95tmr": {
+          "ADA": "",
+          "GMBL": "5"
+        }
+      }
+    }
+  ]
+}
