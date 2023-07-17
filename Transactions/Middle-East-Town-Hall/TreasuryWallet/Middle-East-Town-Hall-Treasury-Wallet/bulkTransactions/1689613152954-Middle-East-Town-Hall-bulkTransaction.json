@@ -1,0 +1,30 @@
+{
+  "msg": [
+    "Middle East Town Hall Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "522.009 USD in 1667.76 ADA",
+    "Transaction made by Treasury Guild @0.313",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "eb4197a63648cd183526e44da11ae86546f16ec331d67ae32f28445e5003fae5",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Moving all funds back to the Swarm"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "Middle East Town Hall",
+      "contributors": {
+        "m45kgs": {
+          "ADA": "1667.760239"
+        }
+      }
+    }
+  ]
+}
