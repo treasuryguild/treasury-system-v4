@@ -1,0 +1,30 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "998.183 USD in 3251.41 ADA",
+    "Transaction made by Treasury Guild @0.307",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "6468a74ab1a6c6aa2772e81a60998fcc57dde0aa31a41c994dd20c74b32708b4",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Dework PBL match funding"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "Governance Guild",
+      "contributors": {
+        "3ynval": {
+          "ADA": "3251.41"
+        }
+      }
+    }
+  ]
+}
