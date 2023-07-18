@@ -1,0 +1,18 @@
+{
+  "project": "Test",
+  "proposal": "Test",
+  "fund": "TreasuryWallet",
+  "budget": "50000",
+  "budgetItems": {
+    "Incoming": "50000",
+    "Other": "10",
+    "bulkTransactions": "50000",
+    "Swap": "5000",
+    "Bounty": "20000",
+    "Contributors": "20000",
+    "Fixed-Costs": "5000"
+  },
+  "website": "www.test.com",
+  "wallet": "addr1qxn0arkq0tsjq0cg6rd6dul892d7ddgel6c0rkkldrq8ayku25zyzpsh89gl050dq2cnn0mutaw7c5tkvk60kxqud08s2qpphm",
+  "description": ""
+}
