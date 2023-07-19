@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Cross Chain Impact Lead Generator Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/402760",
+    "Recipients: 1",
+    "3.413 USD in 10.80 ADA",
+    "Transaction made by Treasury Guild @0.316",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "4274f64b7acb3bbe6cf55ee87b25b812626d939234651eb276e40ac2cbaec408",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Leftovers sending to the Treasury Guild"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Lead Generators"
+      ],
+      "contributors": {
+        "v7dafu": {
+          "ADA": "10.80"
+        }
+      }
+    }
+  ]
+}
