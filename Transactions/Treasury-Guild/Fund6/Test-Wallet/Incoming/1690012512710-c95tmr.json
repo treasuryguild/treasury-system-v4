@@ -1,0 +1,36 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "0.00 USD in 1.00 playwallet",
+    "0.00 USD in 1.00 defiwallet",
+    "0.38 USD in 1.21542 ADA",
+    "Transaction made by Treasury Guild @0.313",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "b37d939ba4a301cf42ad161d3bff693f9e2967bc7caff2b1217480b5cc8263bb",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from c95tmr"
+      ],
+      "taskCreator": [
+        "Test Wallet"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "ADA": 1.21542,
+          "defiwallet": 1,
+          "playwallet": 1
+        }
+      }
+    }
+  ]
+}
