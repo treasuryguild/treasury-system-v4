@@ -1,0 +1,508 @@
+{
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 17",
+    "0 USD in 17094.25 GMBL",
+    "1256.9854 USD in 5713.57 AGIX",
+    "0 USD in 900 GovWG",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "244ede73aeb7f1ea9c98de57c5d16c1cb28fdc8bf345f308fa8be04b1313fa88",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 57,
+          "gimbal": 169
+        }
+      }
+    },
+    {
+      "name": [
+        "Call with Felix & Peter - ZOOM ACCOUNT SETUP -",
+        "11.7.2023"
+      ],
+      "label": [
+        "Community Communication,Coordination,Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Incubation Workgroup - 07.06.23"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting- 13.07.2023"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination,Onboarding"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting- 29.06.2023"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination,Onboarding"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Modeling Workgroup 05.07.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 06.07.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild trx meeting - 4.7.2023"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 19.07.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7wk9fz": {
+          "AGIX": 91,
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "AGIX": 91,
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "AGIX": 91,
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "AGIX": 91,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Incubation Workgroup - 05.7.23"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Incubation Workgroup - 12.07.23"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 200
+        },
+        "a3amjj": {
+          "gimbal": 200
+        },
+        "lrs3kj": {
+          "gimbal": 200
+        },
+        "pfwaf6": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 200
+        },
+        "xl6z2n": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Updating Process map and improvement ideation - 5 USD"
+      ],
+      "label": [
+        "Documenting"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 23,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 15 USD"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 68,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 20 USD"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 91,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 10 USD"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 45,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 30 USD"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "nggwcw": {
+          "AGIX": 136,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 5 USD"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 23,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Video transcript voiceover"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 23,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Inside SNET June/July Edition -100USD"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting",
+        "Documenting,Content Creation,Documentation"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 455,
+          "gimbal": 700
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Dr Ben Goertzel: AGI, SingularityNET,",
+        "Blockchain, The Dangers of Centralized AI Development -",
+        "50USD"
+      ],
+      "label": [
+        "Documenting,Content Creation,Tool development,Documentation"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "fup7a9": {
+          "AGIX": 227
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 20.07.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "a3amjj": {
+          "gimbal": 100
+        },
+        "f39ntm": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "r5nvwm": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Fly's Task List - June"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting,Documenting"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 1496,
+          "gimbal": 2200
+        }
+      }
+    },
+    {
+      "name": [
+        "Activity List: June"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 2402,
+          "gimbal": 7850
+        }
+      }
+    },
+    {
+      "name": [
+        "Governance WG Notetaking & Summary - 17.8.2023 -",
+        "50 USD"
+      ],
+      "label": [
+        "Operations,Content Creation,Documentation"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 227,
+          "GovWG": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Governance WG Call #7 - 18.7.2023"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "a3amjj": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "r5nvwm": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "GovWG": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Create Evaluation Form - 3 USD"
+      ],
+      "label": [
+        "Community Communication,Documenting,Content Creation"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 9,
+          "gimbal": 25
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Guild 18.07.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 150
+        },
+        "lrs3kj": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "AGIX": 68,
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        }
+      }
+    }
+  ]
+}
