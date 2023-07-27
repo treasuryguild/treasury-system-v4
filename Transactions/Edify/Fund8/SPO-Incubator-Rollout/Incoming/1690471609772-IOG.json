@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "28c4baf434a6cc8cc70c87a9e06cbf1d967ec3ae069610a7d11b4d09a1a347e5",
+  "msg": [
+    "Edify Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/400906",
+    "Recipients: 1",
+    "3013.31 USD in 9783.480741 ADA",
+    "Transaction made by Treasury Guild @0.308",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Edify",
+      "label": "Incoming",
+      "description": [
+        "Last instalment for SPO Incubator Rollout"
+      ],
+      "contributors": {
+        "IOG": {
+          "ADA": "9783.480741"
+        }
+      }
+    }
+  ]
+}
