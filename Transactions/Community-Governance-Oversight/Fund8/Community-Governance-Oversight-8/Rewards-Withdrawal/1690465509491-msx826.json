@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Community Governance Oversight 8 Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/398225",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.309",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "820682c39b5caae5f255ed92a047cdf86cd7df96c1c35290770adfd9e7c793f5",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Rewards Withdrawal"
+      ],
+      "description": [
+        "Rewards Withdrawal"
+      ],
+      "taskCreator": [
+        "Community Governance Oversight 8"
+      ],
+      "contributors": {
+        "msx826": {
+          "ADA": 102.251112
+        }
+      }
+    }
+  ]
+}
