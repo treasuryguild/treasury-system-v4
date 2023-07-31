@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "7f3522901a8497218bab85d4c8999b90358e83d445e89a67bbcd074e35e30a00",
+  "msg": [
+    "Catalyst-Training-and-Automation Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/398131",
+    "Recipients: 1",
+    "1.39 USD in 4.445456 ADA",
+    "Transaction made by Treasury Guild @0.313",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Training-and-Automation",
+      "label": "Other",
+      "description": [
+        "Sending leftovers to new wallet"
+      ],
+      "contributors": {
+        "": {
+          "ADA": "4.445456"
+        }
+      }
+    }
+  ]
+}
