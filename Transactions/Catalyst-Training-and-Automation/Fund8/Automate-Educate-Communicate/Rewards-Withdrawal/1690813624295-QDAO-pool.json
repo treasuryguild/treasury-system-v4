@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "e851b82f376e5d53076dd7a0dd364e42dfc90ddb814eb0fc62d166e24c837854",
+  "msg": [
+    "Catalyst-Training-and-Automation Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/398131",
+    "Recipients: 1",
+    "94.84 USD in 303.977670 ADA",
+    "Transaction made by Treasury Guild @0.312",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Catalyst-Training-and-Automation",
+      "label": "Rewards-Withdrawal",
+      "description": [
+        "Withdrawal rewards from the pool"
+      ],
+      "contributors": {
+        "QDAO pool": {
+          "ADA": "303.977670"
+        }
+      }
+    }
+  ]
+}
