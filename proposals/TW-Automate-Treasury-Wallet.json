@@ -1,0 +1,18 @@
+{
+  "project": "Automate Workgroup",
+  "proposal": "Automate Treasury Wallet",
+  "fund": "TreasuryWallet",
+  "budget": "50000",
+  "budgetItems": {
+    "Incoming": "50000",
+    "Other": "10",
+    "bulkTransactions": "50000",
+    "Swap": "5000",
+    "Bounty": "20000",
+    "Contributors": "20000",
+    "Fixed-Costs": "5000"
+  },
+  "website": "",
+  "wallet": "addr1q8lx3w292ep4hjw7de942xz3hl6v6ff2pkc5p4rlyt4wjstc2h8yvcxrvd78sff8c8rezg5lmfksgfc7pt4x57pf7g9q3hjnmt",
+  "description": ""
+}
