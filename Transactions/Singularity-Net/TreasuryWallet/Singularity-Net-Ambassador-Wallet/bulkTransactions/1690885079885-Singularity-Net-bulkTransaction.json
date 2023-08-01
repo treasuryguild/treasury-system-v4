@@ -1,0 +1,135 @@
+{
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 6",
+    "0 USD in 5050 GMBL",
+    "808.1414 USD in 3673.37 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "ef17ab65f91ebbcf8cecfe3fb297f320ab0b795d5111ecb87b37fddff9dbe03c",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 36,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Video Workgroup Fund Request - 31.07.23 - 20 USD"
+      ],
+      "label": [
+        "Reporting"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 91
+        }
+      }
+    },
+    {
+      "name": [
+        "Video Workgroup Fund Request - 31.07.23 - 50 USD"
+      ],
+      "label": [
+        "Reporting"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "h2hc92": {
+          "AGIX": 227
+        }
+      }
+    },
+    {
+      "name": [
+        "Video Workgroup Fund Request - 31.07.23 - 100 USD"
+      ],
+      "label": [
+        "Reporting"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "h2hc92": {
+          "AGIX": 455
+        },
+        "vpyqlf": {
+          "AGIX": 455
+        }
+      }
+    },
+    {
+      "name": [
+        "Video Workgroup Fund Request - 30.07.23 - 200 USD"
+      ],
+      "label": [
+        "Reporting"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "70ygy0": {
+          "AGIX": 909,
+          "gimbal": 2000
+        }
+      }
+    },
+    {
+      "name": [
+        "Video Workgroup Fund Request - 20.07.2023 - 30 USD"
+      ],
+      "label": [
+        "Reporting"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 136
+        }
+      }
+    },
+    {
+      "name": [
+        "Video Workgroup Fund Request - 14.07.23 - 100 USD"
+      ],
+      "label": [
+        "Reporting"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "70ygy0": {
+          "AGIX": 455,
+          "gimbal": 1000
+        }
+      }
+    },
+    {
+      "name": [
+        "Video Workgroup Fund Request - 07.07.23 - 200 USD"
+      ],
+      "label": [
+        "Reporting"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "70ygy0": {
+          "AGIX": 909,
+          "gimbal": 2000
+        }
+      }
+    }
+  ]
+}
