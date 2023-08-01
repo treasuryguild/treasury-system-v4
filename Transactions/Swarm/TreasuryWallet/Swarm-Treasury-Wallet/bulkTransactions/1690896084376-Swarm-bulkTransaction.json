@@ -1,0 +1,64 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 3",
+    "631.563 USD in 2070.70 ADA",
+    "Transaction made by Treasury Guild @0.305",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "831eae9dfbd7162bafb5a49b9a88fe0c0c8350cb45e976724595c9523cb2fb53",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Zoom InDesign Illustrator supscription July"
+      ],
+      "label": [
+        "Fixed Costs"
+      ],
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "1220.7"
+        }
+      }
+    },
+    {
+      "name": [
+        "Payment for Excel and Miro board subscription July"
+      ],
+      "label": [
+        "Fixed Costs"
+      ],
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "370"
+        }
+      }
+    },
+    {
+      "name": [
+        "Payment for GitBook subscription July"
+      ],
+      "label": [
+        "Fixed Costs"
+      ],
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "480"
+        }
+      }
+    }
+  ]
+}
