@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.299",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "d966a32ebae3d9945f51fc627f20dfca12236ec7cc7e94afe00e0df1b54b00f2",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Testing nfts in new dashboard"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "netrunner": "1"
+        }
+      }
+    }
+  ]
+}
