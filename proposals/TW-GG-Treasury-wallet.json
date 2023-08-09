@@ -1,0 +1,18 @@
+{
+  "project": "Governance Guild",
+  "proposal": "GG Treasury wallet",
+  "fund": "TreasuryWallet",
+  "budget": "50000",
+  "budgetItems": {
+    "Incoming": "50000",
+    "Other": "10",
+    "bulkTransactions": "50000",
+    "Swap": "5000",
+    "Bounty": "20000",
+    "Contributors": "20000",
+    "Fixed-Costs": "5000"
+  },
+  "website": "",
+  "wallet": "addr1qy6h7llekshxm3dtpgryd7ulp0w58s8l3q8ngg23sh0sff95hlpj2d6xappg5ezzt9whucwajs8u455j9su7sg8cvkvsh9z47l",
+  "description": ""
+}
