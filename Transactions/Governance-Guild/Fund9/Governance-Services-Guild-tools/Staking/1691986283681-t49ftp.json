@@ -1,0 +1,31 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "091b5bc66c3f66fe403188bb756354e8d0622a5fe1a1bcaed699a7312048ac84",
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.290",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "Governance Services Guild tools"
+      ],
+      "label": [
+        "Staking"
+      ],
+      "description": [
+        "Fees for Voting"
+      ],
+      "contributors": {
+        "t49ftp": {
+          "ADA": 0
+        }
+      }
+    }
+  ]
+}
