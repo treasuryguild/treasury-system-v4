@@ -1,0 +1,229 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 5",
+    "0 USD in 3200 GMBL",
+    "500.25 USD in 1725 ADA",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "2dae51f5eff8bdbc224a634ec47a71b041df45ea545aa8483b33a7547d1c3481",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Chair Weekly GG Call 36 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination,Facilitating"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "rcgctj": {
+          "ada": 345,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 37 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination,Facilitating"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "55smty": {
+          "ada": 345,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 39 - 100 usd"
+      ],
+      "label": [
+        "Operations,Coordination,Facilitating"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "mg3a4k": {
+          "ada": 345,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 40 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination,Facilitating"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "ada": 345,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 38 - 100 USD"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication,Facilitating"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "7lnpzs": {
+          "ada": 345,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Prepare Weekly GG Call 36"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 36"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "55smty": {
+          "gimbal": 150
+        },
+        "7lnpzs": {
+          "gimbal": 150
+        },
+        "mg3a4k": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 38  31st July 2023"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 39"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 40"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly GG Meeting #37"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "governance guild",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}
