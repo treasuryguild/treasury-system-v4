@@ -3,7 +3,6 @@
     "Singularity Net Ambassador Wallet Transaction",
     "Website: ",
     "Recipients: 1",
-    "NaN USD in NaN ADA",
     "516.000 USD in 2000.00 AGIX",
     "Transaction made by Treasury Guild @0.294",
     "https://www.treasuryguild.io/"
@@ -15,7 +14,7 @@
   "contributions": [
     {
       "name": [
-        "Moving back 2000 AGIX tokens to DeppFunding TH",
+        "Moving back 2000 AGIX tokens to DeepFunding TH",
         "Wallet"
       ],
       "label": [
@@ -24,7 +23,6 @@
       "taskCreator": "Singularity Net",
       "contributors": {
         "94cqxx": {
-          "ADA": "",
           "AGIX": "2000"
         }
       }
