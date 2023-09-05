@@ -1,0 +1,133 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 13",
+    "1028.000 USD in 4000.00 ADA",
+    "Transaction made by Treasury Guild @0.257",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "784005e20b2c902c7c67a4c77a0fc5d9edd6d460f2e7de88c2671ed81e7b6de0",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Rewards for Idea Fest hosts"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "ADA": "100"
+        },
+        "8f9pmj": {
+          "ADA": "100"
+        },
+        "9qgazv": {
+          "ADA": "100"
+        },
+        "d77t0m": {
+          "ADA": "100"
+        },
+        "lq9wke": {
+          "ADA": "100"
+        },
+        "n7qgup": {
+          "ADA": "100"
+        },
+        "p8q4jl": {
+          "ADA": "100"
+        },
+        "qsty7m": {
+          "ADA": "100"
+        },
+        "ukwpzf": {
+          "ADA": "100"
+        },
+        "ul20uj": {
+          "ADA": "100"
+        }
+      }
+    },
+    {
+      "name": [
+        "Reward for Video editing & clipping"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "9qgazv": {
+          "ADA": "1000"
+        }
+      }
+    },
+    {
+      "name": [
+        "Reward for Treasury System"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ADA": "500"
+        },
+        "vfpp2w": {
+          "ADA": "500"
+        }
+      }
+    },
+    {
+      "name": [
+        "ATH Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "9qgazv": {
+          "ADA": "500"
+        },
+        "mdrk74": {
+          "ADA": "500"
+        }
+      }
+    }
+  ]
+}
