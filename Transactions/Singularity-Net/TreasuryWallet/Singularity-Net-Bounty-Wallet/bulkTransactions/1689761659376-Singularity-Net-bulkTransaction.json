@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Singularity Net Bounty Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "1.585 USD in 5.00 ADA",
+    "Transaction made by Treasury Guild @0.317",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "33a93899d177b8b277eab987003fb7a4925f79443efeaca3939b7ae2c1322e5e",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending leftovers to Treasury guild"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "ymne56": {
+          "ADA": "5"
+        }
+      }
+    }
+  ]
+}

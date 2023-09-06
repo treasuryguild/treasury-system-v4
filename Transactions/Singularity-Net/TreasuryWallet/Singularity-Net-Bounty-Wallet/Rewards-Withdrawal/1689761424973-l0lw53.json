@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Singularity Net Bounty Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.317",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "546966acd1081b07eacbfc9d1c0e5a1b68151e2a659c42d5540a86d47f0be00c",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Rewards Withdrawal"
+      ],
+      "description": [
+        "Rewards Withdrawal"
+      ],
+      "taskCreator": [
+        "Singularity Net Bounty Wallet"
+      ],
+      "contributors": {
+        "l0lw53": {
+          "ADA": 0.680574
+        }
+      }
+    }
+  ]
+}

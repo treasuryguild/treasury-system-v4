@@ -1,0 +1,241 @@
+{
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 11",
+    "0 USD in 4019.8 GMBL",
+    "252.399 USD in 1201.9 AGIX",
+    "0 USD in 630 GovWG",
+    "Transaction made by Treasury Guild @0.258",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "ab01647595155a39b26ab42e723a6ce9ec430c2e2627adf6f1ee5f4f565d43b6",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 12,
+          "gimbal": 40
+        }
+      }
+    },
+    {
+      "name": [
+        "Slate's activity list May with AGIX"
+      ],
+      "label": [
+        "Documentation,Community Communication,Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 1190
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 14.06.23"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Incubation Workgroup - 14.6.23"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j3xc2c": {
+          "gimbal": 200
+        },
+        "lrs3kj": {
+          "gimbal": 200
+        },
+        "mg3a4k": {
+          "gimbal": 200
+        },
+        "tgd8fg": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 200
+        },
+        "vpyqlf": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Gather data and basic analyse on previous Budgets -",
+        "14.6.2023"
+      ],
+      "label": [
+        "Operations,Community Communication,Reporting"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 400
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 15.06.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a Pol.is - 14.6.2023"
+      ],
+      "label": [
+        "Operations,Community Communication,Content Creation"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "u7ywg4": {
+          "GovWG": 30,
+          "gimbal": 30
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Governance WG Call #5 - 13.6.2023"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "r5nvwm": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "tgd8fg": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "GovWG": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Ambassador WG Call - 13.06.23"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Guild 13.06.23"
+      ],
+      "label": [
+        "Community Communication,Operations,Coordination"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 150
+        },
+        "j3xc2c": {
+          "gimbal": 150
+        },
+        "lrs3kj": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        },
+        "vpyqlf": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Document Audit - Proposal for an Archive Workgroup - 10",
+        "USD"
+      ],
+      "label": [
+        "Auditing"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}

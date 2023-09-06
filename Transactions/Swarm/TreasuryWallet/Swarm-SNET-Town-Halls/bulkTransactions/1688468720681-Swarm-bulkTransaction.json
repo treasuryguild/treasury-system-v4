@@ -1,0 +1,30 @@
+{
+  "msg": [
+    "Swarm SNET Town Halls Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "59.200 USD in 200.00 ADA",
+    "Transaction made by Treasury Guild @0.296",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "8afb53012868a735ebf8587957aaa093c1e6566089753712000b39b49ece8477",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending back 200 ADA to gsrxm9"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "Swarm",
+      "contributors": {
+        "gsrxm9": {
+          "ADA": "200"
+        }
+      }
+    }
+  ]
+}

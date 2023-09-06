@@ -1,0 +1,34 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "0.00 USD in 1.00 nftaccess",
+    "0.36 USD in 1.15939 ADA",
+    "Transaction made by Treasury Guild @0.312",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "fdd8d8eaca2c1cad05722d558035fd099f971c4a50737a7f571c29ebc3b24940",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Operations"
+      ],
+      "description": [
+        ""
+      ],
+      "taskCreator": [
+        "Test Wallet"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "ADA": 1.15939,
+          "nftaccess": 1
+        }
+      }
+    }
+  ]
+}

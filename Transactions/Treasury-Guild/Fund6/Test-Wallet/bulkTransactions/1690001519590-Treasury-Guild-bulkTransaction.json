@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "NaN USD in 1.00 defiwallet",
+    "Transaction made by Treasury Guild @0.314",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "98f21b4533c45a8cf73a27858753e16d0c1676d38467e76125590887463f1907",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Test"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "defiwallet": "1"
+        }
+      }
+    }
+  ]
+}

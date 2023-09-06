@@ -1,0 +1,34 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "NaN USD in 1.00 FOMOGamesAward0095",
+    "NaN USD in 1.00 cNFTnewsYearbook0299",
+    "Transaction made by Treasury Guild @0.311",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "19e2e359c4d059423bec356b615b2a9c852845f8937e42e028db62e6688138ee",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Test"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "FOMOGamesAward0095": "1",
+          "cNFTnewsYearbook0299": "1"
+        }
+      }
+    }
+  ]
+}

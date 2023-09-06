@@ -1,0 +1,138 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 6",
+    "8885.223 USD in 34043.00 ADA",
+    "Transaction made by Treasury Guild @0.261",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "cf2900c39a013805959633868bbcca13bc801d10d5302130e15d2a388455c45f",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Rewards Wallet organization, payments, accounting"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Governance Guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ADA": "3053"
+        },
+        "vfpp2w": {
+          "ADA": "6107"
+        }
+      }
+    },
+    {
+      "name": [
+        "Reward for Consultancy"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Governance Guild"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "ADA": "4580"
+        }
+      }
+    },
+    {
+      "name": [
+        "Rewards for PBL - Dework"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Governance Guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "5725"
+        },
+        "vfpp2w": {
+          "ADA": "1908"
+        }
+      }
+    },
+    {
+      "name": [
+        "Reward for Document and edit CSG processes in PBL",
+        "modules"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Governance Guild"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "ADA": "4580"
+        }
+      }
+    },
+    {
+      "name": [
+        "Rewards for Twitter posts "
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Governance Guild"
+      ],
+      "contributors": {
+        "d77t0m": {
+          "ADA": "1908"
+        }
+      }
+    },
+    {
+      "name": [
+        "Payment for Zoom account "
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Governance Guild"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": "458"
+        }
+      }
+    },
+    {
+      "name": [
+        "Rewards for Closing Report"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Governance Guild"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "ADA": "2862"
+        },
+        "rcgctj": {
+          "ADA": "2862"
+        }
+      }
+    }
+  ]
+}

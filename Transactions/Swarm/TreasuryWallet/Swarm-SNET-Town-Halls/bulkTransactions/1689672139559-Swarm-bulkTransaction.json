@@ -1,0 +1,101 @@
+{
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 11",
+    "0 USD in 1950 GMBL",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "427efc6a42ef416c35b32c89350488537ebdafd3764feabad39533910229e42d",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Call with Swarm & DF"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "q0av5m": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Deep Funding Round 2 Governance Call - 6.7.2023"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 150
+        },
+        "9y86pv": {
+          "gimbal": 150
+        },
+        "lq9wke": {
+          "gimbal": 150
+        },
+        "pfwaf6": {
+          "gimbal": 150
+        },
+        "q0av5m": {
+          "gimbal": 150
+        },
+        "r83kme": {
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "gimbal": 150
+        },
+        "ul20uj": {
+          "gimbal": 150
+        },
+        "vpyqlf": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #12 - Create & Manage Tasks - 200 AGIX"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH 11 - Timestamping - 50 AGIX"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "fu9paa": {
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}

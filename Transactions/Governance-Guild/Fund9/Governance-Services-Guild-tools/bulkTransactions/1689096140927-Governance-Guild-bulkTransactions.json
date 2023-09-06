@@ -1,0 +1,94 @@
+{
+  "msg": [
+      "Governance Services Guild tools Transaction",
+      "Website: https://cardano.ideascale.com/c/idea/420109",
+      "Recipients: 5",
+      "100 USD in 343.24 ADA",
+      "0.000 USD in 500.00 GMBL",
+      "Transaction made by Treasury Guild @0.291",
+      "https://www.treasuryguild.io/"
+   ],
+  "mdVersion": [
+      "1.4"
+   ],
+  "txid": "10c4952e36076a53ae321456ee482944c61091acb25177b63e18bbd0620cebb8",
+   "contributions": [
+      {
+        "contributors": {
+            "4mg27n": {
+               "ADA": "343.24",
+               "GMBL": "100"
+            }
+         },
+         "label": [
+            "Operations",
+            "Coordination",
+            "Facilitating"
+         ],
+         "name": [
+            "Chair Weekly GG Call 35 - 100 USD"
+         ],
+         "taskCreator": "Governance Guild"
+      },
+      {
+         "contributors": {
+            "nqezzp": {
+               "GMBL": "100"
+            }
+         },
+         "label": [
+            "Operations",
+            "Coordination"
+         ],
+         "name": [
+            "Weekly Call 35"
+         ],
+         "taskCreator": "Governance Guild"
+      },
+      {
+         "contributors": {
+            "t9s8fg": {
+               "GMBL": "100"
+            }
+         },
+         "label": [
+            "Operations",
+            "Coordination"
+         ],
+         "name": [
+            "Weekly Call 35"
+         ],
+         "taskCreator": "Governance Guild"
+      },
+      {
+         "contributors": {
+            "7lnpzs": {
+               "GMBL": "100"
+            }
+         },
+         "label": [
+            "Operations",
+            "Coordination"
+         ],
+         "name": [
+            "Weekly Call 35"
+         ],
+         "taskCreator": "Governance Guild"
+      },
+      {
+         "contributors": {
+            "w0t2f4": {
+               "GMBL": "100"
+            }
+         },
+         "label": [
+            "Operations",
+            "Coordination"
+         ],
+         "name": [
+            "Weekly Call 35"
+         ],
+         "taskCreator": "Governance Guild"
+      }
+   ]
+}

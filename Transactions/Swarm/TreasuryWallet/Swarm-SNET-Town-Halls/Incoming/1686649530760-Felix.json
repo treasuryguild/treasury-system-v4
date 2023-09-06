@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "d1f1a7a036b2e7db81d92ed6ef4f1a3ed8d77a16eb6f68d5d3595d0c1cc39dd3",
+  "msg": [
+    "Swarm Transaction",
+    "Ideascale: ",
+    "Recipients: 1",
+    "1.41 USD in 5.000000 ADA",
+    "Transaction made by Treasury Guild @0.282",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Swarm",
+      "label": "Incoming",
+      "description": [
+        "Felix borrow 5 ADA so we could make the transfer"
+      ],
+      "contributors": {
+        "Felix": {
+          "ADA": "5"
+        }
+      }
+    }
+  ]
+}

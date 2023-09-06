@@ -1,0 +1,28 @@
+{
+  "mdVersion": [
+    "1.3"
+  ],
+  "txid": "bac91457d53a66144dc872a922c0352c36c9c44f0994e474c0ad5e0a7b0f8bc6",
+  "msg": [
+    "Governance-Guild Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "0.90 USD in 3 ADA",
+    "Transaction made by Treasury Guild @0.283",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Governance-Guild",
+      "label": "Other",
+      "description": [
+        "Swap ADA for COPI tokens on DripDrops"
+      ],
+      "contributors": {
+        "8rhplq": {
+          "ADA": "3"
+        }
+      }
+    }
+  ]
+}

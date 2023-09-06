@@ -7,21 +7,20 @@
     "Singularity-Net Transaction",
     "Ideascale: ",
     "Recipients: 1",
-    "0.48 USD in 1.344798 ADA",
+    "0.39 USD in 1.344798 ADA",
     "0 USD in 200000.00 GovWG",
-    "Transaction made by Treasury Guild @0.355",
+    "Transaction made by Treasury Guild @0.287",
     "https://www.treasuryguild.io/"
   ],
   "contributions": [
     {
       "taskCreator": "Singularity-Net",
-      "label": "Incoming",
+      "label": "Other",
       "description": [
-        "Incoming of 200000 GovWG tokens from Snet Ambassador",
-        "Governance Workgroup"
+        "Send GovWG tokens to Ambassador wallet"
       ],
       "contributors": {
-        "c6fs7m": {
+        "3ynval": {
           "ADA": "1.344798",
           "GovWG": "200000"
         }

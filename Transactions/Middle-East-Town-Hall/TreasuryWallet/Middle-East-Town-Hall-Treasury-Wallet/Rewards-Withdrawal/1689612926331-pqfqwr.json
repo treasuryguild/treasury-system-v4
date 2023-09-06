@@ -1,0 +1,29 @@
+{
+  "msg": [
+    "Middle East Town Hall Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.313",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "7bf7a8081698cf0a8b7d20c8626d68726c02db0f6f32436bde411a16811921ab",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Rewards Withdrawal"
+      ],
+      "description": [
+        "Rewards Withdrawal"
+      ],
+      "taskCreator": "Middle East Town Hall Treasury Wallet",
+      "contributors": {
+        "pqfqwr": {
+          "ADA": 24.20194
+        }
+      }
+    }
+  ]
+}

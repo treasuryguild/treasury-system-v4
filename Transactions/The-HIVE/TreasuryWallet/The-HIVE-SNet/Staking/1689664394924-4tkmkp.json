@@ -1,0 +1,29 @@
+{
+  "msg": [
+    "The HIVE SNet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.306",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "b5b19955ff49fcab5a35f613c21e2f92239ce8a20b57cd84eb3f9235a1b10740",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Staking"
+      ],
+      "description": [
+        "Staking to Pool"
+      ],
+      "taskCreator": "The HIVE SNet",
+      "contributors": {
+        "4tkmkp": {
+          "ADA": 2
+        }
+      }
+    }
+  ]
+}

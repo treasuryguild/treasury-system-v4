@@ -1,0 +1,34 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "0.00 USD in 1.00 asset1ge8mrmvjdvwgpr3eqrw7qf44dnzecj06twkun5",
+    "0.36 USD in 1.15939 ADA",
+    "Transaction made by Treasury Guild @0.314",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "39d656a73e483315b3d28535c27236731a464ab8223b36a4da611312b47d2094",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Test Wallet 2"
+      ],
+      "taskCreator": [
+        "Test Wallet"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "ADA": 1.15939,
+          "asset1ge8mrmvjdvwgpr3eqrw7qf44dnzecj06twkun5": 1
+        }
+      }
+    }
+  ]
+}

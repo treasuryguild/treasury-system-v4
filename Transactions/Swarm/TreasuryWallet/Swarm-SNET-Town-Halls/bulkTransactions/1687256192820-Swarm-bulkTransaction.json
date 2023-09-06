@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Swarm SNET Town Halls Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "NaN USD in NaN ADA",
+    "261.294 USD in 1221.00 AGIX",
+    "Transaction made by Treasury Guild @0.258",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "64abdb5c22f7eac05c991e51220155d98933f5dbdab1b3e2565c494b00dbbc67",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "missing rewards"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "Swarm",
+      "contributors": {
+        "j3xc2c": {
+          "ADA": "",
+          "AGIX": "1221"
+        }
+      }
+    }
+  ]
+}

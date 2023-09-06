@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Automate Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.56 USD in 2 ADA",
+    "Transaction made by Treasury Guild @0.279",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "ec2ad771c67b2aa6a9912498fac45d2246f1b7efe20c8fe5e0f3048cbbbb9cea",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Staking"
+      ],
+      "description": [
+        "Staking to Pool"
+      ],
+      "taskCreator": [
+        "Automate Treasury Wallet"
+      ],
+      "contributors": {
+        "3hjnmt": {
+          "ADA": 2
+        }
+      }
+    }
+  ]
+}

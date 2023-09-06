@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.280",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "89058780a88c8a99102f61642fdebf682502a09e0f323f8962eee9230a332bb6",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Operations",
+        "Fixed Costs",
+        "Documentation"
+      ],
+      "description": [
+        "",
+        "Testing"
+      ]
+    },
+    {
+      "label": [
+        "Operations",
+        "Fixed Costs",
+        "Documentation"
+      ],
+      "description": [
+        "",
+        "Testing"
+      ]
+    }
+  ]
+}

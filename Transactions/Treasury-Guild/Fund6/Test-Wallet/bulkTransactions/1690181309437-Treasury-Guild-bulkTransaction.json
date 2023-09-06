@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "NaN USD in 1.00 asset1ge8mrmvjdvwgpr3eqrw7qf44dnzecj06twkun5",
+    "Transaction made by Treasury Guild @0.313",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "d1f167e8592ce8be30916568e92ded5b147038cea04b0b2dead03de51280ac0a",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Testing"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "asset1ge8mrmvjdvwgpr3eqrw7qf44dnzecj06twkun5": "1"
+        }
+      }
+    }
+  ]
+}

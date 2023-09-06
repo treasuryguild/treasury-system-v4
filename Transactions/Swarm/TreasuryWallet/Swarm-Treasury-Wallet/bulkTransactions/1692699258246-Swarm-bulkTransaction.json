@@ -1,0 +1,459 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 27",
+    "0 USD in 12300 GMBL",
+    "13 USD in 50 ADA",
+    "45.72 USD in 254 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "174d49371872a5fc097de3d42a40dbe7ee1f1d8b85ef2b3fe58ac75f907aaa46",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Join Saturday Swarm Session June 24 - Earn 100 GMBL"
+      ],
+      "label": [
+        "Swarm Session"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jl2vjm": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Session 05.11 -100 Gimbal"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jl2vjm": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Join the Catalyst Swarm Veteran Call #1 - Earn 100 Gimbal"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jl2vjm": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Guild and Done Collectively Call 21.02"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 2,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Dev Collaboration - Genesis"
+      ],
+      "label": [
+        "Tool development",
+        "Operations"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 2,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Impact Growth Engine - Session 3 -  50 ADA and 50 AGIX"
+      ],
+      "label": [
+        "Community Communication",
+        "Operations",
+        "Coordination"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jl2vjm": {
+          "ada": 50,
+          "AGIX": 50,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Impact Growth Engine - Session 2"
+      ],
+      "label": [
+        "Community Communication",
+        "Operations",
+        "Coordination"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 2,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "After Town Hall with Radical ecosystems - 28.6.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "0fmvka": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "3qz0k2": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "49w8fg": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "5jwnt2": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "7lnpzs": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "9qgazv": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "f0qnsw": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "g8glkf": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "jhyhwp": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "n7qgup": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "r83kme": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "AGIX": 2,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Call Nori & Felix - 26.6.2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jhyhwp": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "AGIX": 2,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a Swarm Strategy"
+      ],
+      "label": [
+        "Operations",
+        "Content Creation"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 1500
+        },
+        "u7ywg4": {
+          "AGIX": 2,
+          "gimbal": 1500
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild"
+      ],
+      "label": [
+        "Operations",
+        "Meeting"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 250
+        },
+        "jnaxjp": {
+          "gimbal": 250
+        },
+        "rcgctj": {
+          "gimbal": 250
+        },
+        "u7ywg4": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild x"
+      ],
+      "label": [
+        "Operations",
+        "Meeting"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 200
+        },
+        "jnaxjp": {
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Create Vector Graphic - 100 AGIX"
+      ],
+      "label": [
+        "Content Creation"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "d3jfmz": {
+          "AGIX": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Session - 29.07.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "mg3a4k": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "mmj204": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "s52l54": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "AGIX": 2,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "ODIN Community Call - 25.7.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "9qgazv": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "j3xc2c": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "jl2vjm": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "n7qgup": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "p8q4jl": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "r83kme": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "rgmqfq": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "AGIX": 2,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Session - 22.07.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "55smty": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "7lnpzs": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "9qgazv": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "gr2t60": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "mg3a4k": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "p8q4jl": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "AGIX": 2,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "ODIN Community Call - 18.7.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "5jwnt2": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "cvdu29": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "jhyhwp": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "jl2vjm": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "p8q4jl": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "r83kme": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "AGIX": 2,
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}

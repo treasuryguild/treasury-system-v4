@@ -1,0 +1,30 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "14.750 USD in 50.00 ADA",
+    "Transaction made by Treasury Guild @0.295",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "bed50057c6f2ee3b91e4a9d4fe1681d86243263e97e8c7091a066273d3a0c98f",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Borrowing another 50 ADA to Deepfund TH wallet"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "Swarm",
+      "contributors": {
+        "94cqxx": {
+          "ADA": "50"
+        }
+      }
+    }
+  ]
+}

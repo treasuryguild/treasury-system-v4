@@ -1,0 +1,58 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "bdcb8a0a3fe9e21798ec82ccff4edf1d849d87f7cac9f7b772b5ac7326540b0a",
+  "msg": [
+    "Catalyst-Training-and-Automation Bulk Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/398131",
+    "Recipients: 3",
+    "4806.11 USD in 15354.99 ADA",
+    "Transaction made by Treasury Guild @0.313",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "Automate Workgroup",
+      "description": [
+        "Meetings Tools docs proposal writing"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "uxd83r": {
+          "ADA": "8974.13"
+        }
+      }
+    },
+    {
+      "taskCreator": "Automate Workgroup",
+      "description": [
+        "Meetings  proposal writing close out video"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ADA": "2132.46"
+        }
+      }
+    },
+    {
+      "taskCreator": "Automate Workgroup",
+      "description": [
+        "Meetings  proposal writing"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "ADA": "4248.4"
+        }
+      }
+    }
+  ]
+}

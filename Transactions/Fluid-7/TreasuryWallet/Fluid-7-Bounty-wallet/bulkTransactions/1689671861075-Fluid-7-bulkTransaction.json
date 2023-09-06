@@ -1,0 +1,30 @@
+{
+  "msg": [
+    "Fluid 7 Bounty wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "36.349 USD in 118.40 ADA",
+    "Transaction made by Treasury Guild @0.307",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "2306833179825bcb916e039cdee21da7873f129b9dffa960f1fd1dad52f7d3b5",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending ADA back - wrong wallet"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "Fluid 7",
+      "contributors": {
+        "m45kgs": {
+          "ADA": "118.40"
+        }
+      }
+    }
+  ]
+}

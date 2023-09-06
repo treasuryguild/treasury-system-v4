@@ -1,0 +1,41 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "0.000 USD in 10.00 GMBL",
+    "0.635 USD in 3.63 AGIX",
+    "Transaction made by Treasury Guild @0.261",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "cdb974e52b08965861224b2c6d7351e0cd744ab1ca88eaf8cee4d98d5b77be35",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Testing new Metadata format"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Fixed Costs"
+        ],
+        "subGroup": []
+      },
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "AGIX": "3.625",
+          "GMBL": "10"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "The HIVE SNet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.310",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "30be35072aa6893ae1f516ea595d7d77776b4a930a1453b99f43871262bcba2b",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from f9q8mm"
+      ],
+      "taskCreator": [
+        "The HIVE SNet"
+      ],
+      "contributors": {
+        "f9q8mm": {
+          "ADA": 1.344798,
+          "AGIX": 615
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "0.000 USD in 10.00 GMBL",
+    "Transaction made by Treasury Guild @0.266",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "8c0578106cd728bd40c0956e56489ff85f37359b1b340900c226449f18fadfaa",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Testing"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "GMBL": "10"
+        }
+      }
+    }
+  ]
+}

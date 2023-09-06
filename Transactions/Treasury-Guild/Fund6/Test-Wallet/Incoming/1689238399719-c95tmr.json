@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.287",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "34918b0d9f5abbb18b1e792c3cfe2930e29a2676e42b400b01ef52e44ef22a19",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from c95tmr"
+      ],
+      "taskCreator": "Test Wallet",
+      "contributors": {
+        "c95tmr": {
+          "ADA": 1.34041,
+          "AGIX": 2,
+          "GMBL": 20
+        }
+      }
+    }
+  ]
+}

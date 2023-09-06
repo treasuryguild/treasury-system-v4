@@ -1,0 +1,30 @@
+{
+  "msg": [
+    "Swarm SNET Town Halls Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "1.29 USD in 5 ADA",
+    "Transaction made by Treasury Guild @0.258",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "35a04ca5af693131709c91f36db59ded7d99054f472a57662648f9d56d2fcba1",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from hqetw6"
+      ],
+      "taskCreator": "Swarm SNET Town Halls",
+      "contributors": {
+        "hqetw6": {
+          "ADA": 5
+        }
+      }
+    }
+  ]
+}

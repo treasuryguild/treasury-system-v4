@@ -1,0 +1,67 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 2",
+    "0.000 USD in 10.00 GMBL",
+    "Transaction made by Treasury Guild @0.266",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "231b8ed081226a64ecc9d16ceda76720bbd86d02bf238510cb8c03ab32bb03a8",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Testing new proof url in mtadata"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.08.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "proof": [
+          "https://raw.githubusercontent.com/treasuryguild/tr",
+          "easury-system-v4/main/Transactions/Treasury-Guild/",
+          "Fund6/Test-Wallet/bulkTransactions/1693381772980-T",
+          "reasury-Guild-bulkTransaction.json"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "GMBL": "5"
+        }
+      }
+    },
+    {
+      "name": [
+        "Testing no values in input for proof and subgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.08.23"
+        ],
+        "label": [
+          "Fixed Costs"
+        ]
+      },
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "GMBL": "5"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 6",
+    "132 USD in 600 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "83723606aa4c2d941939028bd697ca33f18c70eaea6a71208569c6291db98f37",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "DF-T2- WP Platform Testing - 100 AGIX"
+      ],
+      "label": [
+        "Operations,Tool development"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": 100
+        },
+        "cvdu29": {
+          "AGIX": 100
+        },
+        "ex7942": {
+          "AGIX": 100
+        },
+        "rgmqfq": {
+          "AGIX": 100
+        },
+        "tgd8fg": {
+          "AGIX": 100
+        },
+        "ukwpzf": {
+          "AGIX": 100
+        }
+      }
+    }
+  ]
+}

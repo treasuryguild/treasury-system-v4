@@ -1,0 +1,933 @@
+{
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 4",
+    "0 USD in 10031 GMBL",
+    "875.28 USD in 4168 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "eef0fcaa1c1f125f08d62a3462ca55161adfdd197ce9978698d7287419657ec8",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "DF TH #8 - Edit & upload Recording - 150 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 150,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #7 - Breakout Room Signup - 50 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #7 - Edit & upload Recording - 150 AGIX"
+      ],
+      "label": [
+        "Operations,Documenting"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 150,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Process and upload previous DF TH content onto youtube channel"
+      ],
+      "label": [
+        "Operations,Documenting"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #8 - Schedule Pre & Post Announcements - 50",
+        "AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "AGIX": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #8 - Manage Event Call - 150 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": 150,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #8- Pre TH Team Meet - 4.05.23"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #6 - Cran - Schedule Pre & Post Announcements",
+        "- 25 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "AGIX": 25
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #7 - Schedule Pre & Post Announcements - 50",
+        "AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "AGIX": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #6 - Rojo - Schedule Pre & Post Announcements",
+        "- 25 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 25,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #8 - Host Event - 150 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 150,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #7 - Host Event - 150 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 150,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Deep Funding Town Hall #7 - 20.04.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #7- Pre TH Team Meet - 18.4.23"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "gimbal": 50
+        },
+        "pfwaf6": {
+          "gimbal": 50
+        },
+        "u7ywg4": {
+          "gimbal": 50
+        },
+        "vpyqlf": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #8- Pre TH Team Meet - 18.4.23"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "gimbal": 50
+        },
+        "pfwaf6": {
+          "gimbal": 50
+        },
+        "vpyqlf": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #7 - Manage Event Call - 150 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": 150,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Call with Rafael & Felix - 28.4.2023"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Deep Funding Round 2 Governance Call - 27.4.2023"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Deep Funding Round 2 Governance Call Kickoff -",
+        "13.4.2023"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "gimbal": 150
+        },
+        "pfwaf6": {
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #6 - Manage Event Call - 150 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": 150,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #6- Pre TH Team Meet"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "gimbal": 50
+        },
+        "u7ywg4": {
+          "gimbal": 50
+        },
+        "vpyqlf": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #6 - Edit & upload Recording - 150 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 150,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #6 - Breakout Room Signup - 50 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #6 - Host Event - 150 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 150,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DFTH Team & DF - 10.5.2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Deep Funding Town Hall #8 - Earn 100 Gimbal & 2",
+        "AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "AGIX": 2,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Call with Rafael & Felix - 17.5.2023"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Create Insight sharing Workshop Series - 11.5.2023"
+      ],
+      "label": [
+        "Community Communication,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #9 - Breakout Room Signup - 50 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #9 - Manage Event Call - 200 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #9 - Schedule Pre & Post Announcements - 50",
+        "AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "AGIX": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #9 - Create & Manage Tasks - 200 AGIX"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #8 - Create & Manage Tasks - 150 AGIX"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 150,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #7 - Create & Manage Tasks - 150 AGIX"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 150,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #6 - Create & Manage Tasks - 150 AGIX"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 150,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Deep Funding Round 2 Governance Call - 25.5.2023"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "gimbal": 150
+        },
+        "pfwaf6": {
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Call with Rafael & Felix - 24.5.2023"
+      ],
+      "label": [
+        "Operations, Coordination"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #9 - Host Event - 200 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Deep Funding Town Hall #10 - Earn 100 Gimbal & 2",
+        "AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "pfwaf6": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "AGIX": 2,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "DFTH Team & DF - 1.6.2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #10 - Schedule Pre & PostAnnouncements - 50",
+        "AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "AGIX": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #10 - Breakout Room Signup - 50 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #10 - Manage Event Call - 200 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #10 - Host Event - 200 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Call with Felix & Rafael - 7.6.2023"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Call with Felix & Juanita - 2.6.2023"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #10 - Create & Manage Tasks - 200 AGI"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Call with Felix & Ricardo - 14.6.2023"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 80
+        }
+      }
+    },
+    {
+      "name": [
+        "Deep Funding Round 2 Governance Call - 8.6.2023"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #11 - Breakout Room Signup - 50 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #11 - Manage Event Call - 200 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #11 - Host Event - 200 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #11 - Schedule Pre & PostAnnouncements - 50",
+        "AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "AGIX": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #11 - Create & Manage Tasks - 200 AGIX"
+      ],
+      "label": [
+        "Operations,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DFTH Team & DF - 15.6.2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Deep Funding Town Hall #11 - Earn 100 Gimbal & 2",
+        "AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "vpyqlf": {
+          "AGIX": 2,
+          "gimbal": 150
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "5.640 USD in 20.00 ADA",
+    "Transaction made by Treasury Guild @0.282",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "14b9cd12bfb03b1270a35b5d59a271678e0e74db9581e9a33ca3977c0ef55eaf",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Returning the 20 ADA that Felix borrowed"
+      ],
+      "label": [
+        "Other"
+      ],
+      "taskCreator": "Swarm",
+      "contributors": {
+        "ghae2z": {
+          "ADA": "20"
+        }
+      }
+    }
+  ]
+}

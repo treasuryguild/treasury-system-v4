@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Automate Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.301",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "7f3522901a8497218bab85d4c8999b90358e83d445e89a67bbcd074e35e30a00",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from kpasvg"
+      ],
+      "taskCreator": [
+        "Automate Treasury Wallet"
+      ],
+      "contributors": {
+        "kpasvg": {
+          "ADA": 4.261651
+        }
+      }
+    }
+  ]
+}

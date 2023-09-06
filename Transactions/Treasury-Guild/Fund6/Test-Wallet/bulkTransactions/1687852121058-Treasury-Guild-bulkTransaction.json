@@ -1,0 +1,29 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "0.348 USD in 12.00 COPI",
+    "Transaction made by Treasury Guild @0.283",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "119f7da97eeeaafef7e65b6f6ebf2671ad30b33d42f7f0366ae2089417435797",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Testing bugs"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "COPI": "12"
+        }
+      }
+    }
+  ]
+}

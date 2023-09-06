@@ -1,0 +1,710 @@
+{
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 23",
+    "0 USD in 12300 GMBL",
+    "330.72 USD in 1272 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "454a94fbcc98a76f859641eba39aee8fa32d92b69f232f28728334906145575d",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "DF TH #12 - Host Event - 200 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication,Facilitating"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #12 - Upload recording of DF TH 12 to Youtube -",
+        "100 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #11 - Upload recording of DF TH 10 to Youtube -",
+        "100 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #8 - Timestamping and GPT Summary - 50 AGIX"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 50,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH Backlog - Timestamping and GPT Summaries (3",
+        "videos) - 150 AGIX"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 150,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #7 - Timestamping and GPT Summary - 50 AGIX"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 50,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #6 - Timestamping and GPT Summary - 50 AGIX"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 50,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH 5 - Timestamping - 20 AGIX"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 20,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #10 - Timestamping and GPT Summary - 50 AGIX"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 50,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #9 - Timestamping and GPT Summary - 50 AGIX"
+      ],
+      "label": [
+        "timestamping,Content Creation"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 50,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Deep Funding Round 2 Governance Call - 27.4.2023"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "9qgazv": {
+          "gimbal": 150
+        },
+        "9y86pv": {
+          "gimbal": 150
+        },
+        "a3amjj": {
+          "gimbal": 150
+        },
+        "lq9wke": {
+          "gimbal": 150
+        },
+        "lrs3kj": {
+          "gimbal": 150
+        },
+        "mg3a4k": {
+          "gimbal": 150
+        },
+        "q0av5m": {
+          "gimbal": 150
+        },
+        "r5nvwm": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        },
+        "ul20uj": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Deep Funding Round 2 Governance Call Kickoff -",
+        "13.4.2023"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "9qgazv": {
+          "gimbal": 150
+        },
+        "lq9wke": {
+          "gimbal": 150
+        },
+        "lrs3kj": {
+          "gimbal": 150
+        },
+        "mg3a4k": {
+          "gimbal": 150
+        },
+        "p8q4jl": {
+          "gimbal": 150
+        },
+        "q0av5m": {
+          "gimbal": 150
+        },
+        "rvata9": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Deep Funding Round 2 Governance Call - 25.5.2023"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "9qgazv": {
+          "gimbal": 150
+        },
+        "9y86pv": {
+          "gimbal": 150
+        },
+        "lrs3kj": {
+          "gimbal": 150
+        },
+        "q0av5m": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Deep Funding Town Hall #10 - Earn 100 Gimbal & 2",
+        "AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "9qgazv": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "lq9wke": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "lrs3kj": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "p8q4jl": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "r83kme": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "ul20uj": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "AGIX": 2,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #10 - Upload recording of DF TH 10 to Youtube -",
+        "100 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "9qgazv": {
+          "AGIX": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #12 - Schedule Pre & PostAnnouncements - 50",
+        "AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "j3xc2c": {
+          "AGIX": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Deep Funding Town Hall #7 - 20.04.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "9y86pv": {
+          "gimbal": 100
+        },
+        "a3amjj": {
+          "gimbal": 100
+        },
+        "ex7942": {
+          "gimbal": 100
+        },
+        "j99kct": {
+          "gimbal": 100
+        },
+        "lq9wke": {
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "p8q4jl": {
+          "gimbal": 100
+        },
+        "q0av5m": {
+          "gimbal": 100
+        },
+        "r5nvwm": {
+          "gimbal": 100
+        },
+        "r83kme": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "ul20uj": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Brainstorm Call - 21.6.2023"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "q0av5m": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "ul20uj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #12 - Manage Event Call - 200 AGIX"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #12 - Breakout Room Signup - 50 AGIX"
+      ],
+      "label": [
+        "Operations,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Deep Funding Town Hall #8 - Earn 100 Gimbal & 2",
+        "AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "9y86pv": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "a3amjj": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "lq9wke": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "p8q4jl": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "q0av5m": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "r5nvwm": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "ul20uj": {
+          "AGIX": 2,
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "AGIX": 2,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Deep Funding Town Hall #11 - Earn 100 Gimbal & 2",
+        "AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "9y86pv": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "lq9wke": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "lrs3kj": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "q0av5m": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "r5nvwm": {
+          "AGIX": 2,
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Deep Funding Round 2 Governance Call - 8.6.2023"
+      ],
+      "label": [
+        "Operations,Coordination,Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "9y86pv": {
+          "gimbal": 150
+        },
+        "lq9wke": {
+          "gimbal": 150
+        },
+        "p8q4jl": {
+          "gimbal": 150
+        },
+        "q0av5m": {
+          "gimbal": 150
+        },
+        "ul20uj": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #8- Pre TH Team Meet - 18.4.23"
+      ],
+      "label": [
+        "Operations,Coordination"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "q0av5m": {
+          "gimbal": 50
+        },
+        "xl6z2n": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "DFTH Team & DF - 10.5.2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "q0av5m": {
+          "gimbal": 100
+        },
+        "tgd8fg": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DFTH Team & DF - 1.6.2023"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "xl6z2n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Call with Rafael & Felix - 28.4.2023"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "q0av5m": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Call with Rafael & Felix - 17.5.2023"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "q0av5m": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Call with Rafael & Felix - 24.5.2023"
+      ],
+      "label": [
+        "Operations, Coordination"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "q0av5m": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Call with Felix & Rafael - 7.6.2023"
+      ],
+      "label": [
+        "Community Communication,Operations"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "q0av5m": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Deep Funding Town Hall #4 - Earn 100 Gimbal & 2",
+        "AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 2,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Deep Funding Town Hall #3 - Earn 100 Gimbal & 2",
+        "AGIX"
+      ],
+      "label": [
+        "Community Communication"
+      ],
+      "taskCreator": "singularity swarm",
+      "contributors": {
+        "lq9wke": {
+          "AGIX": 2,
+          "gimbal": 100
+        }
+      }
+    }
+  ]
+}

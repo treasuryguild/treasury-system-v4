@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.00 USD in 799951.00 GMBL",
+    "29.99 USD in 97.7032 ADA",
+    "Transaction made by Treasury Guild @0.307",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "2306833179825bcb916e039cdee21da7873f129b9dffa960f1fd1dad52f7d3b5",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Fluid 7 Bounty wallet"
+      ],
+      "taskCreator": "Swarm Treasury Wallet",
+      "contributors": {
+        "zcx5as": {
+          "ADA": 118.4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "NaN USD in NaN ADA",
+    "0.000 USD in 66725.00 GMBL",
+    "Transaction made by Treasury Guild @0.293",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "3e3b795fffaba136f9fa6e3f3c88ec38e6f1d80aa516a6cceff0d308536d2d7e",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending all GMBL tokens to SNet Ambassador wallet"
+      ],
+      "label": [
+        "Operations"
+      ],
+      "taskCreator": "Swarm",
+      "contributors": {
+        "3ynval": {
+          "ADA": "",
+          "GMBL": "66725"
+        }
+      }
+    }
+  ]
+}
