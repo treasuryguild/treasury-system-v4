@@ -2,14 +2,14 @@
   "mdVersion": [
     "1.3"
   ],
-  "txid": "9e9d6b6128424584d3c96b95d158923988ef84ed82f1c3e4623d1d9b6008325c",
+  "txid": "ef10ac181a17acdc65da97da3a4043fd47ceefa3545edf5c9009e4ddbd3049e8",
   "msg": [
     "Singularity-Net Transaction",
     "Ideascale: ",
     "Recipients: 1",
-    "0.56 USD in 1.344798 ADA",
-    "2580.00 USD in 7500.00 AGIX",
-    "Transaction made by Treasury Guild @0.414",
+    "0.50 USD in 1.344798 ADA",
+    "39300.00 USD in 150000.00 AGIX",
+    "Transaction made by Treasury Guild @0.374",
     "https://www.treasuryguild.io/"
   ],
   "contributions": [
@@ -17,12 +17,12 @@
       "taskCreator": "Singularity-Net",
       "label": "Incoming",
       "description": [
-        "Incoming of 7500 AGIX from Snet Treasury "
+        "Incoming of 150000 AGIX from Snet Treasury"
       ],
       "contributors": {
-        "Snet": {
+        "msge62": {
           "ADA": "1.344798",
-          "AGIX": "7500"
+          "AGIX": "150000"
         }
       }
     }
