@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "65.79 USD in 255 ADA",
+    "Transaction made by Treasury Guild @0.258",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "44a1c6eee4a6f0372a27d415df87f6895e78ef7bcfbc1dc44d04a2dc72310506",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from 96wdk0"
+      ],
+      "taskCreator": [
+        "Governance Services Guild tools"
+      ],
+      "contributors": {
+        "96wdk0": {
+          "ADA": 975
+        }
+      }
+    }
+  ]
+}
