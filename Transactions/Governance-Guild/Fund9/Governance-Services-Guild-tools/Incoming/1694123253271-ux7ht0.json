@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.257",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "143ae9bca66b2875583aa4b6b94e8564138cbc791ec5a91ded0650bb1674d73e",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from ux7ht0"
+      ],
+      "taskCreator": [
+        "Governance Services Guild tools"
+      ],
+      "contributors": {
+        "ux7ht0": {
+          "ADA": 975
+        }
+      }
+    }
+  ]
+}
