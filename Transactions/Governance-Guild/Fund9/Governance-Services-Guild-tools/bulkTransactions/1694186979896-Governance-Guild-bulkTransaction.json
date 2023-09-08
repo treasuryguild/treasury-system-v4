@@ -1,0 +1,88 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 7",
+    "797.560 USD in 3140.00 ADA",
+    "Transaction made by Treasury Guild @0.254",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "1aa6c968e1b39fced99e59a10a38233dddb03a22d05a0e123d0d7b99f82283af",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Rewards for Grassroots Governancer Community Forum ",
+        "#1"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.07.23"
+        ],
+        "label": [
+          "Facilitation"
+        ],
+        "proof": [
+          "https://catalyst-swarm.gitbook.io/governance-guild",
+          "/grassroots-governance-community-forums/forum-1-15",
+          "th-july-2023"
+        ]
+      },
+      "taskCreator": [
+        "Governance Guild"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "ADA": "392.50"
+        },
+        "wup0pp": {
+          "ADA": "392.50"
+        }
+      }
+    },
+    {
+      "name": [
+        "Rewards for Grassroots Governancer Community Forum ",
+        "#2"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.23"
+        ],
+        "label": [
+          "Facilitation"
+        ],
+        "proof": [
+          "https://catalyst-swarm.gitbook.io/governance-guild",
+          "/grassroots-governance-community-forums/forum-2-31",
+          "st-august-2023"
+        ]
+      },
+      "taskCreator": [
+        "Governance Guild"
+      ],
+      "contributors": {
+        "8m28e7": {
+          "ADA": "392.50"
+        },
+        "a9m59g": {
+          "ADA": "392.50"
+        },
+        "q0av5m": {
+          "ADA": "392.50"
+        },
+        "uptq4s": {
+          "ADA": "392.50"
+        },
+        "wup0pp": {
+          "ADA": "392.50"
+        },
+        "wx2mtm": {
+          "ADA": "392.50"
+        }
+      }
+    }
+  ]
+}
