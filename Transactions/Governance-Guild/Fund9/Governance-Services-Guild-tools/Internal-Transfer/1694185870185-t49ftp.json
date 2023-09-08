@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.254",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "7ad957cdab03ef8f3baeeb0b680b1fa1c418995cf7d4f0c7ba76172975f4b9b7",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Internal Transfer"
+      ],
+      "description": [
+        "Internal Transfer"
+      ],
+      "taskCreator": [
+        "Governance Services Guild tools"
+      ],
+      "contributors": {
+        "t49ftp": {
+          "ADA": 0.173465
+        }
+      }
+    }
+  ]
+}
