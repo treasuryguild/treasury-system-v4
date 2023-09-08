@@ -1,0 +1,40 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "0.000 USD in 10.00 GMBL",
+    "Transaction made by Treasury Guild @0.255",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "b58fd3a9e985679a01357a54c0e4c14e81ac7ad0752596f6e72608d75b23a523",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Test"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.23"
+        ],
+        "label": [
+          "Facilitation"
+        ],
+        "proof": [
+          "https://github.com/treasuryguild/treasury-dapp"
+        ]
+      },
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "GMBL": "10"
+        }
+      }
+    }
+  ]
+}
