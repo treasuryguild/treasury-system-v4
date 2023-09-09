@@ -1,0 +1,41 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.00 USD in 1.00 WadaFilm606",
+    "0.51 USD in 2 ADA",
+    "Transaction made by Treasury Guild @0.254",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "49347b62c4197d55f263494f03a95a2b6ef528e372c48ded85f7a41d535b485b",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Minting"
+      ],
+      "description": [
+        "Minted new tokens"
+      ],
+      "taskCreator": [
+        "Swarm Treasury Wallet"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 0.192385,
+          "AGIX": 305.6705256,
+          "GMBL": 542851,
+          "@Swarm": 1,
+          "TheIliad4897": 1,
+          "Meditations057": 1,
+          "OliverTwist0522": 1,
+          "Gutenberg Bible #1170": 1,
+          "TheCountOfMonteCristo3495": 1
+        }
+      }
+    }
+  ]
+}
