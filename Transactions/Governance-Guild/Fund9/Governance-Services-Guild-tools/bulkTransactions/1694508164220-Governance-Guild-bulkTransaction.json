@@ -1,0 +1,45 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "99.630 USD in 405.00 ADA",
+    "Transaction made by Treasury Guild @0.246",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "50231f28944b582a8700abafdf9c1f2e9380c6820bb88b3fdee5b8e6a303b085",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Rewards for Grassroots Governancer Community Forum ",
+        "#2"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.23"
+        ],
+        "label": [
+          "Note taking"
+        ],
+        "proof": [
+          "",
+          "https://catalyst-swarm.gitbook.io/governance-guild\",",
+          "",
+          "\"/grassroots-governance-community-forums/forum-2-31\",",
+          "\"st-august-2023"
+        ]
+      },
+      "taskCreator": [
+        "Governance Guild"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "ADA": "405"
+        }
+      }
+    }
+  ]
+}
