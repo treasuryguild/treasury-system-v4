@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Swarm Snet GPT Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "11728.445 USD in 63397.00 AGIX",
+    "Transaction made by Treasury Guild @0.253",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "afd789767ac9c905a46da282e2bf0dd18a30d1c96925b7fb86dbf39edf8f8a72",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Moving funds to another wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.09.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "gm6sy7": {
+          "AGIX": "63397"
+        }
+      }
+    }
+  ]
+}
