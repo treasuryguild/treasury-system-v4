@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Edify Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "399.916 USD in 1639.00 ADA",
+    "Transaction made by Treasury Guild @0.244",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "07db4765374d142a68ac8e56528e4ad02bdbbfb9981d43324444c44222c1b41e",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Reward for DAO course"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.09.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "8lfkg2": {
+          "ADA": "1639"
+        }
+      }
+    }
+  ]
+}
