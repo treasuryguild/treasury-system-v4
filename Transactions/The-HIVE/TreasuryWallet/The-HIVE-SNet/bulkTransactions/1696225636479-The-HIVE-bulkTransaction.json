@@ -1,0 +1,58 @@
+{
+  "msg": [
+    "The HIVE SNet Transaction",
+    "Website: ",
+    "Recipients: 8",
+    "5856.860 USD in 30190.00 AGIX",
+    "Transaction made by Treasury Guild @0.264",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "8d06718f8a7ee871de0458a93874f7d672e5a8855978ab84a5516aaf670b65b1",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Rewards for team members"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.10.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "The HIVE"
+      ],
+      "contributors": {
+        "5jwnt2": {
+          "AGIX": "555"
+        },
+        "9qgazv": {
+          "AGIX": "9444"
+        },
+        "lq9wke": {
+          "AGIX": "1111"
+        },
+        "lr8uxr": {
+          "AGIX": "555"
+        },
+        "lrs3kj": {
+          "AGIX": "555"
+        },
+        "rcgctj": {
+          "AGIX": "555"
+        },
+        "t65ffu": {
+          "AGIX": "888"
+        },
+        "zzvr9k": {
+          "AGIX": "16527"
+        }
+      }
+    }
+  ]
+}
