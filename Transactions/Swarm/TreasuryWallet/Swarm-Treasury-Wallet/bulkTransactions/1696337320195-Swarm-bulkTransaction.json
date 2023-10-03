@@ -1,0 +1,80 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 2",
+    "519.993 USD in 1992.31 ADA",
+    "Transaction made by Treasury Guild @0.261",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "0d74fca23385a021d9dead9e6ae779bb6e1b4b80a5fa2ab459c4b2cd8face1ed",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Monthly MiroBoard subscription for Sept and Oct",
+        "2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.10.23"
+        ],
+        "label": [
+          "Fixed Costs"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "615.384"
+        }
+      }
+    },
+    {
+      "name": [
+        "Monthly Excel Subscription for Sept and Oct 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.10.23"
+        ],
+        "label": [
+          "Fixed Costs"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ADA": "238.461"
+        }
+      }
+    },
+    {
+      "name": [
+        "Monthly GitBook subscription for Sept and Oct 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.10.23"
+        ],
+        "label": [
+          "Fixed Costs"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "1138.461"
+        }
+      }
+    }
+  ]
+}
