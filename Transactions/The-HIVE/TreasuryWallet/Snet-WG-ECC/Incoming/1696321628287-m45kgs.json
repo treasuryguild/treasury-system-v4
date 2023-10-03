@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Snet WG ECC Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.264",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "4d8d333a24ea68a1cfb3e64acc3e69a4bbb84b587e176f5d913d6fc4e20170fd",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Swarm Treasury Wallet"
+      ],
+      "taskCreator": [
+        "Snet WG ECC"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 101.18094,
+          "GMBL": 20000
+        }
+      }
+    }
+  ]
+}
