@@ -1,0 +1,18 @@
+{
+  "project": "The HIVE",
+  "proposal": "Snet WG ECC",
+  "fund": "TreasuryWallet",
+  "budget": "50000",
+  "budgetItems": {
+    "Incoming": "50000",
+    "Other": "10",
+    "bulkTransactions": "50000",
+    "Swap": "5000",
+    "Bounty": "20000",
+    "Contributors": "20000",
+    "Fixed-Costs": "5000"
+  },
+  "website": "",
+  "wallet": "addr1q8k0ejxs9ncmznru350vzxqwppxx52u6fg756my9me57enk7mp67rfarhesarkejaz9mewzp9w5fvae5feh7aglfmtjq8fqr83",
+  "description": ""
+}
