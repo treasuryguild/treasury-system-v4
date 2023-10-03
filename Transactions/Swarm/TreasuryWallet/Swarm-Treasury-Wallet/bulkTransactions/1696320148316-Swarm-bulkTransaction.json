@@ -1,0 +1,39 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "26.300 USD in 100.00 ADA",
+    "0.000 USD in 20000.00 GMBL",
+    "Transaction made by Treasury Guild @0.263",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "4d8d333a24ea68a1cfb3e64acc3e69a4bbb84b587e176f5d913d6fc4e20170fd",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending funds for new Snet WG ECC wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.10.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "8fqr83": {
+          "ADA": "100",
+          "GMBL": "20000"
+        }
+      }
+    }
+  ]
+}
