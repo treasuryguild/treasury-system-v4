@@ -1,0 +1,77 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 5",
+    "9738.390 USD in 39110.00 ADA",
+    "Transaction made by Treasury Guild @0.249",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "1015ec1c22590fac8a76de9187e99ee92cf959c9ed40619c77dceb48bc0fe328",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending back borrowed ADA"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Governance Guild"
+      ],
+      "contributors": {
+        "h4x2c8": {
+          "ADA": "975"
+        },
+        "rcgctj": {
+          "ADA": "975"
+        }
+      }
+    },
+    {
+      "name": [
+        "Distribution of funds to 5 equal parts to team",
+        "members"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.23"
+        ],
+        "label": [
+          "Facilitation",
+          "Note taking",
+          "Operations",
+          "Documentation"
+        ]
+      },
+      "taskCreator": [
+        "Governance Guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ADA": "7432 "
+        },
+        "7lnpzs": {
+          "ADA": "7432 "
+        },
+        "d77t0m": {
+          "ADA": "7432 "
+        },
+        "h4x2c8": {
+          "ADA": "7432 "
+        },
+        "rcgctj": {
+          "ADA": "7432 "
+        }
+      }
+    }
+  ]
+}
