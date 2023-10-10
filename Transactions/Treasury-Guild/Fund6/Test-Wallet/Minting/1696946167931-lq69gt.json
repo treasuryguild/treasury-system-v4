@@ -1,0 +1,46 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "0.05 USD in 0.202417 ADA",
+    "0.00 USD in 52.00 testToken",
+    "0.00 USD in 1000000000000.00 Automate",
+    "0.00 USD in 150.00 GMBL",
+    "0.16 USD in 6.33 COPI",
+    "0.00 USD in 1.00 defiwallet",
+    "0.00 USD in 1.00 playwallet",
+    "11.13 USD in 66.63 AGIX",
+    "Transaction made by Treasury Guild @0.249",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "9ee992b103ca1204d51800ae5393e4b0ff734553c16978c37f0f64340d0f5a08",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Minting"
+      ],
+      "description": [
+        "Minted new tokens"
+      ],
+      "taskCreator": [
+        "Test Wallet"
+      ],
+      "contributors": {
+        "lq69gt": {
+          "ADA": 0.202417,
+          "AGIX": 66.625,
+          "COPI": 6.33071,
+          "GMBL": 150,
+          "Automate": 1000000000000,
+          "testToken": 52,
+          "defiwallet": 1,
+          "playwallet": 1
+        }
+      }
+    }
+  ]
+}
