@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.247",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "c34fcdfa7eab923b96c982d43e8b762ceeda378ed03bb744a3e75d72935dcec9",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Minting"
+      ],
+      "description": [
+        "Minted new tokens"
+      ],
+      "taskCreator": [
+        "Test Wallet"
+      ],
+      "contributors": {
+        "lq69gt": {
+          "ADA": -0.197049,
+          "Test token": 52
+        }
+      }
+    }
+  ]
+}
