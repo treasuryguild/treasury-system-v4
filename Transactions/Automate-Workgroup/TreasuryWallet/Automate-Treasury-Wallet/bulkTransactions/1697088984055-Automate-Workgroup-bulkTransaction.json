@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Automate Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "95.999 USD in 390.24 ADA",
+    "Transaction made by Treasury Guild @0.246",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "caae85870ec7fd1b2c0730d63481fafbca928bd0c7ac4536230587ae747c25cf",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "GitBook subscription for September and October"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.10.23"
+        ],
+        "label": [
+          "Fixed Costs"
+        ]
+      },
+      "taskCreator": [
+        "Automate Workgroup"
+      ],
+      "contributors": {
+        "vfpp2w": {
+          "ADA": "390.243"
+        }
+      }
+    }
+  ]
+}
