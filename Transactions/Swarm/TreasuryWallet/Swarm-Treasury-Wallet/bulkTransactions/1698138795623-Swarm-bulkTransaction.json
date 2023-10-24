@@ -1,0 +1,509 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 5",
+    "0 USD in 21000 GMBL",
+    "14 USD in 50 ADA",
+    "3.42 USD in 18 AGIX",
+    "Transaction made by Treasury Guild @0.281",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "2f0a375b9a731d1af6acd39273f3f62b201e4a10e3ce4fef19fef2dfb275a25f",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Weekly Treasury Guild 1"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Meeting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 200
+        },
+        "jnaxjp": {
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild 2"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Meeting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 50
+        },
+        "jnaxjp": {
+          "gimbal": 50
+        },
+        "rcgctj": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Dev Help from Curtis - 1.09.2023 - 50 Ada"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.09.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "r83kme": {
+          "ada": 50,
+          "AGIX": 2,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury Manager Updates - August"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.23"
+        ],
+        "label": [
+          "Documentation",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 1050
+        }
+      }
+    },
+    {
+      "name": [
+        "Bounty Data Import and organizing contributions in August"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - August"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.09.23"
+        ],
+        "label": [
+          "Documentation",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 2,
+          "gimbal": 4900
+        }
+      }
+    },
+    {
+      "name": [
+        "Gimbal Request"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - July"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Documentation",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 2,
+          "gimbal": 4800
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury Manager Updates - June"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.07.23"
+        ],
+        "label": [
+          "Documentation",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Community Support Q3"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 2,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - June"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.07.23"
+        ],
+        "label": [
+          "Documentation",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 2,
+          "gimbal": 5000
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild 3"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Meeting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 200
+        },
+        "jnaxjp": {
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild 4"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Meeting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild 5"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Meeting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild 6"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Meeting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild 7"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Meeting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 200
+        },
+        "jnaxjp": {
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild 8"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Meeting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "gimbal": 150
+        }
+      }
+    }
+  ]
+}
