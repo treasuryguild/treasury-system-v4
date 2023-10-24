@@ -1,0 +1,34 @@
+{
+  "msg": [
+    "The HIVE SNet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "1233.06 USD in 6323.39 AGIX",
+    "0.33 USD in 1.17232 ADA",
+    "Transaction made by Treasury Guild @0.281",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "2e6f24600ff6d3c72f48c27d12724dd3ea5ba80bb9905f5021a4d734f4d78fea",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Swarm SNET Town Halls"
+      ],
+      "taskCreator": [
+        "The HIVE SNet"
+      ],
+      "contributors": {
+        "94cqxx": {
+          "ADA": 1.17232,
+          "AGIX": 6323.39
+        }
+      }
+    }
+  ]
+}
