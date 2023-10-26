@@ -1,0 +1,18 @@
+{
+  "project": "Deep Funding Academy",
+  "proposal": "DF Academy",
+  "fund": "TreasuryWallet",
+  "budget": "50000",
+  "budgetItems": {
+    "Incoming": "50000",
+    "Other": "10",
+    "bulkTransactions": "50000",
+    "Swap": "5000",
+    "Bounty": "20000",
+    "Contributors": "20000",
+    "Fixed-Costs": "5000"
+  },
+  "website": "",
+  "wallet": "addr1qxktumww65vec775r4cl6kkalmlexs498v857f2dx207x0m80r0w9gledyuq487kd853sn4angjh568kgcgnx4fm3dwqw56ppq",
+  "description": ""
+}
