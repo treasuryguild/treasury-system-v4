@@ -1,0 +1,40 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.000 USD in 25000.00 GMBL",
+    "5.780 USD in 20.00 ADA",
+    "Transaction made by Treasury Guild @0.289",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "6db7946bfe721407a0afb77970b3c08c6995c169b8d82ed294d3cafc12db3c47",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending 25k Gimbals and 20 ADA to DF Academy",
+        "wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.10.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "w56ppq": {
+          "ADA": "20",
+          "GMBL": "25000"
+        }
+      }
+    }
+  ]
+}
