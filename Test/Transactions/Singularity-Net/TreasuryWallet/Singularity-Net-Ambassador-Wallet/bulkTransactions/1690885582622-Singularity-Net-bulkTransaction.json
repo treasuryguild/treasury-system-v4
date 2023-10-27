@@ -1,0 +1,89 @@
+{
+  "txid": "e3bfa6826291d0e69f5308ea225e7e31b6a3d5721e4d21f609631e8c4a907b32",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 12",
+    "2177.7822 USD in 9899.01 AGIX",
+    "Transaction made by Treasury Guild @0.305",
+    "https://www.treasuryguild.io/"
+  ],
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 98
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury-guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "July Ambassador Rewards"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 891
+        },
+        "a3amjj": {
+          "AGIX": 891
+        },
+        "f39ntm": {
+          "AGIX": 891
+        },
+        "j3xc2c": {
+          "AGIX": 891
+        },
+        "lrs3kj": {
+          "AGIX": 891
+        },
+        "mg3a4k": {
+          "AGIX": 891
+        },
+        "pfwaf6": {
+          "AGIX": 891
+        },
+        "rcgctj": {
+          "AGIX": 891
+        },
+        "u7ywg4": {
+          "AGIX": 891
+        },
+        "vpyqlf": {
+          "AGIX": 891
+        },
+        "xl6z2n": {
+          "AGIX": 891
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "31.07.23"
+        ],
+        "label": [
+          "Reporting"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    }
+  ]
+}
