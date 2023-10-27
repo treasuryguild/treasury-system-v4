@@ -1,0 +1,721 @@
+{
+  "txid": "8b38c5a368de922919e571f4da08f66231e98189101113d6d81b2e5454057fea",
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 15",
+    "0 USD in 7021 GMBL",
+    "797.9202 USD in 4433 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 44,
+          "gimbal": 70
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework Task Managment  for education- Week 35 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.09.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 222,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Education Guild meeting/workshop 35",
+        "28.08.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lq9wke": {
+          "gimbal": 150
+        },
+        "vpyqlf": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Planning Education meeting- week 35 - 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication",
+          "Planning"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 333,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Schedule Education meeting Announcements pre & post- week",
+        "35 - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.09.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 278,
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "name": [
+        "Host Education Meeting - week 35 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication",
+          "Facilitating"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 222,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Education Guild meeting/workshop 21.08.23",
+        "-Week34"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4hfykz": {
+          "gimbal": 150
+        },
+        "vpyqlf": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Planning Education - week 34- 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Planning"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 333,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Host Education Meeting - week 34 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication",
+          "Facilitating"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 222,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Incubation - Host Meeting - 6.9.23 - 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication",
+          "Facilitating"
+        ],
+        "subGroup": [
+          "incubation guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 444,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Session - 7.09.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.09.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 150
+        },
+        "lrs3kj": {
+          "gimbal": 150
+        },
+        "pfwaf6": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        },
+        "tgd8fg": {
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Create an invitation flyer for the upcoming onboarding",
+        "session- 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.23"
+        ],
+        "label": [
+          "Onboarding",
+          "Content Creation",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "d3jfmz": {
+          "AGIX": 111,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework Task Managment - Week 34 - 23.08 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.08.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 222,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Planning Strategy - week 34- 23.08 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.08.23"
+        ],
+        "label": [
+          "Planning"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 111,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Strategy Guild meeting/workshop week 34 -",
+        "16.08.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Host Meeting - week 34 - 23.08 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.09.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination",
+          "Facilitating"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 222,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Strategy Special Tasks - 25/8/23/ $40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.08.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 222,
+          "gimbal": 400
+        }
+      }
+    },
+    {
+      "name": [
+        "Review and Comment on the Ethics Document - $10 USD 1 TP"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.23"
+        ],
+        "label": [
+          "Auditing"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4hfykz": {
+          "AGIX": 56,
+          "gimbal": 100
+        },
+        "d3jfmz": {
+          "AGIX": 56,
+          "gimbal": 100
+        },
+        "fu9paa": {
+          "AGIX": 56,
+          "gimbal": 100
+        },
+        "j3xc2c": {
+          "AGIX": 56,
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "AGIX": 56,
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "AGIX": 56,
+          "gimbal": 100
+        },
+        "tgd8fg": {
+          "AGIX": 56,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Schedule Announcements of meetings pre and post - week 33-",
+        "50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 278,
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework Task Managment  - Week 33 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 222,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Planning Strategy - week 33 - 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.23"
+        ],
+        "label": [
+          "Planning"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 333,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Host Meeting - week 33- 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination",
+          "Facilitating"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 222,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Strategy Guild meeting/workshop 16.08.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4hfykz": {
+          "gimbal": 150
+        },
+        "f39ntm": {
+          "gimbal": 150
+        },
+        "jwrar0": {
+          "gimbal": 150
+        },
+        "r5nvwm": {
+          "gimbal": 150
+        },
+        "vpyqlf": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Headelf Strategy Guild Tasks - July/ 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 1
+        }
+      }
+    }
+  ]
+}
