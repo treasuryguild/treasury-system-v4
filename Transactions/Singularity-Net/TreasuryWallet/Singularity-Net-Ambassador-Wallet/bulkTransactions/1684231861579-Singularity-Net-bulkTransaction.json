@@ -1,7 +1,4 @@
 {
-  "mdVersion": [
-    "1.4"
-  ],
   "txid": "f14b1a3ba42be71761a8a5f81b8e3d95e1fc5661eeabad8b0038ff7ba53a6714",
   "msg": [
     "Singularity-Net Bulk Transaction",
@@ -13,29 +10,37 @@
     "Transaction made by Treasury Guild @0.369",
     "https://www.treasuryguild.io/"
   ],
+  "mdVersion": [
+    "1.4"
+  ],
   "contributions": [
     {
       "taskCreator": "singularitynet",
       "name": [
         "singularitynet contribution handling fee"
       ],
-      "label": [
-        "Operations"
-      ],
       "contributors": {
         "7xcueh": {
           "AGIX": 1,
           "gimbal": 322
         }
+      },
+      "arrayMap": {
+        "date": [
+          "16.05.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Onboarding ambassadors 09.05.23"
-      ],
-      "label": [
-        "Documentation,Community Communication,Onboarding"
       ],
       "contributors": {
         "pfwaf6": {
@@ -62,15 +67,23 @@
         "lrs3kj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "09.05.23"
+        ],
+        "label": [
+          "Documentation,Community Communication,Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "4/19/2023 STRATEGY GUILD WEEKLY MEETING- TASK POINTS"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "f39ntm": {
@@ -100,6 +113,17 @@
         "lrs3kj": {
           "gimbal": 300
         }
+      },
+      "arrayMap": {
+        "date": [
+          "19.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -107,9 +131,6 @@
       "name": [
         "4/12/2023 STRATEGY GUILD WEEKLY MEETING- TASK POINTS",
         "- Agix"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "9klqvn": {
@@ -145,6 +166,17 @@
         "f39ntm": {
           "gimbal": 300
         }
+      },
+      "arrayMap": {
+        "date": [
+          "12.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -152,22 +184,27 @@
       "name": [
         "3/29/23 meeting prep"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "contributors": {
         "lrs3kj": {
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "29.03.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "STRATEGY GUILD WEEKLY MEETING- TASK POINTS 3/29/2023"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "fu9paa": {
@@ -209,15 +246,23 @@
         "pfwaf6": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "29.03.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "STRATEGY GUILD WEEKLY MEETING- TASK POINTS 4/5/2023"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "pfwaf6": {
@@ -250,6 +295,17 @@
         "fup7a9": {
           "gimbal": 250
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -258,9 +314,6 @@
         "4/26/2023 STRATEGY GUILD WEEKLY MEETING- TASK POINTS",
         "1.5"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "contributors": {
         "a3amjj": {
           "gimbal": 300
@@ -292,6 +345,17 @@
         "u7ywg4": {
           "gimbal": 300
         }
+      },
+      "arrayMap": {
+        "date": [
+          "26.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -299,9 +363,6 @@
       "name": [
         "Questions for Ambassadors"
       ],
-      "label": [
-        "Community Communication,Operations"
-      ],
       "contributors": {
         "u7ywg4": {
           "gimbal": 100
@@ -312,6 +373,17 @@
         "j3xc2c": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -319,9 +391,6 @@
       "name": [
         "Create Onboarding project."
       ],
-      "label": [
-        "Onboarding,Content Creation"
-      ],
       "contributors": {
         "lrs3kj": {
           "gimbal": 215
@@ -329,15 +398,23 @@
         "9klqvn": {
           "gimbal": 215
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.04.23"
+        ],
+        "label": [
+          "Onboarding,Content Creation"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Incubation Workgroup - 3/5/23"
-      ],
-      "label": [
-        "Operations,Coordination"
       ],
       "contributors": {
         "lrs3kj": {
@@ -364,15 +441,23 @@
         "f39ntm": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "03.05.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Incubation Workgroup - 10.5.23"
-      ],
-      "label": [
-        "Operations,Coordination"
       ],
       "contributors": {
         "lrs3kj": {
@@ -393,15 +478,23 @@
         "j3xc2c": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "10.05.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Ambassador WG Call - 9.5.2023"
-      ],
-      "label": [
-        "Documentation,Community Communication"
       ],
       "contributors": {
         "f39ntm": {
@@ -428,15 +521,23 @@
         "j3xc2c": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "09.05.23"
+        ],
+        "label": [
+          "Documentation,Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Broadcast Ideation - 11.4.23"
-      ],
-      "label": [
-        "Community Communication,Operations"
       ],
       "contributors": {
         "pfwaf6": {
@@ -460,6 +561,17 @@
         "lrs3kj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "11.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -467,22 +579,27 @@
       "name": [
         "05.04.23 prepare snet budget and spreadsheet"
       ],
-      "label": [
-        "Documentation"
-      ],
       "contributors": {
         "lrs3kj": {
           "gimbal": 120
         }
+      },
+      "arrayMap": {
+        "date": [
+          "05.04.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Form an Educational Guild -  30 Agix 05.05.23"
-      ],
-      "label": [
-        "Operations"
       ],
       "contributors": {
         "lrs3kj": {
@@ -496,15 +613,23 @@
           "gimbal": 300,
           "AGIX": 30
         }
+      },
+      "arrayMap": {
+        "date": [
+          "05.05.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Review & Input to Onboarding Outline"
-      ],
-      "label": [
-        "Onboarding"
       ],
       "contributors": {
         "u7ywg4": {
@@ -522,6 +647,17 @@
         "a3amjj": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.04.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -530,13 +666,21 @@
         "4/26/2023 Strategy Guild Planning and Ideation. .45",
         "task points"
       ],
-      "label": [
-        "Planning"
-      ],
       "contributors": {
         "lrs3kj": {
           "gimbal": 45
         }
+      },
+      "arrayMap": {
+        "date": [
+          "26.04.23"
+        ],
+        "label": [
+          "Planning"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -544,13 +688,21 @@
       "name": [
         "Create a proposal for the CIP1694 workshop 08.05.23"
       ],
-      "label": [
-        "Documentation,Content Creation"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.05.23"
+        ],
+        "label": [
+          "Documentation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -558,9 +710,6 @@
       "name": [
         "AI Sandbox with ChatGPT4, Fly & Felix - 27.4.2023"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "pfwaf6": {
           "gimbal": 150
@@ -580,6 +729,17 @@
         "xl6z2n": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "27.04.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -587,9 +747,6 @@
       "name": [
         "Speak at the SNET Decentralisation Summit - 21.04.2023"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "u7ywg4": {
           "gimbal": 100
@@ -600,6 +757,17 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "21.04.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -607,9 +775,6 @@
       "name": [
         "Call Fly & Felix - AI Sandbox prep - 17.4.2023"
       ],
-      "label": [
-        "Operations,Coordination"
-      ],
       "contributors": {
         "u7ywg4": {
           "gimbal": 100
@@ -617,6 +782,17 @@
         "pfwaf6": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "17.04.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -624,9 +800,6 @@
       "name": [
         "AI Sandbox with ChatGPT4, Fly & Felix - 13.4.23"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "j3xc2c": {
           "gimbal": 150
@@ -643,6 +816,17 @@
         "pfwaf6": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "13.04.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -650,9 +834,6 @@
       "name": [
         "Join Ambassador Town Hall #41 - 28.3.2023"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "fup7a9": {
           "gimbal": 100
@@ -690,6 +871,17 @@
         "93ah9r": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "28.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -697,9 +889,6 @@
       "name": [
         "Join Ambassador Town Hall #42 - 4.4.2023"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "fup7a9": {
           "gimbal": 100
@@ -737,6 +926,17 @@
         "f39ntm": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.04.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -744,9 +944,6 @@
       "name": [
         "Join Ambassador Town Hall #43 - 11.4.2023"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "f39ntm": {
           "gimbal": 100
@@ -787,15 +984,23 @@
         "a3amjj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "11.04.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Join Ambassador Town Hall #44 - 18.4.2023"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "u7ywg4": {
@@ -828,15 +1033,23 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "18.04.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Join Ambassador Town Hall #45 - 25.4.2023"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "93ah9r": {
@@ -878,15 +1091,23 @@
         "rvata9": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "25.04.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Join Ambassador Town Hall #46 - 2.5.2023"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "lrs3kj": {
@@ -919,15 +1140,23 @@
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.05.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Broadcast Ideation - 8.5.23"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "lq9wke": {
@@ -954,15 +1183,23 @@
         "pfwaf6": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.05.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Summit preperation Call - 20.4.2023"
-      ],
-      "label": [
-        "Operations"
       ],
       "contributors": {
         "pfwaf6": {
@@ -983,6 +1220,17 @@
         "u7ywg4": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "20.04.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     }
   ]
