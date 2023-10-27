@@ -1,7 +1,4 @@
 {
-  "mdVersion": [
-    "1.4"
-  ],
   "txid": "996175be4eb3d4a108e65215834b619a5495bbe4214892e6008f082542d54adb",
   "msg": [
     "Singularity-Net Bulk Transaction",
@@ -12,6 +9,9 @@
     "Transaction made by Treasury Guild @0.343",
     "https://www.treasuryguild.io/"
   ],
+  "mdVersion": [
+    "1.4"
+  ],
   "contributions": [
     {
       "taskCreator": "Singularity Net",
@@ -19,14 +19,22 @@
         "Missing rewards for [added to forum] Translate into",
         "Portuguese - Loyaltyrewards community governance Blogpost"
       ],
-      "label": [
-        "Missing rewards"
-      ],
       "contributors": {
         "h3fp0w": {
           "ADA": "1.344798",
           "AGIX": "71"
         }
+      },
+      "arrayMap": {
+        "date": [
+          "21.03.23"
+        ],
+        "label": [
+          "Missing rewards"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -34,14 +42,22 @@
       "description": [
         "Monthly fee for Treasury work"
       ],
-      "label": [
-        "Monthly fee"
-      ],
       "contributors": {
         "7xcueh": {
           "ADA": "1.344798",
           "AGIX": "1696"
         }
+      },
+      "arrayMap": {
+        "date": [
+          "21.03.23"
+        ],
+        "label": [
+          "Monthly fee"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     }
   ]
