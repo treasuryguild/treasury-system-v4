@@ -1,7 +1,4 @@
 {
-  "mdVersion": [
-    "1.4"
-  ],
   "txid": "50774bf087f9e33a1c9f32758bcb4064ab040d33c167f2f968f6610109ba7e70",
   "msg": [
     "Singularity-Net Bulk Transaction",
@@ -13,20 +10,31 @@
     "Transaction made by Treasury Guild @0.376",
     "https://www.treasuryguild.io/"
   ],
+  "mdVersion": [
+    "1.4"
+  ],
   "contributions": [
     {
       "taskCreator": "singularitynet",
       "name": [
         "singularitynet contribution handling fee"
       ],
-      "label": [
-        "Operations"
-      ],
       "contributors": {
         "7xcueh": {
           "gimbal": 171,
           "AGIX": 28
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -34,14 +42,22 @@
       "name": [
         "Participate in the Treasury Guild March 9"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "uemkyt": {
           "gimbal": 150,
           "AGIX": 2
         }
+      },
+      "arrayMap": {
+        "date": [
+          "09.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -49,14 +65,22 @@
       "name": [
         "Join Ambassador Town Hall #38 - Earn 100 GMBL & 2 AGIX"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "uemkyt": {
           "gimbal": 100,
           "AGIX": 2
         }
+      },
+      "arrayMap": {
+        "date": [
+          "14.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -64,23 +88,28 @@
       "name": [
         "Join Ambassador Town Hall #39 - Earn 100 GMBL & 2 AGIX"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "uemkyt": {
           "gimbal": 100,
           "AGIX": 2
         }
+      },
+      "arrayMap": {
+        "date": [
+          "16.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Writers' Workgroup Session - 25.3.23 - 10USD"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "f39ntm": {
@@ -115,15 +144,23 @@
           "gimbal": 100,
           "AGIX": 27
         }
+      },
+      "arrayMap": {
+        "date": [
+          "25.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Marketing Meeting - 24.3.23 - 50 AGIX"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "pfwaf6": {
@@ -166,6 +203,17 @@
           "gimbal": 100,
           "AGIX": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "24.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
@@ -173,23 +221,28 @@
       "name": [
         "Rojo's SNET Quiz - Winner - 20 AGIX"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "5djnmp": {
           "gimbal": 50,
           "AGIX": 20
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Rojo's SNET Quiz - participation - 5 AGIX"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "fup7a9": {
@@ -236,15 +289,23 @@
           "gimbal": 50,
           "AGIX": 5
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Content Workshop 13th March - 50 AGIX"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "fup7a9": {
@@ -295,15 +356,23 @@
           "gimbal": 150,
           "AGIX": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "13.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Marketing Meeting 11th March - 50 AGIX"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "fup7a9": {
@@ -350,15 +419,23 @@
           "gimbal": 150,
           "AGIX": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "11.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Marketing Meeting 17th March - 50 AGIX"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "pfwaf6": {
@@ -389,6 +466,17 @@
           "gimbal": 150,
           "AGIX": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
@@ -396,14 +484,22 @@
       "name": [
         "Pop quiz question for Townhall - 35 USD"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 350,
           "AGIX": 90
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
@@ -411,14 +507,22 @@
       "name": [
         "Time Stamps on youtube video - 25 USD"
       ],
-      "label": [
-        "Operations"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 250,
           "AGIX": 64
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
@@ -426,23 +530,28 @@
       "name": [
         "CoinMarketCal - Submit to Calendar (0.5hrs)"
       ],
-      "label": [
-        "Operations"
-      ],
       "contributors": {
         "pfwaf6": {
           "gimbal": 50,
           "AGIX": 2
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Video Workgroup Meeting - 19.03.23 - 10 USD"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "f39ntm": {
@@ -465,15 +574,23 @@
           "gimbal": 100,
           "AGIX": 27
         }
+      },
+      "arrayMap": {
+        "date": [
+          "19.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Participate in Process Guild 28.03.23"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "mg3a4k": {
@@ -540,15 +657,23 @@
           "gimbal": 100,
           "AGIX": 2
         }
+      },
+      "arrayMap": {
+        "date": [
+          "28.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Participate in Process Guild 21.03.23"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "70ygy0": {
@@ -607,6 +732,17 @@
           "gimbal": 200,
           "AGIX": 2
         }
+      },
+      "arrayMap": {
+        "date": [
+          "21.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
@@ -614,9 +750,6 @@
       "name": [
         "Participate in Incubation & Strategy Guild - 15.3 -",
         "2 AGIX"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "f39ntm": {
@@ -663,6 +796,17 @@
           "gimbal": 200,
           "AGIX": 2
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -670,23 +814,28 @@
       "name": [
         "Process Guild and Treasury Guild Thumbnails"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "uemkyt": {
           "gimbal": 600,
           "AGIX": 2
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Participate in Treasury Guild 23.03"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "jnaxjp": {
@@ -717,15 +866,23 @@
           "gimbal": 100,
           "AGIX": 2
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "My First Bounty Task - Introduction Task - 10 AGIX"
-      ],
-      "label": [
-        "Onboarding"
       ],
       "contributors": {
         "vvh5wf": {
@@ -760,6 +917,17 @@
           "gimbal": 100,
           "AGIX": 10
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     }
   ]
