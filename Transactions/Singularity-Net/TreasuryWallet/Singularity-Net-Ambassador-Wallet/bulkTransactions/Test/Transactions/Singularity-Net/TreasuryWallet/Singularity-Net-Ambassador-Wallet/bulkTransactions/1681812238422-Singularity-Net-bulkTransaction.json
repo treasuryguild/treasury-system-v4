@@ -1,0 +1,138 @@
+{
+  "txid": "6f21b9933a7db9aae7818ef2667f4248263795e1eaffff012d1d538b03abc68b",
+  "msg": [
+    "Singularity-Net Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 3",
+    "1.79 USD in 4.03 ADA",
+    "0 USD in 2878.00 GMBL",
+    "171.78 USD in 394.00 AGIX",
+    "Transaction made by Treasury Guild @0.444",
+    "https://www.treasuryguild.io/"
+  ],
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "gimbal": 28,
+          "AGIX": 4
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "18.04.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury-guild"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "How AI is going to change the future - 07Apr - 150 USD"
+      ],
+      "contributors": {
+        "j5wkd0": {
+          "gimbal": 2500,
+          "AGIX": 351
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "11.04.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Meeting for Video Workgroup - 07Apr23 - 10USD"
+      ],
+      "contributors": {
+        "z5rk0k": {
+          "gimbal": 100,
+          "AGIX": 25
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "11.04.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "Submitting your Portfolio for the initial Video Workgroup"
+      ],
+      "contributors": {
+        "z5rk0k": {
+          "gimbal": 100,
+          "AGIX": 2
+        },
+        "j5wkd0": {
+          "gimbal": 100,
+          "AGIX": 2
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "11.04.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "name": [
+        "11.04.23 - My First Bounty Task - Introduction Task",
+        "- 10 AGIX"
+      ],
+      "contributors": {
+        "j5wkd0": {
+          "gimbal": 50,
+          "AGIX": 10
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "11.04.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    }
+  ]
+}
