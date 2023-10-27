@@ -1,4 +1,5 @@
 {
+  "txid": "b19ced275b54abe56e6199dea059cc5a0557ef30baccf4cbdabde3a42a3759a5",
   "msg": [
     "Swarm Treasury System Transaction",
     "Recipients: 37",
@@ -8,7 +9,6 @@
     "Transaction made by Treasury Guild @0.261",
     "https://www.treasuryguild.io/"
   ],
-  "txid": "b19ced275b54abe56e6199dea059cc5a0557ef30baccf4cbdabde3a42a3759a5",
   "mdVersion": [
     "1.4"
   ],
@@ -17,26 +17,28 @@
       "name": [
         "singularitynet contribution handling fee"
       ],
-      "label": [
-        "Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "7xcueh": {
           "AGIX": 62,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "22.08.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Onboarding Workgroup Meeting- 27.07.2023"
-      ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination",
-        "Onboarding"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -46,111 +48,168 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "27.07.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Strategy Guild - 26.07.23"
       ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "26.07.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "name": [
         "Strategy Guild - 19.07.23"
       ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "19.07.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "name": [
         "Meeting for Video Workgroup 28.07.23"
       ],
-      "label": [
-        "Operations",
-        "Community Communication",
-        "Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "28.07.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Participate in the Ambassador Call 25.07"
       ],
-      "label": [
-        "Operations",
-        "Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "xl6z2n": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.07.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Incubation Guild Meeting - 26.07.23"
       ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "xl6z2n": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "26.07.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Incubation Guild"
+        ]
       }
     },
     {
       "name": [
         "Incubation Guild Meeting - 19.07.23"
       ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "19.07.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Incubation Guild"
+        ]
       }
     },
     {
       "name": [
         "Incubation Guild Meeting - 02.08.23"
-      ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -160,18 +219,25 @@
         "xl6z2n": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Incubation Guild"
+        ]
       }
     },
     {
       "name": [
         "Onboarding Workgroup Meeting- 03.08.2023"
       ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination",
-        "Onboarding"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "f39ntm": {
@@ -180,17 +246,26 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "03.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Participate in Treasury Guild 03.08.23"
       ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "f39ntm": {
@@ -199,6 +274,19 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "03.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -206,50 +294,74 @@
         "Create a initial Ambassadors Governance framework document",
         "-100 GovWG token"
       ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination",
-        "Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "xl6z2n": {
           "GovWG": 100,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Incubation Guild Meeting - 09.08.23"
       ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "4hfykz": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "09.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Incubation Guild"
+        ]
       }
     },
     {
       "name": [
         "Meeting for Video Workgroup 11.08.23"
       ],
-      "label": [
-        "Operations",
-        "Community Communication",
-        "Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "tgd8fg": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "11.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -257,29 +369,31 @@
         "Create a initial Ambassadors Governance framework document",
         "-100 Gov WG token"
       ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination",
-        "Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "xl6z2n": {
           "GovWG": 100,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "15.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Onboarding Workgroup Meeting- 17.08.2023"
-      ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination",
-        "Onboarding"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -295,14 +409,25 @@
         "rcgctj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "17.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Translator Support Activities - 10 USD"
-      ],
-      "label": [
-        "Operations"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -310,15 +435,22 @@
           "AGIX": 56,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "06.06.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
       "name": [
         "Translate into Russian -Diving into SophiaVerse  - 10USD"
-      ],
-      "label": [
-        "Translation",
-        "Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -326,15 +458,23 @@
           "AGIX": 56,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.07.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
       "name": [
         "Translate into French-Diving into SophiaVerse  - 10USD"
-      ],
-      "label": [
-        "Translation",
-        "Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -342,6 +482,18 @@
           "AGIX": 56,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.07.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -349,25 +501,29 @@
         "Translate into Portuguese -Diving into SophiaVerse  -",
         "10USD"
       ],
-      "label": [
-        "Translation",
-        "Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "9klqvn": {
           "AGIX": 56,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.07.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
       "name": [
         "Translate into Portuguese - SNET Ecosystem Updates- 10USD"
-      ],
-      "label": [
-        "Translation",
-        "Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -375,16 +531,23 @@
           "AGIX": 56,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.07.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
       "name": [
         "Meeting for Video Workgroup 18.08.23"
-      ],
-      "label": [
-        "Operations",
-        "Community Communication",
-        "Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -400,6 +563,19 @@
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "18.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -407,17 +583,25 @@
         "Weekly Management and Activities (28th, July)",
         "-100USD"
       ],
-      "label": [
-        "Operations",
-        "Community Communication",
-        "Reporting"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "f39ntm": {
           "AGIX": 556,
           "gimbal": 1000
         }
+      },
+      "arrayMap": {
+        "date": [
+          "28.07.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -425,46 +609,55 @@
         "Weekly Management and Activities (21st, July)",
         "-100USD"
       ],
-      "label": [
-        "Operations",
-        "Community Communication",
-        "Reporting"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "f39ntm": {
           "AGIX": 556,
           "gimbal": 1000
         }
+      },
+      "arrayMap": {
+        "date": [
+          "21.07.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Weekly Management and Activities 14th, July -100USD"
       ],
-      "label": [
-        "Operations",
-        "Community Communication",
-        "Reporting"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "f39ntm": {
           "AGIX": 556,
           "gimbal": 1000
         }
+      },
+      "arrayMap": {
+        "date": [
+          "14.07.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Meeting Summary 18/08/2023 - 10USD"
-      ],
-      "label": [
-        "Operations",
-        "Community Communication",
-        "Reporting",
-        "Documenting",
-        "Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -472,16 +665,26 @@
           "AGIX": 56,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "18.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Reporting",
+          "Documenting",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Weekly Management and Activities 7th, July -100USD"
-      ],
-      "label": [
-        "Operations",
-        "Community Communication",
-        "Reporting"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -489,6 +692,19 @@
           "AGIX": 556,
           "gimbal": 1000
         }
+      },
+      "arrayMap": {
+        "date": [
+          "07.07.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -496,25 +712,29 @@
         "DRAFT: Case Studies of AI Solutions Built on SingularityNET",
         "- 40USD"
       ],
-      "label": [
-        "Content Creation",
-        "Documentation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "tgd8fg": {
           "AGIX": 222,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "DRAFT: AI and Education - 40USD"
-      ],
-      "label": [
-        "Content Creation",
-        "Documentation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -522,15 +742,23 @@
           "AGIX": 222,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "DRAFT: Introducing Ambassador Program on Mindplex - 80USD"
-      ],
-      "label": [
-        "Content Creation",
-        "Documentation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -538,18 +766,23 @@
           "AGIX": 444,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "DRAFT: Deep Funding Round 3 - 70USD"
-      ],
-      "label": [
-        "Operations",
-        "Community Communication",
-        "Reporting",
-        "Content Creation",
-        "Documentation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -557,18 +790,26 @@
           "AGIX": 389,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Reporting",
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Meeting Summary 04/8/2023 - 10USD"
-      ],
-      "label": [
-        "Operations",
-        "Community Communication",
-        "Reporting",
-        "Documenting",
-        "Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -576,17 +817,26 @@
           "AGIX": 56,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Reporting",
+          "Documenting",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Meeting Summary 28/07/2023 - 10USD"
-      ],
-      "label": [
-        "Operations",
-        "Coordination",
-        "Community Communication",
-        "Reporting"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -594,15 +844,25 @@
           "AGIX": 56,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "28.07.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Editing and Proofreading - 40USD"
-      ],
-      "label": [
-        "Operations",
-        "Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -610,14 +870,23 @@
           "AGIX": 222,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "THREAD: AI & Beyond - 20USD"
-      ],
-      "label": [
-        "Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -625,16 +894,22 @@
           "AGIX": 111,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "DRAFT: Making AI music with Desdemona the Robot - 60USD"
-      ],
-      "label": [
-        "Documenting",
-        "Content Creation",
-        "Documentation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -642,14 +917,24 @@
           "AGIX": 333,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Documenting",
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "THREAD: SingularityNET In the News - 60USD"
-      ],
-      "label": [
-        "Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -657,6 +942,17 @@
           "AGIX": 333,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -665,16 +961,24 @@
         "Humanitarian Creativity through Generative Models in",
         "SingularityNET - 30USD"
       ],
-      "label": [
-        "Content Creation",
-        "Documentation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "tgd8fg": {
           "AGIX": 167,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -682,15 +986,23 @@
         "THREAD: Mindplex Episode 11: HyperCycle - Building A",
         "Secure Decentralized Internet of AI - 10USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "fup7a9": {
           "AGIX": 56,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -698,30 +1010,33 @@
         "DRAFT: Mindplex Episode 11: HyperCycle - Building A",
         "Secure Decentralized Internet of AI - 70USD"
       ],
-      "label": [
-        "Operations",
-        "Community Communication",
-        "Reporting",
-        "Documenting",
-        "Content Creation",
-        "Documentation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "fup7a9": {
           "AGIX": 389,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Reporting",
+          "Documenting",
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Draft: Q2 Partnerships - 50USD"
-      ],
-      "label": [
-        "Documenting",
-        "Content Creation",
-        "Documentation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -729,31 +1044,48 @@
           "AGIX": 278,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.06.23"
+        ],
+        "label": [
+          "Documenting",
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Participate in Treasury Guild 17.08.23"
       ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "lrs3kj": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "17.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Join Governance WG Call #8 - 15.8.2023"
-      ],
-      "label": [
-        "Community Communication",
-        "Operations"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -785,17 +1117,24 @@
           "GovWG": 100,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "15.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
       "name": [
         "My First Bounty Task - Introduction Task - w32 - 10",
         "AGIX"
-      ],
-      "label": [
-        "Community Communication",
-        "Coordination",
-        "Onboarding"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -851,16 +1190,24 @@
           "AGIX": 10,
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Participate in Process Modeling Workgroup 16.08.23"
-      ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -876,16 +1223,24 @@
           "AGIX": 56,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "16.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
       "name": [
         "Participate in Process Guild 15.08.23"
-      ],
-      "label": [
-        "Community Communication",
-        "Operations",
-        "Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -911,6 +1266,19 @@
           "AGIX": 56,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "15.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     }
   ]
