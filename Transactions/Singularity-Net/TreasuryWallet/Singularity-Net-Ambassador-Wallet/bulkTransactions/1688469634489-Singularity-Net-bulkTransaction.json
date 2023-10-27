@@ -1,4 +1,5 @@
 {
+  "txid": "1e6fade73cb91d38305fe7ee540757d6b34e3b9fc82b49d76c9209c37d9c69a3",
   "msg": [
     "Swarm Bulk Transaction",
     "Recipients: 24",
@@ -8,7 +9,6 @@
     "Transaction made by Treasury Guild @0.296",
     "https://www.treasuryguild.io/"
   ],
-  "txid": "1e6fade73cb91d38305fe7ee540757d6b34e3b9fc82b49d76c9209c37d9c69a3",
   "mdVersion": [
     "1.4"
   ],
@@ -17,23 +17,28 @@
       "name": [
         "singularitynet contribution handling fee"
       ],
-      "label": [
-        "Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "7xcueh": {
           "AGIX": 235,
           "gimbal": 160
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Incubation Workgroup - 21.06.23"
-      ],
-      "label": [
-        "Operations,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -43,140 +48,220 @@
         "vpyqlf": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "21.06.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "name": [
         "Daily tasks 25.06.23"
       ],
-      "label": [
-        "Documentation,Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vpyqlf": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "25.06.23"
+        ],
+        "label": [
+          "Documentation,Operations"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Daily tasks 23.06.23"
       ],
-      "label": [
-        "Documentation,Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.06.23"
+        ],
+        "label": [
+          "Documentation,Operations"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Facilitating the Video Workgroup 23.06.23"
       ],
-      "label": [
-        "Documentation,Facilitating,Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.06.23"
+        ],
+        "label": [
+          "Documentation,Facilitating,Operations"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Meeting for Video Workgroup 23.06.23"
       ],
-      "label": [
-        "Operations,Community Communication,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Preparing slides for Marketing Guild 23.06.23"
       ],
-      "label": [
-        "Documentation,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.06.23"
+        ],
+        "label": [
+          "Documentation,Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "CIP-1694 workshop Video editing and posting"
       ],
-      "label": [
-        "Documentation,Operations,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vpyqlf": {
           "gimbal": 300
         }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Documentation,Operations,Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Daily tasks 18.06.23"
       ],
-      "label": [
-        "Documentation,Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vpyqlf": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "18.06.23"
+        ],
+        "label": [
+          "Documentation,Operations"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Daily tasks 16.06.23"
       ],
-      "label": [
-        "Documentation,Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vpyqlf": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "16.06.23"
+        ],
+        "label": [
+          "Documentation,Operations"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Make a clip 02.06.23"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.06.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Incubation Workgroup - 28.06.23"
-      ],
-      "label": [
-        "Operations,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -201,28 +286,44 @@
         "xl6z2n": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "28.06.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "name": [
         "Facilitating the Video Workgroup 30.06.23"
       ],
-      "label": [
-        "Documentation,Facilitating,Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Documentation,Facilitating,Operations"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Meeting for Video Workgroup 30.06.23"
-      ],
-      "label": [
-        "Operations,Community Communication,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -235,28 +336,44 @@
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Daily tasks 30.06.23"
       ],
-      "label": [
-        "Documentation,Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vpyqlf": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Documentation,Operations"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Ambassador Vote on Q3 Budget - 3.7.2023"
-      ],
-      "label": [
-        "Decision,Operations"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -287,14 +404,22 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "03.07.23"
+        ],
+        "label": [
+          "Decision,Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Participate in Process Guild 27.06.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -322,14 +447,22 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
       "name": [
         "June Ambassador Rewards"
-      ],
-      "label": [
-        "Reporting"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -373,6 +506,17 @@
           "AGIX": 1401,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Reporting"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -380,23 +524,28 @@
         "Translate into Spanish - Operations Q1 2023 Blogpost SNET",
         "- 15usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "70ygy0": {
           "AGIX": 58,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
       "name": [
         "Agus' ecosystem video in Spanish 60 USD"
-      ],
-      "label": [
-        "Documentation,Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -404,14 +553,22 @@
           "AGIX": 231,
           "gimbal": 600
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Documentation,Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Participate in Dework PBL workshop 28.06.23"
-      ],
-      "label": [
-        "Community Communication,Operations"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -430,14 +587,22 @@
         "xl6z2n": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Participate in Treasury Guild 29.06.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -459,14 +624,22 @@
         "xl6z2n": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "29.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Participate in Process Modeling Workgroup 28.06.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -490,6 +663,17 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "28.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
@@ -497,23 +681,28 @@
         "Translate into Indonesian - Supervisory Council Blogpost SNET",
         "- 10usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "cehfqz": {
           "AGIX": 38,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
       "name": [
         "Thread: Cogito Protocol Updates [May] -10USD"
-      ],
-      "label": [
-        "Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -521,14 +710,22 @@
           "AGIX": 38,
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Participate in SPO call B 29.06.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -544,6 +741,17 @@
         "u7ywg4": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "29.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -551,15 +759,23 @@
         "Translate into Chinese - HyperCycle intro Blogpost SNET -",
         "10usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "rvata9": {
           "AGIX": 38,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -567,23 +783,28 @@
         "Translate into Chinese - Operations Q1 2023 Blogpost SNET",
         "- 15usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "rvata9": {
           "AGIX": 58,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
       "name": [
         "Translator Support Activities - 40 USD"
-      ],
-      "label": [
-        "Operations"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -591,6 +812,17 @@
           "AGIX": 154,
           "gimbal": 400
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -598,23 +830,28 @@
         "Translate into Russian - HyperCycle intro Blogpost SNET -",
         "10usd"
       ],
-      "label": [
-        "Translation,Content Creation,Onboarding"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "dyh23g": {
           "AGIX": 38,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation,Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
       "name": [
         "Recognize Gov Framework Contributors - 27.6.2023"
-      ],
-      "label": [
-        "Operations,Community Communication"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -622,14 +859,22 @@
           "GovWG": 150,
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Onboarding Workgroup Meeting- 29.06.2023"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination,Onboarding"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -642,28 +887,44 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "29.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination,Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Headelf Strategy Guild Tasks - June/ 2023"
       ],
-      "label": [
-        "Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "lrs3kj": {
           "gimbal": 650
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "name": [
         "EDITING AND PROOFREADING - 20USD"
-      ],
-      "label": [
-        "Documenting,Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -671,6 +932,17 @@
           "AGIX": 77,
           "gimbal": 250
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Documenting,Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -678,15 +950,23 @@
         "Translate into French - HyperCycle intro Blogpost SNET -",
         "10usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "93ah9r": {
           "AGIX": 38,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -694,15 +974,23 @@
         "Translate into Portuguese - Supervisory Council Blogpost SNET",
         "- 10usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "93ah9r": {
           "AGIX": 38,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -710,15 +998,23 @@
         "Translate into French - Operations Q1 2023 Blogpost SNET -",
         "15usd"
       ],
-      "label": [
-        "Translation,Content Creation,Onboarding"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "nggwcw": {
           "AGIX": 58,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation,Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -726,15 +1022,23 @@
         "Translate into French - Supervisory Council Blogpost SNET",
         "- 10usd"
       ],
-      "label": [
-        "Translation,Content Creation,Onboarding"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "nggwcw": {
           "AGIX": 38,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation,Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -742,23 +1046,28 @@
         "Translate into Spanish - Supervisory Council Blogpost SNET",
         "- 10usd"
       ],
-      "label": [
-        "Translation,Content Creation,Onboarding"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "nggwcw": {
           "AGIX": 38,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation,Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
       "name": [
         "DRAFT: AGI CONSCIOUSNESS AND SELF AWARENESS - 30USD"
-      ],
-      "label": [
-        "Content Creation,Documentation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -766,14 +1075,22 @@
           "AGIX": 115,
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "DRAFT: AI Cryptography - 40USD"
-      ],
-      "label": [
-        "Content Creation,Documentation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -781,14 +1098,22 @@
           "AGIX": 154,
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "DRAFT: Ethics of AGI Self-Awareness - 30USD"
-      ],
-      "label": [
-        "Content Creation,Documentation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -796,6 +1121,17 @@
           "AGIX": 115,
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -803,15 +1139,23 @@
         "Translate into Spanish - HyperCycle intro Blogpost SNET -",
         "10usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "cu9ctl": {
           "AGIX": 38,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -819,15 +1163,23 @@
         "Translate into Russian - Operations Q1 2023 Blogpost SNET",
         "- 15usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "cu9ctl": {
           "AGIX": 58,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -835,113 +1187,177 @@
         "Twitter Thread: SingularityNET and the Cardano Impact Report",
         "2023 - 10USD"
       ],
-      "label": [
-        "Content Creation,Documentation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "tgd8fg": {
           "AGIX": 38,
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Incubation Workgroup - 14.6.23"
       ],
-      "label": [
-        "Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "9klqvn": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "14.06.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "name": [
         "Participate in Treasury Guild 15.06.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "9klqvn": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "15.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Ambassador WG Call - 13.06.23"
       ],
-      "label": [
-        "Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "9klqvn": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "13.06.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Participate in Process Guild 13.06.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "9klqvn": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "13.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
       "name": [
         "Participate in Treasury Guild 22.06.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "9klqvn": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "22.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Participate in the Ambassador Townhall 53 - 20.06.23"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "9klqvn": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "20.06.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Onboarding Workgroup Meeting- 15.06.2023"
       ],
-      "label": [
-        "Community Communication,Onboarding,Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "9klqvn": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "15.06.23"
+        ],
+        "label": [
+          "Community Communication,Onboarding,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
@@ -949,38 +1365,50 @@
         "Translate into Portuguese - HyperCycle intro Blogpost SNET",
         "- 10usd"
       ],
-      "label": [
-        "Translation,Content Creation,Onboarding"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "9klqvn": {
           "AGIX": 38,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation,Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
       "name": [
         "Contacted Zoom Support"
       ],
-      "label": [
-        "Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "rcgctj": {
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Creating 28.06 Dework PBL Summary - 12 USD"
-      ],
-      "label": [
-        "Operations,Community Communication",
-        "Reporting,Documenting,Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -988,101 +1416,158 @@
           "AGIX": 46,
           "gimbal": 125
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Operations,Community Communication",
+          "Reporting,Documenting,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Preparing PBL Workshop June 2023"
       ],
-      "label": [
-        "Documenting,Coordination,Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "rcgctj": {
           "gimbal": 250
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Documenting,Coordination,Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Tevo Dework PBL Activity List June 2023"
       ],
-      "label": [
-        "Operations,Community Communication,Reporting,Documenting"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "rcgctj": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Dework PBL Meeting Summaries and Documentation June 2023"
       ],
-      "label": [
-        "Operations,Community Communication",
-        "Reporting,Documenting,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "rcgctj": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Operations,Community Communication",
+          "Reporting,Documenting,Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Review Translation Blogpost, view counts"
       ],
-      "label": [
-        "Operations,Community Communication",
-        "Reporting,Documenting,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "rcgctj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Operations,Community Communication",
+          "Reporting,Documenting,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
       "name": [
         "Meeting Summaries and Documentation Treasury Guild June 2023"
       ],
-      "label": [
-        "Operations,Community Communication",
-        "Reporting,Documenting,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "rcgctj": {
           "gimbal": 400
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication",
+          "Reporting,Documenting,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Preparing Workshops or Events June 2023"
       ],
-      "label": [
-        "Documenting,Coordination,Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "rcgctj": {
           "gimbal": 400
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Documenting,Coordination,Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Migrating Miro Boards - 30 USD"
-      ],
-      "label": [
-        "Operations,Documenting"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -1090,21 +1575,40 @@
           "AGIX": 115,
           "gimbal": 300
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Operations,Documenting"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
       "name": [
         "Meeting Summaries and Documentation Process Guild June 2023"
       ],
-      "label": [
-        "Operations,Community Communication",
-        "Reporting,Documenting,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "rcgctj": {
           "gimbal": 700
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication",
+          "Reporting,Documenting,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
@@ -1112,15 +1616,23 @@
         "Translate into Portuguese - Operations Q1 2023 Blogpost SNET",
         "- 15usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vcnf8d": {
           "AGIX": 58,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -1128,15 +1640,23 @@
         "Translate into Russian - Supervisory Council Blogpost SNET",
         "- 10usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vcnf8d": {
           "AGIX": 38,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     }
   ]
