@@ -1,0 +1,1023 @@
+{
+  "txid": "3f243eb6655539c9baababa40ea27ec020beaf46af8418440955e48c1ca79276",
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 10",
+    "0 USD in 11416 GMBL",
+    "1540.1894 USD in 8106 AGIX",
+    "Transaction made by Treasury Guild @0.256",
+    "https://www.treasuryguild.io/"
+  ],
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 80,
+          "gimbal": 113
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 02.08.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "xl6z2n": {
+          "AGIX": 105,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitate Roles/Levels workshop - 5.8.23 - 40",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "ambassador program"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "xl6z2n": {
+          "AGIX": 211,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding session guide document -  80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Documentation",
+          "Onboarding",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 421,
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate into Russian - SNET Ecosystem Updates-July 2023",
+        "-15USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.08.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vcnf8d": {
+          "AGIX": 79,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate into Portuguese - SNET Ecosystem Updates-July",
+        "2023 -15USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.08.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vcnf8d": {
+          "AGIX": 79,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 17.08.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 79,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Setting Up Gamers Guild Proposal- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Documentation",
+          "Community Communication",
+          "Operations"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 105,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 30.08.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 158,
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "AGIX": 158,
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "AGIX": 158,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Dework PBL August 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Reporting",
+          "Documenting",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 211,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing PBL Workshop August 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.23"
+        ],
+        "label": [
+          "Documenting",
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 368,
+          "gimbal": 350
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 16.08.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 158,
+          "gimbal": 150
+        },
+        "jr6vfq": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "AGIX": 158,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Lesson: How to create Spaces?"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.08.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 211,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Activities for 23rd -31st Aug 2023-100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Community Communication",
+          "Reporting",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 526,
+          "gimbal": 750
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Activities for 16th-22nd Aug 2023- 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Community Communication",
+          "Reporting",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 263,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Activities for 9th-15th Aug 2023-100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Community Communication",
+          "Reporting",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 526,
+          "gimbal": 1000
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting- 31.08.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting- 24.08.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "tgd8fg": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Contribute to getting started channel draft - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.08.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4hfykz": {
+          "AGIX": 105,
+          "gimbal": 200
+        },
+        "9klqvn": {
+          "AGIX": 105,
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "AGIX": 105,
+          "gimbal": 200
+        },
+        "tgd8fg": {
+          "AGIX": 105,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Getting started  document -  30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.08.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 158,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Contribute to Onboarding session guide draft - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.08.23"
+        ],
+        "label": [
+          "Documentation",
+          "Onboarding",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4hfykz": {
+          "AGIX": 105,
+          "gimbal": 1
+        },
+        "tgd8fg": {
+          "AGIX": 105,
+          "gimbal": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Activities for 1st-8th Aug 2023-100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Community Communication",
+          "Reporting",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 526,
+          "gimbal": 1050
+        }
+      }
+    },
+    {
+      "name": [
+        "Translation Workgroup Activities - August 2023- 150 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Reporting",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 789,
+          "gimbal": 800
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summary 1/09/2023 - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication",
+          "Reporting"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fup7a9": {
+          "AGIX": 53,
+          "gimbal": 100
+        },
+        "tgd8fg": {
+          "AGIX": 53,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: LLMs --Zarqa - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.23"
+        ],
+        "label": [
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fup7a9": {
+          "AGIX": 526,
+          "gimbal": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Treasury Guild August 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Reporting",
+          "Documenting",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 79,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Treasury Guild Workshops or Events August 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.23"
+        ],
+        "label": [
+          "Documenting",
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 26,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Iteration,Comments in Proposal and When2meet-40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.08.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 211,
+          "gimbal": 400
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Zoom Links and Onboarding Documentation"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "ambassador program"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Modelling WG 30.08.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 79,
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "AGIX": 79,
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Redesign Workgroup Types and Requirements Matrix Table to reduce",
+        "duplicated sticky notes"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.08.23"
+        ],
+        "label": [
+          "Documenting"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 105,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Modeling Workgroup 23.08.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 53,
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "AGIX": 53,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Process Guild  August 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Reporting",
+          "Documenting",
+          "Coordination"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 105,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Create Process Guild Threads for each item in Process Guild -",
+        "60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Documenting",
+          "Coordination",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 316,
+          "gimbal": 800
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Process Guild Workshops or Events August 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.23"
+        ],
+        "label": [
+          "Documenting",
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 211,
+          "gimbal": 400
+        }
+      }
+    }
+  ]
+}
