@@ -1,4 +1,5 @@
 {
+  "txid": "c2a125d606895b5eca6b57a8912072950c8e6298dc5e1f0858bc2a8589af2036",
   "msg": [
     "Swarm Treasury System Transaction",
     "Recipients: 19",
@@ -8,7 +9,6 @@
     "Transaction made by Treasury Guild @0.292",
     "https://www.treasuryguild.io/"
   ],
-  "txid": "c2a125d606895b5eca6b57a8912072950c8e6298dc5e1f0858bc2a8589af2036",
   "mdVersion": [
     "1.4"
   ],
@@ -17,52 +17,73 @@
       "name": [
         "singularitynet contribution handling fee"
       ],
-      "label": [
-        "Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "7xcueh": {
           "AGIX": 66,
           "gimbal": 120
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Participate in Process Guild 04.07.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "q5xpal": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
       "name": [
         "Onboarding Workgroup Meeting- 27.07.2023"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination,Onboarding"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "27.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination,Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Strategy Guild - 26.07.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "lrs3kj": {
@@ -71,15 +92,23 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "26.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "name": [
         "Strategy Guild - 19.07.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "lrs3kj": {
@@ -88,29 +117,45 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "19.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "name": [
         "Meeting for Video Workgroup 28.07.23"
       ],
-      "label": [
-        "Operations,Community Communication,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "28.07.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Participate in the Ambassador Call 25.07"
       ],
-      "label": [
-        "Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "lrs3kj": {
@@ -119,29 +164,45 @@
         "xl6z2n": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.07.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Participate in Process Modeling Workgroup 19.07.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "lrs3kj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "19.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
       "name": [
         "Incubation Guild Meeting - 26.07.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "lrs3kj": {
@@ -150,15 +211,23 @@
         "xl6z2n": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "26.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Incubation Guild"
+        ]
       }
     },
     {
       "name": [
         "Incubation Guild Meeting - 19.07.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "lrs3kj": {
@@ -167,14 +236,22 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "19.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Incubation Guild"
+        ]
       }
     },
     {
       "name": [
         "Participate in Dework PBL workshop 02.08.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -190,14 +267,22 @@
           "AGIX": 95,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Andamio Management"
-      ],
-      "label": [
-        "Content Creation,Designing,Operations"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -205,15 +290,22 @@
           "AGIX": 381,
           "gimbal": 400
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Content Creation,Designing,Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Meeting Summaries and Documentation Dework PBL July 2023"
-      ],
-      "label": [
-        "Operations,Community Communication",
-        "Reporting,Documenting,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -221,14 +313,23 @@
           "AGIX": 333,
           "gimbal": 350
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Operations,Community Communication",
+          "Reporting,Documenting,Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Preparing PBL Workshop July 2023"
-      ],
-      "label": [
-        "Documenting,Coordination,Operations"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -236,14 +337,22 @@
           "AGIX": 214,
           "gimbal": 225
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Documenting,Coordination,Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Incubation Guild Meeting - 02.08.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -265,14 +374,22 @@
         "xl6z2n": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.08.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Incubation Guild"
+        ]
       }
     },
     {
       "name": [
         "Planning Incubation - week 31 - 60 USD"
-      ],
-      "label": [
-        "Planning"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -284,14 +401,22 @@
           "AGIX": 286,
           "gimbal": 300
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Planning"
+        ],
+        "subGroup": [
+          "Incubation Guild"
+        ]
       }
     },
     {
       "name": [
         "Contribute to Onboarding email draft - 20 USD"
-      ],
-      "label": [
-        "Documentation,Onboarding"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -299,15 +424,22 @@
           "AGIX": 95,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Documentation,Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Onboarding WG Activities for 15th-31st July 2023-500 AGIX"
-      ],
-      "label": [
-        "Documentation,Operations",
-        "Community Communication,Reporting,Onboarding"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -315,15 +447,23 @@
           "AGIX": 500,
           "gimbal": 850
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.07.23"
+        ],
+        "label": [
+          "Documentation,Operations",
+          "Community Communication,Reporting,Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Onboarding WG Activities for 1st-14th July 2023-500 AGIX"
-      ],
-      "label": [
-        "Documentation,Operations",
-        "Community Communication,Reporting,Onboarding"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -331,6 +471,18 @@
           "AGIX": 500,
           "gimbal": 650
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.07.23"
+        ],
+        "label": [
+          "Documentation,Operations",
+          "Community Communication,Reporting,Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
@@ -338,24 +490,29 @@
         "Onboarding WG Meeting Prep, Summary, Facilitation and",
         "Documentation July 2023 - 250 AGIX"
       ],
-      "label": [
-        "Documentation,Operations,Community Communication",
-        "Reporting,Onboarding,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "7lnpzs": {
           "AGIX": 250,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.07.23"
+        ],
+        "label": [
+          "Documentation,Operations,Community Communication",
+          "Reporting,Onboarding,Coordination"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Onboarding Workgroup Meeting- 03.08.2023"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination,Onboarding"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -371,14 +528,22 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "03.08.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination,Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
       "name": [
         "New email draft - 100 USD"
-      ],
-      "label": [
-        "Documentation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -390,6 +555,17 @@
           "AGIX": 476,
           "gimbal": 600
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
@@ -397,23 +573,28 @@
         "Preparing Monthly update slides for Town Hall 01.08.23",
         "- 20 USD"
       ],
-      "label": [
-        "Documentation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "vpyqlf": {
           "AGIX": 95,
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Participate in Treasury Guild 03.08.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -432,14 +613,22 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "03.08.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Dework Task Organisation - 2.8.23 - 20 USD"
-      ],
-      "label": [
-        "Operations,Community Communication,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -447,16 +636,23 @@
           "AGIX": 95,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.08.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Create an Anonymous Feedback form - 4/5.7.23 - 40",
         "USD"
-      ],
-      "label": [
-        "Operations,Community Communication",
-        "Tool development,Coordination,Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -468,36 +664,64 @@
           "AGIX": 190,
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "05.07.23"
+        ],
+        "label": [
+          "Operations,Community Communication",
+          "Tool development,Coordination,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Ambassador Tools - Fund Request - August - 25 USD"
       ],
-      "label": [
-        "Reporting"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "pfwaf6": {
           "AGIX": 119,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Reporting"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Ambassador Tools - Fund Request - July - 25 USD"
       ],
-      "label": [
-        "Reporting"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "pfwaf6": {
           "AGIX": 119,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.07.23"
+        ],
+        "label": [
+          "Reporting"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -505,15 +729,23 @@
         "Ambassador Townhall #58 15.7.23 - Video Edit &",
         "Upload - 80 USD"
       ],
-      "label": [
-        "Documentation,Community Communication,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "pfwaf6": {
           "AGIX": 381,
           "gimbal": 350
         }
+      },
+      "arrayMap": {
+        "date": [
+          "15.07.23"
+        ],
+        "label": [
+          "Documentation,Community Communication,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -521,15 +753,23 @@
         "Ambassador Townhall #57 18.7.23 - Video Edit &",
         "Upload - 80 USD"
       ],
-      "label": [
-        "Documentation,Community Communication,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "pfwaf6": {
           "AGIX": 381,
           "gimbal": 350
         }
+      },
+      "arrayMap": {
+        "date": [
+          "18.07.23"
+        ],
+        "label": [
+          "Documentation,Community Communication,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -537,25 +777,29 @@
         "Ambassador Townhall #56 11.7.23 - Video Edit &",
         "Upload - 80 USD"
       ],
-      "label": [
-        "Documentation,Community Communication,Content Creation"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "pfwaf6": {
           "AGIX": 381,
           "gimbal": 350
         }
+      },
+      "arrayMap": {
+        "date": [
+          "11.07.23"
+        ],
+        "label": [
+          "Documentation,Community Communication,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Create a initial Ambassadors Governance framework document",
         "-100 GovWG token"
-      ],
-      "label": [
-        "Community Communication,Operations",
-        "Coordination,Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -595,14 +839,23 @@
           "GovWG": 100,
           "gimbal": 1
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Community Communication,Operations",
+          "Coordination,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "My First Bounty Task - Introduction Task - 10 AGIX"
-      ],
-      "label": [
-        "Community Communication,Coordination,Onboarding"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -622,14 +875,22 @@
           "AGIX": 10,
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Community Communication,Coordination,Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Community Onboarding (Slides) - 200AGIX"
-      ],
-      "label": [
-        "Documentation,Tool development,Onboarding"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -641,14 +902,22 @@
           "AGIX": 200,
           "gimbal": 700
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.08.23"
+        ],
+        "label": [
+          "Documentation,Tool development,Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Preparing Treasury Guild Workshops or Events July 2023"
-      ],
-      "label": [
-        "Documenting,Coordination,Operations"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -656,15 +925,22 @@
           "AGIX": 48,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.07.23"
+        ],
+        "label": [
+          "Documenting,Coordination,Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Meeting Summaries and Documentation Treasury Guild July 2023"
-      ],
-      "label": [
-        "Operations,Community Communication",
-        "Reporting,Documenting,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -672,6 +948,18 @@
           "AGIX": 95,
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.07.23"
+        ],
+        "label": [
+          "Operations,Community Communication",
+          "Reporting,Documenting,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     }
   ]
