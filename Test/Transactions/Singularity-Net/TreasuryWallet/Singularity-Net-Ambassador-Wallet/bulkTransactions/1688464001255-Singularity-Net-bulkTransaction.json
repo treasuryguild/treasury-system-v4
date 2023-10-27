@@ -1,0 +1,39 @@
+{
+  "txid": "33bab69b4cb62f0c011ccfc46c18fb1575aa5562e0ffab05e2b16e4b7b9623e4",
+  "msg": [
+    "Singularity Net Ambassador Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "516.000 USD in 2000.00 AGIX",
+    "Transaction made by Treasury Guild @0.294",
+    "https://www.treasuryguild.io/"
+  ],
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Moving back 2000 AGIX tokens to DeepFunding TH",
+        "Wallet"
+      ],
+      "taskCreator": "Singularity Net",
+      "contributors": {
+        "94cqxx": {
+          "AGIX": "2000"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    }
+  ]
+}
