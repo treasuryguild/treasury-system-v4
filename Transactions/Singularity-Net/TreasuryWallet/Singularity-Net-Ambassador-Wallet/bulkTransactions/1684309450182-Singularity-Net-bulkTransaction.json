@@ -1,7 +1,4 @@
 {
-  "mdVersion": [
-    "1.4"
-  ],
   "txid": "24146d1328c3c64f59248a14e8af9d02666586336c0617a128bc7bc1db85aa13",
   "msg": [
     "Singularity-Net Bulk Transaction",
@@ -13,20 +10,31 @@
     "Transaction made by Treasury Guild @0.369",
     "https://www.treasuryguild.io/"
   ],
+  "mdVersion": [
+    "1.4"
+  ],
   "contributions": [
     {
       "taskCreator": "singularitynet",
       "name": [
         "singularitynet contribution handling fee"
       ],
-      "label": [
-        "Operations"
-      ],
       "contributors": {
         "7xcueh": {
           "gimbal": 53,
           "AGIX": 300
         }
+      },
+      "arrayMap": {
+        "date": [
+          "17.05.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -34,14 +42,22 @@
       "name": [
         "Rojo's Activity List - April 23"
       ],
-      "label": [
-        "Operations,Community Communication,Reporting,Documenting"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 5100,
           "AGIX": 4285
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.04.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -49,14 +65,22 @@
       "name": [
         "Felix Activity List April 2023"
       ],
-      "label": [
-        "Operations,Community Communication,Reporting,Documenting"
-      ],
       "contributors": {
         "u7ywg4": {
           "gimbal": 100,
           "AGIX": 4285
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.04.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -64,14 +88,22 @@
       "name": [
         "Peter Activity List April 23"
       ],
-      "label": [
-        "Operations,Community Communication,Reporting,Documenting"
-      ],
       "contributors": {
         "xl6z2n": {
           "gimbal": 100,
           "AGIX": 4285
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.04.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -79,13 +111,21 @@
       "name": [
         "tx2 - Fly's Activity List - April '23"
       ],
-      "label": [
-        "Operations,Community Communication,Reporting,Documenting"
-      ],
       "contributors": {
         "pfwaf6": {
           "AGIX": 4285
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.04.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -93,13 +133,21 @@
       "name": [
         "tx2 - Tevo Activity List March and April 2023"
       ],
-      "label": [
-        "Operations,Community Communication,Reporting,Documenting"
-      ],
       "contributors": {
         "rcgctj": {
           "AGIX": 4285
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.03.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -107,13 +155,21 @@
       "name": [
         "tx2 - Headelf Activity List March/April 2023"
       ],
-      "label": [
-        "Operations,Community Communication,Reporting,Documenting"
-      ],
       "contributors": {
         "lrs3kj": {
           "AGIX": 4285
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.03.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -121,13 +177,21 @@
       "name": [
         "tx2 - Cran's Activity List - March & Apri"
       ],
-      "label": [
-        "Operations,Community Communication,Reporting,Documenting"
-      ],
       "contributors": {
         "j3xc2c": {
           "AGIX": 4285
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.03.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     }
   ]
