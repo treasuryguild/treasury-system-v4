@@ -1,0 +1,1119 @@
+{
+  "txid": "faf73d29d4576cb2a69dcb76810eb2967ba2f8fb49bc5ba0f1ae29db20a6b518",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 16",
+    "0 USD in 9746.5 GMBL",
+    "440.4408 USD in 1835.17 AGIX",
+    "0 USD in 1050 GovWG",
+    "Transaction made by Treasury Guild @0.281",
+    "https://www.treasuryguild.io/"
+  ],
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 18,
+          "gimbal": 96
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury-guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Meeting for Video Workgroup - 26.05.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "70ygy0": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "26.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Meeting for video wg 19.05.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "70ygy0": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "19.05.23"
+        ],
+        "label": [
+          "Content Creation,Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Meeting for Video Workgroup - 02.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "70ygy0": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "02.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Agus's video proposal 20.05.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "70ygy0": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "20.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Meeting for Video Workgroup 09.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "70ygy0": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "09.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 15.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "289935": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "15.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 22.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "22.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Prepare draft Process mapping of Create Article task and",
+        "Workgroup Results"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 71,
+          "gimbal": 150
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Documenting,Tool development,Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Modeling Workgroup 21.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 48,
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "AGIX": 48,
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "21.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Modeling Workgroup 14.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 48,
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "AGIX": 48,
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "tgd8fg": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "14.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Incubation Workgroup - 21.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 200
+        },
+        "lrs3kj": {
+          "gimbal": 200
+        },
+        "mg3a4k": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 200
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "21.06.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Gov Framework Doc follow up proccesses call - 22.6.2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "GovWG": 200,
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "GovWG": 200,
+          "gimbal": 200
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "22.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Join Governance WG Call #6 - 21.6.2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "GovWG": 100,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "GovWG": 100,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "21.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in the Ambassador Townhall 53 - 20.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "f39ntm": {
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "20.06.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Guild 20.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 200
+        },
+        "lrs3kj": {
+          "gimbal": 200
+        },
+        "mg3a4k": {
+          "gimbal": 200
+        },
+        "rcgctj": {
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "gimbal": 200
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "20.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Draft: Q1 SingularityNET Partnerships - 30USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 143
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Create Gov Framework GitBook & Docs - 22.6.2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "u7ywg4": {
+          "GovWG": 350,
+          "gimbal": 350
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "22.06.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Create a Guild/WG Lead document draft - 23.6.2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "23.06.23"
+        ],
+        "label": [
+          "Tool development,Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Call with Felix & Ester - 22.06.2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 150
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "22.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 14.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7wk9fz": {
+          "AGIX": 48,
+          "gimbal": 50
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations"
+        ],
+        "subGroup": [
+          "no subgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Guild 13.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 150
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "13.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Inside SingularityNET (May Edition) - 100USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "gimbal": 700
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Meeting for Video Workgroup 23.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "h2hc92": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "23.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Lilycupcake's clips 02.06.23 30 USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "h2hc92": {
+          "AGIX": 143,
+          "gimbal": 300
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "02.06.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Thread: Web Summit Rio - 10USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "fup7a9": {
+          "AGIX": 48
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Draft: Singularity Studio - 30USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "fup7a9": {
+          "AGIX": 143
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Draft: The Philosophy of Artificial General Intelligence -",
+        "40USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "fup7a9": {
+          "AGIX": 190
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Process Modeling Workgroup Leads 04.05.23 - 10 USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 48,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "04.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 13.04.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "13.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in the Treasury Guild March 9"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 2,
+          "gimbal": 150
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "09.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Treasury Guild Meeting - March 2"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 2,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "02.03.23"
+        ],
+        "label": [
+          "Operations,Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Incubation Workgroup - 10.5.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "10.05.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Guild 09.05.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "gimbal": 200
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "09.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Modelling Workgroup 17.05.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 48,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Modelling Workgroup 24.05.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 48,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "24.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Create Process map of Article Creation and Workgroup Results",
+        "Reporting for Writers Wrokgroup"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 71,
+          "gimbal": 150
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "06.06.23"
+        ],
+        "label": [
+          "Operations,Coordination,Documenting",
+          "Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Modeling Workgroup 31.05.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 48,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "31.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Randall Activity List May 2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 190,
+          "gimbal": 400
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "31.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Modeling Workgroup 07.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 48,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "07.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Thread: Dublin Tech Summit 2023 - 10USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 48
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Draft: Twin Protocol - 30USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 143
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "27.06.23"
+        ],
+        "label": [
+          "Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Incubation Workgroup - 14.6.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "289935": {
+          "gimbal": 200
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "14.06.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Sly's clips 02.06.23 30 USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "289935": {
+          "AGIX": 143,
+          "gimbal": 300
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "02.06.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Edited 20.06.2023 Townhall Video"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "20.06.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      }
+    }
+  ]
+}
