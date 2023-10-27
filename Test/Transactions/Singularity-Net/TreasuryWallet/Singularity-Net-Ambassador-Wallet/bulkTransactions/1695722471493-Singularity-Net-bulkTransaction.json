@@ -1,0 +1,233 @@
+{
+  "txid": "916e24567f395d0f36e0cd4c90438fa06ca5e34bb3eb4a173c686e66c7c47f1d",
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 8",
+    "0 USD in 4699 GMBL",
+    "1744.1892 USD in 9690 AGIX",
+    "Transaction made by Treasury Guild @0.246",
+    "https://www.treasuryguild.io/"
+  ],
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.09.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 96,
+          "gimbal": 47
+        }
+      }
+    },
+    {
+      "name": [
+        "Create Power BI Dashboards to analyze Ambassador Program"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.09.23"
+        ],
+        "label": [
+          "Tool development",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 139,
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 07.09.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.09.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "AGIX": 56,
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "AGIX": 56,
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 21.09.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.09.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "a3amjj": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "AGIX": 56,
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "AGIX": 56,
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Guild Fund Request - 26.09.23 - 313 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.09.23"
+        ],
+        "label": [
+          "Tool development",
+          "Reporting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 1739,
+          "gimbal": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Guild Fund Request - 26.09.23 - 937 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.09.23"
+        ],
+        "label": [
+          "Tool development",
+          "Reporting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 5206,
+          "gimbal": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "September Treasury System Service Fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Reporting",
+          "Documenting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 2286,
+          "gimbal": 3200
+        }
+      }
+    }
+  ]
+}
