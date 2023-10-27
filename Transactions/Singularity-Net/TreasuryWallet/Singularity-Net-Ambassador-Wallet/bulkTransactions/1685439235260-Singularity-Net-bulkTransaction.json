@@ -1,7 +1,4 @@
 {
-  "mdVersion": [
-    "1.4"
-  ],
   "txid": "c1d9cdeb3d9de5573b6f9b452865c38aef574aa5bec0c62f0198a619dc6f157e",
   "msg": [
     "Singularity-Net Bulk Transaction",
@@ -13,14 +10,14 @@
     "Transaction made by Treasury Guild @0.381",
     "https://www.treasuryguild.io/"
   ],
+  "mdVersion": [
+    "1.4"
+  ],
   "contributions": [
     {
       "taskCreator": "singularitynet",
       "name": [
         "singularitynet contribution handling fee"
-      ],
-      "label": [
-        "Operations"
       ],
       "contributors": {
         "7xcueh": {
@@ -28,6 +25,17 @@
           "AGIX": 26,
           "gimbal": 228
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -35,13 +43,21 @@
       "name": [
         "Incubation Workgroup - 3/5/23"
       ],
-      "label": [
-        "Operations,Coordination"
-      ],
       "contributors": {
         "6qmkll": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "03.05.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -49,22 +65,27 @@
       "name": [
         "Meeting for Video Workgroup - 05.05.23"
       ],
-      "label": [
-        "Operations,Community Communication,Coordination"
-      ],
       "contributors": {
         "f7mxv2": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "05.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Meeting for Writers Workgroup - 05.05.23"
-      ],
-      "label": [
-        "Operations,Coordination,Community Communication"
       ],
       "contributors": {
         "6qmkll": {
@@ -73,6 +94,17 @@
         "f7mxv2": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "05.05.23"
+        ],
+        "label": [
+          "Operations,Coordination,Community Communication"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -80,22 +112,27 @@
       "name": [
         "Submit your portfolio for the Video Workgroup 28.04.23"
       ],
-      "label": [
-        "Operations"
-      ],
       "contributors": {
         "f7mxv2": {
           "gimbal": 10
         }
+      },
+      "arrayMap": {
+        "date": [
+          "28.04.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Participate in Treasury Guild 20.04.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "jnaxjp": {
@@ -104,6 +141,17 @@
         "4mg27n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "20.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -112,9 +160,6 @@
         "Governance actions & Treasury system Call -",
         "13.04.2023"
       ],
-      "label": [
-        "Operations,Coordination"
-      ],
       "contributors": {
         "jnaxjp": {
           "gimbal": 200
@@ -122,6 +167,17 @@
         "4mg27n": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "13.04.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -129,9 +185,6 @@
       "name": [
         "Participate in Treasury Guild 13.04.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "contributors": {
         "jnaxjp": {
           "gimbal": 100
@@ -139,6 +192,17 @@
         "4mg27n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "13.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -146,22 +210,27 @@
       "name": [
         "Marketing Guild Meeting - 14.4.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "contributors": {
         "6qmkll": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "14.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Setup Gov WG Wallet at Treasury Guild - 15.5.2023"
-      ],
-      "label": [
-        "Operations"
       ],
       "contributors": {
         "4mg27n": {
@@ -170,6 +239,17 @@
         "jnaxjp": {
           "gimbal": 20
         }
+      },
+      "arrayMap": {
+        "date": [
+          "15.05.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
@@ -177,13 +257,21 @@
       "name": [
         "Join SC Governance Workshop - 11.5.2023"
       ],
-      "label": [
-        "Operations,Community Communication"
-      ],
       "contributors": {
         "289935": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "11.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
@@ -191,13 +279,21 @@
       "name": [
         "Incubation Workgroup - 10.5.23"
       ],
-      "label": [
-        "Operations,Coordination"
-      ],
       "contributors": {
         "289935": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "10.05.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -205,13 +301,21 @@
       "name": [
         "Meeting for Video Workgroup - 12.05.23"
       ],
-      "label": [
-        "Operations,Community Communication,Coordination"
-      ],
       "contributors": {
         "f7mxv2": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "12.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -219,9 +323,6 @@
       "name": [
         "Participate in Treasury Guild 11.05.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "contributors": {
         "289935": {
           "gimbal": 100
@@ -229,6 +330,17 @@
         "4mg27n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "11.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -236,22 +348,27 @@
       "name": [
         "Broadcast Ideation - 8.5.23"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "6qmkll": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "08.05.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Participate in Process Guild 09.05.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "289935": {
@@ -260,6 +377,17 @@
         "6qmkll": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "09.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
@@ -267,13 +395,21 @@
       "name": [
         "Issue 500K Governance Workgroup tokens - 17.5.2023"
       ],
-      "label": [
-        "Operations"
-      ],
       "contributors": {
         "4mg27n": {
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "17.05.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
@@ -282,9 +418,6 @@
         "Call with Treasury Guild - Issue Gov WG Native Assets",
         "-17.5.2023"
       ],
-      "label": [
-        "Operations"
-      ],
       "contributors": {
         "4mg27n": {
           "gimbal": 100
@@ -292,15 +425,23 @@
         "jnaxjp": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "17.05.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Join Governance WG Call #1 - 16.5.2023"
-      ],
-      "label": [
-        "Operations,Community Communication"
       ],
       "contributors": {
         "rcgctj": {
@@ -309,6 +450,17 @@
         "6qmkll": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "16.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
@@ -316,13 +468,21 @@
       "name": [
         "Incubation Workgroup - 17.5.23"
       ],
-      "label": [
-        "Operations,Coordination"
-      ],
       "contributors": {
         "289935": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "17.05.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -330,13 +490,21 @@
       "name": [
         "Become Translator Support"
       ],
-      "label": [
-        "Operations,Coordination,Onboarding"
-      ],
       "contributors": {
         "rcgctj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.05.23"
+        ],
+        "label": [
+          "Operations,Coordination,Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -344,14 +512,22 @@
       "name": [
         "making clips Slysyl 19.05.23 40 USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "289935": {
           "gimbal": 400,
           "AGIX": 129
         }
+      },
+      "arrayMap": {
+        "date": [
+          "19.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -359,22 +535,27 @@
       "name": [
         "Document Audit - Video workgroup structure - 10 USD"
       ],
-      "label": [
-        "Documentation"
-      ],
       "contributors": {
         "rcgctj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.05.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Writers Workgroup Meeting - 19.05.23"
-      ],
-      "label": [
-        "Operations,Coordination,Community Communication"
       ],
       "contributors": {
         "f7mxv2": {
@@ -386,6 +567,17 @@
         "6qmkll": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "19.05.23"
+        ],
+        "label": [
+          "Operations,Coordination,Community Communication"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -393,23 +585,28 @@
       "name": [
         "Draft: Cogito Protocol Article - 40 USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "6qmkll": {
           "gimbal": 200,
           "AGIX": 129
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Participate in Treasury Guild 18.05.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "289935": {
@@ -424,6 +621,17 @@
         "4mg27n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "18.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -431,13 +639,21 @@
       "name": [
         "Open Call: Incubation to develop Stake Pool"
       ],
-      "label": [
-        "Onboarding"
-      ],
       "contributors": {
         "rcgctj": {
           "gimbal": 10
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.05.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -445,13 +661,21 @@
       "name": [
         "Join Ambassador Town Hall #48 - 16.5.2023"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "289935": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "16.05.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -459,22 +683,27 @@
       "name": [
         "Open Supervisory Council Call - 16.5.2023"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "rcgctj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "16.05.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Join Ambassador Town Hall #47 - 9.5.2023"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "289935": {
@@ -483,6 +712,17 @@
         "rcgctj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "09.05.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -490,22 +730,27 @@
       "name": [
         "Join Ambassador Town Hall #40 -"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "rcgctj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.05.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Participate in Process Modelling Workgroup 17.05.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "289935": {
@@ -521,15 +766,23 @@
         "6qmkll": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "17.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Participate in Process Guild 16.05.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "289935": {
@@ -538,15 +791,23 @@
         "rcgctj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "16.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "AI Sandbox - 25.5.23"
-      ],
-      "label": [
-        "Community Communication,Coordination,Education"
       ],
       "contributors": {
         "lrs3kj": {
@@ -561,15 +822,23 @@
         "j3xc2c": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "25.05.23"
+        ],
+        "label": [
+          "Community Communication,Coordination,Education"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "AI Sandbox prep Call Fly & Felix - 23.5.2023"
-      ],
-      "label": [
-        "Community Communication,Coordination,Education"
       ],
       "contributors": {
         "u7ywg4": {
@@ -578,6 +847,17 @@
         "pfwaf6": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.05.23"
+        ],
+        "label": [
+          "Community Communication,Coordination,Education"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
       }
     },
     {
@@ -585,13 +865,21 @@
       "name": [
         "Follow up with Jeremy Pitt - 30.5.2023"
       ],
-      "label": [
-        "Operations, Coordination"
-      ],
       "contributors": {
         "u7ywg4": {
           "gimbal": 300
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Operations, Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
@@ -599,13 +887,21 @@
       "name": [
         "Draft a GovWG Agenda Template - 30.5.2023"
       ],
-      "label": [
-        "Operations,Community Communication,Content Creation"
-      ],
       "contributors": {
         "u7ywg4": {
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Content Creation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
@@ -613,13 +909,21 @@
       "name": [
         "Call with Jeremy Pitt & Felix - 19.5.2023"
       ],
-      "label": [
-        "Operations, Coordination"
-      ],
       "contributors": {
         "u7ywg4": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "19.05.23"
+        ],
+        "label": [
+          "Operations, Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
@@ -627,13 +931,21 @@
       "name": [
         "Create meeting invites - 27.5.2023"
       ],
-      "label": [
-        "Operations,Community Communication,Content Creation,Coordination"
-      ],
       "contributors": {
         "u7ywg4": {
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "27.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Content Creation,Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
@@ -641,13 +953,21 @@
       "name": [
         "Call with Felix & Mihaela Ulieru - 25.5.2023"
       ],
-      "label": [
-        "Operations, Coordination"
-      ],
       "contributors": {
         "u7ywg4": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "25.05.23"
+        ],
+        "label": [
+          "Operations, Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
@@ -655,13 +975,21 @@
       "name": [
         "Create Gov Doc follow up tasks - 24.5.2023"
       ],
-      "label": [
-        "Operations,Community Communication,Content Creation"
-      ],
       "contributors": {
         "u7ywg4": {
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "24.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Content Creation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
@@ -670,9 +998,6 @@
         "DeepFunding Rewards Algorithm - Advisor Sprint Team -",
         "22.5.2023"
       ],
-      "label": [
-        "Operations, Coordination"
-      ],
       "contributors": {
         "u7ywg4": {
           "gimbal": 400
@@ -680,15 +1005,23 @@
         "mg3a4k": {
           "gimbal": 400
         }
+      },
+      "arrayMap": {
+        "date": [
+          "22.05.23"
+        ],
+        "label": [
+          "Operations, Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Join Governance WG Call #2 - 23.5.2023"
-      ],
-      "label": [
-        "Operations,Community Communication"
       ],
       "contributors": {
         "u7ywg4": {
@@ -706,6 +1039,17 @@
         "mg3a4k": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
@@ -714,13 +1058,21 @@
         "Create a Governance WG Call intro Slidedeck Design",
         "-30.5.2023"
       ],
-      "label": [
-        "Community Communication,Content Creation"
-      ],
       "contributors": {
         "u7ywg4": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Community Communication,Content Creation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
@@ -728,22 +1080,27 @@
       "name": [
         "Create a SC Proposal - 25.5.2023"
       ],
-      "label": [
-        "Operations,Community Communication,Content Creation"
-      ],
       "contributors": {
         "289935": {
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "25.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Content Creation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Onboarding Workgroup Meeting- 02.05.2023"
-      ],
-      "label": [
-        "Onboarding,Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "mg3a4k": {
@@ -764,15 +1121,23 @@
         "f39ntm": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.05.23"
+        ],
+        "label": [
+          "Onboarding,Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Incubation Workgroup - 24.5.23"
-      ],
-      "label": [
-        "Operations,Coordination"
       ],
       "contributors": {
         "lrs3kj": {
@@ -790,6 +1155,17 @@
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "24.05.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -798,9 +1174,6 @@
         "17/05/2023 STRATEGY GUILD WEEKLY MEETING- 1 TASK",
         "POINTS."
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "contributors": {
         "289935": {
           "gimbal": 100
@@ -826,15 +1199,23 @@
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "17.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Onboarding Translator - Hindi"
-      ],
-      "label": [
-        "Onboarding"
       ],
       "contributors": {
         "tgd8fg": {
@@ -843,6 +1224,17 @@
         "rcgctj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -850,14 +1242,22 @@
       "name": [
         "NFTs for the members (Tooling fees) 50 ADA"
       ],
-      "label": [
-        "Documentation,Operations"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 100,
           "ada": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Documentation,Operations"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -865,22 +1265,27 @@
       "name": [
         "Facilitating the Video Workgroup 26.05.23"
       ],
-      "label": [
-        "Documentation"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "26.05.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Meeting for Video Workgroup - 26.05.23"
-      ],
-      "label": [
-        "Operations,Community Communication,Coordination"
       ],
       "contributors": {
         "289935": {
@@ -901,6 +1306,17 @@
         "lrs3kj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "26.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -908,23 +1324,28 @@
       "name": [
         "Quarterly update video contribution 10 USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "f7mxv2": {
           "gimbal": 1000,
           "AGIX": 32
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Meeting for video wg 19.05.23"
-      ],
-      "label": [
-        "Content Creation,Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "289935": {
@@ -936,6 +1357,17 @@
         "lrs3kj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "19.05.23"
+        ],
+        "label": [
+          "Content Creation,Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -943,14 +1375,22 @@
       "name": [
         "Videos made in March 100 USD"
       ],
-      "label": [
-        "Operations,Content Creation"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 1000,
           "AGIX": 323
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.03.23"
+        ],
+        "label": [
+          "Operations,Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -958,13 +1398,21 @@
       "name": [
         "Preparing slides for Marketing Guild 26.05.23"
       ],
-      "label": [
-        "Documentation,Content Creation"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "26.05.23"
+        ],
+        "label": [
+          "Documentation,Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -972,14 +1420,22 @@
       "name": [
         "Quarterly update video 12.05.23 100 USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "h2hc92": {
           "gimbal": 1000,
           "AGIX": 323
         }
+      },
+      "arrayMap": {
+        "date": [
+          "12.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -987,14 +1443,22 @@
       "name": [
         "Draft: Introduce TrueAGI - 30USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "f7mxv2": {
           "gimbal": 200,
           "AGIX": 97
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -1002,23 +1466,28 @@
       "name": [
         "Cogito CGV Token Launch Thread - 10USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "fup7a9": {
           "gimbal": 50,
           "AGIX": 32
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Writers Workgroup Meeting - 26.5.23"
-      ],
-      "label": [
-        "Operations,Coordination,Community Communication"
       ],
       "contributors": {
         "f7mxv2": {
@@ -1045,6 +1514,17 @@
         "j3xc2c": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "26.05.23"
+        ],
+        "label": [
+          "Operations,Coordination,Community Communication"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -1052,14 +1532,22 @@
       "name": [
         "Draft: Deep Funding 101 - 30USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "f39ntm": {
           "gimbal": 200,
           "AGIX": 97
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -1067,14 +1555,22 @@
       "name": [
         "Blogpost: Cogito Protocol: CGV Token Launch - 50 USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "fup7a9": {
           "gimbal": 400,
           "AGIX": 161
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -1083,14 +1579,22 @@
         "Draft: Hypercycle; Introduction and Launchpad Recap -",
         "40 USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "tgd8fg": {
           "gimbal": 300,
           "AGIX": 129
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -1098,14 +1602,22 @@
       "name": [
         "Draft: Sucrenspice, First female ambassador - 30 USD"
       ],
-      "label": [
-        "Documenting,Content Creation"
-      ],
       "contributors": {
         "tgd8fg": {
           "gimbal": 200,
           "AGIX": 97
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Documenting,Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
@@ -1114,23 +1626,28 @@
         "Blogpost: Release of the NuNet Testnet Public Alpha - 50",
         "USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "f39ntm": {
           "gimbal": 400,
           "AGIX": 161
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Participate in Treasury Guild 25.05.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "lrs3kj": {
@@ -1151,15 +1668,23 @@
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "25.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Marketing Guild Meeting - 26.5.23"
-      ],
-      "label": [
-        "Operations,Coordination,Community Communication"
       ],
       "contributors": {
         "289935": {
@@ -1186,6 +1711,17 @@
         "pfwaf6": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "26.05.23"
+        ],
+        "label": [
+          "Operations,Coordination,Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
@@ -1193,14 +1729,22 @@
       "name": [
         "Contribution March 100 USD"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 1000,
           "AGIX": 323
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
@@ -1208,23 +1752,28 @@
       "name": [
         "Video Workgroup structure document March 150 USD"
       ],
-      "label": [
-        "Documentation"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 1500,
           "AGIX": 484
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.03.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Participate in Process Guild 23.05.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "j3xc2c": {
@@ -1251,15 +1800,23 @@
         "xl6z2n": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "23.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Participate in Process Modelling Workgroup 24.05.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "jnaxjp": {
@@ -1275,6 +1832,17 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "24.05.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     }
   ]
