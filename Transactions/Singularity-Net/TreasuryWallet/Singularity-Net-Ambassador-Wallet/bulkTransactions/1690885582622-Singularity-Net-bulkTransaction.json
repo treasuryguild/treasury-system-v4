@@ -1,4 +1,5 @@
 {
+  "txid": "e3bfa6826291d0e69f5308ea225e7e31b6a3d5721e4d21f609631e8c4a907b32",
   "msg": [
     "Swarm Bulk Transaction",
     "Recipients: 12",
@@ -6,7 +7,6 @@
     "Transaction made by Treasury Guild @0.305",
     "https://www.treasuryguild.io/"
   ],
-  "txid": "e3bfa6826291d0e69f5308ea225e7e31b6a3d5721e4d21f609631e8c4a907b32",
   "mdVersion": [
     "1.4"
   ],
@@ -15,22 +15,27 @@
       "name": [
         "singularitynet contribution handling fee"
       ],
-      "label": [
-        "Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "7xcueh": {
           "AGIX": 98
         }
+      },
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "July Ambassador Rewards"
-      ],
-      "label": [
-        "Reporting"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -67,6 +72,17 @@
         "xl6z2n": {
           "AGIX": 891
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.07.23"
+        ],
+        "label": [
+          "Reporting"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     }
   ]
