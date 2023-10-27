@@ -1,7 +1,4 @@
 {
-  "mdVersion": [
-    "1.4"
-  ],
   "txid": "2b346dc0659c15b093ed4a9f4cdc7f36c3ff691c406212941dcec765dc64ca29",
   "msg": [
     "Singularity-Net Bulk Transaction",
@@ -12,19 +9,30 @@
     "Transaction made by Treasury Guild @0.369",
     "https://www.treasuryguild.io/"
   ],
+  "mdVersion": [
+    "1.4"
+  ],
   "contributions": [
     {
       "taskCreator": "singularitynet",
       "name": [
         "singularitynet contribution handling fee"
       ],
-      "label": [
-        "Operations"
-      ],
       "contributors": {
         "7xcueh": {
           "AGIX": 638
         }
+      },
+      "arrayMap": {
+        "date": [
+          "17.05.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -32,13 +40,21 @@
       "name": [
         "Retrospective Rewards - FlyYouFools - 9375 AGIX"
       ],
-      "label": [
-        "Operations,Community Communication"
-      ],
       "contributors": {
         "pfwaf6": {
           "AGIX": 9375
         }
+      },
+      "arrayMap": {
+        "date": [
+          "16.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -46,13 +62,21 @@
       "name": [
         "Retrospective Rewards - Crandano - 9375 AGIX"
       ],
-      "label": [
-        "Operations,Community Communication"
-      ],
       "contributors": {
         "j3xc2c": {
           "AGIX": 9375
         }
+      },
+      "arrayMap": {
+        "date": [
+          "16.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -60,13 +84,21 @@
       "name": [
         "Retrospective Rewards - Felix - 22500 AGIX"
       ],
-      "label": [
-        "Operations,Community Communication"
-      ],
       "contributors": {
         "u7ywg4": {
           "AGIX": 22500
         }
+      },
+      "arrayMap": {
+        "date": [
+          "16.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -74,13 +106,21 @@
       "name": [
         "Retrospective Rewards - Tevo - 22500 AGIX"
       ],
-      "label": [
-        "Operations,Community Communication"
-      ],
       "contributors": {
         "rcgctj": {
           "AGIX": 22500
         }
+      },
+      "arrayMap": {
+        "date": [
+          "16.05.23"
+        ],
+        "label": [
+          "Operations,Community Communication"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     }
   ]
