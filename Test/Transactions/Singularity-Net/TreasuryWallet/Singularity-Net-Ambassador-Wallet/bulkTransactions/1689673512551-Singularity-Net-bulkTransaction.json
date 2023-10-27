@@ -1,0 +1,852 @@
+{
+  "txid": "68857684208281ff30dcb5c47563ecddf316ec6db08d8ca0e1872f636eb9a845",
+  "msg": [
+    "Swarm Bulk Transaction",
+    "Recipients: 15",
+    "0 USD in 18316.35 GMBL",
+    "2117.6064 USD in 8823.36 AGIX",
+    "Transaction made by Treasury Guild @0.307",
+    "https://www.treasuryguild.io/"
+  ],
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 87,
+          "gimbal": 181
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "18.07.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury-guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Incubation Workgroup - 07.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 68,
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "AGIX": 68,
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "AGIX": 68,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "07.06.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 06.07.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "f39ntm": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "06.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Rojo Activity list June 2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 868,
+          "gimbal": 1200
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 12.07.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 42,
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "AGIX": 42,
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "AGIX": 125,
+          "gimbal": 150
+        },
+        "xl6z2n": {
+          "AGIX": 42,
+          "gimbal": 150
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "18.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations"
+        ],
+        "subGroup": [
+          "no subgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild trx meeting - 4.7.2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 300
+        },
+        "jnaxjp": {
+          "gimbal": 300
+        },
+        "rcgctj": {
+          "gimbal": 300
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Modeling Workgroup 12.07.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 42,
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "AGIX": 42,
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "AGIX": 42,
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "12.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Modeling Workgroup 05.07.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "AGIX": 42,
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "05.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Preparing Workshops or Events June 2023 (2)"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Documenting,Coordination,Operations"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Cran's Activity List - june 2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j3xc2c": {
+          "AGIX": 2971,
+          "gimbal": 4450
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Onboarding Translator - Chinese"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rlqgl7": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "13.06.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Process Guild 04.07.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Onboarding Translator - Indonesia"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "13.06.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
+      }
+    },
+    {
+      "name": [
+        "DRAFT: SophiaVerse Token Launch - 55USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 229,
+          "gimbal": 550
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "18.07.23"
+        ],
+        "label": [
+          "Operations,Community Communication",
+          "Reporting,Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "THREAD: Ambassador Program Townhall #51 - 10USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "18.07.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Ambassador Program Townhall #51 Understanding",
+        "SophiaVerse with Jon Grove - 65USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 271,
+          "gimbal": 300
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "18.07.23"
+        ],
+        "label": [
+          "Documenting,Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Editing and Proofreading - 15USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 62,
+          "gimbal": 75
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "18.07.23"
+        ],
+        "label": [
+          "Operations,Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 15.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "15.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 29.06.23"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "29.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting- 13.07.2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "13.07.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination,Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Call with Felix & Peter - ZOOM ACCOUNT SETUP -",
+        "11.7.2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xl6z2n": {
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "11.07.23"
+        ],
+        "label": [
+          "Community Communication,Coordination,Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Ambassador Tools - Fund Request - 11.7.2023 -",
+        "19.95 Usd"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xl6z2n": {
+          "AGIX": 83
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "11.07.23"
+        ],
+        "label": [
+          "Tool development"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Preparing Process Guild Workshops or Events June 2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 21,
+          "gimbal": 50
+        },
+        "tgd8fg": {
+          "AGIX": 125,
+          "gimbal": 310
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Documenting,Coordination,Operations"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "07.06 Process Guild Meeting Summaries and Documentation"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jl2vjm": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "18.07.23"
+        ],
+        "label": [
+          "Operations,Community Communication",
+          "Reporting,Documenting,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Exploring Meta-Learning in SingularityNET -",
+        "30USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 125,
+          "gimbal": 300
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "18.07.23"
+        ],
+        "label": [
+          "Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Evaluating the Next Generation of AI Evaluation",
+        "Metrics in SingularityNET - 30USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 125,
+          "gimbal": 150
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "18.07.23"
+        ],
+        "label": [
+          "Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "THREAD: June Ecosystem Overview -10USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "18.07.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "DRAFT: The Role of Interoperability in Connecting AI Networks",
+        "within SingularityNET - 40USD"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 167,
+          "gimbal": 200
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "18.07.23"
+        ],
+        "label": [
+          "Content Creation,Documentation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Process Modelling in June"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Documenting,Tool development"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "SucrenSpice Activity List June 2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 2205,
+          "gimbal": 4350
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Process Modeling in June"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 125,
+          "gimbal": 300
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Documenting,Tool development"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Activity List June 2023"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 200,
+          "gimbal": 475
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting,Documenting"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    },
+    {
+      "name": [
+        "Preparing Workshops or Events June 2023 (1)"
+      ],
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 242,
+          "gimbal": 575
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "30.06.23"
+        ],
+        "label": [
+          "Documenting,Coordination,Operations"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      }
+    }
+  ]
+}
