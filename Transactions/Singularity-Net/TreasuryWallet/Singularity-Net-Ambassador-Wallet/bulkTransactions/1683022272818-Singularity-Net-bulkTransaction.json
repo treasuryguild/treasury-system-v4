@@ -1,7 +1,4 @@
 {
-  "mdVersion": [
-    "1.4"
-  ],
   "txid": "e29bd8006898058afa17ebf1e95e518179a4bffdd7fb5730ab4b4f422af4b73e",
   "msg": [
     "Singularity-Net Bulk Transaction",
@@ -13,14 +10,14 @@
     "Transaction made by Treasury Guild @0.386",
     "https://www.treasuryguild.io/"
   ],
+  "mdVersion": [
+    "1.4"
+  ],
   "contributions": [
     {
       "taskCreator": "singularitynet",
       "name": [
         "singularitynet contribution handling fee"
-      ],
-      "label": [
-        "Operations"
       ],
       "contributors": {
         "7xcueh": {
@@ -28,6 +25,17 @@
           "AGIX": 25,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.05.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -35,14 +43,22 @@
       "name": [
         "Marketing Workshop - 27.2.23"
       ],
-      "label": [
-        "Operations,Community Communication"
-      ],
       "contributors": {
         "m75ur9": {
           "gimbal": 200,
           "AGIX": 2
         }
+      },
+      "arrayMap": {
+        "date": [
+          "27.02.23"
+        ],
+        "label": [
+          "Operations,Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
@@ -51,14 +67,22 @@
         "Translate into French - February Ecosystem roundup Blogpost",
         "SNET - 10usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "contributors": {
         "m75ur9": {
           "gimbal": 100,
           "AGIX": 32
         }
+      },
+      "arrayMap": {
+        "date": [
+          "18.04.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -66,13 +90,21 @@
       "name": [
         "Onboarding Translator - French, Spanish, Chinese"
       ],
-      "label": [
-        "Onboarding"
-      ],
       "contributors": {
         "m75ur9": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "18.04.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -80,13 +112,21 @@
       "name": [
         "Onboarding Translator - french"
       ],
-      "label": [
-        "Onboarding"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "18.04.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -94,13 +134,21 @@
       "name": [
         "Onboarding Translator - French, Spanish and Yoruba"
       ],
-      "label": [
-        "Onboarding"
-      ],
       "contributors": {
         "f39ntm": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "18.04.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -108,9 +156,6 @@
       "name": [
         "Marketing Guild Meeting - 7.4.23"
       ],
-      "label": [
-        "Operations,Coordination,Community Communication"
-      ],
       "contributors": {
         "9klqvn": {
           "gimbal": 100
@@ -121,6 +166,17 @@
         "mg3a4k": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "07.04.23"
+        ],
+        "label": [
+          "Operations,Coordination,Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
@@ -128,22 +184,27 @@
       "name": [
         "Claim Ambassador Badge on awrd.gg - 2 AGIX & 50 Gimbals"
       ],
-      "label": [
-        "Community Communication,Operations"
-      ],
       "contributors": {
         "9klqvn": {
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "18.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "AI Sandbox with ChatGPT4, Fly & Felix - 27.4.2023"
-      ],
-      "label": [
-        "Community Communication"
       ],
       "contributors": {
         "vpyqlf": {
@@ -155,6 +216,17 @@
         "mg3a4k": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "27.04.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -162,13 +234,21 @@
       "name": [
         "Summit preperation Call - 20.4.2023"
       ],
-      "label": [
-        "Operations"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "20.04.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -176,23 +256,28 @@
       "name": [
         "Create Ambassador NFTs  10.04.23 45 ADA"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 100,
           "ada": 45
         }
+      },
+      "arrayMap": {
+        "date": [
+          "10.04.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Broadcast Ideation - 11.4.23"
-      ],
-      "label": [
-        "Community Communication,Operations"
       ],
       "contributors": {
         "93ah9r": {
@@ -207,6 +292,17 @@
         "mg3a4k": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "11.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -214,13 +310,21 @@
       "name": [
         "Onboarding Dework Video"
       ],
-      "label": [
-        "Documentation,Content Creation,Onboarding"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 900
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.05.23"
+        ],
+        "label": [
+          "Documentation,Content Creation,Onboarding"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
@@ -228,13 +332,21 @@
       "name": [
         "Questions for Ambassadors"
       ],
-      "label": [
-        "Community Communication,Operations"
-      ],
       "contributors": {
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "30.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -243,14 +355,22 @@
         "Translate into Russian - Rejuve Launch Blogpost SNET -",
         "10usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "contributors": {
         "93ah9r": {
           "gimbal": 100,
           "AGIX": 32
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.05.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -259,14 +379,22 @@
         "Translate into Portuguese - Rejuve Launch Blogpost SNET -",
         "10usd"
       ],
-      "label": [
-        "Translation,Content Creation"
-      ],
       "contributors": {
         "9klqvn": {
           "gimbal": 100,
           "AGIX": 32
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.05.23"
+        ],
+        "label": [
+          "Translation,Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Translator"
+        ]
       }
     },
     {
@@ -274,14 +402,22 @@
       "name": [
         "Lilycupcake's videos 21.04.23 150 USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "h2hc92": {
           "gimbal": 1500,
           "AGIX": 484
         }
+      },
+      "arrayMap": {
+        "date": [
+          "21.04.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -289,23 +425,28 @@
       "name": [
         "Cryptofly's video 21.04.23 100 USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "j5wkd0": {
           "gimbal": 1000,
           "AGIX": 323
         }
+      },
+      "arrayMap": {
+        "date": [
+          "21.04.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Meeting for Video Workgroup - 28.04.23"
-      ],
-      "label": [
-        "Operations,Community Communication,Coordination"
       ],
       "contributors": {
         "h2hc92": {
@@ -314,6 +455,17 @@
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "28.04.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -322,23 +474,28 @@
         "Create Promotional Clips of the SingualarityNET Decentralisation",
         "Summit - 10USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "ya5t5l": {
           "gimbal": 100,
           "AGIX": 32
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Meeting for Video Workgroup 21.04.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "contributors": {
         "vpyqlf": {
@@ -350,6 +507,17 @@
         "j5wkd0": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "21.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
       }
     },
     {
@@ -357,13 +525,21 @@
       "name": [
         "Participate in Treasury Guild 27.04.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "contributors": {
         "mg3a4k": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "27.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -371,13 +547,21 @@
       "name": [
         "Participate in Treasury Guild 20.04.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "contributors": {
         "mg3a4k": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "20.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -385,13 +569,21 @@
       "name": [
         "Participate in Treasury Guild 13.04.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "contributors": {
         "mg3a4k": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "13.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
@@ -400,23 +592,28 @@
         "NuNet Public Alpha Testnet release Announcement Thread -",
         "15USD"
       ],
-      "label": [
-        "Community Communication"
-      ],
       "contributors": {
         "f39ntm": {
           "gimbal": 150,
           "AGIX": 48
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.05.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Marketing Guild Meeting - 28.4.23"
-      ],
-      "label": [
-        "Operations,Coordination,Community Communication"
       ],
       "contributors": {
         "9klqvn": {
@@ -431,15 +628,23 @@
         "vpyqlf": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "28.04.23"
+        ],
+        "label": [
+          "Operations,Coordination,Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
       "taskCreator": "singularitynet",
       "name": [
         "Marketing Guild Meeting - 21.4.23"
-      ],
-      "label": [
-        "Operations,Coordination,Community Communication"
       ],
       "contributors": {
         "vpyqlf": {
@@ -457,6 +662,17 @@
         "h2hc92": {
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "21.04.23"
+        ],
+        "label": [
+          "Operations,Coordination,Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
@@ -464,14 +680,22 @@
       "name": [
         "CryptoFly's SNET Eco video - 450 USD"
       ],
-      "label": [
-        "Community Communication,Content Creation"
-      ],
       "contributors": {
         "j5wkd0": {
           "gimbal": 1400,
           "AGIX": 1452
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.05.23"
+        ],
+        "label": [
+          "Community Communication,Content Creation"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
@@ -479,14 +703,22 @@
       "name": [
         "Create Ambassador / Marketing Guild Gitbook - 20USD"
       ],
-      "label": [
-        "Content Creation"
-      ],
       "contributors": {
         "mg3a4k": {
           "gimbal": 200,
           "AGIX": 65
         }
+      },
+      "arrayMap": {
+        "date": [
+          "02.05.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
@@ -494,9 +726,6 @@
       "name": [
         "Participate in Process Guild 25.04.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "contributors": {
         "mg3a4k": {
           "gimbal": 150
@@ -507,6 +736,17 @@
         "vpyqlf": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "25.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
@@ -514,9 +754,6 @@
       "name": [
         "Participate in Process Guild 18.04.23"
       ],
-      "label": [
-        "Community Communication,Operations,Coordination"
-      ],
       "contributors": {
         "mg3a4k": {
           "gimbal": 200
@@ -527,6 +764,17 @@
         "9klqvn": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "18.04.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     }
   ]
