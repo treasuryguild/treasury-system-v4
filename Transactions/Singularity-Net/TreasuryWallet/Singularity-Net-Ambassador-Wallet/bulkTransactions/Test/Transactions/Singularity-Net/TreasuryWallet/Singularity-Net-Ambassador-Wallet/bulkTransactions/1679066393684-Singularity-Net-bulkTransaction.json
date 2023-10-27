@@ -1,0 +1,1079 @@
+{
+  "txid": "ae94c02dbc435cbe70a03752d626bdd8f904d8e0ab5b8f1ddf64fc5997a38d16",
+  "msg": [
+    "Singularity-Net Bulk Transaction",
+    "Ideascale: ",
+    "Recipients: 31",
+    "21.77 USD in 65.00 ADA",
+    "0 USD in 21432.00 GMBL",
+    "904.64 USD in 1760.00 AGIX",
+    "Transaction made by Treasury Guild @0.335",
+    "https://www.treasuryguild.io/"
+  ],
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "singularitynet contribution handling fee"
+      ],
+      "contributors": {
+        "3ynval": {
+          "ADA": "1.551690",
+          "GMBL": "212",
+          "AGIX": "17"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury-guild"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Create an Account on deepfunding.ai - Earn 10 Ada 10AGIX",
+        "& 10 Gimbal"
+      ],
+      "contributors": {
+        "89fnj0": {
+          "ADA": "10",
+          "GMBL": "10",
+          "AGIX": "10"
+        },
+        "32a6x7": {
+          "ADA": "10",
+          "GMBL": "10",
+          "AGIX": "10"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "no subgroup"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Create a My first Bounty Task -100 AGIX & 100 Gimbal"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "98"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "21.02.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "[added to forum] Translate into Chinese - AI-DSL2022",
+        "Blogpost"
+      ],
+      "contributors": {
+        "rvata9": {
+          "ADA": "1.551690",
+          "GMBL": "200",
+          "AGIX": "114"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador-translator"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "[added to forum] Translate into Russian - AI-DSL2022",
+        "Blogpost"
+      ],
+      "contributors": {
+        "nggwcw": {
+          "ADA": "1.551690",
+          "GMBL": "200",
+          "AGIX": "114"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador-translator"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "[added to forum] Translate into French - Progress toAGI",
+        "in 2022 Blogpost"
+      ],
+      "contributors": {
+        "93ah9r": {
+          "ADA": "1.551690",
+          "GMBL": "200",
+          "AGIX": "114"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador-translator"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "[added to forum] Translate into Portuguese - Loyaltyrewards",
+        "community governance Blogpost"
+      ],
+      "contributors": {
+        "h3fp0w": {
+          "ADA": "1.551690",
+          "GMBL": "200",
+          "AGIX": "43"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador-translator"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Participate in the Treasury Guild March 9"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "1.551690",
+          "GMBL": "150",
+          "AGIX": "2"
+        },
+        "4mg27n": {
+          "ADA": "1.551690",
+          "GMBL": "150",
+          "AGIX": "2"
+        },
+        "fu9paa": {
+          "ADA": "1.551690",
+          "GMBL": "150",
+          "AGIX": "2"
+        },
+        "pfwaf6": {
+          "GMBL": "150",
+          "AGIX": "2"
+        },
+        "fup7a9": {
+          "ADA": "1.551690",
+          "GMBL": "150",
+          "AGIX": "2"
+        },
+        "jwrar0": {
+          "ADA": "1.551690",
+          "GMBL": "150",
+          "AGIX": "2"
+        },
+        "9klqvn": {
+          "ADA": "1.551690",
+          "GMBL": "150",
+          "AGIX": "2"
+        },
+        "5djnmp": {
+          "ADA": "1.551690",
+          "GMBL": "150",
+          "AGIX": "2"
+        },
+        "f39ntm": {
+          "ADA": "1.551690",
+          "GMBL": "150",
+          "AGIX": "2"
+        },
+        "rcgctj": {
+          "ADA": "1.551690",
+          "GMBL": "150",
+          "AGIX": "2"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "09.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Process Guild - March 7"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "pfwaf6": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "xl6z2n": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "9klqvn": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "f39ntm": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "0cnk5v": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "rcgctj": {
+          "GMBL": "100",
+          "AGIX": "2"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "07.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Join Ambassador Town Hall #38 - Earn 100 GMBL & 2 AGIX"
+      ],
+      "contributors": {
+        "9qgazv": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "u7ywg4": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "a3amjj": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "fu9paa": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "pfwaf6": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "t65ffu": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "lrs3kj": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "tgd8fg": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "xl6z2n": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "nggwcw": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "jwrar0": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "q5xpal": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "9p4mch": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "9klqvn": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "0cnk5v": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "rcgctj": {
+          "GMBL": "100",
+          "AGIX": "2"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "14.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Organise & Host a Treasury Workshop"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "GMBL": "200",
+          "AGIX": "2"
+        },
+        "rcgctj": {
+          "GMBL": "200",
+          "AGIX": "2"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "14.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "DF Round 2 - Rules check on proposals"
+      ],
+      "contributors": {
+        "t65ffu": {
+          "GMBL": "800",
+          "AGIX": "2"
+        },
+        "lrs3kj": {
+          "GMBL": "800",
+          "AGIX": "2"
+        },
+        "nggwcw": {
+          "GMBL": "800",
+          "AGIX": "2"
+        },
+        "fup7a9": {
+          "GMBL": "800",
+          "AGIX": "2"
+        },
+        "93ah9r": {
+          "GMBL": "800",
+          "AGIX": "2"
+        },
+        "9p4mch": {
+          "GMBL": "800",
+          "AGIX": "2"
+        },
+        "9klqvn": {
+          "GMBL": "800",
+          "AGIX": "2"
+        },
+        "f39ntm": {
+          "GMBL": "800",
+          "AGIX": "2"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "no subgroup"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Strategy Workshop Meeting 15.3.23"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "GMBL": "200",
+          "AGIX": "2"
+        },
+        "a3amjj": {
+          "GMBL": "200",
+          "AGIX": "2"
+        },
+        "j3xc2c": {
+          "ADA": "1.551690",
+          "GMBL": "200",
+          "AGIX": "2"
+        },
+        "t65ffu": {
+          "GMBL": "200",
+          "AGIX": "2"
+        },
+        "lrs3kj": {
+          "GMBL": "200",
+          "AGIX": "2"
+        },
+        "xl6z2n": {
+          "GMBL": "200",
+          "AGIX": "2"
+        },
+        "fup7a9": {
+          "GMBL": "200",
+          "AGIX": "2"
+        },
+        "jwrar0": {
+          "GMBL": "200",
+          "AGIX": "2"
+        },
+        "9p4mch": {
+          "GMBL": "200",
+          "AGIX": "2"
+        },
+        "9klqvn": {
+          "GMBL": "200",
+          "AGIX": "2"
+        },
+        "rcgctj": {
+          "GMBL": "200",
+          "AGIX": "2"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "15.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Strategy Workshop Meeting 8.3.23"
+      ],
+      "contributors": {
+        "a3amjj": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "lrs3kj": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "nggwcw": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "fup7a9": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "9klqvn": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "f39ntm": {
+          "GMBL": "100",
+          "AGIX": "2"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "08.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "SNET Marketing Guild Guide  120AGIX"
+      ],
+      "contributors": {
+        "fup7a9": {
+          "GMBL": "200",
+          "AGIX": "120"
+        },
+        "5djnmp": {
+          "GMBL": "200",
+          "AGIX": "120"
+        },
+        "f39ntm": {
+          "GMBL": "200",
+          "AGIX": "120"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "16.03.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "SNet Conference / Event Ambassador - 200 AGIX"
+      ],
+      "contributors": {
+        "5djnmp": {
+          "GMBL": "400",
+          "AGIX": "200"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "16.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Process Guild - March 14"
+      ],
+      "contributors": {
+        "j3xc2c": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "pfwaf6": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "t65ffu": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "lrs3kj": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "xl6z2n": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "jwrar0": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "9p4mch": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "9klqvn": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "f39ntm": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "0cnk5v": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "rcgctj": {
+          "GMBL": "100",
+          "AGIX": "2"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "14.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Aggregate Community Proposal (sheets) -Roles/Guilds/Workgroups",
+        "- 20USD"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "GMBL": "200",
+          "AGIX": "43"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "no subgroup"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Aggregate Proposal on Roles (doc) - 30USD"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "GMBL": "300",
+          "AGIX": "63"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "16.03.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Community Feedback #6 - 4.3.23  - 15USD"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "GMBL": "150",
+          "AGIX": "33"
+        },
+        "t65ffu": {
+          "GMBL": "150",
+          "AGIX": "33"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "04.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Community Feedback - Notes - 20USD"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "GMBL": "200",
+          "AGIX": "43"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "16.03.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Community Feedback #4 -3.3.23 - 10USD"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "GMBL": "200",
+          "AGIX": "22"
+        },
+        "xl6z2n": {
+          "GMBL": "200",
+          "AGIX": "22"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "03.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Community Feedback #2 - 2.3.23 - 10USD"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "GMBL": "100",
+          "AGIX": "22"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "02.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Community Feedback #1 - 1.3.23 - 20 USD"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "GMBL": "200",
+          "AGIX": "43"
+        },
+        "0cnk5v": {
+          "GMBL": "200",
+          "AGIX": "43"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "01.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Join Ambassador Town Hall #39 - Earn 100 GMBL & 2 AGIX"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "j3xc2c": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "pfwaf6": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "t65ffu": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "lrs3kj": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "tgd8fg": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "xl6z2n": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "nggwcw": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "fup7a9": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "93ah9r": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "jwrar0": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "lchsml": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "q5xpal": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "9p4mch": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "9klqvn": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "5djnmp": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "f39ntm": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "0cnk5v": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "rcgctj": {
+          "GMBL": "100",
+          "AGIX": "2"
+        },
+        "cu9ctl": {
+          "ADA": "1.551690",
+          "GMBL": "100",
+          "AGIX": "2"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "16.03.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "Create a video summary of the Ecosystem leader meeting",
+        "of July2022 (Max. 3 submissions)"
+      ],
+      "contributors": {
+        "ya5t5l": {
+          "ADA": "1.551690",
+          "GMBL": "300",
+          "AGIX": "2"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "no subgroup"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "[added to forum] Verify translation Chinese -Operations",
+        "Q2 blog - 20USD"
+      ],
+      "contributors": {
+        "cu9ctl": {
+          "GMBL": "200",
+          "AGIX": "43"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador-translator"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "[added to forum] Verify translation Chinese - AprilEcosystem",
+        "Update -20USD"
+      ],
+      "contributors": {
+        "cu9ctl": {
+          "GMBL": "200",
+          "AGIX": "43"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador-translator"
+        ]
+      }
+    },
+    {
+      "taskCreator": "singularitynet",
+      "description": [
+        "[added to forum] Translate to Chinese - Ecosystemupdate",
+        "blogpost May - 20USD"
+      ],
+      "contributors": {
+        "cu9ctl": {
+          "GMBL": "200",
+          "AGIX": "43"
+        }
+      },
+      "arrayMap": {
+        "date": [
+          "17.03.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador-translator"
+        ]
+      }
+    }
+  ]
+}
