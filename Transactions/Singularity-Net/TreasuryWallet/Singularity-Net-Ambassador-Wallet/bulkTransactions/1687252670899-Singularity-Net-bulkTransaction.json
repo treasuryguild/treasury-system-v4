@@ -1,4 +1,5 @@
 {
+  "txid": "ab01647595155a39b26ab42e723a6ce9ec430c2e2627adf6f1ee5f4f565d43b6",
   "msg": [
     "Swarm Bulk Transaction",
     "Recipients: 11",
@@ -8,7 +9,6 @@
     "Transaction made by Treasury Guild @0.258",
     "https://www.treasuryguild.io/"
   ],
-  "txid": "ab01647595155a39b26ab42e723a6ce9ec430c2e2627adf6f1ee5f4f565d43b6",
   "mdVersion": [
     "1.4"
   ],
@@ -17,51 +17,72 @@
       "name": [
         "singularitynet contribution handling fee"
       ],
-      "label": [
-        "Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "7xcueh": {
           "AGIX": 12,
           "gimbal": 40
         }
+      },
+      "arrayMap": {
+        "date": [
+          "20.06.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Slate's activity list May with AGIX"
       ],
-      "label": [
-        "Documentation,Community Communication,Operations,Coordination"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "tgd8fg": {
           "AGIX": 1190
         }
+      },
+      "arrayMap": {
+        "date": [
+          "31.05.23"
+        ],
+        "label": [
+          "Documentation,Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
       }
     },
     {
       "name": [
         "Participate in Dework PBL workshop 14.06.23"
       ],
-      "label": [
-        "Community Communication,Operations"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "rcgctj": {
           "gimbal": 50
         }
+      },
+      "arrayMap": {
+        "date": [
+          "20.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Incubation Workgroup - 14.6.23"
-      ],
-      "label": [
-        "Operations,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -83,6 +104,17 @@
         "vpyqlf": {
           "gimbal": 200
         }
+      },
+      "arrayMap": {
+        "date": [
+          "14.06.23"
+        ],
+        "label": [
+          "Operations,Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
       }
     },
     {
@@ -90,22 +122,27 @@
         "Gather data and basic analyse on previous Budgets -",
         "14.6.2023"
       ],
-      "label": [
-        "Operations,Community Communication,Reporting"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "u7ywg4": {
           "gimbal": 400
         }
+      },
+      "arrayMap": {
+        "date": [
+          "14.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Reporting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Participate in Treasury Guild 15.06.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -118,14 +155,22 @@
         "u7ywg4": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "15.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
       }
     },
     {
       "name": [
         "Create a Pol.is - 14.6.2023"
-      ],
-      "label": [
-        "Operations,Community Communication,Content Creation"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -133,14 +178,22 @@
           "GovWG": 30,
           "gimbal": 30
         }
+      },
+      "arrayMap": {
+        "date": [
+          "14.06.23"
+        ],
+        "label": [
+          "Operations,Community Communication,Content Creation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Join Governance WG Call #5 - 13.6.2023"
-      ],
-      "label": [
-        "Community Communication,Operations"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -168,14 +221,22 @@
           "GovWG": 100,
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "13.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
       }
     },
     {
       "name": [
         "Ambassador WG Call - 13.06.23"
-      ],
-      "label": [
-        "Operations"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -191,14 +252,22 @@
         "xl6z2n": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "13.06.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
       }
     },
     {
       "name": [
         "Participate in Process Guild 13.06.23"
-      ],
-      "label": [
-        "Community Communication,Operations,Coordination"
       ],
       "taskCreator": "singularitynet",
       "contributors": {
@@ -220,6 +289,17 @@
         "xl6z2n": {
           "gimbal": 150
         }
+      },
+      "arrayMap": {
+        "date": [
+          "13.06.23"
+        ],
+        "label": [
+          "Community Communication,Operations,Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     },
     {
@@ -227,14 +307,22 @@
         "Document Audit - Proposal for an Archive Workgroup - 10",
         "USD"
       ],
-      "label": [
-        "Auditing"
-      ],
       "taskCreator": "singularitynet",
       "contributors": {
         "rcgctj": {
           "gimbal": 100
         }
+      },
+      "arrayMap": {
+        "date": [
+          "20.06.23"
+        ],
+        "label": [
+          "Auditing"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
       }
     }
   ]
