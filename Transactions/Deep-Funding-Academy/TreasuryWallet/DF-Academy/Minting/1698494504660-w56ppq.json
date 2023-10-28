@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "DF Academy Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.293",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e132502e31e6bb5d64fbe2047061ee643b825b5dd2d27b0a0e4574499416c87f",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Minting"
+      ],
+      "description": [
+        "Minted new tokens"
+      ],
+      "taskCreator": [
+        "DF Academy"
+      ],
+      "contributors": {
+        "w56ppq": {
+          "ADA": 0,
+          "DFA": 50000
+        }
+      }
+    }
+  ]
+}
