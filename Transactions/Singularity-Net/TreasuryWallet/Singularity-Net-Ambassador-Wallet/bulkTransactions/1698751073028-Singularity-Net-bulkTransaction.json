@@ -1,0 +1,966 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 21",
+    "0 USD in 6514 GMBL",
+    "734.9568 USD in 3062 AGIX",
+    "Transaction made by Treasury Guild @0.297",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "3b4974e473e0cc7d41ea14637cbb9dd7d9899fed4a3a5e4c07b2945fb1a7b115",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 30,
+          "gimbal": 64
+        }
+      }
+    },
+    {
+      "name": [
+        "My First Bounty Task - Introduction Task - w32 - 10",
+        "AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.08.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "ambassador program"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r658c7": {
+          "AGIX": 10,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate into Spanish - Neoterics A Metaverse-Native",
+        "Population Of Early-Stage AGIs - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.08.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "2tdlak": {
+          "AGIX": 83,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish - SingularityNET Latest Ecosystem",
+        "Updates: August 2023- 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.09.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "2tdlak": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "AI Sandbox - Facilitate Meeting - 19.10.23 - 50",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "incubation guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 208,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "AI Sandbox - Facilitate Meeting - 28.9.23 - 50",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "incubation guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 208,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "AI Sandbox - Facilitate Meeting - 20.7.23 - 50",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.07.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "incubation guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 208,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Managing Miro & Dework Documentation- October 2023-80",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 333,
+          "gimbal": 400
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Prep and Agenda- October 2023 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 83,
+          "gimbal": 400
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Facilitation 19.10.2023- 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.10.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 62,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Facilitation 12.10.2023-15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.10.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 62,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Mentoring new Documenter - 5 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 21,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Notes & Summary- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.10.23"
+        ],
+        "label": [
+          "Documentation",
+          "Community Communication",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 104,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Facilitation 26.10.2023- 15USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Faciliating"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "xl6z2n": {
+          "AGIX": 62,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting- 26.10.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.10.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "9klqvn": {
+          "gimbal": 100
+        },
+        "a3amjj": {
+          "gimbal": 100
+        },
+        "hmt2e5": {
+          "gimbal": 100
+        },
+        "nggwcw": {
+          "gimbal": 100
+        },
+        "tlttpn": {
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Email tweak - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.10.23"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Send out onboarding email- 5 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.10.23"
+        ],
+        "label": [
+          "Onboarding",
+          "Operations"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 21,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Notes & Summary 19.10.2023 -20",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.10.23"
+        ],
+        "label": [
+          "Documentation",
+          "Community Communication",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 83,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translation Workgroup Activities - October 2023 - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Reporting",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 417,
+          "gimbal": 500
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Translator - Turkish & Arabic"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.10.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "nggwcw": {
+          "AGIX": 83,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.10.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 104,
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic - SingularityNET Latest Ecosystem Updates",
+        "for 09.2023- 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tlttpn": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian - SingularityNET Latest Ecosystem",
+        "Updates for 09.2023- 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cj3a3y": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian - SingularityNET Latest Ecosystem",
+        "Updates for 09.2023- 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vcnf8d": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian - SingularityNET Latest Ecosystem",
+        "Updates for 09.2023- 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Chinese - SingularityNET Latest Ecosystem",
+        "Updates for 09.2023- 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "ywlry9": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French - SingularityNET Latest Ecosystem Updates",
+        "for 09.2023- 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "nggwcw": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish - SingularityNET Latest Ecosystem",
+        "Updates for 09.2023- 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese - SingularityNET Latest Ecosystem",
+        "Updates for 09.2023- 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "create Q4 budget calculator"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.10.23"
+        ],
+        "label": [
+          "Documenting",
+          "Tool development",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Knowledge Base WG 30.10.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination",
+          ""
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 42,
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "AGIX": 42,
+          "gimbal": 100
+        },
+        "r5nvwm": {
+          "gimbal": 100
+        },
+        "r83kme": {
+          "AGIX": 42,
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "AGIX": 42,
+          "gimbal": 100
+        },
+        "xl6z2n": {
+          "AGIX": 42,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Quarter 3 Reports - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.10.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Reporting",
+          "Documenting",
+          "Documentation"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 125,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Process Guild  October 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Reporting",
+          "Documenting",
+          "Coordination"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 83,
+          "gimbal": 200
+        }
+      }
+    }
+  ]
+}
