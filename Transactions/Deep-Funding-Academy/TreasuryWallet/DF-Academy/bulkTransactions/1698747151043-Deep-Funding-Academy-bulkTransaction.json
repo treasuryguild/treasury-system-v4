@@ -1,0 +1,554 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 10",
+    "0 USD in 4080 GMBL",
+    "0 USD in 4040 DFA",
+    "Transaction made by Treasury Guild @0.297",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "751e26e7fd9a2cd1794943d82c485f602608cef4b2b6d7d1875c764387bbda4c",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "gimbal": 40
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a DF Academy Twitter Account"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DFA": 20,
+          "gimbal": 20
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a DF Academy One Pager Draft"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration",
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DFA": 150,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a DF Academy Gitbook"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DFA": 10,
+          "gimbal": 10
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a DF Academy Discord Server"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DFA": 150,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a DF Academy Dework Account"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DFA": 20,
+          "gimbal": 20
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a DF Academy Youtube Account"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DFA": 20,
+          "gimbal": 20
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a DF Academy Google Account"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DFA": 20,
+          "gimbal": 20
+        }
+      }
+    },
+    {
+      "name": [
+        "Minting DFA tokens"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "jnaxjp": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Adding DFA to Dashboard"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "DFA": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboard DF Academy Phase #1 Teachers Team"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "e63jl6": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "rauu23": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Admin Meeting Sucren & Felix"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DFA": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Setup Treasury System"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "DFA": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboard DF Academy Phase #1 Admin Team"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "lq9wke": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "pg9ffw": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Team Meeting #1"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lq9wke": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "pg9ffw": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "DFA": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Admin Meeting Ubio & Felix"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lq9wke": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "DFA": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Admin Meeting Roberto & Felix"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "pg9ffw": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "DFA": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Trainers Meeting"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "e63jl6": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "r658c7": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "rauu23": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "DFA": 150,
+          "gimbal": 150
+        }
+      }
+    }
+  ]
+}
