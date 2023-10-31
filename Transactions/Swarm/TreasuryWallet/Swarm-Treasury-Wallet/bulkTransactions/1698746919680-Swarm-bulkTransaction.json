@@ -1,0 +1,39 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "29.700 USD in 100.00 ADA",
+    "23.700 USD in 100.00 AGIX",
+    "Transaction made by Treasury Guild @0.297",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "1e594df34caf771f694f26b42512856d7fcc269ebda140344a7a18bf10fdf99c",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending 100 ADA and 100 AGIX to DF Academy"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "w56ppq": {
+          "ADA": "100",
+          "AGIX": "100"
+        }
+      }
+    }
+  ]
+}
