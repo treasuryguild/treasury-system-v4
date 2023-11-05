@@ -1,0 +1,80 @@
+{
+  "msg": [
+    "The HIVE SNet Transaction",
+    "Website: ",
+    "Recipients: 3",
+    "1980.468 USD in 7859.00 AGIX",
+    "Transaction made by Treasury Guild @0.336",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "2da1b7936a65a2dd3e11165d0fbdee2cc681f8995003a2fd68392ff5b53fed70",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Monthly salary october - Swarm DF"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "The HIVE"
+      ],
+      "contributors": {
+        "zzvr9k": {
+          "AGIX": "5465"
+        }
+      }
+    },
+    {
+      "name": [
+        "Sending 2173 AGIX tokens to DeepFunding Town Hall",
+        "wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "The HIVE"
+      ],
+      "contributors": {
+        "94cqxx": {
+          "AGIX": "2173"
+        }
+      }
+    },
+    {
+      "name": [
+        "Sending 221 AGIX tokens to Treasury Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "The HIVE"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "221"
+        }
+      }
+    }
+  ]
+}
