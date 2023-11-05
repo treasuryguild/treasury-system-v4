@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Swarm SNET Town Halls Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.342",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "2da1b7936a65a2dd3e11165d0fbdee2cc681f8995003a2fd68392ff5b53fed70",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from The HIVE SNet"
+      ],
+      "taskCreator": [
+        "Swarm SNET Town Halls"
+      ],
+      "contributors": {
+        "4tkmkp": {
+          "ADA": 1.17232,
+          "AGIX": 2173
+        }
+      }
+    }
+  ]
+}
