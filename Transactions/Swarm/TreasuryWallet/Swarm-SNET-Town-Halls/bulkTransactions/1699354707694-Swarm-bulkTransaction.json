@@ -1,0 +1,276 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 13",
+    "0 USD in 3100 GMBL",
+    "504.96 USD in 2104 AGIX",
+    "Transaction made by Treasury Guild @0.344",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "6949de3e893d27bf09194ae423957d609acff5f5533fe58694db76a505a121fe",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "DF TH #19 - Participants"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.10.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "deep funding"
+        ]
+      },
+      "taskCreator": [
+        "singularity swarm"
+      ],
+      "contributors": {
+        "pgqg9n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #19 - Timestamping - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.23"
+        ],
+        "label": [
+          "timestamping",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "deep funding"
+        ]
+      },
+      "taskCreator": [
+        "singularity swarm"
+      ],
+      "contributors": {
+        "tlttpn": {
+          "AGIX": 62,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #20 - Host - 90 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.11.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "deep funding"
+        ]
+      },
+      "taskCreator": [
+        "singularity swarm"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 375,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #20 - Announcer - 90 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "deep funding"
+        ]
+      },
+      "taskCreator": [
+        "singularity swarm"
+      ],
+      "contributors": {
+        "q5xpal": {
+          "AGIX": 375,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #20 - Co-host- 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.11.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "deep funding"
+        ]
+      },
+      "taskCreator": [
+        "singularity swarm"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": 333,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #20 - Video Editor - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.23"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "deep funding"
+        ]
+      },
+      "taskCreator": [
+        "singularity swarm"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 417,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #20 - Timestamping - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.23"
+        ],
+        "label": [
+          "timestamping",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "deep funding"
+        ]
+      },
+      "taskCreator": [
+        "singularity swarm"
+      ],
+      "contributors": {
+        "tlttpn": {
+          "AGIX": 125,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #20 - Participants"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "deep funding"
+        ]
+      },
+      "taskCreator": [
+        "singularity swarm"
+      ],
+      "contributors": {
+        "4hfykz": {
+          "gimbal": 100
+        },
+        "9y86pv": {
+          "gimbal": 100
+        },
+        "lq9wke": {
+          "gimbal": 100
+        },
+        "lrs3kj": {
+          "gimbal": 100
+        },
+        "pfwaf6": {
+          "gimbal": 100
+        },
+        "pgqg9n": {
+          "gimbal": 100
+        },
+        "q0av5m": {
+          "gimbal": 100
+        },
+        "q5xpal": {
+          "gimbal": 100
+        },
+        "r5nvwm": {
+          "gimbal": 100
+        },
+        "r83kme": {
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DF TH #20 - Task Manager- 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "deep funding"
+        ]
+      },
+      "taskCreator": [
+        "singularity swarm"
+      ],
+      "contributors": {
+        "pfwaf6": {
+          "AGIX": 417,
+          "gimbal": 300
+        }
+      }
+    }
+  ]
+}
