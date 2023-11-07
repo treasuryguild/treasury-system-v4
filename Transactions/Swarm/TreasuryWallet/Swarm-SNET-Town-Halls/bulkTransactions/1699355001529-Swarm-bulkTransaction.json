@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Swarm SNET Town Halls Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "16.491 USD in 69.00 AGIX",
+    "Transaction made by Treasury Guild @0.344",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "fd8a8c852000690de5bb558f65d72e12c3e6e0f9780fe5f9c81d0cbbda79ee85",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending leftowers to Treasury Guild wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.11.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "69"
+        }
+      }
+    }
+  ]
+}
