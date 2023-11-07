@@ -1,0 +1,132 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 6",
+    "0 USD in 909 GMBL",
+    "0 USD in 909 DFA",
+    "Transaction made by Treasury Guild @0.346",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "8805ce0c2565da49c8892d5536dc52183e2cc231490d18c949066eadbe0af478",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.11.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "DFA": 9,
+          "gimbal": 9
+        }
+      }
+    },
+    {
+      "name": [
+        "Setup Domain for DF Academy"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "pg9ffw": {
+          "DFA": 50,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Teachers Meeting #2"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "e63jl6": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "r658c7": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "rauu23": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a initial DFA Token Document"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DFA": 50,
+          "gimbal": 50
+        }
+      }
+    }
+  ]
+}
