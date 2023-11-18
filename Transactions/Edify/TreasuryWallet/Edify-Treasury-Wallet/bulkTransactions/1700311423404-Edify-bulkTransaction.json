@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Edify Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.360 USD in 1.00 ADA",
+    "Transaction made by Treasury Guild @0.360",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "5f410cecfb3c6e3f947ea2f2b7745c6d348af0a5e8a6bdbd0bb39d05b9739874",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Test transaction"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.11.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "kvjwx3": {
+          "ADA": "1"
+        }
+      }
+    }
+  ]
+}
