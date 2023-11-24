@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "DF Community Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.392",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "3100891df90d2642c6018faff6ee7dd4ad763cd7122125020b11016edcabe050",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Swarm Treasury Wallet"
+      ],
+      "taskCreator": [
+        "DF Community"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 100
+        }
+      }
+    }
+  ]
+}
