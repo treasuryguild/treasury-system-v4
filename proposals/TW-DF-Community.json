@@ -1,0 +1,18 @@
+{
+  "project": "Deep Funding Community",
+  "proposal": "DF Community",
+  "fund": "TreasuryWallet",
+  "budget": "50000",
+  "budgetItems": {
+    "Incoming": "50000",
+    "Other": "10",
+    "bulkTransactions": "50000",
+    "Swap": "5000",
+    "Bounty": "20000",
+    "Contributors": "20000",
+    "Fixed-Costs": "5000"
+  },
+  "website": "",
+  "wallet": "addr1q9fptm87enfznqeekcpe5qkw9v47c5kum83eff8eh4gz0x8t64h85hppz0a8vzz6pewqhvhxdfuzcqdx5evlm5amx9vsvsjlcn",
+  "description": ""
+}
