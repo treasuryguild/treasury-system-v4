@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.000 USD in 50000.00 GMBL",
+    "Transaction made by Treasury Guild @0.375",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "4b4a0f6f062e610bdc22d4cc95b307ffc37edfe20a389d8608365aa4a13879d8",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending 50k gimbal tokens to Snet A wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "3ynval": {
+          "GMBL": "50000"
+        }
+      }
+    }
+  ]
+}
