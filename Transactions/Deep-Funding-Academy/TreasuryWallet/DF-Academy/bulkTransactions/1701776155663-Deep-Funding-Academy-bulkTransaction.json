@@ -1,0 +1,663 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 10",
+    "0 USD in 8383 GMBL",
+    "64 USD in 160 ADA",
+    "0 USD in 8383 DFA",
+    "Transaction made by Treasury Guild @0.400",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "7639423914ab8b9428b60e75d1c1c242d6adcce87d6acbf720874cf30938eb5f",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.12.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "DFA": 83,
+          "gimbal": 83
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Call Caue & Felix - 13.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9qgazv": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "DFA": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Website - 14.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DFA": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Set up DeepFunding WordPress & Hosting - 14.11.2023",
+        "- 48.36 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "pg9ffw": {
+          "DFA": 100,
+          "ada": 122,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Team Meeting #2 - 13.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9qgazv": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "lq9wke": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "pg9ffw": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "DFA": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Setup Domain for DF Academy - 14.11.2023 - 14.66",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Administration"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "pg9ffw": {
+          "DFA": 50,
+          "ada": 38,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Teachers Meeting #5 - 22.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9qgazv": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "e63jl6": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "lq9wke": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "r658c7": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "rauu23": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Teachers Meeting #4 - 15.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9qgazv": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Teachers Meeting #4 - 15.11.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r658c7": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Teachers Meeting #4 - 15.11.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Teachers Meeting #4 - 15.11.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "e63jl6": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Teachers Meeting #4 - 15.11.2027"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Teachers Meeting #3 - 8.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "e63jl6": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "r658c7": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "rauu23": {
+          "DFA": 200,
+          "gimbal": 200
+        },
+        "u7ywg4": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Deep Funding List of Topics - 13.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.11.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "e63jl6": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "lq9wke": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "pg9ffw": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "r658c7": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "rauu23": {
+          "DFA": 100,
+          "gimbal": 100
+        },
+        "u7ywg4": {
+          "DFA": 100,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a DFA Intro Article - 10.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.11.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Create DFA Content Guide - 10.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.11.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r658c7": {
+          "DFA": 200,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "DFA TTT #3 - 4.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "9qgazv": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "e63jl6": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "lq9wke": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "p8q4jl": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "pg9ffw": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "rauu23": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "DFA": 150,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "DFA TTT#2 - 27.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9qgazv": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "e63jl6": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "lq9wke": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "pg9ffw": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "r658c7": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "rauu23": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "DFA": 150,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "DFA TTT#1 - 20.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "deep funding academy"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "9qgazv": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "e63jl6": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "lq9wke": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "pg9ffw": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "r658c7": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "rauu23": {
+          "DFA": 150,
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "DFA": 150,
+          "gimbal": 150
+        }
+      }
+    }
+  ]
+}
