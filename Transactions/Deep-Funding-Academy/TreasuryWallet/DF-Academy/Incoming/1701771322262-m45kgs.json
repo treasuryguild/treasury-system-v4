@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "DF Academy Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.401",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "7018073c6349a8baf6e755d373268694cd74f4dcaf53556d44dd7135888bddb0",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Swarm Treasury Wallet"
+      ],
+      "taskCreator": [
+        "DF Academy"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 3000
+        }
+      }
+    }
+  ]
+}
