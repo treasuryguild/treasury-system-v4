@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.598",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "46eda4b725a36b593d167bf470251d948a865621d96bfe8746253aae21055d89",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Swarm Treasury Wallet"
+      ],
+      "taskCreator": [
+        "Governance Services Guild tools"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 1.18094,
+          "GMBL": 25000
+        }
+      }
+    }
+  ]
+}
