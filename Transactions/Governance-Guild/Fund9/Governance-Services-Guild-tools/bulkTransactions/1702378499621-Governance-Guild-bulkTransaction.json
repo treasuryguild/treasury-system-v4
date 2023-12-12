@@ -1,0 +1,1196 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 8",
+    "0 USD in 23176 GMBL",
+    "Transaction made by Treasury Guild @0.598",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "1b16fdff57ec4f6a70100df4f2b6f6612ee0a86ad84fe6bd096493247e5c0477",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Managing Dework Tasks and creating transaction metadata"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing 25.09.23 GG Weekly Meeting"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.09.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 75
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 46"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.09.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 46"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 45"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.09.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 45"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 44"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.09.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 44"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 42"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.08.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "55smty": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 42"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 41"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.08.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 43"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 43"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Chair Weekly GG Call 41"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.08.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing GG Weekly Meeting"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.08.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 52"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 51"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 50"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 49"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 47"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 48"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 53"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 54"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 55"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Call 56"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.12.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 100
+        },
+        "55smty": {
+          "gimbal": 100
+        },
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Sharing Forum 3 Announcements"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "community engagement"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Coordinating Forum 3 breakout room"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "community engagement"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 1000
+        }
+      }
+    },
+    {
+      "name": [
+        "Activity List September"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.23"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "community engagement"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Activity List August"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.23"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "community engagement"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 1050
+        }
+      }
+    },
+    {
+      "name": [
+        "Tevo Activity List July"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.23"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "community engagement"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 750
+        }
+      }
+    },
+    {
+      "name": [
+        "How CF plans to reward GG for the CIP workshop"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "community engagement"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "jhyhwp": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Analyze recording with AI tool"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Auditing"
+        ],
+        "subGroup": [
+          "community engagement"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "jhyhwp": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Document workshop results and aggregate information from the MVG",
+        "section"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "community engagement"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Hand over of CC Admin resources to Circle V4"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "community engagement"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 600
+        },
+        "jhyhwp": {
+          "gimbal": 600
+        }
+      }
+    },
+    {
+      "name": [
+        "PBL - Dework Management"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "pbl"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "PBL - Decision Making"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "pbl"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "jhyhwp": {
+          "gimbal": 2000
+        },
+        "u7ywg4": {
+          "gimbal": 2000
+        }
+      }
+    },
+    {
+      "name": [
+        "PBL - Code of Conduct"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "pbl"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "55smty": {
+          "gimbal": 1000
+        }
+      }
+    },
+    {
+      "name": [
+        "PBL - Commissioning"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "pbl"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "PBL - Treasury Management"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "pbl"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 2000
+        },
+        "jnaxjp": {
+          "gimbal": 2000
+        }
+      }
+    },
+    {
+      "name": [
+        "Draft F9 Governance Services Guild Tools Final Report"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 1000
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Governance Guild GitBook"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 400
+        }
+      }
+    }
+  ]
+}
