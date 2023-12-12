@@ -1,0 +1,1101 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 28",
+    "0 USD in 11665 GMBL",
+    "1173.8243 USD in 3787 AGIX",
+    "Transaction made by Treasury Guild @0.589",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e0e4c68492a0af864a4b87c49d241d1983102e624a1f4f300d90d8e2dfc124b2",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.12.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 37,
+          "gimbal": 114
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a clip - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.12.23"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 129,
+          "gimbal": 200
+        },
+        "vpyqlf": {
+          "AGIX": 129,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Management of the Video Workgroup - 180 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 581,
+          "gimbal": 1800
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.12.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "q5xpal": {
+          "gimbal": 100
+        },
+        "vpyqlf": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Strategy Guild meeting/workshop Week 49 -",
+        "20usd"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 65,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "My First Bounty Task - Introduction Task - 10 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.11.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "ambassador program"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "8gg0ys": {
+          "AGIX": 10,
+          "gimbal": 50
+        },
+        "92qjxd": {
+          "AGIX": 10,
+          "gimbal": 50
+        },
+        "9y6qa4": {
+          "AGIX": 10,
+          "gimbal": 50
+        },
+        "a708cw": {
+          "AGIX": 10,
+          "gimbal": 50
+        },
+        "d3jfmz": {
+          "AGIX": 10,
+          "gimbal": 50
+        },
+        "gkxhw8": {
+          "AGIX": 10,
+          "gimbal": 50
+        },
+        "hswq4s": {
+          "AGIX": 10,
+          "gimbal": 50
+        },
+        "j88zza": {
+          "AGIX": 10,
+          "gimbal": 50
+        },
+        "muqyga": {
+          "AGIX": 10,
+          "gimbal": 50
+        },
+        "pgqg9n": {
+          "AGIX": 10,
+          "gimbal": 50
+        },
+        "r658c7": {
+          "AGIX": 10,
+          "gimbal": 50
+        },
+        "ylr89j": {
+          "AGIX": 10,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 06.12.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.12.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "7wk9fz": {
+          "AGIX": 32,
+          "gimbal": 50
+        },
+        "jnaxjp": {
+          "AGIX": 65,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Knowledge Base WG 27.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 97,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 30.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "jnaxjp": {
+          "AGIX": 32,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Call on survey analysis- 11.12.2023- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.12.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 65,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Facilitation 07.11.2023 - 15USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.11.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 48,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting  07.12.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.12.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "uwtdjm": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Proposal Feedback Form"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.11.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 32,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Town hall summary edit #77 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 97,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summary -Session 5 -15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "d3jfmz": {
+          "AGIX": 48,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish- SingularityNET Latest Ecosystem Updates",
+        "for 11.2023- 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.12.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 48,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities -  20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 65,
+          "gimbal": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st Place (8.12.23) - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "m69qq5": {
+          "AGIX": 65,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic - SingularityNET Latest Ecosystem Updates",
+        "for 10.2023- 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.12.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 48,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian - Does GPT-4 Have a Sense of",
+        "Morality? Insights from the ETHICS Dataset Evaluation - ",
+        "10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.11.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 32,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese - Does GPT-4 Have a Sense of",
+        "Morality? Insights from the ETHICS Dataset Evaluation - ",
+        "10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "neglv5": {
+          "AGIX": 32,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Deep Funding Educational Infographic - Who, What,",
+        "When, Why, Where, How, Token and any other critical",
+        "info on specific spin-off projects for the ACP",
+        "infographics. - $40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 129,
+          "gimbal": 400
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework Task Managment  for education- 27/11"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework Task Managment  for education- Week 46 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.11.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 129,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Education Ambassador Training work for ACP - 10/11"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.11.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Education Ambassador Training work for ACP - Date -6/12"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 400
+        }
+      }
+    },
+    {
+      "name": [
+        "Education Ambassador Training work for ACP - Date6/12"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "gimbal": 400
+        }
+      }
+    },
+    {
+      "name": [
+        "Host Education Meeting - week 46 13/11 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.11.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 129,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Host StrategyMeeting - week 49  -40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 129,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Scribe - week 49 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 65,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Scribe meeting notes, edit and post - Week: 46 - 20",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 65,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Strategy Special Tasks - 4/11/23 - 40 usd"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.11.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 129,
+          "gimbal": 400
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish - Does GPT-4 Have a Sense of",
+        "Morality? Insights from the ETHICS Dataset Evaluation - ",
+        "10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.11.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 32,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Games Winner - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.23"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "c70dqg": {
+          "AGIX": 48,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Games Winner - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.23"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "c70dqg": {
+          "AGIX": 97,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Chinese - Does GPT-4 Have a Sense of",
+        "Morality? Insights from the ETHICS Dataset Evaluation - ",
+        "10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.11.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "ywlry9": {
+          "AGIX": 32,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Make meeting summary - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "q5xpal": {
+          "AGIX": 32,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Ben Goertzel on Generative AI vs. AGI - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.12.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 323,
+          "gimbal": 650
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 50) -180USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 581,
+          "gimbal": 2300
+        }
+      }
+    }
+  ]
+}
