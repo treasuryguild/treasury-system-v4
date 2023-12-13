@@ -1,0 +1,38 @@
+{
+  "msg": [
+    "DF Academy Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "802.608 USD in 1454.00 ADA",
+    "Transaction made by Treasury Guild @0.552",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e446bdaf8ba543d03a8ef3de390587861112173701053d5d8b19c92c776b2916",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Documentation work for DeepFunding Token",
+        "Requirement workshops\n"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.12.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Deep Funding Academy"
+      ],
+      "contributors": {
+        "u76avg": {
+          "ADA": "1454"
+        }
+      }
+    }
+  ]
+}
