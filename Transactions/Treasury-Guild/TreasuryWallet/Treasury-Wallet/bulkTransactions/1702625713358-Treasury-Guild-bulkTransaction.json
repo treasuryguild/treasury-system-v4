@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "15.800 USD in 25.00 ADA",
+    "Transaction made by Treasury Guild @0.632",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "02fd95f53783f2e945aa3cd5ed712eb23318e97a63d197586a1a4b7a6889f116",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Borrowing ADA for Colab project"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.12.23"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "amu5l9": {
+          "ADA": "25"
+        }
+      }
+    }
+  ]
+}
