@@ -1,0 +1,376 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 5",
+    "0 USD in 6503 GMBL",
+    "471,54 USD in 813 ADA",
+    "Transaction made by Treasury Guild @0.577",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "5f7170b7cabad2222352ad1b963c938aa87b6feba520753f8b6fe4d6ccee4437",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Swarm Tools December GitBook 38.53 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.23"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ada": 91,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools December Excel and Miroboard 111 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.23"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 191,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools Fluid 7 INVs 10496 10505 10508 10509 10524 -",
+        "91.25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.23"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "0345mg": {
+          "ada": 159,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Fund 11 Treasury Proposal"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 900
+        }
+      }
+    },
+    {
+      "name": [
+        "Assessing Midnight for Treasury Proposal"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.11.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Bounty Data Import and organizing contributions in November"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury Manager Updates - November"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.23"
+        ],
+        "label": [
+          "Documentation",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - November"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.23"
+        ],
+        "label": [
+          "Documentation",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 3800
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a F10 Proposal Form Template - 24.6.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.06.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Advisory Bill Jingles - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.06.23"
+        ],
+        "label": [
+          "Reporting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "mt3al0": {
+          "ada": 86,
+          "gimbal": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "Advisory Call with MeshAI - 23.6.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.06.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 50
+        },
+        "mt3al0": {
+          "gimbal": 50
+        },
+        "u7ywg4": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Monthly Costs - SWARM Tools- November 2023 - 185.83",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ada": 143,
+          "gimbal": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "Monthly Costs - SWARM Tools- December 2023 - 185.83",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ada": 143,
+          "gimbal": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "Drafted Closing Reports for Catalyst Landing Page"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Community Communication",
+          "Reporting"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 800
+        }
+      }
+    }
+  ]
+}
