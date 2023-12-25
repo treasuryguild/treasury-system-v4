@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "DF Review Circle Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.604",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "269f2352e9eceb17d1dc48153842505825578985e2d4378dc622dee9d19bbf76",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Swarm Treasury Wallet"
+      ],
+      "taskCreator": [
+        "DF Review Circle"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 50
+        }
+      }
+    }
+  ]
+}
