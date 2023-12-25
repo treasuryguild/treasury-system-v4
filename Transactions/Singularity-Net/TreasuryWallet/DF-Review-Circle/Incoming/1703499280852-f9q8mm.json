@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "DF Review Circle Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.604",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "253381fde5cbe47c76340442f0f827cffc9b010e6c4f6dd1931d1a469a6fdacf",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from f9q8mm"
+      ],
+      "taskCreator": [
+        "DF Review Circle"
+      ],
+      "contributors": {
+        "f9q8mm": {
+          "ADA": 1.344798,
+          "AGIX": 5478
+        }
+      }
+    }
+  ]
+}
