@@ -1,0 +1,37 @@
+{
+  "mdVersion": [
+    "1.8"
+  ],
+  "msg": [
+    "Impact Colab Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.000 USD in 1.00 rAGIX",
+    "Transaction made by Treasury Guild @0.622",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "Edify"
+      ],
+      "name": [
+        "Sending scam token to burn shit wallet"
+      ],
+      "contributors": {
+        "6dy5r4": {
+          "rAGIX": "1"
+        }
+      },
+      "arrayMap": {
+        "label": [
+          "Operations"
+        ],
+        "date": [
+          "26.12.23"
+        ]
+      }
+    }
+  ],
+  "txid": "ba5fa73b6d87653fb919e7457964ec10ceb6e6229cf14d5d1d17d4ef62ac3d0b"
+}
