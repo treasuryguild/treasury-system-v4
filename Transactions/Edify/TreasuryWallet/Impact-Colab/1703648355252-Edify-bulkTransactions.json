@@ -1,0 +1,30 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "ba5fa73b6d87653fb919e7457964ec10ceb6e6229cf14d5d1d17d4ef62ac3d0b",
+  "msg": [
+    "Impact Colab Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.589",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "Impact Colab"
+      ],
+      "label": [],
+      "description": [
+        "Sending scam token to burn address"
+      ],
+      "contributors": {
+        "6dy5r4": {
+          "rAGIX": 1,
+          "ADA": 1.14215
+        }
+      }
+    }
+  ]
+}
