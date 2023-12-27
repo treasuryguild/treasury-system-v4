@@ -1,0 +1,33 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "b1259278d6ae5163b5d08ef085c60250a352738ec82b6b18fcbb39c1c1e1276a",
+  "msg": [
+    "Impact Colab Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "300.02 USD in 538.637106 ADA",
+    "Transaction made by Treasury Guild @0.557",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "Impact Colab"
+      ],
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from f9q8mm"
+      ],
+      "contributors": {
+        "f9q8mm": {
+          "AGIX": 7824,
+          "ADA": 1.344798
+        }
+      }
+    }
+  ]
+}
