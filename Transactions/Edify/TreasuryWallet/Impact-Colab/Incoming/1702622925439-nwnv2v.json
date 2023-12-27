@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "a38c0622d08ed1009341409d9bbecc23e19c84b289145f1336eb3d063e597b01",
+  "msg": [
+    "Impact Colab Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.634",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "Impact Colab"
+      ],
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from nwnv2v"
+      ],
+      "contributors": {
+        "nwnv2v": {
+          "rAGIX": 1,
+          "ADA": 1.14215
+        }
+      }
+    }
+  ]
+}
