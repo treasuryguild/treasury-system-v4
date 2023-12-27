@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "DF Review Circle Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.591",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "ae541e58767a7806150f8ff1f4d8c24ec0d5a9294249be89644b6ec7aaed77af",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Operations"
+      ],
+      "description": [
+        "Send back ADA loan to Swarm wallet"
+      ],
+      "taskCreator": [
+        "DF Review Circle"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 42.73
+        }
+      }
+    }
+  ]
+}
