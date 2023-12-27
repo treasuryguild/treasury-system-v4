@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Swarm Snet GPT Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.591",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "99719b58d9afc5e8fc9d99b9c5ee43d60e7372120ae3978fdbb91b087a7081ff",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Operations"
+      ],
+      "description": [
+        "Sending leftovers to Treasury Guild wallet to test empty wallet bug"
+      ],
+      "taskCreator": [
+        "Swarm Snet GPT"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "ADA": 1.16071
+        }
+      }
+    }
+  ]
+}
