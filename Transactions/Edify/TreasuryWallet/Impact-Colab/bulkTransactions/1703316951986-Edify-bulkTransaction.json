@@ -1,0 +1,46 @@
+{
+  "mdVersion": [
+    "1.8"
+  ],
+  "msg": [
+    "Impact Colab Transaction",
+    "Website: ",
+    "Recipients: 4",
+    "142.992 USD in 432.00 AGIX",
+    "Transaction made by Treasury Guild @0.604",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "Edify"
+      ],
+      "name": [
+        "Leftovers for team members"
+      ],
+      "contributors": {
+        "csfzep": {
+          "AGIX": "108"
+        },
+        "mx4st4": {
+          "AGIX": "108"
+        },
+        "4hfykz": {
+          "AGIX": "108"
+        },
+        "ss705v": {
+          "AGIX": "108"
+        }
+      },
+      "arrayMap": {
+        "label": [
+          "Operations"
+        ],
+        "date": [
+          "23.12.23"
+        ]
+      }
+    }
+  ],
+  "txid": "0e9c430f724edc8ff35f30fdad26ea323157a20d2336aeb6e85059a6ee7f3ac9"
+}
