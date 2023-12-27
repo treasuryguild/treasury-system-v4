@@ -1,0 +1,37 @@
+{
+  "mdVersion": [
+    "1.8"
+  ],
+  "msg": [
+    "Impact Colab Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "27.738 USD in 46.00 ADA",
+    "Transaction made by Treasury Guild @0.603",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "Edify"
+      ],
+      "name": [
+        "Sending back borrowed 50 ADA to Treasury Guild"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "ADA": "46"
+        }
+      },
+      "arrayMap": {
+        "label": [
+          "Operations"
+        ],
+        "date": [
+          "23.12.23"
+        ]
+      }
+    }
+  ],
+  "txid": "ad23065072273bfe58f5d7c429c956ed564c8959c5835aff3634af9c379ee04d"
+}
