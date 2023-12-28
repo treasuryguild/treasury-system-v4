@@ -1,0 +1,18 @@
+{
+  "project": "Treasury Guild",
+  "proposal": "Test Wallet 3",
+  "fund": "Proposal",
+  "budget": "50000",
+  "budgetItems": {
+    "Incoming": "50000",
+    "Other": "10",
+    "bulkTransactions": "50000",
+    "Swap": "5000",
+    "Bounty": "20000",
+    "Contributors": "20000",
+    "Fixed-Costs": "5000"
+  },
+  "website": "",
+  "wallet": "addr1q8xk3u7hsmget32ym732d3slucapz48wh8e2lysvs7rw65e7mgjydnrvvc8gl9qagcl5lrn3nq9u85dd40uktvcf3geqc95tmr",
+  "description": ""
+}
