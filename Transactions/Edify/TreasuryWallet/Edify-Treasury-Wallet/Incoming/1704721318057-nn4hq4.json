@@ -1,0 +1,36 @@
+{
+  "msg": [
+    "Edify Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.510",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e92d437b3716995936a6515a0581748a0253b53b050b261fb40f5ef91ce308fe",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from nn4hq4"
+      ],
+      "taskCreator": [
+        "Edify Treasury Wallet"
+      ],
+      "contributors": {
+        "nn4hq4": {
+          "ADA": 9573.94542,
+          "CNCAlaRaffle036": 1,
+          "CNCAlaRaffle419": 1,
+          "CNCAlaRaffle437": 1,
+          "CNCAlaRaffle564": 1,
+          "CNCAlaRaffle572": 1
+        }
+      }
+    }
+  ]
+}
