@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Edify Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "5569.900 USD in 10900.00 ADA",
+    "Transaction made by Treasury Guild @0.511",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "16d41d361369e5d827b529559fe17d97ff554ad68c3a74a9cc3f2e4068b08e54",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending 10900 ADA out of the wallet "
+      ],
+      "arrayMap": {
+        "date": [
+          "08.01.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "kvjwx3": {
+          "ADA": "10900"
+        }
+      }
+    }
+  ]
+}
