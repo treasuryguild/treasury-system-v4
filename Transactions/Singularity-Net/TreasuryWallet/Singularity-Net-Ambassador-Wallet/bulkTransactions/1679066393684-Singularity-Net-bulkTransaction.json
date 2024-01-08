@@ -17,30 +17,6 @@
     {
       "taskCreator": "singularitynet",
       "description": [
-        "singularitynet contribution handling fee"
-      ],
-      "contributors": {
-        "3ynval": {
-          "ADA": "1.551690",
-          "GMBL": "212",
-          "AGIX": "17"
-        }
-      },
-      "arrayMap": {
-        "date": [
-          "17.03.23"
-        ],
-        "label": [
-          "Operations"
-        ],
-        "subGroup": [
-          "Treasury Guild"
-        ]
-      }
-    },
-    {
-      "taskCreator": "singularitynet",
-      "description": [
         "Create an Account on deepfunding.ai - Earn 10 Ada 10AGIX",
         "& 10 Gimbal"
       ],
