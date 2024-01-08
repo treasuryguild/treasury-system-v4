@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Edify Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.00 USD in 1.00 CNCAlaRaffle036",
+    "0.00 USD in 1.00 CNCAlaRaffle419",
+    "0.00 USD in 1.00 CNCAlaRaffle572",
+    "0.00 USD in 1.00 CNCAlaRaffle437",
+    "0.00 USD in 1.00 CNCAlaRaffle564",
+    "4882.71 USD in 9573.94542 ADA",
+    "Transaction made by Treasury Guild @0.510",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "bb795fa4693eb5117c9a73251d85a154ff8fffc081bca2a2d7b821b52b5a4e10",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from egzvkp"
+      ],
+      "taskCreator": [
+        "Edify Treasury Wallet"
+      ],
+      "contributors": {
+        "egzvkp": {
+          "ADA": 266.487562
+        }
+      }
+    }
+  ]
+}
