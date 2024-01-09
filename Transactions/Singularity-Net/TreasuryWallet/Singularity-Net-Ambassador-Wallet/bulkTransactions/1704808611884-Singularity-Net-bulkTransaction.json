@@ -1,0 +1,1536 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 15",
+    "0 USD in 13013 GMBL",
+    "1726,4338 USD in 5953 AGIX",
+    "Transaction made by Treasury Guild @0.518",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "2afb1c06084c5a69bf20c1ffe465cd2f5eb47bca82a904108f5561560d11b010",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.01.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 48,
+          "gimbal": 113
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting - Planning Incubation - 3.11.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Planning"
+        ],
+        "subGroup": [
+          "incubation guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r83kme": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Lesson: Meeting Recording Method"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 34,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Lesson: GitHub Commit"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 34,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Lesson: Course Feedback"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 69,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Created Assignment pages"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 34,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Lesson: Integrations"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 17,
+          "gimbal": 25
+        }
+      }
+    },
+    {
+      "name": [
+        "Lesson: Learning Requirements"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 34,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Lesson: Task Templates"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 34,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Dework PBL December 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 69,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing PBL Workshop December 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.23"
+        ],
+        "label": [
+          "Operations",
+          "Planning"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 103,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Lesson: Activity List method"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 69,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Lesson: Project Method"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 34,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Andamio Management"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.12.23"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Content Creation",
+          "Designing"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 328,
+          "gimbal": 475
+        }
+      }
+    },
+    {
+      "name": [
+        "Lesson: Lesson Feedback"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 207,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Lesson: Custom Task Management Features"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 17,
+          "gimbal": 25
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Education Guild meeting/workshop",
+        "18.12.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.12.23"
+        ],
+        "label": [
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4hfykz": {
+          "gimbal": 250
+        },
+        "xl6z2n": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "name": [
+        "Education Ambassador Training work for ACP - 23/12/28",
+        "- Nunet - $40 USD total"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.12.22"
+        ],
+        "label": [
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4hfykz": {
+          "AGIX": 138,
+          "gimbal": 400
+        }
+      }
+    },
+    {
+      "name": [
+        "Creation and Updation of Leaderboard -20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.01.24"
+        ],
+        "label": [
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": 69,
+          "gimbal": 150
+        },
+        "tgd8fg": {
+          "AGIX": 69,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Pre / Post Announcement- Session 7- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.01.24"
+        ],
+        "label": [
+          "Reporting"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": 86,
+          "gimbal": 200
+        },
+        "tgd8fg": {
+          "AGIX": 86,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Games testing/Preperation-Session 7 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.01.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": 138,
+          "gimbal": 200
+        },
+        "tgd8fg": {
+          "AGIX": 138,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Host gamers guild Session 7th- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.01.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 69,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework Task Management -Session 7- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.01.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 86,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Join the Gamers Guild Session 6 - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "eend5s": {
+          "AGIX": 34,
+          "gimbal": 100
+        },
+        "k6064c": {
+          "AGIX": 34,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Games Winner (3rd Postion)- Session 6 - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.23"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "eend5s": {
+          "AGIX": 34,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Pre / Post Announcement- Session 6- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.23"
+        ],
+        "label": [
+          "Reporting"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": 86,
+          "gimbal": 200
+        },
+        "tgd8fg": {
+          "AGIX": 86,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Planning meeting - Session 6 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.23"
+        ],
+        "label": [
+          "Operations",
+          "Planning"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 69,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Host gamers guild Session 6th- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 69,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework Task Management - Session 6 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 69,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Games testing/Preperation-Session 6 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": 138,
+          "gimbal": 200
+        },
+        "tgd8fg": {
+          "AGIX": 138,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Games Winner (2nd Position)- Session 6 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.23"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "k6064c": {
+          "AGIX": 69,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Mindplex Translation Support - 2023 - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.12.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 172,
+          "gimbal": 500
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian - Against Contractionism: Enabling",
+        "And Encouraging Open Minds, Rather Than Constricting",
+        "Understanding With Blunt Labels - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.12.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3kwket": {
+          "AGIX": 34,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian -TESCREALism.  Has The Silicon Valley",
+        "Ruling Class Gone To Crazy Town? mile Torres In Conversation",
+        "With R.U. Sirius - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.12.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3kwket": {
+          "AGIX": 86,
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian - Checkmate Continuum: The Evolution",
+        "Of AI Chess Engines - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.12.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3kwket": {
+          "AGIX": 34,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitating Continuous onboarding-16.12.2023- 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.12.23"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tlttpn": {
+          "AGIX": 34,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Engagement - 01-21.12.2023-  150 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.12.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 517,
+          "gimbal": 500
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Translator - Italian & Portuguese"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translation Workgroup Activities - December 2023 - 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.23"
+        ],
+        "label": [
+          "Documenting",
+          "Reporting"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 207,
+          "gimbal": 600
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "nggwcw": {
+          "AGIX": 52,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Translator - French & Spanish"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Translator - Russian"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.12.23"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian- SingularityNET Operations Q3+ 2023",
+        "Update- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.12.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cj3a3y": {
+          "AGIX": 86,
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese - SingularityNET Operations Q3+",
+        "2023 Update- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.12.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tlttpn": {
+          "AGIX": 86,
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French - SingularityNET Operations Q3+ 2023",
+        "Update- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.12.23"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "nggwcw": {
+          "AGIX": 86,
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video: Mindplex Meets Mastodon - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.12.23"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tlttpn": {
+          "AGIX": 172,
+          "gimbal": 500
+        }
+      }
+    },
+    {
+      "name": [
+        "Town hall summary edit #79 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.23"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": 103,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (2.1.24) - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.01.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fup7a9": {
+          "AGIX": 345,
+          "gimbal": 1000
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (19.12.23) - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.12.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fup7a9": {
+          "AGIX": 345,
+          "gimbal": 1000
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation December 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 69,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Workshops or Events December 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 52,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Updating Knowledge Base WG Proposal"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 69,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Created new Miro Board for Knowledge Base WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation",
+          "Operations"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 69,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Process Guild  December 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 34,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Process Guild Workshops or Events December 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.23"
+        ],
+        "label": [
+          "Operations",
+          "Planning"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 34,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Format Items Resource Links Miro Board Window"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 121,
+          "gimbal": 175
+        }
+      }
+    },
+    {
+      "name": [
+        "Collecting Ambassador Data and Resources Links"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.12.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 310,
+          "gimbal": 450
+        }
+      }
+    }
+  ]
+}
