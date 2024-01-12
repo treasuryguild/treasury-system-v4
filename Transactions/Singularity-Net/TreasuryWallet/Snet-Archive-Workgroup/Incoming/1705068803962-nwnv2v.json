@@ -1,0 +1,35 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.00 USD in 2.00 GMBL",
+    "5538.19 USD in 18158.00 AGIX",
+    "0.79 USD in 1.35765 ADA",
+    "Transaction made by Treasury Guild @0.583",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e845ebfa5fe4a728d00adbb208d9b45617ac07de99de5efb26d1d4dd1d28c4e9",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from nwnv2v"
+      ],
+      "taskCreator": [
+        "Snet Archive Workgroup"
+      ],
+      "contributors": {
+        "nwnv2v": {
+          "ADA": 1.14215,
+          "rAGIX": 1
+        }
+      }
+    }
+  ]
+}
