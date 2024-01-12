@@ -1,0 +1,129 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 6",
+    "298.629 USD in 979.11 AGIX",
+    "Transaction made by Treasury Guild @0.583",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "c15b1d5ea7a41d945153f42baaac00541f24c64cf8d88774732c9e6fd051b96c",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Testing workgroup meeting summary templates for",
+        "Gamers Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.01.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": "163.185"
+        }
+      }
+    },
+    {
+      "name": [
+        "Testing workgroup meeting summary templates for",
+        "Onboarding WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.01.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": "81.593"
+        },
+        "tlttpn": {
+          "AGIX": "81.593"
+        }
+      }
+    },
+    {
+      "name": [
+        "Testing workgroup meeting summary templates for",
+        "Process Guild Treasury Guild and several others"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.01.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "163.185"
+        }
+      }
+    },
+    {
+      "name": [
+        "Testing workgroup meeting summary templates for",
+        "Marketing WG and Video WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.01.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "q5xpal": {
+          "AGIX": "163.185"
+        }
+      }
+    },
+    {
+      "name": [
+        "Chasing and collecting feedback from workgroup",
+        "meeting summary template testers"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.01.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "tlttpn": {
+          "AGIX": "326.371"
+        }
+      }
+    }
+  ]
+}
