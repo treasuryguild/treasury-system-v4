@@ -1,0 +1,38 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "26.700 USD in 50.00 ADA",
+    "Transaction made by Treasury Guild @0.534",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "369d42de45d1b2cd69ec54e437b89ee6eb5423d1590270b13c3c5f3decd3ff7d",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending 50 ADA for TX fees to DF Rewiev Circle",
+        "wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.01.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "g639rv": {
+          "ADA": "50"
+        }
+      }
+    }
+  ]
+}
