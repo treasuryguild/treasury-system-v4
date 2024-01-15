@@ -1,0 +1,33 @@
+{
+  "msg": [
+    "DF Review Circle Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "4331.23 USD in 15039.00 AGIX",
+    "0.72 USD in 1.344798 ADA",
+    "Transaction made by Treasury Guild @0.534",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "369d42de45d1b2cd69ec54e437b89ee6eb5423d1590270b13c3c5f3decd3ff7d",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Swarm Treasury Wallet"
+      ],
+      "taskCreator": [
+        "DF Review Circle"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 50
+        }
+      }
+    }
+  ]
+}
