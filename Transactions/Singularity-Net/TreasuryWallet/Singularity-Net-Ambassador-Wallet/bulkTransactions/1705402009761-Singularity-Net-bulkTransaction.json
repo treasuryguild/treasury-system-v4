@@ -1,0 +1,768 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 22",
+    "0 USD in 39 GMBL",
+    "2453.3304 USD in 8460 AGIX",
+    "0 USD in 8400 MINS",
+    "Transaction made by Treasury Guild @0.537",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e2eb8fdf3dba41ff82b34db9599b85a79deb0b3888802b68310618fb0c7ecbe5",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.01.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 84,
+          "gimbal": 0
+        }
+      }
+    },
+    {
+      "name": [
+        "SingularityNET Ambassador program [Archive Workgroup]",
+        "September 2023 Fund Request of $1650"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.23"
+        ],
+        "label": [
+          "Reporting"
+        ],
+        "subGroup": [
+          "archival workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "AGIX": 5690,
+          "gimbal": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (16.1.24) - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.01.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fup7a9": {
+          "AGIX": 345,
+          "gimbal": 1,
+          "Minutes": 1000
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 2) -180USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.01.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 621,
+          "gimbal": 1,
+          "Minutes": 2100
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Towards a Thrivable Civilization: Anneloes",
+        "Smitsman's Vision for Sustainable Evolution - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.01.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 345,
+          "gimbal": 1,
+          "Minutes": 700
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st Place (12.1.24) - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.01.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9ynvfa": {
+          "AGIX": 69,
+          "gimbal": 1,
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 3rd Place (12.1.24) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.01.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "nggwcw": {
+          "AGIX": 34,
+          "gimbal": 1,
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd Place (12.1.24) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.01.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "m69qq5": {
+          "AGIX": 34,
+          "gimbal": 1,
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 3rd Place (22.12.23) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.12.23"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fup7a9": {
+          "AGIX": 34,
+          "gimbal": 1,
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd Place (22.12.23) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.12.23"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 34,
+          "gimbal": 1,
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st Place (22.12.23) - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.12.23"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 69,
+          "gimbal": 1,
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 3rd Place (15.12.23) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.12.23"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tlttpn": {
+          "AGIX": 34,
+          "gimbal": 1,
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd Place (15.12.23) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.12.23"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 34,
+          "gimbal": 1,
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st Place (15.12.23) - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.12.23"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 69,
+          "gimbal": 1,
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: The Transformative Role of AI in Consumer Electronics",
+        "- 40USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.01.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 138,
+          "gimbal": 1,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: The Future of Remote Work: Empowering Collaboration",
+        "with SingularityNET's AI Tools Introduction - 40USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.01.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fup7a9": {
+          "AGIX": 138,
+          "gimbal": 1,
+          "Minutes": 350
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Real Estate Potential with Artificial Intelligence",
+        "- 30USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.01.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 103,
+          "gimbal": 1,
+          "Minutes": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summary -Session 7 -10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.01.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "d3jfmz": {
+          "AGIX": 34,
+          "gimbal": 1,
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Notes & Summary",
+        "-11.01.2024- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.01.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 69,
+          "gimbal": 1,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Facilitation 11.01.2024 - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.01.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 52,
+          "gimbal": 1,
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting  11.01.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.01.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 1,
+          "Minutes": 100
+        },
+        "9klqvn": {
+          "gimbal": 1,
+          "Minutes": 100
+        },
+        "hmt2e5": {
+          "gimbal": 1,
+          "Minutes": 100
+        },
+        "tgd8fg": {
+          "gimbal": 1,
+          "Minutes": 100
+        },
+        "tlttpn": {
+          "gimbal": 1,
+          "Minutes": 100
+        },
+        "uwtdjm": {
+          "gimbal": 1,
+          "Minutes": 100
+        },
+        "xl6z2n": {
+          "gimbal": 1,
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a clip - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.01.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 69,
+          "gimbal": 1,
+          "Minutes": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 11.01.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.01.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 1,
+          "Minutes": 150
+        },
+        "jnaxjp": {
+          "AGIX": 52,
+          "gimbal": 1,
+          "Minutes": 150
+        },
+        "lrs3kj": {
+          "gimbal": 1,
+          "Minutes": 150
+        },
+        "pgqg9n": {
+          "gimbal": 1,
+          "Minutes": 150
+        },
+        "rcgctj": {
+          "AGIX": 52,
+          "gimbal": 1,
+          "Minutes": 150
+        },
+        "vpyqlf": {
+          "gimbal": 1,
+          "Minutes": 150
+        },
+        "xl6z2n": {
+          "gimbal": 1,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Updating Knowledge Base WG Proposal"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.01.24"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 34,
+          "gimbal": 1,
+          "Minutes": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Async Onboarding"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.01.24"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 17,
+          "gimbal": 1,
+          "Minutes": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Knowledge Base WG 10.01.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.01.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 103,
+          "gimbal": 1,
+          "Minutes": 150
+        },
+        "rcgctj": {
+          "AGIX": 103,
+          "gimbal": 1,
+          "Minutes": 150
+        },
+        "xl6z2n": {
+          "gimbal": 1,
+          "Minutes": 150
+        }
+      }
+    }
+  ]
+}
