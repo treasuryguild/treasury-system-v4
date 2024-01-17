@@ -1,0 +1,256 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 6",
+    "0 USD in 3375 GMBL",
+    "782,81 USD in 1477 ADA",
+    "Transaction made by Treasury Guild @0.531",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "acd746caa491285c4145e72add50a8b1f58f04bbbe29ac7d96c33ac23409c6bf",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Weekly Treasury Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Meeting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 150
+        },
+        "jnaxjp": {
+          "gimbal": 150
+        },
+        "rcgctj": {
+          "gimbal": 150
+        },
+        "u7ywg4": {
+          "gimbal": 300
+        },
+        "xl6z2n": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools January 2024 Zoom, Twitter, Meetup and Adobe",
+        "186 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ada": 351,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools January 2024 Excel and Miroboard 111 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 209,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools January 2024 GitBook 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ada": 38,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools Fluid 7 INVs 10163 10177 10198 10215 10237 10250",
+        "10284 10531 10538 10542 10543 10555 10564 - 238 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.01.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "0345mg": {
+          "ada": 449,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools Fluid 7 INVs 9838 9920 9961 10084 10091 10107 10092",
+        "10108 10129 10143 - 228 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.01.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "0345mg": {
+          "ada": 430,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury Manager Updates - December"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Tool Development",
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 375
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - December 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.23"
+        ],
+        "label": [
+          "Tool Development",
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 1400
+        }
+      }
+    },
+    {
+      "name": [
+        "Community Support Q4"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.01.24"
+        ],
+        "label": [
+          "Operations",
+          "Community"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "gimbal": 200
+        }
+      }
+    }
+  ]
+}
