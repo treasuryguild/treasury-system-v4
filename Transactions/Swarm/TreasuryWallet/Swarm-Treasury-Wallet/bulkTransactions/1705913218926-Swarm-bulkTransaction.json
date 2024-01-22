@@ -1,0 +1,43 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 3",
+    "2095.548 USD in 4242.00 ADA",
+    "Transaction made by Treasury Guild @0.494",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "9d4ba2791d4edfd969fd36db281b536d6d89e396d9ff361e08c33ec15a9ea888",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "DFA reward advancement"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.01.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ADA": "1414"
+        },
+        "7zxn7j": {
+          "ADA": "1414"
+        },
+        "zzvr9k": {
+          "ADA": "1414"
+        }
+      }
+    }
+  ]
+}
