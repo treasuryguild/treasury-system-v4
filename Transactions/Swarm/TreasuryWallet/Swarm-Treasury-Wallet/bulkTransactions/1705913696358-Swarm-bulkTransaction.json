@@ -1,0 +1,38 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.000 USD in 1.00 RBOOK",
+    "Transaction made by Treasury Guild @0.491",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "8919b2e027e8b7e0596b675cd33bf847c397f872b8add39fe4e4e0afc6ba936d",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending fake scam token RBook 1 to the pool for",
+        "scam tokens"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.01.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "6dy5r4": {
+          "RBOOK": "1"
+        }
+      }
+    }
+  ]
+}
