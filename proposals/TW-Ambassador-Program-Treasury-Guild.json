@@ -1,0 +1,18 @@
+{
+  "project": "Singularity Net",
+  "proposal": "Ambassador Program Treasury Guild",
+  "fund": "TreasuryWallet",
+  "budget": "50000",
+  "budgetItems": {
+    "Incoming": "50000",
+    "Other": "10",
+    "bulkTransactions": "50000",
+    "Swap": "5000",
+    "Bounty": "20000",
+    "Contributors": "20000",
+    "Fixed-Costs": "5000"
+  },
+  "website": "",
+  "wallet": "addr1qxlrgcpjj4czews5u3m2ug4cv6r9hvgvs6kx9uvv80aqs52df3g20kgsckpmrmfemaf4py7yf7dcrj3sg3cpdps8260s8evnfn",
+  "description": "Ambassador Program reserves"
+}
