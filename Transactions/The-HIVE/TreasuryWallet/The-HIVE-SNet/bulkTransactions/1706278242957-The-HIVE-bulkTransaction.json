@@ -1,0 +1,36 @@
+{
+  "msg": [
+    "The HIVE SNet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.481",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "f6ebb524dfc7ac08c0a4add7f0483f38f24e48abf3c136aa80f37bb08408d10c",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending scam tokens to pool for scam tokens"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.01.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "The HIVE"
+      ],
+      "contributors": {
+        "6dy5r4": {
+          "AgixRewardToken": "3200"
+        }
+      }
+    }
+  ]
+}
