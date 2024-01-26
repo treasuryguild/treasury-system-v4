@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.000 USD in 1.00 rAGIX",
+    "Transaction made by Treasury Guild @0.483",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "10cfe6463750a1f11ce2c7d949b93fc881a4172b321bec3a81691232a70621a2",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending scam token to the pool for scam tokens"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.01.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "6dy5r4": {
+          "rAGIX": "1"
+        }
+      }
+    }
+  ]
+}
