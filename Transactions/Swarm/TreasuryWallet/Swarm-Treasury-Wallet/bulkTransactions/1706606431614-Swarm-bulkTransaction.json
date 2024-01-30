@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.000 USD in 40000.00 ABOOK",
+    "Transaction made by Treasury Guild @0.529",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "54797c425330c8da34aa072e8cd4e1ec357cde9c8262396fe92ebb3b3fc9c8ae",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending scam tokens to the pool for shity tokens"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.01.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "6dy5r4": {
+          "ABOOK": "40000"
+        }
+      }
+    }
+  ]
+}
