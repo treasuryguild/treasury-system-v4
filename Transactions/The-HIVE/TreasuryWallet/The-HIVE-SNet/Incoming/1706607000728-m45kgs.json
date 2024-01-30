@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "The HIVE SNet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.528",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "95b1d48fc160987a993db808ba2e568505fe7743360d0f3c8c1005ca56948d0a",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Swarm Treasury Wallet"
+      ],
+      "taskCreator": [
+        "The HIVE SNet"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 1.18094,
+          "GMBL": 8000
+        }
+      }
+    }
+  ]
+}
