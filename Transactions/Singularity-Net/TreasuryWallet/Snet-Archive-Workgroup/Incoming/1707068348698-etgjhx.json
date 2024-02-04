@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.503",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "210ce96ea71967f4c084d9e4f13213afef9ed88744fa5726dbefe9b9e5b1a9b5",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming scam token from etgjhx"
+      ],
+      "taskCreator": [
+        "Snet Archive Workgroup"
+      ],
+      "contributors": {
+        "etgjhx": {
+          "ADA": 1.14646,
+          "TMINv2": 1
+        }
+      }
+    }
+  ]
+}
