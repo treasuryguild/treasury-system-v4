@@ -1,0 +1,36 @@
+{
+  "msg": [
+    "Singularity Net Ambassador Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.503",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "b6c5055edeebb13d8860a0de2ba135ff29558c3304bc19697df88dc7dc1283b1",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending scam token to the pool for shity tokens"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.02.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "6dy5r4": {
+          "TMINv2": "1"
+        }
+      }
+    }
+  ]
+}
