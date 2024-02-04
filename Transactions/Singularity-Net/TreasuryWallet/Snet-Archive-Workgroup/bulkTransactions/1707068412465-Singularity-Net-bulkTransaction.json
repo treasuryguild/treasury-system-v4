@@ -1,0 +1,36 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.503",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "0a0feb336dcc0d68d477dbe9ea877b78fa84aebcb084f094a646d7ace08c4ca5",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending scam token to the pool for shity tokens"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.02.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "6dy5r4": {
+          "TMINv2": "1"
+        }
+      }
+    }
+  ]
+}
