@@ -1,0 +1,62 @@
+{
+  "msg": [
+    "DF Review Circle Transaction",
+    "Website: ",
+    "Recipients: 9",
+    "4039.557 USD in 14478.70 AGIX",
+    "Transaction made by Treasury Guild @0.503",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "3b7a0360692763f79f98e5cf16b5f332a04a66d153bf21b734e7849140e958c8",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending monthly rewards for team members exchange",
+        "rate for AGIX 0.264"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "6ltyl2": {
+          "AGIX": " 856 "
+        },
+        "9klqvn": {
+          "AGIX": "1306.8 "
+        },
+        "f4k9la": {
+          "AGIX": "568.1"
+        },
+        "fup7a9": {
+          "AGIX": "1003.7"
+        },
+        "nggwcw": {
+          "AGIX": "1482.9"
+        },
+        "pgqg9n": {
+          "AGIX": "577.6 "
+        },
+        "vpyqlf": {
+          "AGIX": "5132.5 "
+        },
+        "ysasfl": {
+          "AGIX": "3153.4"
+        },
+        "ywlry9": {
+          "AGIX": "397.7"
+        }
+      }
+    }
+  ]
+}
