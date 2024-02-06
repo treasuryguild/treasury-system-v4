@@ -1,0 +1,211 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 13",
+    "Transaction made by Treasury Guild @0.493",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e8c3ced848ea6ef5dac9a023b4f84f9fd78a505504f165a2e76c0768b186d6d0",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Fund 11 Governance Proposals Event"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.02.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "community engagement"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "Minutes": 120
+        },
+        "7lnpzs": {
+          "Minutes": 120
+        },
+        "87kul9": {
+          "Minutes": 120
+        },
+        "feey0r": {
+          "Minutes": 120
+        },
+        "kknqcv": {
+          "Minutes": 120
+        },
+        "lq9wke": {
+          "Minutes": 120
+        },
+        "mg3a4k": {
+          "Minutes": 120
+        },
+        "r2c0k8": {
+          "Minutes": 120
+        },
+        "rcgctj": {
+          "Minutes": 120
+        },
+        "uswj7w": {
+          "Minutes": 120
+        },
+        "vuw9wz": {
+          "Minutes": 120
+        },
+        "yk7a0a": {
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "05.02.24 Governance Guild Meeting"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "55smty": {
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "mg3a4k": {
+          "Minutes": 60
+        },
+        "rcgctj": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "29.01.24 Governance Guild Meeting"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.01.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "mg3a4k": {
+          "Minutes": 60
+        },
+        "rcgctj": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "22.01.24 Governance Guild Meeting"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.01.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "Minutes": 60
+        },
+        "55smty": {
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "mg3a4k": {
+          "Minutes": 60
+        },
+        "rcgctj": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "15.01.24 Governance Guild Meeting"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.01.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "internal operations"
+        ]
+      },
+      "taskCreator": [
+        "governance guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "Minutes": 60
+        },
+        "55smty": {
+          "Minutes": 60
+        },
+        "mg3a4k": {
+          "Minutes": 60
+        },
+        "rcgctj": {
+          "Minutes": 60
+        }
+      }
+    }
+  ]
+}
