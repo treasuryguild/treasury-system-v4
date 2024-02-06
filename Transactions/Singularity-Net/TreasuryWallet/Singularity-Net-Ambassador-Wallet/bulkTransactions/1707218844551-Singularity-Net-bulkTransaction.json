@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Singularity Net Ambassador Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.493",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "9bfe20727c41487845be549e691e83d33b4df9b5f71e0c33870fb89756d66d16",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending Minutes tokens to GG Wallet for rewarding",
+        "community"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.02.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "t49ftp": {
+          "Minutes": "100000"
+        }
+      }
+    }
+  ]
+}
