@@ -1,0 +1,1085 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 20",
+    "2234.7197 USD in 7706 AGIX",
+    "Transaction made by Treasury Guild @0.492",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "b9fe15c4900c711b9e81232e45c8ec6b21c4da712ae94b1cecf27e9a5ff93fad",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Lesson: Feedback Loop"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 69,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 31.01.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 69,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.02.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 75
+        }
+      }
+    },
+    {
+      "name": [
+        "Coordinating video production - 25.12.2023 - 70 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.12.23"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 241,
+          "Minutes": 210
+        }
+      }
+    },
+    {
+      "name": [
+        "Educational videos: Deep Funding - 140 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.01.24"
+        ],
+        "label": [
+          "Video Editing",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 483,
+          "Minutes": 180
+        },
+        "h2hc92": {
+          "AGIX": 483,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "Game Winner - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.02.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "d3jfmz": {
+          "AGIX": 103,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summary and Post to Archive Portal - Session 9 -",
+        "25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "d3jfmz": {
+          "AGIX": 86,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese - Navigating Plutocracies In",
+        "Decentralized Medicine - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "kmwef5": {
+          "AGIX": 34
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish - Navigating Plutocracies In",
+        "Decentralized Medicine - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 34
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian - Navigating Plutocracies In",
+        "Decentralized Medicine - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3kwket": {
+          "AGIX": 34
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian - For Beneficial General",
+        "Intelligence, Good Intentions Arenat Enough! Three Waves",
+        "Of Complications: Pre-BGI, BGI, And Post-BGI -",
+        "20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3kwket": {
+          "AGIX": 69
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese - For Beneficial General",
+        "Intelligence, Good Intentions Arena Enough! Three Waves Of",
+        "Complications: Pre-BGI, BGI, And Post-BGI - 20",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.02.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "kmwef5": {
+          "AGIX": 69
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish - For Beneficial General",
+        "Intelligence, Good Intentions Arenat Enough! Three Waves",
+        "Of Complications: Pre-BGI, BGI, And Post-BGI -",
+        "20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 69
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish - Cracking The Cipher: Redwood",
+        "Research Exposes LLMsa Hidden Thinking Using Steganography -",
+        "10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 34
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian - Cracking The Cipher: Redwood",
+        "Research Exposes LLMsa Hidden Thinking Using Steganography -",
+        "10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3kwket": {
+          "AGIX": 34
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese - Cracking The Cipher: Redwood",
+        "Research Exposes LLMsa Hidden Thinking Using Steganography -",
+        "10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "mindplex",
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "kmwef5": {
+          "AGIX": 34
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Notes & Summary",
+        "-01.02.2024- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.02.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 86,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting  01.02.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.02.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "f39ntm": {
+          "Minutes": 60
+        },
+        "hmt2e5": {
+          "Minutes": 60
+        },
+        "uwtdjm": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summarizing - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "d3jfmz": {
+          "AGIX": 69,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup - 02.02.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.02.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 60
+        },
+        "d3jfmz": {
+          "Minutes": 60
+        },
+        "fu9paa": {
+          "Minutes": 60
+        },
+        "h2hc92": {
+          "Minutes": 60
+        },
+        "j88zza": {
+          "Minutes": 60
+        },
+        "vpyqlf": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Training and documentation - 185 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.02.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 638,
+          "Minutes": 555
+        }
+      }
+    },
+    {
+      "name": [
+        "Task management - 230 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "d3jfmz": {
+          "AGIX": 793,
+          "Minutes": 690
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summarizing - 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "q5xpal": {
+          "AGIX": 207,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly meeting facilitation - 200 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.02.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 690,
+          "Minutes": 600
+        }
+      }
+    },
+    {
+      "name": [
+        "Town hall summary edit - 120 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "h2hc92": {
+          "AGIX": 414,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "Ambassador Townhall Video Edit - 200 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 690,
+          "Minutes": 600
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st Place (02.2.24) - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.02.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r487s3": {
+          "AGIX": 69,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd Place (02.2.24) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.02.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w64w9p": {
+          "AGIX": 34,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 5) -180USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.02.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 621,
+          "Minutes": 1230
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: SingularityNET Ambassador Program Strategizes Future",
+        "Initiatives and Community Engagement - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.02.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 345,
+          "Minutes": 330
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: BGI Pre-Event Series Kick-off - 50USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.02.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 172,
+          "Minutes": 210
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Atrium x SDAO Fostering DeFi Growth on Cardano -",
+        "30USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 103,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Operator Rewards - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.02.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 345
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations 30.01.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.01.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "Minutes": 180
+        },
+        "f39ntm": {
+          "Minutes": 180
+        },
+        "hmt2e5": {
+          "Minutes": 180
+        },
+        "jnaxjp": {
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "BGI Meeting - Jan 26th 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.01.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "Minutes": 60
+        },
+        "pgqg9n": {
+          "Minutes": 60
+        },
+        "q5xpal": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Call with Hruy + Romi from Mindplex"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.01.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "Minutes": 60
+        },
+        "q5xpal": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in the Ambassador Townhall 30.01.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.01.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "ambassador program"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "f39ntm": {
+          "Minutes": 60
+        },
+        "lrs3kj": {
+          "Minutes": 60
+        },
+        "pgqg9n": {
+          "Minutes": 60
+        },
+        "q5xpal": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Proposal + Budget contribution"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.02.24"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "r&d guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 410,
+          "Minutes": 714
+        }
+      }
+    }
+  ]
+}
