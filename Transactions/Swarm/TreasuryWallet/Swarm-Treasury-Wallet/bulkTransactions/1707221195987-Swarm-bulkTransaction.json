@@ -1,0 +1,436 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 21",
+    "247.94 USD in 506 ADA",
+    "1.16 USD in 4 AGIX",
+    "Transaction made by Treasury Guild @0.493",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "1586d5b0c9a4b3e97e55e54ccf8429e9c6fc36c4950ff65e72876947c11a4152",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Join Saturday Swarm Session - Feb 18 - CIP 1694 - Earn",
+        "200 Gimbal & 2 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.02.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "cc and cardano governance"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "yk7a0a": {
+          "AGIX": 2,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Join Saturday Swarm Session June 24 - Earn 100 GMBL"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.06.23"
+        ],
+        "label": [
+          "Swarm Session"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "yk7a0a": {
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Session - 22.07.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.07.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "yk7a0a": {
+          "AGIX": 2,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.12.23"
+        ],
+        "label": [
+          "Operations",
+          "Meeting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "gimbal": 300
+        },
+        "jnaxjp": {
+          "gimbal": 300
+        },
+        "rcgctj": {
+          "gimbal": 300
+        },
+        "xl6z2n": {
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Treasury Guild 09.01.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.01.23"
+        ],
+        "label": [
+          "Operations",
+          "Meeting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "gimbal": 250
+        },
+        "rcgctj": {
+          "gimbal": 250
+        },
+        "xl6z2n": {
+          "gimbal": 250
+        }
+      }
+    },
+    {
+      "name": [
+        "CIP 1694 Community Discusion - Pluralism Now -",
+        "5.7.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.07.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations"
+        ],
+        "subGroup": [
+          "cc and cardano governance"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "3qz0k2": {
+          "Minutes": 60
+        },
+        "58cnza": {
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "jhyhwp": {
+          "Minutes": 60
+        },
+        "lq9wke": {
+          "Minutes": 60
+        },
+        "mg3a4k": {
+          "Minutes": 60
+        },
+        "p8q4jl": {
+          "Minutes": 60
+        },
+        "r5nvwm": {
+          "Minutes": 60
+        },
+        "s52l54": {
+          "Minutes": 60
+        },
+        "u7ywg4": {
+          "Minutes": 60
+        },
+        "uw6w3e": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Consulting MeshJS for Konma #1 - 100 Usd"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.07.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "mt3al0": {
+          "ada": 204,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Consulting MeshJS for Treasury Guild #1- 50 Usd"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.07.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "mt3al0": {
+          "ada": 102,
+          "Minutes": 30
+        }
+      }
+    },
+    {
+      "name": [
+        "ODIN Meeting - 4.7.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "odin"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "j99kct": {
+          "Minutes": 60
+        },
+        "jhyhwp": {
+          "Minutes": 60
+        },
+        "jl2vjm": {
+          "Minutes": 60
+        },
+        "p8q4jl": {
+          "Minutes": 60
+        },
+        "r83kme": {
+          "Minutes": 60
+        },
+        "rcgctj": {
+          "Minutes": 60
+        },
+        "tgd8fg": {
+          "Minutes": 60
+        },
+        "u7ywg4": {
+          "Minutes": 60
+        },
+        "uw6w3e": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Gimbal tokenomics report"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.02.24"
+        ],
+        "label": [
+          "Reporting",
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 30
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - January 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Documentation",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ada": 50,
+          "Minutes": 1680
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury Manager Updates - January 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Documentation",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 50,
+          "Minutes": 275
+        }
+      }
+    },
+    {
+      "name": [
+        "January Accounting"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ada": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "January Strategic Partnerships"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ada": 50
+        }
+      }
+    }
+  ]
+}
