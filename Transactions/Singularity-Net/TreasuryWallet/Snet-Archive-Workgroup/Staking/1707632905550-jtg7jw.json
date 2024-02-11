@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "150.16 USD in 267.193738 ADA",
+    "Transaction made by Treasury Guild @0.562",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "12679ca922e91f0ae2fab4c8f85eac725249452578ea2b50e1e08f4daec83331",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Staking"
+      ],
+      "description": [
+        "Staking to Pool"
+      ],
+      "taskCreator": [
+        "Snet Archive Workgroup"
+      ],
+      "contributors": {
+        "jtg7jw": {
+          "ADA": 2
+        }
+      }
+    }
+  ]
+}
