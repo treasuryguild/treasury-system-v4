@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "DF Academy Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.590",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "9641a8b04a9cc5db6d813ca16bb061465c74a5958d0d1d21ccb823cece03b4bf",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Internal Transfer"
+      ],
+      "description": [
+        "Internal Transfer"
+      ],
+      "taskCreator": [
+        "DF Academy"
+      ],
+      "contributors": {
+        "w56ppq": {
+          "ADA": 0.181517
+        }
+      }
+    }
+  ]
+}
