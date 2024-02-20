@@ -1,0 +1,33 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.629",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "11ac2af88ffb396bdf9fdbbbb9658df88b4f0e992d3acf13883954dbb32abb8f",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Singularity Net Ambassador Wallet"
+      ],
+      "taskCreator": [
+        "Snet Archive Workgroup"
+      ],
+      "contributors": {
+        "3ynval": {
+          "ADA": 1.35765,
+          "AGIX": 7830,
+          "GMBL": 1
+        }
+      }
+    }
+  ]
+}
