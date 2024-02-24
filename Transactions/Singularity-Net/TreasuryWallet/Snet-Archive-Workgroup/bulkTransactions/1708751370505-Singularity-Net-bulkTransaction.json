@@ -1,0 +1,45 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 3",
+    "3799.159 USD in 6539.00 ADA",
+    "23511.208 USD in 32564.00 AGIX",
+    "Transaction made by Treasury Guild @0.581",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "7a6de6d81077222d0e044aebdcfa30ace5586336b1c33ce65775deb1505c28e6",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Q2 to Q4 2023 rewards for contributions"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.02.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "12439"
+        },
+        "7zxn7j": {
+          "AGIX": "8316"
+        },
+        "mg3a4k": {
+          "ADA": "6539",
+          "AGIX": "11809"
+        }
+      }
+    }
+  ]
+}
