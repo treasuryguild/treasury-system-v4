@@ -1,0 +1,34 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.00 USD in 833.33 BOOK",
+    "0.69 USD in 1.15508 ADA",
+    "Transaction made by Treasury Guild @0.596",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "63eff1720175a50948462c4083d4404e038a557f2961a2dbd67712e2f8c3b547",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming scam tokens from ju39xr"
+      ],
+      "taskCreator": [
+        "Swarm Treasury Wallet"
+      ],
+      "contributors": {
+        "ju39xr": {
+          "ADA": 1.15077,
+          "AAGIX": 3200
+        }
+      }
+    }
+  ]
+}
