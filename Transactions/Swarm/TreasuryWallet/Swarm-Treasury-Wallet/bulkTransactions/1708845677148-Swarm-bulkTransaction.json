@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "0.000 USD in 3200.00 AAGIX",
+    "Transaction made by Treasury Guild @0.596",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "d18d109cbddd2192c781b475dbbf1d04c0d1b3f76dba6953c0edc8ca14ad4206",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending scam tokens to shitty tokens pool"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.02.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "6dy5r4": {
+          "AAGIX": "3200"
+        }
+      }
+    }
+  ]
+}
