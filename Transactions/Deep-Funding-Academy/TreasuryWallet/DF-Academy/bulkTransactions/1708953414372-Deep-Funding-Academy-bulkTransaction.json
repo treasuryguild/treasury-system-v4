@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "DF Academy Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.000 USD in 3200.00 AAGIX",
+    "Transaction made by Treasury Guild @0.585",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "aff33f1fb9cb25383041cfe1af2943005a0be9c0762d7744ebcc584a90d4613a",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending scam tokens to shitty pool "
+      ],
+      "arrayMap": {
+        "date": [
+          "26.02.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Deep Funding Academy"
+      ],
+      "contributors": {
+        "6dy5r4": {
+          "AAGIX": "3200"
+        }
+      }
+    }
+  ]
+}
