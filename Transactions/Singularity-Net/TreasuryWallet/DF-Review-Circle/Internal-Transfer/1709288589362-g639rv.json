@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "DF Review Circle Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.678",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "fe06b5ffbaf6c6fcf02a1124d8e04ee2d34b32cc658fce0250ecb589494c6d6d",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Internal Transfer"
+      ],
+      "description": [
+        "Internal Transfer"
+      ],
+      "taskCreator": [
+        "DF Review Circle"
+      ],
+      "contributors": {
+        "g639rv": {
+          "ADA": 0.170517
+        }
+      }
+    }
+  ]
+}
