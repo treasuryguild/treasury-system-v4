@@ -1,0 +1,59 @@
+{
+  "msg": [
+    "DF Academy Transaction",
+    "Website: ",
+    "Recipients: 8",
+    "2837.856 USD in 3296.00 AGIX",
+    "Transaction made by Treasury Guild @0.760",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "7108fa8add18bd07210e85f67d0f00f85697e893644e7560ddb306900655daac",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Rewards to DF Contributors for their work in",
+        "December  2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Deep Funding Academy"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "AGIX": "412"
+        },
+        "7zxn7j": {
+          "AGIX": "412"
+        },
+        "aczfqe": {
+          "AGIX": "412"
+        },
+        "e63jl6": {
+          "AGIX": "412"
+        },
+        "lq9wke": {
+          "AGIX": "412"
+        },
+        "nhxlra": {
+          "AGIX": "412"
+        },
+        "rauu23": {
+          "AGIX": "412"
+        },
+        "zzvr9k": {
+          "AGIX": "412"
+        }
+      }
+    }
+  ]
+}
