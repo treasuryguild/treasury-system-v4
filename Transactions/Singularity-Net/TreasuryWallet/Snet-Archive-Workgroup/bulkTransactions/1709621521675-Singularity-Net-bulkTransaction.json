@@ -1,0 +1,43 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 2",
+    "384.997 USD in 437.00 AGIX",
+    "Transaction made by Treasury Guild @0.769",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "dcbaf7575bfe9adae355afbad9fe96d242943b02522268c28a68245819e60455",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Bounty for chasing up missing meeting summaries,",
+        "Create CSV export for monthly issues for Fund",
+        "Requests 2023, Archive of Ambassador Budget Policy ",
+        "2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "r658c7": {
+          "AGIX": "85"
+        },
+        "rcgctj": {
+          "AGIX": "352"
+        }
+      }
+    }
+  ]
+}
