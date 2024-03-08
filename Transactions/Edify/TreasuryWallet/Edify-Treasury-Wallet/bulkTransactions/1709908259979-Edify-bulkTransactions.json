@@ -1,0 +1,33 @@
+{
+  "msg": [
+    "Edify Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.00 USD in 30.00 AGIX",
+    "2.78 USD in 3.793841 ADA",
+    "Transaction made by Treasury Guild @0.734",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "477c766961e3e7a7edbafe7303df214c44ccaa9b2c42b3fd9d03af897cb93f74",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Operations"
+      ],
+      "description": [
+        "Sending 20 ADA for DF 3"
+      ],
+      "taskCreator": [
+        "Edify Treasury Wallet"
+      ],
+      "contributors": {
+        "d9csl3": {
+          "ADA": 20
+        }
+      }
+    }
+  ]
+}
