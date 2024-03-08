@@ -1,0 +1,33 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.14 USD in 0.188733 ADA",
+    "Transaction made by Treasury Guild @0.734",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "3410e0a048f3f14723da34b22b40deea624d80f598ba88957bbee4b11617f94f",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from 6s3z70"
+      ],
+      "taskCreator": [
+        "DF 3"
+      ],
+      "contributors": {
+        "6s3z70": {
+          "ADA": 3.793841,
+          "AGIX": 30
+        }
+      }
+    }
+  ]
+}
