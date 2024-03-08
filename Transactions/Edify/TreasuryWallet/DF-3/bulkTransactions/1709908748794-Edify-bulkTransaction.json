@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "14.720 USD in 20.00 ADA",
+    "Transaction made by Treasury Guild @0.736",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "a756618e5ffec1a9867a8c37d4e8819633cdf7c8f58101dcf2273b315b500fa3",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending back 20 ADA to Edify new wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "7ns5p4": {
+          "ADA": "20"
+        }
+      }
+    }
+  ]
+}
