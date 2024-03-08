@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.732",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "477c766961e3e7a7edbafe7303df214c44ccaa9b2c42b3fd9d03af897cb93f74",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Edify Treasury Wallet"
+      ],
+      "taskCreator": [
+        "DF 3"
+      ],
+      "contributors": {
+        "7ns5p4": {
+          "ADA": 20
+        }
+      }
+    }
+  ]
+}
