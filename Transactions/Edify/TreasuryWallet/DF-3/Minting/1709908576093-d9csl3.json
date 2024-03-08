@@ -1,0 +1,33 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "14.72 USD in 20 ADA",
+    "Transaction made by Treasury Guild @0.736",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "6530a2196d29125df73a101eaf6ec1193f86a34e2f3426c90b11a6c7d460bd8b",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Minting"
+      ],
+      "description": [
+        "Swaping AGIX for ADA"
+      ],
+      "taskCreator": [
+        "DF 3"
+      ],
+      "contributors": {
+        "d9csl3": {
+          "ADA": -0.187149,
+          "AGIX": 10465
+        }
+      }
+    }
+  ]
+}
