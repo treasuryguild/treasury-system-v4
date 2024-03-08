@@ -1,0 +1,18 @@
+{
+  "project": "Edify",
+  "proposal": "DF 3",
+  "fund": "TreasuryWallet",
+  "budget": "50000",
+  "budgetItems": {
+    "Incoming": "50000",
+    "Other": "10",
+    "bulkTransactions": "50000",
+    "Swap": "5000",
+    "Bounty": "20000",
+    "Contributors": "20000",
+    "Fixed-Costs": "5000"
+  },
+  "website": "",
+  "wallet": "addr1q9ag6tel809acmev7cdg3ywgjwsvnedmucqtcc5fuyu6rhnw4tfj7xvwys2ks5wnfz5t6j0cl7d57ujgtewfzytjqvysd9csl3",
+  "description": ""
+}
