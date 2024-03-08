@@ -1,0 +1,33 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "-0.14 USD in -0.187149 ADA",
+    "11720.80 USD in 10465.00 AGIX",
+    "Transaction made by Treasury Guild @0.736",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "79a4fc1726815ad3f8185ff0b873cfc10d71de78d0695530c2b885c7e831a3bb",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming Swaped ADA from rkj6fh"
+      ],
+      "taskCreator": [
+        "DF 3"
+      ],
+      "contributors": {
+        "rkj6fh": {
+          "ADA": 47.350539
+        }
+      }
+    }
+  ]
+}
