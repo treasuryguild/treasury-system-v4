@@ -3,7 +3,7 @@
     "DF 3 Transaction",
     "Website: ",
     "Recipients: 1",
-    "14.72 USD in 20 ADA",
+    "2.94 USD in 4 ADA",
     "Transaction made by Treasury Guild @0.736",
     "https://www.treasuryguild.io/"
   ],
@@ -14,7 +14,7 @@
   "contributions": [
     {
       "label": [
-        "Minting"
+        "Outgoing"
       ],
       "description": [
         "Swaping AGIX for ADA"
@@ -23,9 +23,9 @@
         "DF 3"
       ],
       "contributors": {
-        "d9csl3": {
-          "ADA": -0.187149,
-          "AGIX": 10465
+        "6s3z70": {
+          "ADA": 4,
+          "AGIX": 30
         }
       }
     }
