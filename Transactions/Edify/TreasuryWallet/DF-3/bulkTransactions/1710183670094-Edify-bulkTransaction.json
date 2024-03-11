@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.000 USD in 3200.00 AAGIX",
+    "Transaction made by Treasury Guild @0.773",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "af1dbd6fca52ffe46ace2216881b323b414b877627c2880e8e35704e63623090",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending scam tokens to the scam pool"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "6dy5r4": {
+          "AAGIX": "3200"
+        }
+      }
+    }
+  ]
+}
