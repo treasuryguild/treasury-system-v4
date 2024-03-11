@@ -1,0 +1,36 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.737",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "db6c76718ab0504d4685ca781e4305eb556c1420bffe38bf1f0b42a48656256f",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending tokens to test recording incoming tokens"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "playwallet": "1"
+        }
+      }
+    }
+  ]
+}
