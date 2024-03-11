@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.773",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "a7c5801cc87c8d0c8f6e8898db0c5311ff3c87e9fdc0517a0417f9c1a69a44cd",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming scam tokens from ju39xr"
+      ],
+      "taskCreator": [
+        "DF 3"
+      ],
+      "contributors": {
+        "ju39xr": {
+          "ADA": 1.15077,
+          "AAGIX": 3200
+        }
+      }
+    }
+  ]
+}
