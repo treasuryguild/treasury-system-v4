@@ -1,0 +1,131 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 5",
+    "13015.040 USD in 10496.00 AGIX",
+    "Transaction made by Treasury Guild @0.773",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "1a907393ddc79c390d270e2842206627521dab133d500f0669929534531b0249",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Milestone 1 - Providing time toward meeting around ",
+        "the UI/UX design, UI/UX Mockup, and the AI",
+        "architecture."
+      ],
+      "arrayMap": {
+        "date": [
+          "11.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "lq9wke": {
+          "AGIX": "724"
+        }
+      }
+    },
+    {
+      "name": [
+        "Milestone 1 - Provided content of the website and",
+        "the AI dataset as well as product advisement."
+      ],
+      "arrayMap": {
+        "date": [
+          "11.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "pst9ds": {
+          "AGIX": "1448"
+        }
+      }
+    },
+    {
+      "name": [
+        "Milestone 1 - Providing time toward meeting around ",
+        "the UI/UX design and the AI architecture."
+      ],
+      "arrayMap": {
+        "date": [
+          "11.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "qcpvvg": {
+          "AGIX": "724"
+        }
+      }
+    },
+    {
+      "name": [
+        "Milestone 1 - Provided tooling for managing the",
+        "project, project management time, product manager",
+        "and tech leadership. This will be held by Omni Ark ",
+        "for needed support, resources for paid services,",
+        "and to manage risk management during Milestone 2",
+        "deliverables."
+      ],
+      "arrayMap": {
+        "date": [
+          "11.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "csfzep": {
+          "AGIX": "6600"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury management fees for the life of the",
+        "project"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "AGIX": "1000"
+        }
+      }
+    }
+  ]
+}
