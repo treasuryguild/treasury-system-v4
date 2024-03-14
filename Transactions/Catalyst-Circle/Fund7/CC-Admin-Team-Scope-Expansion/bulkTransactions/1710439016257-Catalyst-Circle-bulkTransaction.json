@@ -1,0 +1,38 @@
+{
+  "msg": [
+    "CC Admin Team Scope Expansion Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/384245",
+    "Recipients: 1",
+    "7998.901 USD in 10622.71 ADA",
+    "Transaction made by Treasury Guild @0.753",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "58896f18cae8af0b055e9d6b0503bb92ff9cd7fda1bd2865a5fed82716b134ee",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending surplus of CC Admin Team Scope Expansion",
+        "to TG tradeing wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Catalyst Circle"
+      ],
+      "contributors": {
+        "ww27xj": {
+          "ADA": "10622.707881"
+        }
+      }
+    }
+  ]
+}
