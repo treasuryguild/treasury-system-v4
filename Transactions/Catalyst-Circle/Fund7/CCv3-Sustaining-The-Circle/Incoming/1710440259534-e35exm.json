@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "CCv3 Sustaining The Circle Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/384250",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.749",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "67c9c20410b167ea7842e9cb85cfb2050377d583866cf9e724a9519296680f69",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Rewards withdraw"
+      ],
+      "taskCreator": [
+        "CCv3 Sustaining The Circle"
+      ],
+      "contributors": {
+        "e35exm": {
+          "ADA": 3173.455279
+        }
+      }
+    }
+  ]
+}
