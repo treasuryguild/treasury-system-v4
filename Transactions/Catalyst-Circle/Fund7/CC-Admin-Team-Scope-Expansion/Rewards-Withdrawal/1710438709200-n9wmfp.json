@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "CC Admin Team Scope Expansion Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/384245",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.753",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e3e7071b8862e89142d86a2054b1d97947dd24911d3e5e98cd8e1cc4d307bd1a",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Rewards Withdrawal"
+      ],
+      "description": [
+        "Rewards Withdrawal"
+      ],
+      "taskCreator": [
+        "CC Admin Team Scope Expansion"
+      ],
+      "contributors": {
+        "n9wmfp": {
+          "ADA": 40.615346
+        }
+      }
+    }
+  ]
+}
