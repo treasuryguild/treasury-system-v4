@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "CC Treasury Management Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/383284",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.747",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "fceb74775e4bcfb3510061b4b20ed37b9acfe11c65c1cf9b5a81d30a6e11e47d",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from ww27xj"
+      ],
+      "taskCreator": [
+        "CC Treasury Management"
+      ],
+      "contributors": {
+        "ww27xj": {
+          "ADA": 5
+        }
+      }
+    }
+  ]
+}
