@@ -1,0 +1,38 @@
+{
+  "msg": [
+    "CC Mentorship Transaction",
+    "Ideascale: https://cardano.ideascale.com/c/idea/385019",
+    "Recipients: 1",
+    "738.01 USD in 1027.863390 ADA",
+    "Transaction made by Treasury Guild @0.718",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "0dbd3fbf212fd162ad02d3c7086fcd78d8bb48c2b26dfb57b4a4b4246454c1ac",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending funds to TG trading wallet while we wait to",
+        "decide where these funds will go."
+      ],
+      "arrayMap": {
+        "date": [
+          "14.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Catalyst Circle"
+      ],
+      "contributors": {
+        "ww27xj": {
+          "ADA": "1027.863390"
+        }
+      }
+    }
+  ]
+}
