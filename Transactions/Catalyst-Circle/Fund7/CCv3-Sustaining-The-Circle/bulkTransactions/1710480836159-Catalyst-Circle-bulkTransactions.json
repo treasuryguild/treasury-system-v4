@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "CCv3 Sustaining The Circle Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/384250",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.713",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "f8f7dd327fb1c166a4afcf10a35e84b3ddf2b88935e34946a332413a3eae9cb0",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Operations"
+      ],
+      "description": [
+        "Sending funds to TG Trading wallet while we wait to decide where these funds will go"
+      ],
+      "taskCreator": [
+        "CCv3 Sustaining The Circle"
+      ],
+      "contributors": {
+        "ww27xj": {
+          "ADA": 3285
+        }
+      }
+    }
+  ]
+}
