@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Catalyst Circle Funding Mechanism Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/403562",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.710",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "90a636f63020392548c6d14b561464bb058c0c139e83adae7efd59b8b3446122",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Operations"
+      ],
+      "description": [
+        "Sending funds to TG Trading wallet while we wait for decision where to send these funds"
+      ],
+      "taskCreator": [
+        "Catalyst Circle Funding Mechanism"
+      ],
+      "contributors": {
+        "ww27xj": {
+          "ADA": 31874
+        }
+      }
+    }
+  ]
+}
