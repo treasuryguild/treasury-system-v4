@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "CC Treasury Management Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/383284",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.718",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "432f61099f163f8c7e30d7abfc02719241e62b8143a27f3ed236686251d04037",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Operations"
+      ],
+      "description": [
+        "Sending surplus funds to TG Trading wallet"
+      ],
+      "taskCreator": [
+        "CC Treasury Management"
+      ],
+      "contributors": {
+        "ww27xj": {
+          "ADA": 7
+        }
+      }
+    }
+  ]
+}
