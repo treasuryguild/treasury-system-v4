@@ -1,22 +1,31 @@
 {
-  "mdVersion": [
-    "1.3"
-  ],
-  "txid": "9d351ebb40eb7d452c62c11c49a33ef93cc723d98596fa94d91db28be84cc296",
   "msg": [
-    "Catalyst-Circle Transaction",
+    "CC Mentorship Transaction",
     "Ideascale: https://cardano.ideascale.com/c/idea/385019",
     "Recipients: 1",
     "28.45 USD in 39.627533 ADA",
     "Transaction made by Treasury Guild @0.718",
     "https://www.treasuryguild.io/"
   ],
+  "txid": "9d351ebb40eb7d452c62c11c49a33ef93cc723d98596fa94d91db28be84cc296",
+  "mdVersion": [
+    "1.8"
+  ],
   "contributions": [
     {
-      "taskCreator": "Catalyst-Circle",
-      "label": "Rewards-Withdrawal",
-      "description": [
+      "name": [
         "Rewards Withdrawal"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Catalyst Circle"
       ],
       "contributors": {
         "g09f40": {
