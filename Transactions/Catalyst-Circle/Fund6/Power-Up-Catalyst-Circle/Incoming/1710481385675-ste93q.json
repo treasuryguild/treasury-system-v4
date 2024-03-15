@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Power Up Catalyst Circle Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/373192",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.710",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e10041bcc9205c490d9922411f861fae245da6024bc3ab42166084d9b4359307",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from ste93q"
+      ],
+      "taskCreator": [
+        "Power Up Catalyst Circle"
+      ],
+      "contributors": {
+        "ste93q": {
+          "ADA": 20701.484223
+        }
+      }
+    }
+  ]
+}
