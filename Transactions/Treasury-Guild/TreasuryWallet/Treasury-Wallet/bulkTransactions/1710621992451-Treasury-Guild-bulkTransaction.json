@@ -1,0 +1,43 @@
+{
+  "msg": [
+    "Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 3",
+    "705.600 USD in 1050.00 ADA",
+    "Transaction made by Treasury Guild @0.672",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "bea25e11f729e892ee9919b56b4bc2645d97fcaf161d05c2ecec8e0460150a66",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Rewards for the team"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.03.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ADA": "350"
+        },
+        "7zxn7j": {
+          "ADA": "350"
+        },
+        "u7ywg4": {
+          "ADA": "350"
+        }
+      }
+    }
+  ]
+}
