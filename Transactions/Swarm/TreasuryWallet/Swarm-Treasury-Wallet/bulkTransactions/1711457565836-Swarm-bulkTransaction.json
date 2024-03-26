@@ -1,0 +1,223 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 5",
+    "1020 USD in 1500 ADA",
+    "Transaction made by Treasury Guild @0.677",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "81dce1977273af8d4f63550ee644514c1e1d22ef4320a6b6c60797b1a8369676",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Swarm Tools 2024-2025 (Excel, Miro, Google Drive)",
+        "- 583 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.03.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 857
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools March 2024 Zoom, Twitter, Meetup and Adobe 186",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.03.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ada": 274
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools March 2024 Excel and Miroboard 111 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.03.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 163
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools March 2024 GitBook 48 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.03.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ada": 71
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools Fluid 7 INVs 10622 10628 10638 10641 - 92 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.03.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "0345mg": {
+          "ada": 135
+        }
+      }
+    },
+    {
+      "name": [
+        "Coordination Call - 19.03.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.03.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "Minutes": 60
+        },
+        "jnaxjp": {
+          "Minutes": 60
+        },
+        "rcgctj": {
+          "Minutes": 60
+        },
+        "u7ywg4": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - February 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.02.24"
+        ],
+        "label": [
+          "Documentation",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "Minutes": 660
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury Manager Updates - February",
+        "2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.02.24"
+        ],
+        "label": [
+          "Documentation",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 180
+        }
+      }
+    }
+  ]
+}
