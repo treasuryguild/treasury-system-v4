@@ -1,0 +1,187 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 9",
+    "985.360 USD in 872.00 AGIX",
+    "Transaction made by Treasury Guild @0.596",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "de8d3272fbbb20cd0e709d82fe6c656c642a6e7e6fea23b92118b84c7dae0f4c",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Bounty for general archives publicity"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.04.24"
+        ],
+        "label": [
+          "Community engagement"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "tlttpn": {
+          "AGIX": "177"
+        }
+      }
+    },
+    {
+      "name": [
+        "Bounty for chasing up missing meeting summaries -",
+        "March 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.04.24"
+        ],
+        "label": [
+          "Archive"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "r658c7": {
+          "AGIX": "66"
+        }
+      }
+    },
+    {
+      "name": [
+        "Bounty for meeting publicity"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.04.24"
+        ],
+        "label": [
+          "Community engagement"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": "53"
+        }
+      }
+    },
+    {
+      "name": [
+        "Bounty for minor updates to Ambassador Gitbook, Q1 ",
+        "2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.04.24"
+        ],
+        "label": [
+          "Ambassadors GitBook"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "133"
+        }
+      }
+    },
+    {
+      "name": [
+        "Bounty to use Archives to create Town Hall updates"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.04.24"
+        ],
+        "label": [
+          "Community engagement"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": "35"
+        },
+        "7lnpzs": {
+          "AGIX": "27"
+        },
+        "gdwa3z": {
+          "AGIX": "18"
+        },
+        "tlttpn": {
+          "AGIX": "18"
+        },
+        "uwtdjm": {
+          "AGIX": "18"
+        },
+        "vcgk9c": {
+          "AGIX": "18"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summary Tool tech support"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.04.24"
+        ],
+        "label": [
+          "Development"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "tlttpn": {
+          "AGIX": "177"
+        }
+      }
+    },
+    {
+      "name": [
+        "Town Hall session on meeting summary tips and",
+        "tricks"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.04.24"
+        ],
+        "label": [
+          "Community engagement"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "44"
+        },
+        "r658c7": {
+          "AGIX": "44"
+        },
+        "tlttpn": {
+          "AGIX": "44"
+        }
+      }
+    }
+  ]
+}
