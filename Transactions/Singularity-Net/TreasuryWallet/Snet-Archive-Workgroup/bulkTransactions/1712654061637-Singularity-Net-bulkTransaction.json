@@ -1,0 +1,38 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "800.310 USD in 721.00 AGIX",
+    "Transaction made by Treasury Guild @0.605",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "65b49d9ef19fdeae96036fec5ddb5753091f42bf9b91877428eb38713a0556f6",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Feb 2024 and March 2024 Tool Development 400usd x",
+        "2"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.04.24"
+        ],
+        "label": [
+          "Tool Development"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "lq9wke": {
+          "AGIX": "721"
+        }
+      }
+    }
+  ]
+}
