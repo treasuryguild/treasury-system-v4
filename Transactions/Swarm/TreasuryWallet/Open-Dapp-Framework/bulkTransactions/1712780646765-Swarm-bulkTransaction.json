@@ -1,0 +1,379 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 6",
+    "947.4 USD in 1579 ADA",
+    "Transaction made by Treasury Guild @0.584",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "fc4427a1d4f347a64d51c0dbee2b58d2581f01d9fe19072aad962f4614d808fb",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Exporting ODF tasks to Treasury System"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.23"
+        ],
+        "label": [
+          "Operations",
+          "M4"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 20,
+          "gimbal": 25
+        }
+      }
+    },
+    {
+      "name": [
+        "Review Session Summary Video and PBL content"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.11.23"
+        ],
+        "label": [
+          "Documentation",
+          "Auditing",
+          "M4"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Prepare ODF Session 4 Miro Board"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.10.23"
+        ],
+        "label": [
+          "Documentation",
+          "M4"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 42,
+          "gimbal": 50
+        }
+      }
+    },
+    {
+      "name": [
+        "Create public message and share summary video"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.11.23"
+        ],
+        "label": [
+          "Documentation",
+          "Community Communication",
+          "Content Creation",
+          "M4"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 83,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Draft Retrospective Session PBL lesson"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.10.23"
+        ],
+        "label": [
+          "Documentation",
+          "M4",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 83,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Prepare and Share Public Message"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.09.23"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination",
+          "M4"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "gimbal": 100
+        },
+        "mg3a4k": {
+          "gimbal": 100
+        },
+        "rcgctj": {
+          "ada": 83,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Draft ODF 4 Scheduling Message"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.09.23"
+        ],
+        "label": [
+          "M4",
+          "Documentation"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 83,
+          "gimbal": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Milestone4 Activity List"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.23"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "M4"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 105,
+          "gimbal": 125
+        }
+      }
+    },
+    {
+      "name": [
+        "Restrospective Sessions Summary Video"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.11.23"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing",
+          "M4",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 125,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Update and Organising Feedback"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.10.23"
+        ],
+        "label": [
+          "Documentation",
+          "M4"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 125,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Retrospective Session"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.23"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "nr4p30": {
+          "ada": 110,
+          "gimbal": 200
+        },
+        "vpyqlf": {
+          "ada": 110,
+          "gimbal": 200
+        },
+        "xl6z2n": {
+          "ada": 110,
+          "gimbal": 200
+        }
+      }
+    },
+    {
+      "name": [
+        "Updated Framework and created templates"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.10.23"
+        ],
+        "label": [
+          "Documentation",
+          "M4",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 250,
+          "gimbal": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Closing Report"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.10.23"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting",
+          "M4"
+        ],
+        "subGroup": [
+          "open dapp framework"
+        ]
+      },
+      "taskCreator": [
+        "catalyst proposal"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "gimbal": 1000
+        },
+        "rcgctj": {
+          "ada": 250,
+          "gimbal": 300
+        }
+      }
+    }
+  ]
+}
