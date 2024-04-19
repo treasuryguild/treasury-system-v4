@@ -1,0 +1,36 @@
+{
+  "msg": [
+    "Singularity Net Ambassador Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.445",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "45ca7b412a6c54c35e365cfa36ccee491e20d8f599080c7f1525b9aaf6df58b1",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending Minutes tokens to the Swarm wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.04.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "Minutes": "1000000"
+        }
+      }
+    }
+  ]
+}
