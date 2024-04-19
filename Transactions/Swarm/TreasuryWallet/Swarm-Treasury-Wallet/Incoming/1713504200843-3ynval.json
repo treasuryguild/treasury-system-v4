@@ -1,0 +1,34 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "-0.09 USD in -0.196345 ADA",
+    "0.00 USD in 1000000.00 Minutes",
+    "Transaction made by Treasury Guild @0.442",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "45ca7b412a6c54c35e365cfa36ccee491e20d8f599080c7f1525b9aaf6df58b1",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming Minutes tokens from Singularity Net Ambassador Wallet"
+      ],
+      "taskCreator": [
+        "Swarm Treasury Wallet"
+      ],
+      "contributors": {
+        "3ynval": {
+          "ADA": 1.16801,
+          "Minutes": 1000000
+        }
+      }
+    }
+  ]
+}
