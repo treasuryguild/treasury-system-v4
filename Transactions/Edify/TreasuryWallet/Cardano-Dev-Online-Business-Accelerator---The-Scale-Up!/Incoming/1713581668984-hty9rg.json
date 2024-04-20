@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Cardano Dev Online Business Accelerator - The Scale Up! Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.48 USD in 1 ADA",
+    "Transaction made by Treasury Guild @0.478",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "1350bba827945a0169c2d242a0862559cbe16c2868da26a810c5d51f298be693",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Test transaction from hty9rg"
+      ],
+      "taskCreator": [
+        "Cardano Dev Online Business Accelerator - The Scale Up!"
+      ],
+      "contributors": {
+        "hty9rg": {
+          "ADA": 1
+        }
+      }
+    }
+  ]
+}
