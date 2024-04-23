@@ -1,0 +1,41 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 2",
+    "105.424 USD in 106.06 AGIX",
+    "Transaction made by Treasury Guild @0.514",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "f500f548960918d88b892cd137ea687ad1ae60c2bc37beba3f4d4d8f48b4b4ad",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "#118 - Bounty for timestamping BGI Challenge",
+        "Weekly Fireside chat"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.04.24"
+        ],
+        "label": [
+          "Timestamping"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "r658c7": {
+          "AGIX": "45.45454545"
+        },
+        "tlttpn": {
+          "AGIX": "60.60606061"
+        }
+      }
+    }
+  ]
+}
