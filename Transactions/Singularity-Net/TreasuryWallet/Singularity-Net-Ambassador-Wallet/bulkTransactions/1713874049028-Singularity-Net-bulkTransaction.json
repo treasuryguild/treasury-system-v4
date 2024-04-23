@@ -1,629 +1,1036 @@
 {
-          "mdVersion": ["1.8"],
-          "txid": "45ca7b412a6c54c35e365cfa36ccee491e20d8f599080c7f1525b9aaf6df58b1",
-          "msg": [
-              "Swarm Treasury System Transaction",
-              "Recipients: 28",
-              "1494.8505 USD in 1510 AGIX",
-              "Transaction made by Treasury Guild ;-)",
-              "https://www.treasuryguild.io/"
-           ],
-          "contributions": [
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Meeting of the Video Workgroup - 19.01.2024"],
-              "contributors": {
-                  "hfdqrl": {
-                      "Minutes": 60
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Operations","Coordination","Community Communication"],
-                  "subGroup": ["video workgroup"],
-                  "date": ["19.01.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["singularitynet contribution handling fee"],
-              "contributors": {
-                  "7xcueh": {
-                      "AGIX": 15
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Operations"],
-                  "subGroup": ["Treasury Guild"],
-                  "date": ["23.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Note taking - GovWG Meeting - 16.4.2024 - 20 USD"],
-              "contributors": {
-                  "7lnpzs": {
-                      "AGIX": 20, 
-                      "GovWG": 100, 
-                      "Minutes": 60
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Operations","Community Communication","Coordination"],
-                  "subGroup": ["governance workgroup"],
-                  "date": ["16.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Host GovWG Meeting -16.4.2024 - 20 USD"],
-              "contributors": {
-                  "xl6z2n": {
-                      "AGIX": 20, 
-                      "GovWG": 100, 
-                      "Minutes": 60
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Facilitating"],
-                  "subGroup": ["governance workgroup"],
-                  "date": ["16.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Make a Game - 20USD"],
-              "contributors": {
-                  "6lcdjr": {
-                      "AGIX": 20, 
-                      "Minutes": 60
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Tool development"],
-                  "subGroup": ["gamers guild"],
-                  "date": ["23.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Dework Task Management - Session#15 - 30 USD"],
-              "contributors": {
-                  "tgd8fg": {
-                      "AGIX": 30, 
-                      "Minutes": 120
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Operations"],
-                  "subGroup": ["gamers guild"],
-                  "date": ["22.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Prepare/Manage - 80 USD"],
-              "contributors": {
-                  "tgd8fg": {
-                      "AGIX": 81, 
-                      "Minutes": 390
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Documentation","Operations","Coordination"],
-                  "subGroup": ["gamers guild"],
-                  "date": ["22.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Host Gamers Guild Session #15- 30 USD"],
-              "contributors": {
-                  "tgd8fg": {
-                      "AGIX": 30, 
-                      "Minutes": 90
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Facilitating"],
-                  "subGroup": ["gamers guild"],
-                  "date": ["21.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Game Winner - 30 USD"],
-              "contributors": {
-                  "hfdqrl": {
-                      "AGIX": 30, 
-                      "Minutes": 60
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Social"],
-                  "subGroup": ["gamers guild"],
-                  "date": ["21.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Meeting Summarizing- 30 USD"],
-              "contributors": {
-                  "65snfx": {
-                      "AGIX": 30, 
-                      "Minutes": 60
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Documentation","Coordination","Reporting"],
-                  "subGroup": ["gamers guild"],
-                  "date": ["23.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Information Collection/Presentation- Video WG - 20 USD"],
-              "contributors": {
-                  "6lcdjr": {
-                      "AGIX": 20, 
-                      "Minutes": 120
-                   },
-                  "65snfx": {
-                      "AGIX": 20, 
-                      "Minutes": 120
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Operations","Coordination","Documentation"],
-                  "subGroup": ["gamers guild"],
-                  "date": ["20.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Publicizing Onboarding Treasury session event -","18.04.2024 -20 USD"],
-              "contributors": {
-                  "hmt2e5": {
-                      "AGIX": 20, 
-                      "Minutes": 90
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Community Communication","Operations","Coordination","Onboarding"],
-                  "subGroup": ["onboarding workgroup"],
-                  "date": ["18.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Documenting Onboarding Treasury session - 18.04.2024","-20 USD"],
-              "contributors": {
-                  "7lnpzs": {
-                      "AGIX": 20, 
-                      "Minutes": 90
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Community Communication","Operations","Coordination","Onboarding"],
-                  "subGroup": ["onboarding workgroup"],
-                  "date": ["18.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Facilitating Onboarding Treasury session - 18.04.2024","-20 USD"],
-              "contributors": {
-                  "hmt2e5": {
-                      "AGIX": 20, 
-                      "Minutes": 90
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Facilitating"],
-                  "subGroup": ["onboarding workgroup"],
-                  "date": ["18.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Presenting Onboarding Treasury session - 18.04.2024","-50 USD"],
-              "contributors": {
-                  "jnaxjp": {
-                      "AGIX": 51, 
-                      "Minutes": 90
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Community Communication","Operations","Coordination","Onboarding"],
-                  "subGroup": ["onboarding workgroup"],
-                  "date": ["18.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Onboarding Treasury session with Andre- 18.04.2024"],
-              "contributors": {
-                  "hmt2e5": {
-                      "Minutes": 90
-                   },
-                  "0jx607": {
-                      "Minutes": 90
-                   },
-                  "9klqvn": {
-                      "Minutes": 90
-                   },
-                  "82g73t": {
-                      "Minutes": 90
-                   },
-                  "sh8upr": {
-                      "Minutes": 90
-                   },
-                  "uwtdjm": {
-                      "Minutes": 90
-                   },
-                  "tlttpn": {
-                      "Minutes": 90
-                   },
-                  "cq699s": {
-                      "Minutes": 90
-                   },
-                  "xl6z2n": {
-                      "Minutes": 90
-                   },
-                  "jnaxjp": {
-                      "Minutes": 90
-                   },
-                  "7lnpzs": {
-                      "Minutes": 90
-                   },
-                  "gdwa3z": {
-                      "Minutes": 90
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Community Communication","Operations","Coordination","Onboarding"],
-                  "subGroup": ["onboarding workgroup"],
-                  "date": ["18.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Infographic for Onboarding journey - 20 USD"],
-              "contributors": {
-                  "uwtdjm": {
-                      "AGIX": 20, 
-                      "Minutes": 120
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Community Communication","Content Creation","Designing","Onboarding"],
-                  "subGroup": ["onboarding workgroup"],
-                  "date": ["18.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Presentation on Platforms for ACP - 20 USD"],
-              "contributors": {
-                  "tgd8fg": {
-                      "AGIX": 20, 
-                      "Minutes": 60
-                   },
-                  "6lcdjr": {
-                      "AGIX": 20, 
-                      "Minutes": 60
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Documentation"],
-                  "subGroup": ["education guild"],
-                  "date": ["22.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Hosting And Dework Management - 17/04 - 80 USD"],
-              "contributors": {
-                  "tgd8fg": {
-                      "AGIX": 81, 
-                      "Minutes": 240
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Facilitating"],
-                  "subGroup": ["education guild"],
-                  "date": ["22.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Scribe meeting notes, edit and post - 17.04.24 -","30 USD"],
-              "contributors": {
-                  "tgd8fg": {
-                      "AGIX": 30, 
-                      "Minutes": 120
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Documentation","Coordination","Reporting"],
-                  "subGroup": ["education guild"],
-                  "date": ["17.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Update Core Contributor List"],
-              "contributors": {
-                  "7lnpzs": {
-                      "Minutes": 30
-                   },
-                  "rcgctj": {
-                      "AGIX": 10, 
-                      "Minutes": 30
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Operations","Community Communication","Reporting"],
-                  "subGroup": ["treasury guild"],
-                  "date": ["20.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Participate in Treasury Guild 18.04.2024"],
-              "contributors": {
-                  "gac5up": {
-                      "Minutes": 120
-                   },
-                  "sh8upr": {
-                      "Minutes": 120
-                   },
-                  "rcgctj": {
-                      "AGIX": 40, 
-                      "Minutes": 120
-                   },
-                  "7lnpzs": {
-                      "Minutes": 120
-                   },
-                  "xl6z2n": {
-                      "Minutes": 120
-                   },
-                  "gmr8u9": {
-                      "Minutes": 120
-                   },
-                  "pgqg9n": {
-                      "Minutes": 120
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Community Communication","Operations","Coordination"],
-                  "subGroup": ["treasury guild"],
-                  "date": ["18.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Draft Treasury Guild Proposal Q2 2024"],
-              "contributors": {
-                  "rcgctj": {
-                      "AGIX": 101, 
-                      "Minutes": 300
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Documentation","Content Creation"],
-                  "subGroup": ["treasury guild"],
-                  "date": ["16.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Admin Tasks for Community Engagement Group in Collaboration with","Foundation"],
-              "contributors": {
-                  "xl6z2n": {
-                      "Minutes": 300
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Coordination"],
-                  "subGroup": ["marketing guild"],
-                  "date": ["23.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Setting up Foundation Collaboration - Admin + Management","March 25th -  April 23rd: 180 USD"],
-              "contributors": {
-                  "q5xpal": {
-                      "AGIX": 182, 
-                      "Minutes": 720
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Coordination","Operations"],
-                  "subGroup": ["marketing guild"],
-                  "date": ["25.03.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Set Up Zealy Test - 20 USD"],
-              "contributors": {
-                  "f39ntm": {
-                      "AGIX": 20, 
-                      "Minutes": 120
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Operations"],
-                  "subGroup": ["marketing guild"],
-                  "date": ["23.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Organize Collected Items Asynchronously"],
-              "contributors": {
-                  "rcgctj": {
-                      "AGIX": 20, 
-                      "Minutes": 60
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Auditing","Documentation","Operations"],
-                  "subGroup": ["knowledge base wg"],
-                  "date": ["22.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Participate in Knowledge Base WG 17.04.2024 - 2 AGIX"],
-              "contributors": {
-                  "tlttpn": {
-                      "AGIX": 2, 
-                      "Minutes": 120
-                   },
-                  "gmr8u9": {
-                      "AGIX": 2, 
-                      "Minutes": 120
-                   },
-                  "rcgctj": {
-                      "AGIX": 42, 
-                      "Minutes": 120
-                   },
-                  "jnaxjp": {
-                      "AGIX": 22, 
-                      "Minutes": 120
-                   },
-                  "gac5up": {
-                      "AGIX": 2, 
-                      "Minutes": 120
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Community Communication","Operations","Coordination"],
-                  "subGroup": ["knowledge base wg"],
-                  "date": ["17.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Weekly Management and Activities (Week 15) -180USD"],
-              "contributors": {
-                  "f39ntm": {
-                      "AGIX": 182, 
-                      "Minutes": 1110
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Operations"],
-                  "subGroup": ["writers workgroup"],
-                  "date": ["14.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Twitter Management (23.4.24) - 100USD"],
-              "contributors": {
-                  "fup7a9": {
-                      "AGIX": 101, 
-                      "Minutes": 600
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Operations"],
-                  "subGroup": ["writers workgroup"],
-                  "date": ["23.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Trivia Session: 1st Place (19.4.24) - 10USD"],
-              "contributors": {
-                  "r487s3": {
-                      "AGIX": 10, 
-                      "Minutes": 60
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Social"],
-                  "subGroup": ["writers workgroup"],
-                  "date": ["19.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Trivia Session: 2nd Place (19.4.24) - 10USD"],
-              "contributors": {
-                  "w64w9p": {
-                      "AGIX": 10, 
-                      "Minutes": 60
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Social"],
-                  "subGroup": ["writers workgroup"],
-                  "date": ["19.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Trivia Session: 3rd Place (19.4.24) - 10USD"],
-              "contributors": {
-                  "fup7a9": {
-                      "AGIX": 10, 
-                      "Minutes": 60
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Social"],
-                  "subGroup": ["writers workgroup"],
-                  "date": ["19.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["DRAFT: Inside SingularityNET April - 100USD"],
-              "contributors": {
-                  "f39ntm": {
-                      "AGIX": 101, 
-                      "Minutes": 300
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Content Creation"],
-                  "subGroup": ["writers workgroup"],
-                  "date": ["23.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["Retrospective Zealy Winners: Top 10 Sprinters - 25USD"],
-              "contributors": {
-                  "0cx59r": {
-                      "AGIX": 25, 
-                      "Minutes": 120
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Social"],
-                  "subGroup": ["writers workgroup"],
-                  "date": ["19.04.24"]
-               }
-           },
-           {
-              "taskCreator": ["singularitynet"],
-              "name": ["DRAFT: Those Who Adapt, Survive: Quantity or Quality on","Web 3 Communities - 30USD"],
-              "contributors": {
-                  "rauu23": {
-                      "AGIX": 30, 
-                      "Minutes": 120
-                   }
-               },
-              "arrayMap": {
-                  "label": ["Content Creation"],
-                  "subGroup": ["writers workgroup"],
-                  "date": ["19.04.24"]
-               }
-            }]
+    "msg": [
+        "Swarm Treasury System Transaction",
+        "Recipients: 28",
+        "1494.8505 USD in 1510 AGIX",
+        "Transaction made by Treasury Guild ;-)",
+        "https://www.treasuryguild.io/"
+    ],
+    "txid": "45ca7b412a6c54c35e365cfa36ccee491e20d8f599080c7f1525b9aaf6df58b1",
+    "mdVersion": [
+        "1.8"
+    ],
+    "contributions": [
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Meeting of the Video Workgroup - 19.01.2024"
+            ],
+            "contributors": {
+                "hfdqrl": {
+                    "Minutes": 60
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Operations",
+                    "Coordination",
+                    "Community Communication"
+                ],
+                "subGroup": [
+                    "video workgroup"
+                ],
+                "date": [
+                    "19.01.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "singularitynet contribution handling fee"
+            ],
+            "contributors": {
+                "7xcueh": {
+                    "AGIX": 15
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Operations"
+                ],
+                "subGroup": [
+                    "Treasury Guild"
+                ],
+                "date": [
+                    "23.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Note taking - GovWG Meeting - 16.4.2024 - 20 USD"
+            ],
+            "contributors": {
+                "7lnpzs": {
+                    "AGIX": 20,
+                    "GovWG": 100,
+                    "Minutes": 60
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Operations",
+                    "Community Communication",
+                    "Coordination"
+                ],
+                "subGroup": [
+                    "governance workgroup"
+                ],
+                "date": [
+                    "16.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Host GovWG Meeting -16.4.2024 - 20 USD"
+            ],
+            "contributors": {
+                "xl6z2n": {
+                    "AGIX": 20,
+                    "GovWG": 100,
+                    "Minutes": 60
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Facilitating"
+                ],
+                "subGroup": [
+                    "governance workgroup"
+                ],
+                "date": [
+                    "16.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Make a Game - 20USD"
+            ],
+            "contributors": {
+                "6lcdjr": {
+                    "AGIX": 20,
+                    "Minutes": 60
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Tool development"
+                ],
+                "subGroup": [
+                    "gamers guild"
+                ],
+                "date": [
+                    "23.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Dework Task Management - Session#15 - 30 USD"
+            ],
+            "contributors": {
+                "tgd8fg": {
+                    "AGIX": 30,
+                    "Minutes": 120
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Operations"
+                ],
+                "subGroup": [
+                    "gamers guild"
+                ],
+                "date": [
+                    "22.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Prepare/Manage - 80 USD"
+            ],
+            "contributors": {
+                "tgd8fg": {
+                    "AGIX": 81,
+                    "Minutes": 390
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Documentation",
+                    "Operations",
+                    "Coordination"
+                ],
+                "subGroup": [
+                    "gamers guild"
+                ],
+                "date": [
+                    "22.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Host Gamers Guild Session #15- 30 USD"
+            ],
+            "contributors": {
+                "tgd8fg": {
+                    "AGIX": 30,
+                    "Minutes": 90
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Facilitating"
+                ],
+                "subGroup": [
+                    "gamers guild"
+                ],
+                "date": [
+                    "21.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Game Winner - 30 USD"
+            ],
+            "contributors": {
+                "hfdqrl": {
+                    "AGIX": 30,
+                    "Minutes": 60
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Social"
+                ],
+                "subGroup": [
+                    "gamers guild"
+                ],
+                "date": [
+                    "21.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Meeting Summarizing- 30 USD"
+            ],
+            "contributors": {
+                "65snfx": {
+                    "AGIX": 30,
+                    "Minutes": 60
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Documentation",
+                    "Coordination",
+                    "Reporting"
+                ],
+                "subGroup": [
+                    "gamers guild"
+                ],
+                "date": [
+                    "23.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Information Collection/Presentation- Video WG - 20 USD"
+            ],
+            "contributors": {
+                "6lcdjr": {
+                    "AGIX": 20,
+                    "Minutes": 120
+                },
+                "65snfx": {
+                    "AGIX": 20,
+                    "Minutes": 120
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Operations",
+                    "Coordination",
+                    "Documentation"
+                ],
+                "subGroup": [
+                    "gamers guild"
+                ],
+                "date": [
+                    "20.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Publicizing Onboarding Treasury session event -",
+                "18.04.2024 -20 USD"
+            ],
+            "contributors": {
+                "hmt2e5": {
+                    "AGIX": 20,
+                    "Minutes": 90
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Community Communication",
+                    "Operations",
+                    "Coordination",
+                    "Onboarding"
+                ],
+                "subGroup": [
+                    "onboarding workgroup"
+                ],
+                "date": [
+                    "18.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Documenting Onboarding Treasury session - 18.04.2024",
+                "-20 USD"
+            ],
+            "contributors": {
+                "7lnpzs": {
+                    "AGIX": 20,
+                    "Minutes": 90
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Community Communication",
+                    "Operations",
+                    "Coordination",
+                    "Onboarding"
+                ],
+                "subGroup": [
+                    "onboarding workgroup"
+                ],
+                "date": [
+                    "18.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Facilitating Onboarding Treasury session - 18.04.2024",
+                "-20 USD"
+            ],
+            "contributors": {
+                "hmt2e5": {
+                    "AGIX": 20,
+                    "Minutes": 90
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Facilitating"
+                ],
+                "subGroup": [
+                    "onboarding workgroup"
+                ],
+                "date": [
+                    "18.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Presenting Onboarding Treasury session - 18.04.2024",
+                "-50 USD"
+            ],
+            "contributors": {
+                "jnaxjp": {
+                    "AGIX": 51,
+                    "Minutes": 90
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Community Communication",
+                    "Operations",
+                    "Coordination",
+                    "Onboarding"
+                ],
+                "subGroup": [
+                    "onboarding workgroup"
+                ],
+                "date": [
+                    "18.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Onboarding Treasury session with Andre- 18.04.2024"
+            ],
+            "contributors": {
+                "hmt2e5": {
+                    "Minutes": 90
+                },
+                "0jx607": {
+                    "Minutes": 90
+                },
+                "9klqvn": {
+                    "Minutes": 90
+                },
+                "82g73t": {
+                    "Minutes": 90
+                },
+                "sh8upr": {
+                    "Minutes": 90
+                },
+                "uwtdjm": {
+                    "Minutes": 90
+                },
+                "tlttpn": {
+                    "Minutes": 90
+                },
+                "cq699s": {
+                    "Minutes": 90
+                },
+                "xl6z2n": {
+                    "Minutes": 90
+                },
+                "jnaxjp": {
+                    "Minutes": 90
+                },
+                "7lnpzs": {
+                    "Minutes": 90
+                },
+                "gdwa3z": {
+                    "Minutes": 90
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Community Communication",
+                    "Operations",
+                    "Coordination",
+                    "Onboarding"
+                ],
+                "subGroup": [
+                    "onboarding workgroup"
+                ],
+                "date": [
+                    "18.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Infographic for Onboarding journey - 20 USD"
+            ],
+            "contributors": {
+                "uwtdjm": {
+                    "AGIX": 20,
+                    "Minutes": 120
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Community Communication",
+                    "Content Creation",
+                    "Designing",
+                    "Onboarding"
+                ],
+                "subGroup": [
+                    "onboarding workgroup"
+                ],
+                "date": [
+                    "18.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Presentation on Platforms for ACP - 20 USD"
+            ],
+            "contributors": {
+                "tgd8fg": {
+                    "AGIX": 20,
+                    "Minutes": 60
+                },
+                "6lcdjr": {
+                    "AGIX": 20,
+                    "Minutes": 60
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Documentation"
+                ],
+                "subGroup": [
+                    "education guild"
+                ],
+                "date": [
+                    "22.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Hosting And Dework Management - 17/04 - 80 USD"
+            ],
+            "contributors": {
+                "tgd8fg": {
+                    "AGIX": 81,
+                    "Minutes": 240
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Facilitating"
+                ],
+                "subGroup": [
+                    "education guild"
+                ],
+                "date": [
+                    "22.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Scribe meeting notes, edit and post - 17.04.24 -",
+                "30 USD"
+            ],
+            "contributors": {
+                "tgd8fg": {
+                    "AGIX": 30,
+                    "Minutes": 120
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Documentation",
+                    "Coordination",
+                    "Reporting"
+                ],
+                "subGroup": [
+                    "education guild"
+                ],
+                "date": [
+                    "17.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Update Core Contributor List"
+            ],
+            "contributors": {
+                "7lnpzs": {
+                    "Minutes": 30
+                },
+                "rcgctj": {
+                    "AGIX": 10,
+                    "Minutes": 30
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Operations",
+                    "Community Communication",
+                    "Reporting"
+                ],
+                "subGroup": [
+                    "treasury guild"
+                ],
+                "date": [
+                    "20.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Participate in Treasury Guild 18.04.2024"
+            ],
+            "contributors": {
+                "gac5up": {
+                    "Minutes": 120
+                },
+                "sh8upr": {
+                    "Minutes": 120
+                },
+                "rcgctj": {
+                    "AGIX": 40,
+                    "Minutes": 120
+                },
+                "7lnpzs": {
+                    "Minutes": 120
+                },
+                "xl6z2n": {
+                    "Minutes": 120
+                },
+                "gmr8u9": {
+                    "Minutes": 120
+                },
+                "pgqg9n": {
+                    "Minutes": 120
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Community Communication",
+                    "Operations",
+                    "Coordination"
+                ],
+                "subGroup": [
+                    "treasury guild"
+                ],
+                "date": [
+                    "18.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Draft Treasury Guild Proposal Q2 2024"
+            ],
+            "contributors": {
+                "rcgctj": {
+                    "AGIX": 101,
+                    "Minutes": 300
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Documentation",
+                    "Content Creation"
+                ],
+                "subGroup": [
+                    "treasury guild"
+                ],
+                "date": [
+                    "16.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Admin Tasks for Community Engagement Group in Collaboration with",
+                "Foundation"
+            ],
+            "contributors": {
+                "xl6z2n": {
+                    "Minutes": 300
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Coordination"
+                ],
+                "subGroup": [
+                    "marketing guild"
+                ],
+                "date": [
+                    "23.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Setting up Foundation Collaboration - Admin + Management",
+                "March 25th -  April 23rd: 180 USD"
+            ],
+            "contributors": {
+                "q5xpal": {
+                    "AGIX": 182,
+                    "Minutes": 720
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Coordination",
+                    "Operations"
+                ],
+                "subGroup": [
+                    "marketing guild"
+                ],
+                "date": [
+                    "25.03.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Set Up Zealy Test - 20 USD"
+            ],
+            "contributors": {
+                "f39ntm": {
+                    "AGIX": 20,
+                    "Minutes": 120
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Operations"
+                ],
+                "subGroup": [
+                    "marketing guild"
+                ],
+                "date": [
+                    "23.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Organize Collected Items Asynchronously"
+            ],
+            "contributors": {
+                "rcgctj": {
+                    "AGIX": 20,
+                    "Minutes": 60
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Auditing",
+                    "Documentation",
+                    "Operations"
+                ],
+                "subGroup": [
+                    "knowledge base wg"
+                ],
+                "date": [
+                    "22.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Participate in Knowledge Base WG 17.04.2024 - 2 AGIX"
+            ],
+            "contributors": {
+                "tlttpn": {
+                    "AGIX": 2,
+                    "Minutes": 120
+                },
+                "gmr8u9": {
+                    "AGIX": 2,
+                    "Minutes": 120
+                },
+                "rcgctj": {
+                    "AGIX": 42,
+                    "Minutes": 120
+                },
+                "jnaxjp": {
+                    "AGIX": 22,
+                    "Minutes": 120
+                },
+                "gac5up": {
+                    "AGIX": 2,
+                    "Minutes": 120
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Community Communication",
+                    "Operations",
+                    "Coordination"
+                ],
+                "subGroup": [
+                    "knowledge base wg"
+                ],
+                "date": [
+                    "17.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Weekly Management and Activities (Week 15) -180USD"
+            ],
+            "contributors": {
+                "f39ntm": {
+                    "AGIX": 182,
+                    "Minutes": 1110
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Operations"
+                ],
+                "subGroup": [
+                    "writers workgroup"
+                ],
+                "date": [
+                    "14.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Twitter Management (23.4.24) - 100USD"
+            ],
+            "contributors": {
+                "fup7a9": {
+                    "AGIX": 101,
+                    "Minutes": 600
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Operations"
+                ],
+                "subGroup": [
+                    "writers workgroup"
+                ],
+                "date": [
+                    "23.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Trivia Session: 1st Place (19.4.24) - 10USD"
+            ],
+            "contributors": {
+                "r487s3": {
+                    "AGIX": 10,
+                    "Minutes": 60
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Social"
+                ],
+                "subGroup": [
+                    "writers workgroup"
+                ],
+                "date": [
+                    "19.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Trivia Session: 2nd Place (19.4.24) - 10USD"
+            ],
+            "contributors": {
+                "w64w9p": {
+                    "AGIX": 10,
+                    "Minutes": 60
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Social"
+                ],
+                "subGroup": [
+                    "writers workgroup"
+                ],
+                "date": [
+                    "19.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Trivia Session: 3rd Place (19.4.24) - 10USD"
+            ],
+            "contributors": {
+                "fup7a9": {
+                    "AGIX": 10,
+                    "Minutes": 60
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Social"
+                ],
+                "subGroup": [
+                    "writers workgroup"
+                ],
+                "date": [
+                    "19.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "DRAFT: Inside SingularityNET April - 100USD"
+            ],
+            "contributors": {
+                "f39ntm": {
+                    "AGIX": 101,
+                    "Minutes": 300
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Content Creation"
+                ],
+                "subGroup": [
+                    "writers workgroup"
+                ],
+                "date": [
+                    "23.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "Retrospective Zealy Winners: Top 10 Sprinters - 25USD"
+            ],
+            "contributors": {
+                "0cx59r": {
+                    "AGIX": 25,
+                    "Minutes": 120
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Social"
+                ],
+                "subGroup": [
+                    "writers workgroup"
+                ],
+                "date": [
+                    "19.04.24"
+                ]
+            }
+        },
+        {
+            "taskCreator": [
+                "singularitynet"
+            ],
+            "name": [
+                "DRAFT: Those Who Adapt, Survive: Quantity or Quality on",
+                "Web 3 Communities - 30USD"
+            ],
+            "contributors": {
+                "rauu23": {
+                    "AGIX": 30,
+                    "Minutes": 120
+                }
+            },
+            "arrayMap": {
+                "label": [
+                    "Content Creation"
+                ],
+                "subGroup": [
+                    "writers workgroup"
+                ],
+                "date": [
+                    "19.04.24"
+                ]
+            }
         }
-   }
+    ]
+}
