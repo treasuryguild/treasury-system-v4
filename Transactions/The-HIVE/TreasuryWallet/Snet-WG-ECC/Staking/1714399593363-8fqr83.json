@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Snet WG ECC Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.451",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "a595837e72135ed519408af68eab74dac1d12720210f02513bf1f7fb50943e86",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Staking"
+      ],
+      "description": [
+        "Staking to Pool"
+      ],
+      "taskCreator": [
+        "Snet WG ECC"
+      ],
+      "contributors": {
+        "8fqr83": {
+          "ADA": 2
+        }
+      }
+    }
+  ]
+}
