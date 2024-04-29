@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "DF Community Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.452",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "5be5b1170b8a3a3ab50aee7adb8b0fefdea903d45a21b22f21173bae7f7c3aa9",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Staking"
+      ],
+      "description": [
+        "Staking to Pool"
+      ],
+      "taskCreator": [
+        "DF Community"
+      ],
+      "contributors": {
+        "vsjlcn": {
+          "ADA": 2
+        }
+      }
+    }
+  ]
+}
