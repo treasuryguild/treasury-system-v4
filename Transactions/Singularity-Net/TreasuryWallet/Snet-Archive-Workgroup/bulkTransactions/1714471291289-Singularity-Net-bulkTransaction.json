@@ -1,0 +1,53 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 6",
+    "118.656 USD in 144.00 AGIX",
+    "Transaction made by Treasury Guild @0.441",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "93ff1784a47635e7d3df22850edd105e311987d9f19249e883bd19b0259f5dc6",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "#144 Tag taxonomy project: Attending tag taxonomy",
+        "training"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Community engagement"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": "24"
+        },
+        "9klqvn": {
+          "AGIX": "24"
+        },
+        "cq699s": {
+          "AGIX": "24"
+        },
+        "l5mtez": {
+          "AGIX": "24"
+        },
+        "r658c7": {
+          "AGIX": "24"
+        },
+        "tlttpn": {
+          "AGIX": "24"
+        }
+      }
+    }
+  ]
+}
