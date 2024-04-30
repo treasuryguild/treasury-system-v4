@@ -1,0 +1,1129 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 23",
+    "2633.68 USD in 3292 AGIX",
+    "Transaction made by Treasury Guild @0.430",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "ec614f787c0d98b5f2567a7e5a90dcd33837eb9e35d0ec1d7ceccecd74318e91",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Meeting of the Video Workgroup - 12.04.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.04.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "Minutes": 60
+        },
+        "jtd7q0": {
+          "Minutes": 60
+        },
+        "m5dusc": {
+          "Minutes": 60
+        },
+        "sh8upr": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 18.04.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.04.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jtd7q0": {
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.04.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 75
+        },
+        "gdwa3z": {
+          "Minutes": 75
+        },
+        "j88zza": {
+          "Minutes": 75
+        },
+        "jnaxjp": {
+          "Minutes": 75
+        },
+        "jtd7q0": {
+          "Minutes": 120
+        },
+        "sh8upr": {
+          "Minutes": 75
+        },
+        "tlttpn": {
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 24.04.2024 - 4 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.04.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 42,
+          "Minutes": 90
+        },
+        "jtd7q0": {
+          "AGIX": 4,
+          "Minutes": 90
+        },
+        "sh8upr": {
+          "AGIX": 4,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup - 26.04.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.04.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "Minutes": 60
+        },
+        "jtd7q0": {
+          "Minutes": 60
+        },
+        "m5dusc": {
+          "Minutes": 60
+        },
+        "tlttpn": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup - 19.04.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.04.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "Minutes": 60
+        },
+        "jtd7q0": {
+          "Minutes": 60
+        },
+        "m5dusc": {
+          "Minutes": 60
+        },
+        "sh8upr": {
+          "Minutes": 60
+        },
+        "tlttpn": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting  25.04.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.04.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 90
+        },
+        "6e05sc": {
+          "Minutes": 90
+        },
+        "7lnpzs": {
+          "Minutes": 90
+        },
+        "gdwa3z": {
+          "Minutes": 90
+        },
+        "hmt2e5": {
+          "Minutes": 90
+        },
+        "nsge8s": {
+          "Minutes": 90
+        },
+        "sh8upr": {
+          "Minutes": 90
+        },
+        "tlttpn": {
+          "Minutes": 90
+        },
+        "uwtdjm": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 32
+        }
+      }
+    },
+    {
+      "name": [
+        "Core Contributor consent making doc- Q2 budget - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 62,
+          "Minutes": 150
+        },
+        "hmt2e5": {
+          "AGIX": 62,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Mentoring new Facilitator- 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 12,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Town Hall Summary Edit - 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.04.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 75,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Journeys Creation Doc & Script - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.04.24"
+        ],
+        "label": [
+          "Documentation",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 125
+        },
+        "tlttpn": {
+          "AGIX": 125
+        },
+        "uwtdjm": {
+          "AGIX": 125
+        }
+      }
+    },
+    {
+      "name": [
+        "April Points System: Cj Frankie - 98USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 122,
+          "Minutes": 270
+        }
+      }
+    },
+    {
+      "name": [
+        "My First Bounty Task - Introduction Task - 10 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.04.24"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "82g73t": {
+          "AGIX": 10,
+          "Minutes": 30
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video : OpenCog Hyperon: Revolutionizing Biomedical",
+        "Research for Longevity with the Rejuve.Bio FlyBase",
+        "Integration - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.04.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 125,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summary - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.04.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 50,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "April Points System: Devon - 66USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 82,
+          "Minutes": 210
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Facilitation 25.04.2024 - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.04.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 31,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Retroactive Trivia Session: 1st Place (19.4.24)",
+        "- 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.04.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r487s3": {
+          "AGIX": 12,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.04.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 12,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese - An Exploration of the Convergence",
+        "of Quantum Computing and AGI - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.04.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 19,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "30.April Zealy Winners: Top Sprinters - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 25,
+          "Minutes": 120
+        },
+        "sh8upr": {
+          "AGIX": 25,
+          "Minutes": 120
+        },
+        "w64w9p": {
+          "AGIX": 25,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Information Collection/Presentation- Education Guild -",
+        "20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.04.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Documentation"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 25,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Workshop Training - 65 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 81,
+          "Minutes": 195
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video : Cogito  Protocol - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.04.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 125,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video : Nunet - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.04.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 125,
+          "Minutes": 300
+        },
+        "tlttpn": {
+          "AGIX": 125,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Task management - 280 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.04.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 350,
+          "Minutes": 960
+        }
+      }
+    },
+    {
+      "name": [
+        "April Points System: Gavina - 60USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 75,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd Place (26.4.24) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.04.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gfwv7a": {
+          "AGIX": 12,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 16) -180USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.04.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 225,
+          "Minutes": 1650
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Frontier of AI: Unveiling LLMs and AGI with OpenCog",
+        "Hyperon - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 125,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: SNET Ambassador Program Q1 Recap - 300USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 375,
+          "Minutes": 900
+        }
+      }
+    },
+    {
+      "name": [
+        "April Zealy Winners: Random 5 Sprinters - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "m5dusc": {
+          "AGIX": 25,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Mentoring new Documenter - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 12,
+          "Minutes": 30
+        }
+      }
+    },
+    {
+      "name": [
+        "Infographic - Context setting doc -Q2 budget - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Content Creation",
+          "Designing",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 25,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Notes & Summary",
+        "-25.04.2024- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.04.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 25,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "April Points System: Lady Tempest - 60USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 75,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury session event video edit - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.04.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tlttpn": {
+          "AGIX": 31,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Ambassador Townhall Video Edit - 200 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.04.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tlttpn": {
+          "AGIX": 250,
+          "Minutes": 600
+        }
+      }
+    }
+  ]
+}
