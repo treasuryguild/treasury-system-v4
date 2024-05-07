@@ -1,0 +1,1219 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 26",
+    "1196,26 USD in 1150 AGIX",
+    "Transaction made by Treasury Guild @0.452",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "33d8e1a053474cd54d71a27f4490b86789475e3e8cc1faf0f1f104f674862de7",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.05.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 11
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video : RJV Token Migration Event - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 96,
+          "Minutes": 300
+        },
+        "vpyqlf": {
+          "AGIX": 96,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Retrospective Zealy Winners: April - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0xud3v": {
+          "AGIX": 19,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 160
+        },
+        "dl6xdk": {
+          "Minutes": 160
+        },
+        "gdwa3z": {
+          "Minutes": 160
+        },
+        "j88zza": {
+          "Minutes": 160
+        },
+        "jnaxjp": {
+          "Minutes": 160
+        },
+        "jtd7q0": {
+          "Minutes": 160
+        },
+        "sh8upr": {
+          "Minutes": 160
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 02.05.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.05.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "Minutes": 90
+        },
+        "gdwa3z": {
+          "Minutes": 90
+        },
+        "jtd7q0": {
+          "Minutes": 90
+        },
+        "pgqg9n": {
+          "Minutes": 90
+        },
+        "sh8upr": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Knowledge Base WG 01.05.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.05.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "Minutes": 120
+        },
+        "jnaxjp": {
+          "AGIX": 19,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Organize Collected Items Asynchronously"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.04.24"
+        ],
+        "label": [
+          "Auditing",
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 19,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Operator Rewards April - 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 77
+        },
+        "gdwa3z": {
+          "AGIX": 77
+        },
+        "jnaxjp": {
+          "AGIX": 77
+        }
+      }
+    },
+    {
+      "name": [
+        "Define Decision Making - Budget Q1 Decision - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.05.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "governance workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 48,
+          "GovWG": 300,
+          "Minutes": 180
+        },
+        "u7ywg4": {
+          "AGIX": 48,
+          "GovWG": 300,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "Gov WG Meeting - 30.4.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "governance workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "GovWG": 100,
+          "Minutes": 60
+        },
+        "pgqg9n": {
+          "GovWG": 100,
+          "Minutes": 60
+        },
+        "u7ywg4": {
+          "GovWG": 100,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "GovWG Q2 Budget Proposal"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.05.24"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "governance workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "GovWG": 50,
+          "Minutes": 30
+        },
+        "u7ywg4": {
+          "GovWG": 50,
+          "Minutes": 30
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting 02.05.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.05.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 90
+        },
+        "6e05sc": {
+          "Minutes": 90
+        },
+        "7lnpzs": {
+          "Minutes": 90
+        },
+        "82g73t": {
+          "Minutes": 90
+        },
+        "gdwa3z": {
+          "Minutes": 90
+        },
+        "j88zza": {
+          "Minutes": 90
+        },
+        "sh8upr": {
+          "Minutes": 90
+        },
+        "uwtdjm": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic- Navigating the AGI Revolution: A",
+        "Regulatory Roadmap - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 14,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic - An Exploration of the Convergence of",
+        "Quantum Computing and AGI - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 14,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video WG 03.05.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.05.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "Minutes": 60
+        },
+        "fu9paa": {
+          "Minutes": 60
+        },
+        "gdwa3z": {
+          "Minutes": 60
+        },
+        "j88zza": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Infographic - Onboarding Session - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.05.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Content Creation",
+          "Designing",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 19,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Educational Infographic (ACP) - Ambassador Program-",
+        "10.03.24 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.05.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 38,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Delivering Townhall updates- 30.04.2024 - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.05.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 24,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 3rd Place (3.5.24) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.05.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "v5wx78": {
+          "AGIX": 10,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summarizing- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.05.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 29,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Winning Team - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.05.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 10,
+          "Minutes": 60
+        },
+        "hfdqrl": {
+          "AGIX": 10,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Mentoring for Town hall updates - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.05.24"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 10,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 13.09.23"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.09.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": 14,
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 27.09.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.09.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 11.10.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.10.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 25.10.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.10.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 06.12.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.12.23"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "gimbal": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.05.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 48,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Presentation on Platforms for ACP - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.05.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r658c7": {
+          "AGIX": 19,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish- SingularityNET Latest Ecosystem Updates",
+        "for 04.2024- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": 24,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish- Navigating the AGI Revolution: A",
+        "Regulatory Roadmap - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": 14,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish - An Exploration of the Convergence of",
+        "Quantum Computing and AGI - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": 14,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Host GovWg Meeting - 30.4.2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.05.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "governance workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": 19,
+          "GovWG": 100,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French- SingularityNET Latest Ecosystem Updates",
+        "for 04.2024- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vcgk9c": {
+          "AGIX": 24,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French - Navigating the AGI Revolution: A",
+        "Regulatory Roadmap - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vcgk9c": {
+          "AGIX": 14,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Information Collection/Presentation- Treasury Guild -",
+        "20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.05.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Documentation"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 19,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian - SingularityNET Latest Ecosystem",
+        "Updates for 04.2024- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 24,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian- Navigating the AGI Revolution: A",
+        "Regulatory Roadmap - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 14,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian - An Exploration of the Convergence",
+        "of Quantum Computing and AGI - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 14,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework Task Management and Project Head Jan - March 2024 -",
+        "Decision SoftwareWeek X - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.03.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lrs3kj": {
+          "AGIX": 96,
+          "Minutes": 2700
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian- Navigating the AGI Revolution: A",
+        "Regulatory Roadmap - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "kmwef5": {
+          "AGIX": 14,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian - An Exploration of the Convergence of",
+        "Quantum Computing and AGI - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "kmwef5": {
+          "AGIX": 14,
+          "Minutes": 90
+        }
+      }
+    }
+  ]
+}
