@@ -1,0 +1,29 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.435",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "6d9c01a1d5bf9468ec8f33f64553800f17ea38bf451180271a8fe2cc61cfb74b",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [],
+      "description": [
+        "Minting Handle for F12 Swarm Idea Fest"
+      ],
+      "taskCreator": [
+        "Swarm Treasury Wallet"
+      ],
+      "contributors": {
+        "9tac9k": {
+          "ADA": 20
+        }
+      }
+    }
+  ]
+}
