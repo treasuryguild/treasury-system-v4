@@ -1,0 +1,751 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 21",
+    "1069.8142 USD in 1244 AGIX",
+    "Transaction made by Treasury Guild @0.434",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "1c64f18b4bec0b8a1142aae8346749eb28cc5d1042862f4407684f181a0f143a",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participate in Dework PBL workshop 08.05.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.05.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "Minutes": 90
+        },
+        "jnaxjp": {
+          "AGIX": 35,
+          "Minutes": 90
+        },
+        "jtd7q0": {
+          "Minutes": 90
+        },
+        "sh8upr": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.05.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "Minutes": 90
+        },
+        "gdwa3z": {
+          "Minutes": 90
+        },
+        "j88zza": {
+          "Minutes": 90
+        },
+        "jnaxjp": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.05.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 12
+        }
+      }
+    },
+    {
+      "name": [
+        "Contribute to Skills Doc - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.05.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 12,
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "AGIX": 12,
+          "Minutes": 60
+        },
+        "hmt2e5": {
+          "AGIX": 12,
+          "Minutes": 60
+        },
+        "sh8upr": {
+          "AGIX": 12,
+          "Minutes": 60
+        },
+        "uwtdjm": {
+          "AGIX": 12,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Call and Ideation on survey 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.05.24"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 58,
+          "Minutes": 150
+        },
+        "hmt2e5": {
+          "AGIX": 58,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting 09.05.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.05.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "82g73t": {
+          "Minutes": 60
+        },
+        "gdwa3z": {
+          "Minutes": 60
+        },
+        "hmt2e5": {
+          "Minutes": 60
+        },
+        "sh8upr": {
+          "Minutes": 60
+        },
+        "uwtdjm": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic- SingularityNET Latest Ecosystem Updates",
+        "for 04.2024- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 29,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Notes & Summary",
+        "-09.05.2024- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.05.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 23,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a 10 Question Quiz - Rejuve.AI - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.05.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 23,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Facilitation 09.05.2024 - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.05.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 29,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd Place (10.5.24) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.05.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "v5wx78": {
+          "AGIX": 12,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a Video on: OpenCog Hyperon Alpha release - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.05.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 116,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Ben Goertzel - Regulating AGI May Do More Harm That",
+        "Good - 40USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.05.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 47,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st Place (10.5.24) - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.05.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r487s3": {
+          "AGIX": 23,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.05.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 93,
+          "Minutes": 480
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese- SingularityNET Latest Ecosystem",
+        "Updates for 04.2024- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "a82yhu": {
+          "AGIX": 29,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese- Navigating the AGI Revolution: A",
+        "Regulatory Roadmap - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "a82yhu": {
+          "AGIX": 17,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian- SingularityNET Latest Ecosystem Updates",
+        "for 04.2024- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "kmwef5": {
+          "AGIX": 29,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish- SingularityNET Latest Ecosystem Updates",
+        "for 04.2024- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 29,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish- Navigating the AGI Revolution: A",
+        "Regulatory Roadmap - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 17,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish - An Exploration of the Convergence of",
+        "Quantum Computing and AGI - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 17,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Future of Robotics and AI: Insights from Ben",
+        "Ditto- 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.05.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 140,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 18) -180USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.05.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 209,
+          "Minutes": 1680
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT- Onboarding WG skills set doc - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.05.24"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 23,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Survey form- 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.05.24"
+        ],
+        "label": [
+          "Documentation",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 58,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: HyperCycle CEO ASK ME ANYTHING! (HyPC AMA)",
+        "- 50USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.05.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 58,
+          "Minutes": 180
+        }
+      }
+    }
+  ]
+}
