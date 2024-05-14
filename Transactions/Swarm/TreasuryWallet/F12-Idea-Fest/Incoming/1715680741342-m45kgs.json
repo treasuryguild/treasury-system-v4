@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "F12 Idea Fest Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.435",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "554c92a377619aff23eb65d903b787c4055dc389b6ceda1bc6cfbc20c0003bd2",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming ADA Handle from Swarm "
+      ],
+      "taskCreator": [
+        "F12 Idea Fest"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 1.19818,
+          "$swarm-ideafest": 1
+        }
+      }
+    }
+  ]
+}
