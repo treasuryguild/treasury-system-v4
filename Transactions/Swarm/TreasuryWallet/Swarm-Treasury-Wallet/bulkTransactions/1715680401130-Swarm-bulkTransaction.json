@@ -1,0 +1,36 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.435",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "554c92a377619aff23eb65d903b787c4055dc389b6ceda1bc6cfbc20c0003bd2",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending ADA Handle for Swarm F12 Idea Fest"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.05.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "4edf90": {
+          "$swarm-ideafest": "1"
+        }
+      }
+    }
+  ]
+}
