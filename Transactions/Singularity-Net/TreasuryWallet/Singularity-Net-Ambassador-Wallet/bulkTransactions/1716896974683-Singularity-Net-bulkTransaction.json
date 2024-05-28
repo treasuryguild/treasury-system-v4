@@ -1,0 +1,989 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 25",
+    "1717.23381 USD in 1829 AGIX",
+    "Transaction made by Treasury Guild @0.459",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "35e992947c6a9d572cd7a0416de32352b66ca03d1149f149de15fed9e65d9edc",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.05.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 18
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a Video on: SingularityNET Latest Ecosystem Updates:",
+        "April 2024 -100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 106,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.05.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "Minutes": 120
+        },
+        "gdwa3z": {
+          "Minutes": 60
+        },
+        "jnaxjp": {
+          "Minutes": 120
+        },
+        "sh8upr": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL workshop 22.05.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.05.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "Minutes": 90
+        },
+        "jnaxjp": {
+          "AGIX": 32,
+          "Minutes": 90
+        },
+        "sh8upr": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding a new Video WG member. - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.05.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "ym9jac": {
+          "AGIX": 21,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video WG 24.05.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.05.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "Minutes": 60
+        },
+        "j88zza": {
+          "Minutes": 60
+        },
+        "ym9jac": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian - The Singularity: What Happens",
+        "When AI Surpasses Human Intelligence?"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cehfqz": {
+          "AGIX": 11,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian - The Race for AGI: Big Tech vs",
+        "Decentralized Approaches"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cehfqz": {
+          "AGIX": 11,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian - AGI in Science Fiction vs.",
+        "Reality"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cehfqz": {
+          "AGIX": 11,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Engagement Delegation - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.05.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 21,
+          "Minutes": 300
+        },
+        "sh8upr": {
+          "AGIX": 21,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Prep and Agenda - 04.2024- 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 43,
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting 23.05.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.05.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "8qsftq": {
+          "Minutes": 60
+        },
+        "dl6xdk": {
+          "Minutes": 60
+        },
+        "gdwa3z": {
+          "Minutes": 60
+        },
+        "j88zza": {
+          "Minutes": 60
+        },
+        "r658c7": {
+          "Minutes": 60
+        },
+        "sh8upr": {
+          "Minutes": 60
+        },
+        "uwtdjm": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in the Ambassdor Townhall #98 - 21.05.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.05.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "ambassador program"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "8qsftq": {
+          "Minutes": 60
+        },
+        "dl6xdk": {
+          "Minutes": 60
+        },
+        "f39ntm": {
+          "Minutes": 60
+        },
+        "gdwa3z": {
+          "Minutes": 60
+        },
+        "j88zza": {
+          "Minutes": 60
+        },
+        "pgqg9n": {
+          "Minutes": 60
+        },
+        "q5xpal": {
+          "Minutes": 60
+        },
+        "r658c7": {
+          "Minutes": 60
+        },
+        "sh8upr": {
+          "Minutes": 60
+        },
+        "vcgk9c": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "BGI Summit recap session 22.03.24 10usd"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.03.24"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "ambassador program"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 11,
+          "Minutes": 60
+        },
+        "lrs3kj": {
+          "AGIX": 11,
+          "Minutes": 60
+        },
+        "pgqg9n": {
+          "AGIX": 11,
+          "Minutes": 60
+        },
+        "q5xpal": {
+          "AGIX": 11,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic - The Singularity: What Happens When",
+        "AI Surpasses Human Intelligence?"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 11,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Facilitation 23.05.2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.05.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 21,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Brainstorming and pre-planning activities - 150 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.05.24"
+        ],
+        "label": [
+          "Operations",
+          "Planning"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 160,
+          "Minutes": 360
+        },
+        "gdwa3z": {
+          "AGIX": 160,
+          "Minutes": 360
+        },
+        "r658c7": {
+          "AGIX": 160,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a Video: Importance of Data availability in Crypto and",
+        "Blockchain - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.05.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 106,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparation of Meeting Agenda - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.05.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Coordination"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 21,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Inaugural Meeting Facilitation - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.05.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 27,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework Management - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.05.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 53,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.05.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 53,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Flier Design for Publicity - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.05.24"
+        ],
+        "label": [
+          "Designing",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r658c7": {
+          "AGIX": 21,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation - 18/05/2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.05.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r658c7": {
+          "AGIX": 21,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation 25/05/2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.05.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r658c7": {
+          "AGIX": 21,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a 10 Question Quiz - Awakening Health - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.05.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r658c7": {
+          "AGIX": 21,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session (Articles So Far and Football): 2nd and",
+        "3rd Place (24.5.24) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.05.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gfwv7a": {
+          "AGIX": 11,
+          "Minutes": 60
+        },
+        "m69qq5": {
+          "AGIX": 11,
+          "Minutes": 60
+        },
+        "w64w9p": {
+          "AGIX": 11,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic - The Race for AGI: Big Tech vs",
+        "Decentralized Approaches"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.05.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 11,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Notes (trial)",
+        "-23.05.2024- 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.05.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 16,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a Video on: AI-Driven Decision Support Systems -",
+        "100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.05.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 106,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a Video on: The Future Of Health: AI-Generated",
+        "Digital Twins - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.05.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 106,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Ambassador Townhall Video Edit - 160 USD (Monthly)"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.05.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 170,
+          "Minutes": 480
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 20) -180USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.05.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 192,
+          "Minutes": 1350
+        }
+      }
+    }
+  ]
+}
