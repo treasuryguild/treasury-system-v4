@@ -1,0 +1,112 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 4",
+    "306,9 USD in 682 ADA",
+    "Transaction made by Treasury Guild @0.457",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "4b2000fd1f89fe5e5d1d08930d85aead3f59394e4f8f60ee3a51e6dab33d2f11",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Swarm Tools Fluid 7 INVs 10688 10694 10706 10709 - 73 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.05.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "0345mg": {
+          "ada": 162
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools May 2024 GitBook 48 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ada": 107
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools May 2024 Zoom, Twitter, Meetup and Adobe 186",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ada": 413
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury Manager Updates - April 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 1480
+        }
+      }
+    }
+  ]
+}
