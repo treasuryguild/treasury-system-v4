@@ -1,0 +1,153 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 6",
+    "19718.352 USD in 21621.00 AGIX",
+    "Transaction made by Treasury Guild @0.449",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "c4746b10bec1624c11188ba8616107f769f616fef5339bd53a723b368b146159",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "\"Providing time toward meeting around the UI/UX",
+        "design UI/UX site and the AI architecture.",
+        "Development in AI endpoint testing and theory",
+        "expansion\""
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "lq9wke": {
+          "AGIX": "8649"
+        }
+      }
+    },
+    {
+      "name": [
+        "Provided content of the website and the AI dataset ",
+        "as well as product advisement."
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "pst9ds": {
+          "AGIX": "2162"
+        }
+      }
+    },
+    {
+      "name": [
+        "Providing time toward meeting around the UI/UX",
+        "design and the AI architecture."
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "qcpvvg": {
+          "AGIX": "2162"
+        }
+      }
+    },
+    {
+      "name": [
+        "Developed a swarm of agents for survey response",
+        "assessment AI endpoint testing and theory",
+        "expansion. Contributed to meeting preparation and",
+        "agenda discussions."
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "r83kme": {
+          "AGIX": "3243"
+        }
+      }
+    },
+    {
+      "name": [
+        "Led design conversations and interactions to",
+        "facilitate project collaboration. Contributed to",
+        "defining architecture and development roadmap."
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "csfzep": {
+          "AGIX": "4324"
+        }
+      }
+    },
+    {
+      "name": [
+        "Support for the project and Collab. Decision",
+        "considerations and attention to initiatives"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "ss705v": {
+          "AGIX": "1081"
+        }
+      }
+    }
+  ]
+}
