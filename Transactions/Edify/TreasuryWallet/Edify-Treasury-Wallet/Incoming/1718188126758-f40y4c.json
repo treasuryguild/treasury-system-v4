@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Edify Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.427",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "379fd141fb04fca72c0bdeaa1bbf9bc6b181b739922a899724a9b5f462aa9339",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Close out rewards for Inc. Train the Trainer Africa MVP proposal"
+      ],
+      "taskCreator": [
+        "Edify Treasury Wallet"
+      ],
+      "contributors": {
+        "f40y4c": {
+          "ADA": 6338.261547
+        }
+      }
+    }
+  ]
+}
