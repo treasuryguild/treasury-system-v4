@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Polkadot-Cardano uniFires Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "1080.000 USD in 2500.00 ADA",
+    "Transaction made by Treasury Guild @0.432",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "00bacf781ef6ce32e2d7f8eb07eef818c2094d208419ba9a778523ccc2a6c0e0",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Reward for a team member"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.06.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Polkadot-Cardano uniFires"
+      ],
+      "contributors": {
+        "e9zudu": {
+          "ADA": "2500"
+        }
+      }
+    }
+  ]
+}
