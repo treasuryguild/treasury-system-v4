@@ -1,0 +1,18 @@
+{
+  "project": "Polkadot-Cardano uniFires",
+  "proposal": "UniFires 12",
+  "fund": "TreasuryWallet",
+  "budget": "50000",
+  "budgetItems": {
+    "Incoming": "50000",
+    "Other": "10",
+    "bulkTransactions": "50000",
+    "Swap": "5000",
+    "Bounty": "20000",
+    "Contributors": "20000",
+    "Fixed-Costs": "5000"
+  },
+  "website": "",
+  "wallet": "addr1qy47ucakpx78nc6u6phd9xpwcuce7a4nw8mpd0he8gwavpzy2d0yshtmtsg34lg9xa96whyj5p5pyks0n454qneeps2q46arta",
+  "description": ""
+}
