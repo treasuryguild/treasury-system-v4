@@ -1,0 +1,110 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 7",
+    "688.200 USD in 1147.00 AGIX",
+    "Transaction made by Treasury Guild @0.413",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "53fe5f5c768e3545017c28f824175f40fa0b770a4ffb5f427ce493a6822d8f8a",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Tag taxonomy project: Q1 Tagging process"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.06.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "8k5fsy": {
+          "AGIX": "133"
+        },
+        "9klqvn": {
+          "AGIX": "133"
+        },
+        "l5mtez": {
+          "AGIX": "133"
+        },
+        "mljxja": {
+          "AGIX": "133"
+        },
+        "r658c7": {
+          "AGIX": "133"
+        },
+        "tlttpn": {
+          "AGIX": "133"
+        }
+      }
+    },
+    {
+      "name": [
+        "Tag taxonomy project Tagging process - additional",
+        "people paid from Q3 budget"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.06.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "8k5fsy": {
+          "AGIX": "67"
+        },
+        "9klqvn": {
+          "AGIX": "33"
+        },
+        "l5mtez": {
+          "AGIX": "33"
+        },
+        "mljxja": {
+          "AGIX": "67"
+        },
+        "r658c7": {
+          "AGIX": "33"
+        },
+        "tlttpn": {
+          "AGIX": "33"
+        }
+      }
+    },
+    {
+      "name": [
+        "Prizes for good meeting summaries"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.06.24"
+        ],
+        "label": [
+          "Reward"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "83"
+        }
+      }
+    }
+  ]
+}
