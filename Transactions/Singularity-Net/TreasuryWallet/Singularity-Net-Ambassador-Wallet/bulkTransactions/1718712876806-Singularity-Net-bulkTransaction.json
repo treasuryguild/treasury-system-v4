@@ -1,0 +1,883 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 23",
+    "1630.2006 USD in 3327 AGIX",
+    "Transaction made by Treasury Guild @0.374",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "183251c9030c58d99c243ed42cd87fac19ac7ebfd926e3e16d57577380194ab8",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.06.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 33
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video: Why Slowing Down AI is Not an Option - 100",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.06.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 204,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd & 3rd Place (14.6.24) -",
+        "10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.06.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0xud3v": {
+          "AGIX": 20,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 190
+        },
+        "dl6xdk": {
+          "Minutes": 190
+        },
+        "f39ntm": {
+          "Minutes": 190
+        },
+        "gdwa3z": {
+          "Minutes": 190
+        },
+        "jnaxjp": {
+          "Minutes": 190
+        },
+        "mmdfl0": {
+          "Minutes": 190
+        },
+        "sh8upr": {
+          "Minutes": 190
+        },
+        "uwtdjm": {
+          "Minutes": 190
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Knowledge Base WG 12.06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "Minutes": 90
+        },
+        "gdwa3z": {
+          "Minutes": 90
+        },
+        "jnaxjp": {
+          "AGIX": 31,
+          "Minutes": 90
+        },
+        "sh8upr": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Treasury Guild Q3 Proposal"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.06.24"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup 14.06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.06.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "Minutes": 60
+        },
+        "mmdfl0": {
+          "Minutes": 60
+        },
+        "ym9jac": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video : AGI in Science Fiction vs Reality - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.06.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 204,
+          "Minutes": 300
+        },
+        "ym9jac": {
+          "AGIX": 204,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Policy WG 17.06.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury policy wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "Minutes": 78
+        },
+        "dl6xdk": {
+          "Minutes": 90
+        },
+        "f39ntm": {
+          "Minutes": 86
+        },
+        "gfwv7a": {
+          "Minutes": 50
+        },
+        "sh8upr": {
+          "Minutes": 41
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 17.06.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "Minutes": 45
+        },
+        "f39ntm": {
+          "Minutes": 24
+        },
+        "mmdfl0": {
+          "Minutes": 65
+        }
+      }
+    },
+    {
+      "name": [
+        "Host Budget Retrospective - 4.6.2024 - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.06.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "governance workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 102,
+          "GovWG": 100,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Contribute to Getting started Doc - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.06.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 20,
+          "Minutes": 60
+        },
+        "gdwa3z": {
+          "AGIX": 20,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding sessions survey analysis- 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.06.24"
+        ],
+        "label": [
+          "Onboarding",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 204,
+          "Minutes": 300
+        },
+        "hmt2e5": {
+          "AGIX": 204,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Task based support - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.06.24"
+        ],
+        "label": [
+          "Operations",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 204,
+          "Minutes": 300
+        },
+        "hmt2e5": {
+          "AGIX": 204,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting 13.06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "dl6xdk": {
+          "Minutes": 60
+        },
+        "f39ntm": {
+          "Minutes": 60
+        },
+        "gdwa3z": {
+          "Minutes": 60
+        },
+        "hmt2e5": {
+          "Minutes": 60
+        },
+        "mmdfl0": {
+          "Minutes": 60
+        },
+        "pgqg9n": {
+          "Minutes": 60
+        },
+        "sh8upr": {
+          "Minutes": 60
+        },
+        "uwtdjm": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "African Guild Meeting Attendance - 13.06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 90
+        },
+        "f39ntm": {
+          "Minutes": 90
+        },
+        "gdwa3z": {
+          "Minutes": 90
+        },
+        "hmt2e5": {
+          "Minutes": 90
+        },
+        "mmdfl0": {
+          "Minutes": 90
+        },
+        "pgqg9n": {
+          "Minutes": 90
+        },
+        "r658c7": {
+          "Minutes": 90
+        },
+        "uwtdjm": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Creation of Membership Collective Document - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.06.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 41,
+          "Minutes": 120
+        },
+        "gdwa3z": {
+          "AGIX": 41,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "African Guild Meeting Co-facilitation - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.06.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 31,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summarizing- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.06.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 61,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video: When AI Surpasses Human Intelligence - 100",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.06.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 204,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Task Management - 130 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.06.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 265,
+          "Minutes": 420
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.06.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "ambassador translator"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 20,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Host Gov Retrospective - 11.6.2024 - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.06.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "governance workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": 51,
+          "GovWG": 100,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st Place (14.6.24) - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.06.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w64w9p": {
+          "AGIX": 41,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 23) -180USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.06.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 367,
+          "Minutes": 2010
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: How OpenCog Hyperon Experiences the World - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.06.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 245,
+          "Minutes": 390
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video: Blockchain Transaction Detection with AI -",
+        "100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.06.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "m5dusc": {
+          "AGIX": 204,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Episode 5: Healthspan Horizons with GlycanAge"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.06.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 82,
+          "Minutes": 210
+        }
+      }
+    },
+    {
+      "name": [
+        "Mentoring for Town hall updates - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.06.24"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 20,
+          "Minutes": 60
+        }
+      }
+    }
+  ]
+}
