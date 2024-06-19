@@ -1,0 +1,38 @@
+{
+  "msg": [
+    "Polkadot-Cardano uniFires Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "357.436 USD in 926.00 ADA",
+    "Transaction made by Treasury Guild @0.386",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "eeef90df1707f47e7ebc6677432319af58cbec093e81065a6116bff6de901766",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Reimburse for 60 DOT used to create multisig",
+        "wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.06.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Polkadot-Cardano uniFires"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "ADA": "926"
+        }
+      }
+    }
+  ]
+}
