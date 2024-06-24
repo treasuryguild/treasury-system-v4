@@ -1,0 +1,38 @@
+{
+  "msg": [
+    "DF Academy Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "1044.866 USD in 2742.43 ADA",
+    "Transaction made by Treasury Guild @0.381",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "cc518b1cde53297796c394ed2e567629ea8ef437d4496482d39934429b2eaf02",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending back the wrong amount - DFA Milestone 6",
+        "payment"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.06.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Deep Funding Academy"
+      ],
+      "contributors": {
+        "r33hud": {
+          "ADA": "2742.429553"
+        }
+      }
+    }
+  ]
+}
