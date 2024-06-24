@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "DF Academy Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.380",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "9bdaefa6585250cbda87b7112953b13d1017469494e050867db410897750d6f8",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from r33hud"
+      ],
+      "taskCreator": [
+        "DF Academy"
+      ],
+      "contributors": {
+        "r33hud": {
+          "ADA": 2742.429553
+        }
+      }
+    }
+  ]
+}
