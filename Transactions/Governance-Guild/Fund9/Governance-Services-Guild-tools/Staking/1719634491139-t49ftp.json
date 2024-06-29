@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "113.04 USD in 283.301394 ADA",
+    "Transaction made by Treasury Guild @0.399",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "cc5a10cd14ab8be868b3e0b95be9fde8671089eb29707ae4876a09abfbe7c259",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Staking"
+      ],
+      "description": [
+        "Staking to the new Pool"
+      ],
+      "taskCreator": [
+        "Governance Services Guild tools"
+      ],
+      "contributors": {
+        "t49ftp": {
+          "ADA": 0
+        }
+      }
+    }
+  ]
+}
