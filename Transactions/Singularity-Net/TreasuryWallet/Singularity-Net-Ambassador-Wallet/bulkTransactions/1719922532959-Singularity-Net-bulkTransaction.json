@@ -1,0 +1,979 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 8",
+    "1850,7461 USD in 3034 AGIX",
+    "Transaction made by Treasury Guild @0.415",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "ff8888eff4b4f81c6f03938125c090fd5ea49e1abfbd2b5dbedf9990e7e10a2f",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participate in Treasury Guild Operations"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 28
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Operator Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gac5up": {
+          "AGIX": 69
+        },
+        "rcgctj": {
+          "AGIX": 69
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Policy WG 01.07.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.07.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury policy wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "Minutes": 66
+        },
+        "rcgctj": {
+          "Minutes": 91
+        },
+        "tgd8fg": {
+          "Minutes": 63
+        },
+        "xl6z2n": {
+          "Minutes": 47
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild 01.07.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.07.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "Minutes": 56
+        },
+        "rcgctj": {
+          "Minutes": 75
+        },
+        "xl6z2n": {
+          "Minutes": 54
+        }
+      }
+    },
+    {
+      "name": [
+        "Translation Workgroup Activities June 2024 - 150 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Documenting",
+          "Reporting"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 246,
+          "Minutes": 600
+        }
+      }
+    },
+    {
+      "name": [
+        "June Points System: Slate - 70USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 115,
+          "Minutes": 420
+        }
+      }
+    },
+    {
+      "name": [
+        "Retrospective Trivia Session: 1st Place (17.5.24)",
+        "- 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.05.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gac5up": {
+          "AGIX": 16,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st Place (28.6.24) - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.06.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 33,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 3rd Place (28.6.24) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.06.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gac5up": {
+          "AGIX": 16,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Faciliation Onboarding 25.06.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.06.24"
+        ],
+        "label": [
+          "Onboarding",
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 16,
+          "Minutes": 30
+        }
+      }
+    },
+    {
+      "name": [
+        "Reviewing Q2 Iteration 2 Proposals"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.06.24"
+        ],
+        "label": [
+          "Auditing"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 262,
+          "Minutes": 480
+        }
+      }
+    },
+    {
+      "name": [
+        "28.06.24 - Created Consent Forms for Q3 2024 proposals"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.06.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 49,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Treasury Policy Template"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.06.24"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 41,
+          "Minutes": 75
+        }
+      }
+    },
+    {
+      "name": [
+        "Reviewing Q2 Iteration 1 Proposals"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.06.24"
+        ],
+        "label": [
+          "Auditing"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 164,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Workshops or Events June 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 131,
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation June 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 270,
+          "Minutes": 495
+        }
+      }
+    },
+    {
+      "name": [
+        "subscribed to ChatGPT using the Ambassador Program - 25USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.06.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 41
+        }
+      }
+    },
+    {
+      "name": [
+        "Updated Async Organising Process Doc"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.06.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 33,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Process Guild Workshops or Events June 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Operations",
+          "Planning"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 33,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Blueprint Contributions"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.06.24"
+        ],
+        "label": [
+          "Auditing"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 328,
+          "Minutes": 600
+        }
+      }
+    },
+    {
+      "name": [
+        "African Guild Meeting Attendance 27.06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "Minutes": 60
+        },
+        "xl6z2n": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "AMA Facilitation 28.06.2024 - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.06.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lq9wke": {
+          "AGIX": 41,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Contribution to Meeting Summary Notes 20.06.2024 - 10",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.06.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "8a529r": {
+          "AGIX": 16,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Game Winner - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.07.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gac5up": {
+          "AGIX": 25,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Hosting and Dework - 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.07.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 98,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Prepare/Manage - 90 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.07.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 148,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Hosting And Dework Management - 26/06 - 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.06.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 131,
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "Scribe meeting notes, edit and post -26.06.24 -",
+        "30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.06.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 49,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting 27.06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "Minutes": 60
+        },
+        "gac5up": {
+          "Minutes": 60
+        },
+        "tgd8fg": {
+          "Minutes": 60
+        },
+        "xl6z2n": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Engagement - 12.05.-30.06.2024-",
+        "100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 164,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Managing Miro & Dework Documentation - 06-2024 -120",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.07.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 197,
+          "Minutes": 480
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Design for Workgroup Participation Calculator"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.06.24"
+        ],
+        "label": [
+          "Tool development",
+          "Designing"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 82,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Andamio Management"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.06.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Content Creation",
+          "Designing"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 33,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Dework PBL June 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 57,
+          "Minutes": 105
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing PBL Workshop June 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Operations",
+          "Planning"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 33,
+          "Minutes": 60
+        }
+      }
+    }
+  ]
+}
