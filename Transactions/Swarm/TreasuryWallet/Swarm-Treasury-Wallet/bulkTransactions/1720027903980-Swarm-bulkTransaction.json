@@ -1,0 +1,209 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 4",
+    "371,6 USD in 929 ADA",
+    "Transaction made by Treasury Guild @0.407",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "57b1f47d97eaabdc2d2db076680e60ef0d35d49b73380a2dc8dabadfbb8522ea",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Swarm Tools Microsoft Excel - 65 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.06.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "ada": 162
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury Manager Updates - May 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.24"
+        ],
+        "label": [
+          "Documentation",
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 915
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - May 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.24"
+        ],
+        "label": [
+          "Tool development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "Minutes": 2520
+        }
+      }
+    },
+    {
+      "name": [
+        "Community Support Quarter 2 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.06.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Dework Management"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.06.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools June 2024 GitBook 48 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ada": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools June 2024 Zoom, Twitter, Meetup and Adobe 186",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ada": 465
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools Fluid 7 INVs 10721 10726 10738 10741 - 73 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.07.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "0345mg": {
+          "ada": 182
+        }
+      }
+    }
+  ]
+}
