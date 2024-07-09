@@ -1,0 +1,1123 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 24",
+    "6798.1888 USD in 13073 AGIX",
+    "Transaction made by Treasury Guild @0.372",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "a46f74d3e6f98d44c8ea1d04d200af32a5188a717f904a6637b933519e580199",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 129
+        }
+      }
+    },
+    {
+      "name": [
+        "Q2 SMD-Social-Media-Dashboard 04-07-2024 -",
+        "1974 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "r&d guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 1974,
+          "Minutes": 6300
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st Place (05.7.24) - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.07.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0xud3v": {
+          "AGIX": 38,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Knowledge Base WG 26.06.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9rz0aq": {
+          "Minutes": 18
+        },
+        "dl6xdk": {
+          "Minutes": 92
+        },
+        "f39ntm": {
+          "Minutes": 82
+        },
+        "j2a40n": {
+          "Minutes": 98
+        },
+        "sh8upr": {
+          "Minutes": 100
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework PBL WG 03.07.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.07.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "8k5fsy": {
+          "Minutes": 41
+        },
+        "dl6xdk": {
+          "Minutes": 99
+        },
+        "j2a40n": {
+          "Minutes": 89
+        },
+        "sh8upr": {
+          "Minutes": 95
+        }
+      }
+    },
+    {
+      "name": [
+        "African Guild Meeting Attendance 04.07.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "Minutes": 60
+        },
+        "gdwa3z": {
+          "Minutes": 60
+        },
+        "j2a40n": {
+          "Minutes": 60
+        },
+        "r658c7": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summary Notes 04.07.2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j2a40n": {
+          "AGIX": 38,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian- Why AGI is Closer Than You Think"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cehfqz": {
+          "AGIX": 19,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Workgroup setup and management Q2 2024 - June 2024 - 420",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "ai ethics wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 808
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitation, 24th June meeting (Q2) - June 2024-",
+        "30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "ai ethics wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 58,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitation, 10th June meeting - June 2024 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "ai ethics wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 58,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Quarter 2 co-chair project co-ordination - June",
+        "2024- 90 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Coordinating",
+          "Operations"
+        ],
+        "subGroup": [
+          "ai ethics wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 173
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting 04.06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "8k5fsy": {
+          "Minutes": 60
+        },
+        "dl6xdk": {
+          "Minutes": 60
+        },
+        "gdwa3z": {
+          "Minutes": 60
+        },
+        "mmdfl0": {
+          "Minutes": 60
+        },
+        "sh8upr": {
+          "Minutes": 60
+        },
+        "uwtdjm": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Notes & Summary",
+        "-04.07.2024- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 58,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Agenda 04.07.2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 38,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Meeting Facilitation 04.07.2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 38,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Attendance at strategy development meeting: Research strategy",
+        "(Q2) - June 2024- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "ai ethics wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "8qsftq": {
+          "AGIX": 58,
+          "Minutes": 90
+        },
+        "dl6xdk": {
+          "AGIX": 58,
+          "Minutes": 90
+        },
+        "gdwa3z": {
+          "AGIX": 58,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "ACP Blueprint - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.07.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 29,
+          "Minutes": 150
+        },
+        "mmdfl0": {
+          "AGIX": 29,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Attendance at strategy development meeting: Ethics strategy",
+        "(Q2) - June 2024- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "ai ethics wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 58,
+          "Minutes": 90
+        },
+        "8k5fsy": {
+          "AGIX": 58,
+          "Minutes": 90
+        },
+        "f39ntm": {
+          "AGIX": 58,
+          "Minutes": 90
+        },
+        "r658c7": {
+          "AGIX": 58,
+          "Minutes": 90
+        },
+        "sh8upr": {
+          "AGIX": 58,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a Video: AI and Human Cognitive Enhancement- 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.07.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 192,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Contribution to Meeting Summary Note 04.07.2024 - 10",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 19,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Task Management -70 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 135,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        ""
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "r&d guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 995
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 96,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish- SingularityNET Latest Ecosystem Updates",
+        "for 06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": 48,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish - Why AGI is Closer Than You Think"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": 19,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd & 3rd Place (05.7.24) -",
+        "10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.07.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w64w9p": {
+          "AGIX": 19,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a 10 Question Quiz - (SNET) - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.05.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 38,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Mentoring Session (R&D Guild) - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.07.24"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 77,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Learning Dework Task Creation 19.06.2024 - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.06.24"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 19,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian- SingularityNET Latest Ecosystem",
+        "Updates for 06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 48,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Q2 Operations, Facilitator 04 -07-2024 - 2508 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Facilitating",
+          "Operations"
+        ],
+        "subGroup": [
+          "latam guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": 2508
+        }
+      }
+    },
+    {
+      "name": [
+        "Q2 Operations, Facilitator 04 -07-2024 - 1604 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Facilitating",
+          "Operations"
+        ],
+        "subGroup": [
+          "r&d guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": 1604
+        }
+      }
+    },
+    {
+      "name": [
+        "Q2 Report Preparation - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.07.24"
+        ],
+        "label": [
+          "Reporting"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 96,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Q2 Operations, Documenter 04 -07-2024 - 2508 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "latam guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 2508
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish- SingularityNET Latest Ecosystem Updates",
+        "for 06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 48,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish- Why AGI is Closer Than You Think"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 19,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Community Townhall Technical Update June 2024 -",
+        "50USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 96,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Technical Discussion June 2024 - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 192,
+          "Minutes": 420
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 27) -180USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.07.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 346,
+          "Minutes": 1110
+        }
+      }
+    }
+  ]
+}
