@@ -1,0 +1,353 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 19",
+    "6990.841 USD in 11869.00 AGIX",
+    "Transaction made by Treasury Guild @0.432",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e37b8ed813d139d22501eecd1bf3918e10e9391f21d2b70015d75e0a141fbd15",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Distributing rewards for 2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "AGIX": "266"
+        }
+      }
+    },
+    {
+      "name": [
+        "Distributing Rewards Q1"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "AGIX": "160"
+        }
+      }
+    },
+    {
+      "name": [
+        "Ubio tool dev for Q2"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Development"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "lq9wke": {
+          "AGIX": "709"
+        }
+      }
+    },
+    {
+      "name": [
+        "Chasing up missing meeting summaries - Q2 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "r658c7": {
+          "AGIX": "355"
+        }
+      }
+    },
+    {
+      "name": [
+        "Town Hall session on tag taxonomy work"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Facilitation"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "l5mtez": {
+          "AGIX": "89"
+        },
+        "r658c7": {
+          "AGIX": "89"
+        },
+        "w2jtal": {
+          "AGIX": "89"
+        }
+      }
+    },
+    {
+      "name": [
+        "Publicity Q2 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Marketing"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "408"
+        }
+      }
+    },
+    {
+      "name": [
+        "Explainer video on how to use the meeting summary",
+        "tool"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Content Creation"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "177"
+        }
+      }
+    },
+    {
+      "name": [
+        "Updates to Ambassador GitBook - Q2 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Documentation"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "355"
+        }
+      }
+    },
+    {
+      "name": [
+        "Dec - Feb Core Contributions"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "3026"
+        },
+        "7zxn7j": {
+          "AGIX": "2219"
+        },
+        "mg3a4k": {
+          "AGIX": "2153"
+        }
+      }
+    },
+    {
+      "name": [
+        "Prizes for good meeting summaries"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Rewards"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": "89"
+        },
+        "mmdfl0": {
+          "AGIX": "89"
+        },
+        "rauu23": {
+          "AGIX": "89"
+        },
+        "uwtdjm": {
+          "AGIX": "89"
+        }
+      }
+    },
+    {
+      "name": [
+        "Judges for good meeting summaries"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "266"
+        },
+        "gdwa3z": {
+          "AGIX": "266"
+        },
+        "w2jtal": {
+          "AGIX": "266"
+        }
+      }
+    },
+    {
+      "name": [
+        "Archive GitBook Backlog part 2 (2 Months)"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Documentation"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "8k5fsy": {
+          "AGIX": "89"
+        },
+        "gdwa3z": {
+          "AGIX": "89"
+        },
+        "sh8upr": {
+          "AGIX": "89"
+        }
+      }
+    },
+    {
+      "name": [
+        "Archive GitBook Backlog part 2 (1 Month)"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Documentation"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "0emj8p": {
+          "AGIX": "44"
+        },
+        "gac5up": {
+          "AGIX": "44"
+        },
+        "mljxja": {
+          "AGIX": "44"
+        },
+        "w2jtal": {
+          "AGIX": "44"
+        }
+      }
+    },
+    {
+      "name": [
+        "Educating - training documenters Q3"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Education"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "177"
+        }
+      }
+    }
+  ]
+}
