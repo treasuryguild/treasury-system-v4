@@ -1,0 +1,943 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 19",
+    "1375.4584 USD in 2371 AGIX",
+    "Transaction made by Treasury Guild @0.433",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "cf96475ba443e9abf500b8b943ca2e1e6dfefd397c6772392e64d1ac13bbb9ee",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Guild Meeting: 12, July 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.07.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6e05sc": {
+          "Minutes": 60
+        },
+        "6lcdjr": {
+          "Minutes": 60
+        },
+        "f39ntm": {
+          "Minutes": 60
+        },
+        "gmr8u9": {
+          "Minutes": 60
+        },
+        "gycvld": {
+          "Minutes": 60
+        },
+        "w2jtal": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 23
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese- SingularityNET Latest Ecosystem",
+        "Updates for 06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "a82yhu": {
+          "AGIX": 43,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese- Why AGI is Closer Than You Think"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "a82yhu": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.07.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "Minutes": 38
+        },
+        "klgjdc": {
+          "Minutes": 66
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video: The Future of Anti-Aging-100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.07.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "AGIX": 172,
+          "Minutes": 300
+        },
+        "w2jtal": {
+          "AGIX": 172,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian- SingularityNET Latest Ecosystem Updates",
+        "for 06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "kmwef5": {
+          "AGIX": 43,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian- Why AGI is Closer Than You Think"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "kmwef5": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Game Winner- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.07.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "c70dqg": {
+          "AGIX": 52,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: We Are Reading: The Governance of the Commons by",
+        "Elinor Ostrom - 60USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.07.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 103,
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "Infographics: Community Page - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Designing"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gfwv7a": {
+          "AGIX": 172,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Guild Meeting: 5, July 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.07.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "Minutes": 60
+        },
+        "f39ntm": {
+          "Minutes": 60
+        },
+        "gfwv7a": {
+          "Minutes": 60
+        },
+        "gycvld": {
+          "Minutes": 60
+        },
+        "w2jtal": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Knowledge Base WG "
+      ],
+      "arrayMap": {
+        "date": [
+          "14.07.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "Minutes": 66
+        },
+        "mmdfl0": {
+          "Minutes": 58
+        },
+        "w2jtal": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.07.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "Minutes": 183
+        },
+        "6lcdjr": {
+          "Minutes": 181
+        },
+        "gycvld": {
+          "Minutes": 36
+        },
+        "klgjdc": {
+          "Minutes": 161
+        },
+        "mmdfl0": {
+          "Minutes": 181
+        },
+        "w2jtal": {
+          "Minutes": 82
+        }
+      }
+    },
+    {
+      "name": [
+        "Attend Education Guild Meeting-10/07"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.07.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "Minutes": 90
+        },
+        "f39ntm": {
+          "Minutes": 90
+        },
+        "gycvld": {
+          "Minutes": 90
+        },
+        "mmdfl0": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting 11.06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.06.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "Minutes": 60
+        },
+        "hmt2e5": {
+          "Minutes": 60
+        },
+        "klgjdc": {
+          "Minutes": 60
+        },
+        "mmdfl0": {
+          "Minutes": 60
+        },
+        "w2jtal": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 28) - 180USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.07.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 310,
+          "Minutes": 1470
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT Healthspan Horizons Dr. Jeremy Koenig - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 172,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "African Guild Meeting Attendance 11.07.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.07.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: More Highlights from WebSummit Rio 2024 - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.07.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 172,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian- SingularityNET Latest Ecosystem Updates",
+        "for 06.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3kwket": {
+          "AGIX": 43,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian- Why AGI is Closer Than You Think"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3kwket": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Notes & Summary",
+        "-11.07.2024- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.07.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "AGIX": 52,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Organize Collected Items Asynchronously in June"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Auditing",
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "AGIX": 69,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a Game - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.07.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": 69,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Policy WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.07.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury policy wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "klgjdc": {
+          "Minutes": 59
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "nggwcw": {
+          "AGIX": 103,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (16.7.24) - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gycvld": {
+          "AGIX": 172,
+          "Minutes": 600
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st Place (12.7.24) - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.07.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gycvld": {
+          "AGIX": 34,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "THREAD: Internet of AI: Unraveling the Missing Ingredient",
+        "by Toufi Saliba at SuperAI Singapore 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gycvld": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: IA gacnacrale: vers la singularity avec Ben",
+        "Goertzel - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gycvld": {
+          "AGIX": 172,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "THREAD: TNW Conference: Interview with Ben Goertzel,",
+        "CEO at SingularityNET"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gycvld": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (02.7.24) - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gycvld": {
+          "AGIX": 172,
+          "Minutes": 600
+        }
+      }
+    }
+  ]
+}
