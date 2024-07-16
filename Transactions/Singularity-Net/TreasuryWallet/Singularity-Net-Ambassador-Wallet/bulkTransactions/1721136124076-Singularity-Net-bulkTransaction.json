@@ -1,0 +1,64 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 2",
+    "2202.0222 USD in 3797 AGIX",
+    "Transaction made by Treasury Guild @0.432",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "cbcde9dec710c91ff22302063888854a1cd2723cd0a279efaf39d4a4669d7a5c",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 38
+        }
+      }
+    },
+    {
+      "name": [
+        "SingularityNET Ambassador program [Archive Workgroup]",
+        "Partial June 2024 Fund Request of 2180 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Reporting"
+        ],
+        "subGroup": [
+          "archival workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jtg7jw": {
+          "AGIX": 3759
+        }
+      }
+    }
+  ]
+}
