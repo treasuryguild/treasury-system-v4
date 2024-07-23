@@ -1,0 +1,1190 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 31",
+    "1600.446 USD in 2667 AGIX",
+    "Transaction made by Treasury Guild @0.424",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e3437955b059ceb5c901d30252f91672733233e27efe534306e88a5b9cbb71dc",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 26
+        }
+      }
+    },
+    {
+      "name": [
+        "Operational Call - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.07.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 33,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Training and documentation - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 50,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video: SingularityNET Latest Ecosystem Updates: May",
+        "2024 - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.07.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 167,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd & 3rd Place (19.7.24) -",
+        "10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.07.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0xud3v": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "June Sprint Zealy Random Sprinters - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0xud3v": {
+          "AGIX": 17,
+          "Minutes": 120
+        },
+        "fu9paa": {
+          "AGIX": 17,
+          "Minutes": 120
+        },
+        "j2a40n": {
+          "AGIX": 17,
+          "Minutes": 120
+        },
+        "v5wx78": {
+          "AGIX": 17,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.07.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "Minutes": 221
+        },
+        "gdwa3z": {
+          "Minutes": 195
+        },
+        "j2a40n": {
+          "Minutes": 102
+        },
+        "jnaxjp": {
+          "Minutes": 202
+        },
+        "mmdfl0": {
+          "Minutes": 139
+        },
+        "sh8upr": {
+          "Minutes": 176
+        }
+      }
+    },
+    {
+      "name": [
+        "Learning Dework Task Creation 23.07.24 - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.07.24"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Town hall summary edit - 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.07.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "ym9jac": {
+          "AGIX": 133,
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French- Inside SingularityNET | May 2024:",
+        "An In-Depth Look at Progress and Innovations"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "l9rh5l": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian- Creative Processes in AGI How AI",
+        "Mimics Human Creativity"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cehfqz": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Facilitation 18.07.2024 - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.07.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 42,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting 18.07.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.07.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "dl6xdk": {
+          "Minutes": 60
+        },
+        "gdwa3z": {
+          "Minutes": 60
+        },
+        "j88zza": {
+          "Minutes": 60
+        },
+        "sh8upr": {
+          "Minutes": 60
+        },
+        "uwtdjm": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic- Inside SingularityNET | May 2024:",
+        "An In-Depth Look at Progress and Innovations"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic - Creative Processes in AGI How AI Mimics",
+        "Human Creativity"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Silbererde and SDAO - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.07.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 167,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Uploading Meeting Summary to the tool-10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.07.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Facilitation 18.07.2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.07.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 33,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Preparation and Agenda 18.07.2024 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.07.24"
+        ],
+        "label": [
+          "Coordination",
+          "Documentation"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 67,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Attend Education Guild Meeting- 17/07"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.07.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "Minutes": 90
+        },
+        "gdwa3z": {
+          "Minutes": 90
+        },
+        "mmdfl0": {
+          "Minutes": 90
+        },
+        "r658c7": {
+          "Minutes": 90
+        },
+        "sh8upr": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Educational Infographic (ACP)- SNET (Rework)-",
+        "40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.07.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Documentation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 67,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian- Inside SingularityNET | May",
+        "2024: An In-Depth Look at Progress and Innovations"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "8k5fsy": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Transhumanism and the Quest for Immortality with",
+        "SingularityNET CEO Dr. Ben Goertzel - 40USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.07.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 67,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Task Management - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 83,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (French) - 35USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0hpy7g": {
+          "AGIX": 58,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 100,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "AI for Beginners Initial Document- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.07.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r658c7": {
+          "AGIX": 50,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish- Inside SingularityNET | May 2024:",
+        "An In-Depth Look at Progress and Innovations"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish - Creative Processes in AGI How AI",
+        "Mimics Human Creativity"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st Place (19.7.24) - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.07.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w64w9p": {
+          "AGIX": 33,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Mentoring Session (Archival WG) - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.07.24"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 67,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.07.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 67,
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese- Inside SingularityNET | May",
+        "2024: An In-Depth Look at Progress and Innovations"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "a82yhu": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese - Creative Processes in AGI How AI",
+        "Mimics Human Creativity"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "a82yhu": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian- Inside SingularityNET | May 2024:",
+        "An In-Depth Look at Progress and Innovations"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "kmwef5": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian- Creative Processes in AGI How AI Mimics",
+        "Human Creativity"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "kmwef5": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish- Inside SingularityNET | May 2024:",
+        "An In-Depth Look at Progress and Innovations"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish- Creative Processes in AGI How AI Mimics",
+        "Human Creativity"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.07.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 29) - 180USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.07.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 300,
+          "Minutes": 1500
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Telemetry Instrumentation - 100USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.07.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 167,
+          "Minutes": 330
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Inside SingularityNET | July 2024 - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.07.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 200,
+          "Minutes": 420
+        }
+      }
+    },
+    {
+      "name": [
+        "RETRO: June Sprint Zealy Top Sprinters - 50USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4hwrlm": {
+          "AGIX": 83,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Ambassador Townhall Video Edit - 160 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.07.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "m5dusc": {
+          "AGIX": 267,
+          "Minutes": 480
+        }
+      }
+    }
+  ]
+}
