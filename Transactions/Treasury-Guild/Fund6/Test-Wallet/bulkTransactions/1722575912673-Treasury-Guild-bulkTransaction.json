@@ -1,0 +1,51 @@
+{
+  "msg": [
+    "Treasury Guild Bulk Transaction",
+    "Recipients: 2",
+    "0 USD in 10 GMBL",
+    "1 USD in 2 ADA",
+    "1 USD in 0.125 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e7fec9b56ddae3337f202d5b0bb27bd93892ff75d923330f4237cc2445edac54",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Testing the dework",
+        "bulk with metadata",
+        "and sending to",
+        "different addresses"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.23"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Coordination",
+          "Community Communication",
+          "Reporting",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Video workgroup"
+        ]
+      },
+      "taskCreator": "Treasury Guild",
+      "contributors": {
+        "7zxn7j": {
+          "AGIX": "0.125",
+          "GMBL": "5"
+        },
+        "c95tmr": {
+          "GMBL": "5"
+        }
+      }
+    }
+  ]
+}
