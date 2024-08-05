@@ -1,0 +1,39 @@
+{
+  "msg": [
+    "DF Academy Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "205.842 USD in 709.80 ADA",
+    "470.076 USD in 1316.74 AGIX",
+    "Transaction made by Treasury Guild @0.290",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "5c556547752aed9a7d5461cd83f1b55f78144e20a305041bc777ed56df7a1133",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Leftovers for new wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.08.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Deep Funding Academy"
+      ],
+      "contributors": {
+        "0hzl8j": {
+          "ADA": "709.8",
+          "AGIX": "1316.73682600"
+        }
+      }
+    }
+  ]
+}
