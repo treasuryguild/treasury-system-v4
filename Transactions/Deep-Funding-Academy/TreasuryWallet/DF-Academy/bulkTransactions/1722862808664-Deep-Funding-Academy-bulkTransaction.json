@@ -1,0 +1,59 @@
+{
+  "msg": [
+    "DF Academy Transaction",
+    "Website: ",
+    "Recipients: 6",
+    "204.015 USD in 703.50 ADA",
+    "469.998 USD in 1316.52 AGIX",
+    "Transaction made by Treasury Guild @0.290",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "78007bf0e04c59fe253c140d48cc844b0628333d0150f5bedd27046ca4927846",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Milestone 6 rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.08.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Deep Funding Academy"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ADA": "70.35",
+          "AGIX": "131.66"
+        },
+        "7zxn7j": {
+          "ADA": "70.35",
+          "AGIX": "131.66"
+        },
+        "aczfqe": {
+          "ADA": "140.7",
+          "AGIX": "263.3"
+        },
+        "e63jl6": {
+          "ADA": "140.7",
+          "AGIX": "263.3"
+        },
+        "nhxlra": {
+          "ADA": "140.7",
+          "AGIX": "263.3"
+        },
+        "rauu23": {
+          "ADA": "140.7",
+          "AGIX": "263.3"
+        }
+      }
+    }
+  ]
+}
