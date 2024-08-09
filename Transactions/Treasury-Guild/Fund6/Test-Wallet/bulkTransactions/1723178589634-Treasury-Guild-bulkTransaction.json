@@ -1,0 +1,91 @@
+{
+  "msg": [
+    "Treasury Guild Bulk Transaction",
+    "Recipients: 2",
+    "0 USD in 10.00 GMBL",
+    "1.80 USD in 4.50 AGIX",
+    "0 USD in 30.00 MINS",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "cfbe84e9deeb031f5f534c74a763e1e1f6dc52e86829a664a852ba6644fd03d3",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Testing new UI for Json gen in Dapp"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.06.2024"
+        ],
+        "label": [
+          "Tool Development",
+          "Testing"
+        ],
+        "subGroup": [
+          "Test WG"
+        ]
+      },
+      "taskCreator": "Treasury Guild",
+      "contributors": {
+        "7zxn7j": {
+          "AGIX": "1.00",
+          "GMBL": "5",
+          "MINS": "10"
+        }
+      }
+    },
+    {
+      "name": [
+        "Testing json generator api"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.06.2024"
+        ],
+        "label": [
+          "Tool Development",
+          "Testing"
+        ],
+        "subGroup": [
+          "Test WG"
+        ]
+      },
+      "taskCreator": "Treasury Guild",
+      "contributors": {
+        "7zxn7j": {
+          "AGIX": "3.50",
+          "GMBL": "5",
+          "MINS": "20"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.08.2024"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "SingularityNET"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "0.04"
+        }
+      }
+    }
+  ]
+}
