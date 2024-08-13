@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.06 USD in 0.192121 ADA",
+    "Transaction made by Treasury Guild @0.333",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "1c36be7e0eda9193c56ec26694f71ecc855d49678a6e3e6d2935dff5da3e7e60",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming ADA from Minswap"
+      ],
+      "taskCreator": [
+        "Snet Archive Workgroup"
+      ],
+      "contributors": {
+        "vxhl7e": {
+          "ADA": 3320.812816
+        }
+      }
+    }
+  ]
+}
