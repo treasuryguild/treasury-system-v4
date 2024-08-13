@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "141.87 USD in 426.030184 ADA",
+    "Transaction made by Treasury Guild @0.333",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "d814c77ede6a3ff214d417e88f6345af709124c70c6afe7e8f936ef70c7def83",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Internal Transfer"
+      ],
+      "description": [
+        "Swaping AGIX for ADA"
+      ],
+      "taskCreator": [
+        "Snet Archive Workgroup"
+      ],
+      "contributors": {
+        "jtg7jw": {
+          "ADA": 0.192121
+        }
+      }
+    }
+  ]
+}
