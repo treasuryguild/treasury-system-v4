@@ -1,0 +1,221 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 5",
+    "4183,8038 USD in 11010 AGIX",
+    "Transaction made by Treasury Guild @0.343",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "8d35c8469a1f619fb5c1621d5205a997832c930079fced001f2290e08df3a7fc",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.08.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 109
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd & 3rd Place (02.8.24) -",
+        "10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.08.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3te5wx": {
+          "AGIX": 26,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Strategy Guild 12.08.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.08.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3te5wx": {
+          "Minutes": 57
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Writers WG 16.08.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.08.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3te5wx": {
+          "Minutes": 49
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3 Operations, Facilitator, Documentor 19 -08-2024",
+        "- 3667 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.08.24"
+        ],
+        "label": [
+          "Facilitating",
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "latam guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 3667
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3 Operations, Facilitator, Content 19 -08-2024 -",
+        "3933 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.08.24"
+        ],
+        "label": [
+          "Facilitating",
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "latam guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": 3933
+        }
+      }
+    },
+    {
+      "name": [
+        "Q2 Social media dashboard 19-08-2024 - 3222 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "r&d guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 3222,
+          "Minutes": 4560
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st Place (16.8.24) - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.08.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3te5wx": {
+          "AGIX": 53,
+          "Minutes": 60
+        }
+      }
+    }
+  ]
+}
