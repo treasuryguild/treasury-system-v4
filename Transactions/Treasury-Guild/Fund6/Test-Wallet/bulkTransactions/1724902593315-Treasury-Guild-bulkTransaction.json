@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Test Wallet Transaction",
+    "Website: https://treasuryguild.io",
+    "Recipients: 1",
+    "1.638 USD in 3.00 AGIX",
+    "Transaction made by Treasury Guild @0.355",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e64665e50fe9fc843c0e5fa9a29ed4282f4581852cc6538dda09ebe24bfb01ca",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "test"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.08.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "AGIX": "3"
+        }
+      }
+    }
+  ]
+}
