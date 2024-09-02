@@ -1,0 +1,88 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 3",
+    "306,9 USD in 930 ADA",
+    "Transaction made by Treasury Guild @0.332",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "bed04182e108c7ec7514d101765332a217ec4759df214507122a7f155212b3bf",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Swarm Tools August 2024 GitBook 48 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ada": 145
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools Fluid 7 INVs 10782 10787 10797 10800 - 73 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "0345mg": {
+          "ada": 221
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools August 2024 Zoom, Twitter, Meetup and Adobe",
+        "186 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ada": 564
+        }
+      }
+    }
+  ]
+}
