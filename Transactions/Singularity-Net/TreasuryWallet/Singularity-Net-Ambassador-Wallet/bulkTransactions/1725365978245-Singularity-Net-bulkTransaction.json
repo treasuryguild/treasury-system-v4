@@ -1,0 +1,778 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 17",
+    "1387,3275 USD in 2720 AGIX",
+    "Transaction made by Treasury Guild @0.331",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "6fa68e174fc4a75e8562dec5b8867d0da5624f492d138b671deb5bd2c684f3b9",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participate in Marketing Guild 30.08.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.08.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6e05sc": {
+          "Minutes": 92
+        },
+        "6lcdjr": {
+          "Minutes": 92
+        },
+        "gfwv7a": {
+          "Minutes": 91
+        },
+        "gycvld": {
+          "Minutes": 38
+        },
+        "mmdfl0": {
+          "Minutes": 87
+        },
+        "w2jtal": {
+          "Minutes": 194
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup - 09.08.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.08.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4q528d": {
+          "Minutes": 90
+        },
+        "6lcdjr": {
+          "Minutes": 90
+        },
+        "gfpkyd": {
+          "Minutes": 90
+        },
+        "j88zza": {
+          "Minutes": 90
+        },
+        "m5dusc": {
+          "Minutes": 90
+        },
+        "w2jtal": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup - 02.08.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.08.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4q528d": {
+          "Minutes": 90
+        },
+        "6lcdjr": {
+          "Minutes": 90
+        },
+        "h2hc92": {
+          "Minutes": 90
+        },
+        "j88zza": {
+          "Minutes": 90
+        },
+        "m5dusc": {
+          "Minutes": 90
+        },
+        "w2jtal": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 26
+        }
+      }
+    },
+    {
+      "name": [
+        "Game Winner- 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "77hkas": {
+          "AGIX": 29,
+          "Minutes": 60
+        },
+        "klgjdc": {
+          "AGIX": 29,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Writers WG 30.08.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.08.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4q528d": {
+          "Minutes": 82
+        },
+        "f39ntm": {
+          "Minutes": 71
+        },
+        "gfwv7a": {
+          "Minutes": 64
+        },
+        "hmt2e5": {
+          "Minutes": 81
+        },
+        "rauu23": {
+          "Minutes": 82
+        }
+      }
+    },
+    {
+      "name": [
+        "August Points System: Gavina - 39USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 76,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Overcoming the Nursing Shortage and Beyond - 30USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 59,
+          "Minutes": 210
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (Spanish) - 35USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 69,
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "[AUGUST] Graphic Designers - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Designing",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gfwv7a": {
+          "AGIX": 235,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.08.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4q528d": {
+          "Minutes": 64
+        },
+        "6lcdjr": {
+          "Minutes": 48
+        },
+        "hmt2e5": {
+          "Minutes": 73
+        },
+        "mmdfl0": {
+          "Minutes": 9
+        },
+        "w2jtal": {
+          "Minutes": 29
+        }
+      }
+    },
+    {
+      "name": [
+        "Attend Education Guild Meeting- 28/08"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.08.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4q528d": {
+          "Minutes": 90
+        },
+        "6lcdjr": {
+          "Minutes": 90
+        },
+        "f39ntm": {
+          "Minutes": 90
+        },
+        "gfpkyd": {
+          "Minutes": 90
+        },
+        "mmdfl0": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "[August] Operations and Management: Tooling - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting",
+          "Operations"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 235,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "Notion Payment: September - 147USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 288
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 35) - 180USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "f39ntm": {
+          "AGIX": 353,
+          "Minutes": 1650
+        }
+      }
+    },
+    {
+      "name": [
+        "Marketing Initiatives for Q3 - 150 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 294,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "August Points System: Lady Tempest - 56USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 110,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.08.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "Minutes": 74
+        },
+        "w2jtal": {
+          "Minutes": 17
+        }
+      }
+    },
+    {
+      "name": [
+        "[AUGUST] Operations and Management: Report/Budget",
+        "Management - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting",
+          "Operations"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "AGIX": 235,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a clip - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "AGIX": 78,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Updating the KPI sheet - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "AGIX": 59,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Automation WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury automation wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4q528d": {
+          "Minutes": 29
+        },
+        "6lcdjr": {
+          "Minutes": 47
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a 10 Question Quiz - (Deepfunding) - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.08.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": 39,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing PBL Workshop August 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Operations",
+          "Planning"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": 10,
+          "Minutes": 15
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework PBL Meeting Facilitation August 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": 59,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "August Points System: Mikasa - 223USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gycvld": {
+          "AGIX": 437,
+          "Minutes": 660
+        }
+      }
+    }
+  ]
+}
