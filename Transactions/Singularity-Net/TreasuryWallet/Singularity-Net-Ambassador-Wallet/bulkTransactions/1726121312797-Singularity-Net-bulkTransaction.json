@@ -1,0 +1,1284 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 28",
+    "5193.8644 USD in 8803 AGIX",
+    "Transaction made by Treasury Guild @0.356",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "6977da8ea0ebc205fc4aac750f2bd92d71dc5bbe9a1fa378cfa0a48b848868ec",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 87
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3 W3CD-Web3-Contributors-Dashboard 06-09-2024",
+        "- 2730 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "r&d guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 2730
+        }
+      }
+    },
+    {
+      "name": [
+        "Operational call - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": 34,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Operational Call For Monthly and Quarterly Analytics - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 34,
+          "Minutes": 60
+        },
+        "vpyqlf": {
+          "AGIX": 34,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd & 3rd Place (06.09.24)",
+        "- 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.09.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "3te5wx": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Operator Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": 73
+        },
+        "gdwa3z": {
+          "AGIX": 73
+        },
+        "jnaxjp": {
+          "AGIX": 103
+        },
+        "sh8upr": {
+          "AGIX": 73
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Q4 Treasury Automation WG Proposal"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 17,
+          "Minutes": 30
+        }
+      }
+    },
+    {
+      "name": [
+        "Create Workgroup Q3 Proposal Report"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": 34,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup - 6.09.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "Minutes": 90
+        },
+        "j88zza": {
+          "Minutes": 90
+        },
+        "uwtdjm": {
+          "Minutes": 90
+        },
+        "ym9jac": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a Clip: General AI: towards the singularity AI with",
+        "Ben Goertzel - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.09.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "ym9jac": {
+          "AGIX": 34,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian- SingularityNET Latest Ecosystem",
+        "Updates for 08.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cehfqz": {
+          "AGIX": 42,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Quizzes Proof-Reading and Fact-Checking- 120 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.24"
+        ],
+        "label": [
+          "Social",
+          "Auditing"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 203,
+          "Minutes": 540
+        }
+      }
+    },
+    {
+      "name": [
+        "Draft Q4 Budget-50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 85,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Facilitation 05.08.2024 - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.08.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 42,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting 05.09.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "uwtdjm": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic- SingularityNET Latest Ecosystem Updates",
+        "for 08.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "fu9paa": {
+          "AGIX": 42,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Delivering Townhall updates- 08.09.2024 - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 42,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Budget Creation - 150 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 254,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "Focus Group Meeting on Q4 Ideation- 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 169,
+          "Minutes": 240
+        },
+        "gdwa3z": {
+          "AGIX": 169,
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "Focus Group Meeting on Q3 Evaluation - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 85,
+          "Minutes": 180
+        },
+        "gdwa3z": {
+          "AGIX": 85,
+          "Minutes": 180
+        },
+        "r658c7": {
+          "AGIX": 85,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3 Workgroup Report - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.09.24"
+        ],
+        "label": [
+          "Reporting",
+          "Documentation"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 85,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Quarterly Report Education Guild (Q#3) - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": 51,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Chinese- SingularityNET Latest Ecosystem Updates",
+        "for 08.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rlqgl7": {
+          "AGIX": 42,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Ethics strategy writing - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "ai ethics wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 169,
+          "Minutes": 300
+        },
+        "8k5fsy": {
+          "AGIX": 169,
+          "Minutes": 300
+        },
+        "r658c7": {
+          "AGIX": 169,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Discord Server Management August 2024 - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "experiments"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "45mzxa": {
+          "AGIX": 203,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Task Management - 120 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 203,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework Task Management 03.09.2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": 34,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Automation WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury automation wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "Minutes": 69
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Dework PBL August 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "Minutes": 225
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Guild Documentation"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.09.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": 25,
+          "Minutes": 45
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Workgroup Q3 Proposal Report"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": 8,
+          "Minutes": 15
+        }
+      }
+    },
+    {
+      "name": [
+        "Collect data for LLM structure and insights"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.24"
+        ],
+        "label": [
+          "Coordination",
+          "Documentation"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": 98,
+          "Minutes": 345
+        }
+      }
+    },
+    {
+      "name": [
+        "Draft Knowledge Base WG Q2 Report"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": 68,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Process Guild August 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": 76,
+          "Minutes": 135
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dyh23g": {
+          "AGIX": 51
+        },
+        "sh8upr": {
+          "AGIX": 51,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "Notion Set Up Ai For Beginners- 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "r658c7": {
+          "AGIX": 102,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish- SingularityNET Latest Ecosystem Updates",
+        "for 08.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": 42,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French - SingularityNET Latest Ecosystem Updates",
+        "for 08.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vcgk9c": {
+          "AGIX": 42,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Special Trivia Session: 3rd Place (06.09.24) -",
+        "10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.09.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w64w9p": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a Poll 02.09.2024 - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 17,
+          "Minutes": 30
+        }
+      }
+    },
+    {
+      "name": [
+        "Asset Creation - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Designing"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 68,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Mentoring for Town hall updates - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.09.24"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "sh8upr": {
+          "AGIX": 17,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3 Operations, Facilitator Project Management",
+        "06-09-2024 - 2021 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.24"
+        ],
+        "label": [
+          "Facilitating",
+          "Operations"
+        ],
+        "subGroup": [
+          "r&d guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": 2021
+        }
+      }
+    },
+    {
+      "name": [
+        "[AUGUST] Communications: Comms with WGs - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "6e05sc": {
+          "AGIX": 203,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese- SingularityNET Latest Ecosystem",
+        "Updates for 08.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "a82yhu": {
+          "AGIX": 42,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian- SingularityNET Latest Ecosystem Updates",
+        "for 08.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "kmwef5": {
+          "AGIX": 42,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish- SingularityNET Latest Ecosystem Updates",
+        "for 08.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rauu23": {
+          "AGIX": 42,
+          "Minutes": 150
+        }
+      }
+    }
+  ]
+}
