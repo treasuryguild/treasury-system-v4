@@ -1,0 +1,133 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 2",
+    "0.00 USD in 270.00 MINS",
+    "3.57 USD in 7.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "8a1d3485571befab584691c1841971944e2702dc2e70e83f4dc87da92d195010",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Testing super long names in the metadata and if its",
+        "processed properly - 2 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.08.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Test WG"
+        ]
+      },
+      "taskCreator": "treasury guild",
+      "contributors": {
+        "7zxn7j": {
+          "AGIX": "2",
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "Create a Poll 02.09.2024 - 1 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Test WG"
+        ]
+      },
+      "taskCreator": "treasury guild",
+      "contributors": {
+        "7zxn7j": {
+          "AGIX": "1",
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework Task Management 03.09.2024 - 2 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Test WG"
+        ]
+      },
+      "taskCreator": "treasury guild",
+      "contributors": {
+        "7zxn7j": {
+          "AGIX": "2",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Meeting Facilitation 02.09.24 - 1 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Test WG"
+        ]
+      },
+      "taskCreator": "treasury guild",
+      "contributors": {
+        "7zxn7j": {
+          "AGIX": "1",
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "treasury guild contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.09.2024"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "treasury guild"
+      ],
+      "contributors": {
+        "lq69gt": {
+          "AGIX": "1.00"
+        }
+      }
+    }
+  ]
+}
