@@ -1,0 +1,727 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 23",
+    "940.408 USD in 1679 AGIX",
+    "Transaction made by Treasury Guild @0.331",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "560e2566270971aaca27c068394ebec78e8810b67d561f4827acc430274cb957",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 15
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup - 13.09.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "Minutes": 90
+        },
+        "vpyqlf": {
+          "AGIX": 54,
+          "Minutes": 90
+        },
+        "ym9jac": {
+          "AGIX": 54,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup - 23.08.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.08.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 18,
+          "Minutes": 90
+        },
+        "gfpkyd": {
+          "AGIX": 161,
+          "Minutes": 90
+        },
+        "j2a40n": {
+          "AGIX": 54,
+          "Minutes": 90
+        },
+        "j88zza": {
+          "AGIX": 107,
+          "Minutes": 90
+        },
+        "m5dusc": {
+          "AGIX": 18,
+          "Minutes": 90
+        },
+        "sh8upr": {
+          "AGIX": 36,
+          "Minutes": 90
+        },
+        "w2jtal": {
+          "AGIX": 18,
+          "Minutes": 90
+        },
+        "ym9jac": {
+          "AGIX": 143,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup - 30.08.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.08.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "j88zza": {
+          "Minutes": 90
+        },
+        "m5dusc": {
+          "Minutes": 90
+        },
+        "w2jtal": {
+          "Minutes": 90
+        },
+        "ym9jac": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Focus group meeting- 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.09.24"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": 71,
+          "Minutes": 120
+        },
+        "hmt2e5": {
+          "AGIX": 71,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting 12.09.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "Minutes": 60
+        },
+        "7lnpzs": {
+          "Minutes": 60
+        },
+        "8qsftq": {
+          "Minutes": 60
+        },
+        "dl6xdk": {
+          "Minutes": 60
+        },
+        "gdwa3z": {
+          "Minutes": 60
+        },
+        "hmt2e5": {
+          "Minutes": 60
+        },
+        "j88zza": {
+          "Minutes": 60
+        },
+        "mmdfl0": {
+          "Minutes": 60
+        },
+        "pgqg9n": {
+          "Minutes": 60
+        },
+        "sh8upr": {
+          "Minutes": 60
+        },
+        "uwtdjm": {
+          "Minutes": 60
+        },
+        "w2jtal": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Uploading Meeting Summary to the tool-10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 18,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Notes & Summary",
+        "-12.09.2024- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": 54,
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Attend Education Guild Meeting- 11/09"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "Minutes": 90
+        },
+        "f39ntm": {
+          "Minutes": 90
+        },
+        "gdwa3z": {
+          "Minutes": 90
+        },
+        "r658c7": {
+          "Minutes": 90
+        },
+        "sh8upr": {
+          "Minutes": 90
+        },
+        "w2jtal": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Attend Education Guild Meeting- 04/09"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "Minutes": 90
+        },
+        "dl6xdk": {
+          "Minutes": 90
+        },
+        "gdwa3z": {
+          "Minutes": 90
+        },
+        "r658c7": {
+          "Minutes": 90
+        },
+        "sh8upr": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summarizing- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 54,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video: Defining Autonomy in AGI Systems - 75 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.09.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "65snfx": {
+          "AGIX": 134,
+          "Minutes": 210
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Facilitation 12.09.2024 - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0jx607": {
+          "AGIX": 45,
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Dework PBL August 2024 -",
+        "75 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet",
+        "governance guild"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": 134,
+          "Minutes": 58
+        }
+      }
+    },
+    {
+      "name": [
+        "Reviewed Knowledge Base WG Q4 Proposal"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.24"
+        ],
+        "label": [
+          "Auditing",
+          "Operations"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": 36,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd and 3rd Place (13.09.24) -",
+        "10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.09.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w64w9p": {
+          "AGIX": 18,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Make Department (Education Guild)- 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.09.24"
+        ],
+        "label": [
+          "Tool Development",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "c70dqg": {
+          "AGIX": 89,
+          "Minutes": 300
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Prep and Agenda - 08.2024 - 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": 143,
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Marketing Guild 13.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "Minutes": 53
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Marketing Guild 06.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "Minutes": 84
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Knowledge Base WG "
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "Minutes": 102
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Facilitation & Documentation Roster- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.09.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "AGIX": 45,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Budget proposal - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "w2jtal": {
+          "AGIX": 89,
+          "Minutes": 150
+        }
+      }
+    }
+  ]
+}
