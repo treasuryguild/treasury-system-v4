@@ -1,0 +1,34 @@
+{
+  "msg": [
+    "Singularity Net Ambassador Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "124.98 USD in 214.00 AGIX",
+    "0.39 USD in 1.17232 ADA",
+    "Transaction made by Treasury Guild @0.335",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "6c217474111d1dfa55b1102d7584d83003be903805f62997e08b03a4de5aa597",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Due to an error in the system, the funds are returned No3"
+      ],
+      "taskCreator": [
+        "Singularity Net Ambassador Wallet"
+      ],
+      "contributors": {
+        "hmt2e5": {
+          "ADA": 1.17232,
+          "AGIX": 214
+        }
+      }
+    }
+  ]
+}
