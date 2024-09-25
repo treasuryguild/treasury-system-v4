@@ -1,0 +1,40 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 1",
+    "Reverse Transaction",
+    "Transaction made by Treasury Guild @0.384",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "17a499bfdbba592744173b9f99e31f802b9b996daba0f72cdbabdeaf46527aa5",
+  "mdVersion": [
+    "1.8"
+  ],
+  "txToReverse": "0e479f9724beda4018638688d5a7be7e72d601e2006f89cdca161c1a2426526e",
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "AGIX": 1
+        }
+      }
+    }
+  ]
+}
