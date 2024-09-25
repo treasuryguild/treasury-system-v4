@@ -1,0 +1,66 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 2",
+    "1.5 USD in 2 AGIX",
+    "Transaction made by Treasury Guild @0.384",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "0e479f9724beda4018638688d5a7be7e72d601e2006f89cdca161c1a2426526e",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "AGIX": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Dework PBL WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "AGIX": 1,
+          "Minutes": 30
+        }
+      }
+    }
+  ]
+}
