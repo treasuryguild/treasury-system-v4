@@ -1,0 +1,94 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 2",
+    "3 USD in 4 AGIX",
+    "Transaction made by Treasury Guild @0.384",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "00b042e69e71d0853dbf41b281eeec4f61a19c3e0fab08d3fb4b9912632338b0",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Test task 1"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "AGIX": 1
+        },
+        "c95tmr": {
+          "AGIX": 1,
+          "Minutes": 30
+        }
+      }
+    },
+    {
+      "name": [
+        "Test task 2"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "AGIX": 1
+        }
+      }
+    },
+    {
+      "name": [
+        "Test task 3"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "dework pbl"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "AGIX": 1,
+          "Minutes": 30
+        }
+      }
+    }
+  ]
+}
