@@ -1,0 +1,30 @@
+{
+  "msg": [
+    "FaultyTx-Filter",
+    "Addresses the invalidation or filtration of faulty transactions"
+  ],
+  "txid": "a5fd1c0a6e4cfb57b64adb8241232dc4cf1b8e0354ce781ba197846eded4e26b",
+  "faultyTx": "50135d9b969683e79a85e591c915d72cff94c8ecb8a5ad60d5eff0656a45567f",
+  "mdVersion": [
+    "rr-1.0"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Test task 1"
+      ],
+      "contributors": [
+        "c95tmr"
+      ]
+    },
+    {
+      "contributors": [
+        "7zxn7j"
+      ]
+    }
+  ],
+  "tokensReturned": [
+    "68658b1179f62f96b20af5431c18364125f3a56c370b21f22ecba0b9740fa41b",
+    "597ff03b5692bd90a410997e0e2325eb26a7ccdea732738049fd1fd0c917b879"
+  ]
+}
