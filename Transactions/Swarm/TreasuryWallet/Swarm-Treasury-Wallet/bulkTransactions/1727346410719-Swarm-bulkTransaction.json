@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "355.500 USD in 900.00 ADA",
+    "Transaction made by Treasury Guild @0.395",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "9dc76cad56d17bfc3b5d31a7f2318441f4ba433ef06957cb4888b80993c86658",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Moving 900 ADA to Swarm DRep wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.09.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "4k94j3": {
+          "ADA": "900"
+        }
+      }
+    }
+  ]
+}
