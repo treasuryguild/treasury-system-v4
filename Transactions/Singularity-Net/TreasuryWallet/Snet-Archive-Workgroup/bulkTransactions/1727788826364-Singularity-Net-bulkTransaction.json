@@ -1,0 +1,88 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 6",
+    "6758.154 USD in 9627.00 AGIX",
+    "Transaction made by Treasury Guild @0.382",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "c3b395512c03a83fc60089f86f3498ac01a083a527512f5cef9eed249d11af7b",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Town Hall session on Ubios work on AI tooling"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.10.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "l5mtez": {
+          "AGIX": "103"
+        },
+        "r658c7": {
+          "AGIX": "103"
+        }
+      }
+    },
+    {
+      "name": [
+        "Core contributions April May June July August 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.10.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "2647"
+        },
+        "7zxn7j": {
+          "AGIX": "3215"
+        },
+        "mg3a4k": {
+          "AGIX": "3352"
+        }
+      }
+    },
+    {
+      "name": [
+        "Distributing Rewards Q2"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.10.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "AGIX": "207"
+        }
+      }
+    }
+  ]
+}
