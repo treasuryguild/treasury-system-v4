@@ -1,0 +1,638 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 19",
+    "960.914 USD in 1353 AGIX",
+    "Transaction made by Treasury Guild @0.384",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "86dca52814db4cef3d98592f1000ea8bcba18230dfbaa2d9ee1cdee801f9eb56",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.10.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 13
+        }
+      }
+    },
+    {
+      "name": [
+        "Part 2: Event in Nigeria: SPEAKERS -150 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.10.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "ai ethics wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lq9wke": {
+          "AGIX": 211,
+          "Minutes": 600
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Operator Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 58
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation September 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 113,
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Workshops or Events September 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 176,
+          "Minutes": 375
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Process Guild Workshops or Events September 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Planning"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 77,
+          "Minutes": 165
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Process Guild September 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "knowledge base wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 63,
+          "Minutes": 135
+        }
+      }
+    },
+    {
+      "name": [
+        "Zoom Import to Treasury Manager September"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "process guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 169,
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "Operational Call - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cj3a3y": {
+          "AGIX": 28,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video: Future Trends for Human-AI Collaboration",
+        "- 75 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.09.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cj3a3y": {
+          "AGIX": 106,
+          "Minutes": 210
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Writers WG 27.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0hpy7g": {
+          "Minutes": 59
+        },
+        "f39ntm": {
+          "Minutes": 67
+        },
+        "gycvld": {
+          "Minutes": 65
+        },
+        "hmt2e5": {
+          "Minutes": 49
+        },
+        "rauu23": {
+          "Minutes": 58
+        },
+        "sh8upr": {
+          "Minutes": 66
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Marketing Guild 27.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "a3amjj": {
+          "Minutes": 39
+        },
+        "lcmus4": {
+          "Minutes": 39
+        }
+      }
+    },
+    {
+      "name": [
+        "Ubuntu and AI-Pre-event"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "ai ethics wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lcmus4": {
+          "Minutes": 27
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitator Rewards in Treasury Guild - 180USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.09.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 254
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in African Guild 26.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0cnk5v": {
+          "Minutes": 45
+        },
+        "gfwv7a": {
+          "Minutes": 17
+        },
+        "hmt2e5": {
+          "Minutes": 57
+        },
+        "mmdfl0": {
+          "Minutes": 44
+        },
+        "r658c7": {
+          "Minutes": 57
+        },
+        "xl6z2n": {
+          "Minutes": 58
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting 26.09.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "a3amjj": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Review Ambassador Program Proposals and Q3 reports"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.09.24"
+        ],
+        "label": [
+          "Auditing",
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 85,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 194
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Strategy Guild 23.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "strategy guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0cnk5v": {
+          "Minutes": 61
+        },
+        "0emj8p": {
+          "Minutes": 71
+        },
+        "fe6czc": {
+          "Minutes": 43
+        },
+        "lcmus4": {
+          "Minutes": 55
+        },
+        "mmdfl0": {
+          "Minutes": 44
+        },
+        "r658c7": {
+          "Minutes": 34
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Marketing Guild 20.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "marketing guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "a3amjj": {
+          "Minutes": 62
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Writers WG 20.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "0cnk5v": {
+          "Minutes": 37
+        },
+        "0hpy7g": {
+          "Minutes": 57
+        },
+        "f39ntm": {
+          "Minutes": 60
+        },
+        "gycvld": {
+          "Minutes": 46
+        },
+        "hmt2e5": {
+          "Minutes": 58
+        },
+        "sh8upr": {
+          "Minutes": 58
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations 17.09.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 85
+        }
+      }
+    }
+  ]
+}
