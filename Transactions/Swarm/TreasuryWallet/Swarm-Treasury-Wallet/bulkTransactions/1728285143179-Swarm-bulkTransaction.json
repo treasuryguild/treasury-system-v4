@@ -1,0 +1,235 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 4",
+    "303.12 USD in 842 ADA",
+    "Transaction made by Treasury Guild @0.364",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "8abd150608a3630ba8030f007c3e721b09090f8952792e6d1ca41fa40c005428",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Swarm Tools Fluid 7 INVs 10813 10818 10829 - 69 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.10.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "0345mg": {
+          "ada": 192
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools September 2024 Zoom, Twitter, Meetup and Adobe",
+        "186 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "u7ywg4": {
+          "ada": 517
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools September 2024 GitBook 48 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "ada": 133
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - August 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "Minutes": 2460
+        },
+        "rcgctj": {
+          "Minutes": 1020
+        }
+      }
+    },
+    {
+      "name": [
+        "Investigate Google Login Issues and Guides"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.08.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 45
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury Manager Updates - July 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 350
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - July 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "Minutes": 3480
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury Manager Updates - June 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 435
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - June 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "treasury guild"
+        ]
+      },
+      "taskCreator": [
+        "catalyst swarm"
+      ],
+      "contributors": {
+        "jnaxjp": {
+          "Minutes": 1680
+        }
+      }
+    }
+  ]
+}
