@@ -1,0 +1,1255 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 26",
+    "4468.7349 USD in 7093 AGIX",
+    "Transaction made by Treasury Guild @0.358",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "8fd113417389813ce461b99ea046b877442c60ad5419b3d672aaae217c864eda",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.10.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": 70
+        }
+      }
+    },
+    {
+      "name": [
+        "Review Team - 180 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.10.24"
+        ],
+        "label": [
+          "Operations",
+          "Auditing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cj3a3y": {
+          "AGIX": 286
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup 11.10.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.10.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "a3amjj": {
+          "Minutes": 60
+        },
+        "cj3a3y": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Policy Submissions - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.10.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "treasury policy wg"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "AGIX": 32,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup 04.10.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.10.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "a3amjj": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Ubuntu and AI event contributors/participants - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.10.24"
+        ],
+        "label": [
+          "Community communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "y3spv8": {
+          "AGIX": 32,
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "Ubuntu and AI Event Volunteers - 170 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.10.24"
+        ],
+        "label": [
+          "operations",
+          "documentation"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lcmus4": {
+          "AGIX": 270,
+          "Minutes": 480
+        }
+      }
+    },
+    {
+      "name": [
+        "Ubio Tool Development - Q3 2024 - 1200 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "archival workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lq9wke": {
+          "AGIX": 1905
+        }
+      }
+    },
+    {
+      "name": [
+        "Batch 2: August-Sept Sprint Winners (Random) -",
+        "10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "vnxuur": {
+          "AGIX": 16,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Batch 2: August-Sept Sprint Winners - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "5cq863": {
+          "AGIX": 16,
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 2nd & 3rd Place (27.09.24)",
+        "- 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.09.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "lxawu5": {
+          "AGIX": 16,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup 27.09.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cj3a3y": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup 20.09.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cj3a3y": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summary Notes - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "y3spv8": {
+          "AGIX": 40,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Prepare/Manage - 90 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.10.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 143
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Hosting and Dework - 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.10.24"
+        ],
+        "label": [
+          "Operations",
+          "Facilitating"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 95
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Onboarding Engagement - 0110.2024",
+        "-15.10.2024 - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.10.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 159
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Weekly meeting facilitation -160 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.10.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 254
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Creation of Blueprint and Budget proposal",
+        "- 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.10.24"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ai sandbox"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cq699s": {
+          "AGIX": 79
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Meeting Facilitation 10.10.2024 -",
+        "40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.10.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "ai sandbox"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cq699s": {
+          "AGIX": 63
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Scribe meeting notes, edit and post -",
+        "09.10.24 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 48
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Hosting And Dework Management - 09/10",
+        "- 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.24"
+        ],
+        "label": [
+          "Operations",
+          "Facilitating"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 127
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Ai For Beginners- Module 1- Video",
+        "Creation - 125 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cq699s": {
+          "AGIX": 198
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Q4 Operations, Documenter",
+        "09-10-2024 - 40USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "latam guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "gyflgn": {
+          "AGIX": 63
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Onboarding Focus group meeting- 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.10.24"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 79
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Automation Running - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.10.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 159
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Certification Program Testing /",
+        "Finalizing - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.10.24"
+        ],
+        "label": [
+          "content creation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 32
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - CCCP Forms Conversion - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.10.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "cq699s": {
+          "AGIX": 40
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Management/ Development - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.10.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "gamers guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 159
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Make a video : Tests that Confirm",
+        "Human-level AGI Has Been Achieved - 75 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.10.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "video workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "hx8ccn": {
+          "AGIX": 119
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Hosting And Dework Management - 02/10",
+        "- 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.10.24"
+        ],
+        "label": [
+          "Operations",
+          "Facilitating"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 127
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Scribe meeting notes, edit and post -",
+        "02.10.24 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.10.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "education guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": 48
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Ubuntu and AI event",
+        "contributors/participants - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.10.24"
+        ],
+        "label": [
+          "Community communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "african guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "8a529r": {
+          "AGIX": 32
+        },
+        "fe6czc": {
+          "AGIX": 32
+        },
+        "mljxja": {
+          "AGIX": 32
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Managing Miro & Dework Documentation",
+        "- 01.10.2024 - 07.10.2024- 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.10.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "onboarding workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 95
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Translation Workgroup Activities September",
+        "2024 - 150 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Documenting",
+          "Reporting"
+        ],
+        "subGroup": [
+          "translator workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 238
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - August-Sept Sprint Zealy Winners:",
+        "Random Sprinters - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "2km5t7": {
+          "AGIX": 16
+        },
+        "fwecyc": {
+          "AGIX": 16
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - August-Sept Sprint Zealy Winners: Top",
+        "11-20 Sprinters - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "x2da4w": {
+          "AGIX": 16
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Q3 Good Meeting Summary Judges - 90 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "archival workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "9klqvn": {
+          "AGIX": 143
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - August-Sept Sprint Zealy Winners: Top",
+        "5 Sprinters - 30USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "4hwrlm": {
+          "AGIX": 48
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - August-Sept Sprint Zealy Winners: Top",
+        "6-10 Sprinters - 20USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "am54rp": {
+          "AGIX": 32
+        },
+        "pxym8z": {
+          "AGIX": 32
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - DRAFT: THE IMPORTANCE OF AI IN HUMAN",
+        "DEVELOPMENT - 30USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "97uqfc": {
+          "AGIX": 48
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Sept Points System: Evelyn - 23USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "97uqfc": {
+          "AGIX": 37
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Trivia Session: 2nd Place",
+        "(20.09.24) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.09.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "writers workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "am54rp": {
+          "AGIX": 16
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Meeting (Project Management) -",
+        "Wednesday 04th September 2024 - 200 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "archival workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "AGIX": 317
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - No Meeting - Project Management -",
+        "Wednesday 21th August 2024 - 200 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.08.24"
+        ],
+        "label": [
+          "operations",
+          "coordination"
+        ],
+        "subGroup": [
+          "archival workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "AGIX": 317
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - No Meeting - Project Management -",
+        "Wednesday 07th August 2024 - 200 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.08.24"
+        ],
+        "label": [
+          "operations",
+          "coordination"
+        ],
+        "subGroup": [
+          "archival workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "AGIX": 317
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Meeting 29 Project Management -",
+        "Wednesday 24th July 2024 - 200 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.07.24"
+        ],
+        "label": [
+          "operations",
+          "coordination"
+        ],
+        "subGroup": [
+          "archival workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "AGIX": 317
+        }
+      }
+    },
+    {
+      "name": [
+        "Missing Rewards - Meeting 28 Project Management -",
+        "Wednesday 10th July 2024 - 200 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.07.24"
+        ],
+        "label": [
+          "operations",
+          "coordination"
+        ],
+        "subGroup": [
+          "archival workgroup"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "mg3a4k": {
+          "AGIX": 317
+        }
+      }
+    }
+  ]
+}
