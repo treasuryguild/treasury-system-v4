@@ -1,0 +1,895 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 7",
+    "29.4 USD in 84 ADA",
+    "Transaction made by Treasury Guild @0.359",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "42bccfeccbdbd0bba4436e25a8935580e976c33de25fc2edaa1e7c7c4d4bc9a1",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "ATH Facilitation and Preparation"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.10.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "2a7tar": {
+          "ada": 21,
+          "Minutes": 30
+        },
+        "kggmzh": {
+          "ada": 63,
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.10.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "2a7tar": {
+          "Minutes": 108
+        },
+        "kggmzh": {
+          "Minutes": 93
+        },
+        "rcgctj": {
+          "Minutes": 123
+        }
+      }
+    },
+    {
+      "name": [
+        "Update GitBook Documentation"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 180
+        }
+      }
+    },
+    {
+      "name": [
+        "New attempt on Town Hall Survey publishing"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Coordination",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 135
+        }
+      }
+    },
+    {
+      "name": [
+        "Draft September TH Slides"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation for Intersect Town Hall",
+        "Sessions September 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Reporting",
+          "Community Communication",
+          "Documentation",
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 810
+        }
+      }
+    },
+    {
+      "name": [
+        "Communicating with Intersect Staff"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 360
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Intersect Events or Workshops September 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 540
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "2a7tar": {
+          "Minutes": 108
+        },
+        "jhyhwp": {
+          "Minutes": 59
+        },
+        "jl2vjm": {
+          "Minutes": 55
+        },
+        "kggmzh": {
+          "Minutes": 130
+        },
+        "rcgctj": {
+          "Minutes": 160
+        }
+      }
+    },
+    {
+      "name": [
+        "Publicity for TH - 26.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.09.24"
+        ],
+        "label": [
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 60
+        }
+      }
+    },
+    {
+      "name": [
+        "Create Swarm Twitter Poll"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.09.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 15
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall Workgroup 20.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 109
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall Workgroup 19.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 57
+        }
+      }
+    },
+    {
+      "name": [
+        "Update GitHub Documentation"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.09.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "Publicity of surveys"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.09.24"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 150
+        }
+      }
+    },
+    {
+      "name": [
+        "Publicity and call out for content"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.09.24"
+        ],
+        "label": [
+          "Coordination",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 75
+        }
+      }
+    },
+    {
+      "name": [
+        "Design Miro Board Framework over time"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.09.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 240
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall Workgroup 12.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 109
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall Workgroup 05.09.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 106
+        }
+      }
+    },
+    {
+      "name": [
+        "Drafting ITH Event Template"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 90
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Intersect Events or Workshops August 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 735
+        }
+      }
+    },
+    {
+      "name": [
+        "Coordinating Bounty Rewards for August Slides"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 75
+        }
+      }
+    },
+    {
+      "name": [
+        "13.08.24 - Intersect Staff Concerns about Intersect",
+        "Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.08.24"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 525
+        }
+      }
+    },
+    {
+      "name": [
+        "Publicity and call out for TH Survey and invite to ATH"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.08.24"
+        ],
+        "label": [
+          "Coordination",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 255
+        }
+      }
+    },
+    {
+      "name": [
+        "Intersect Town Hall Summary"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.08.24"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 660
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall 29.08.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.08.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "cg4dvm": {
+          "Minutes": 118
+        },
+        "jhyhwp": {
+          "Minutes": 61
+        },
+        "jl2vjm": {
+          "Minutes": 118
+        },
+        "rcgctj": {
+          "Minutes": 156
+        }
+      }
+    },
+    {
+      "name": [
+        "Coordinate Intersect Staff Action Items"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.08.24"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 75
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Permissions"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.08.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 15
+        },
+        "u7ywg4": {
+          "Minutes": 15
+        }
+      }
+    },
+    {
+      "name": [
+        "Intersect Staff Concerns about Intersect Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.08.24"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 120
+        }
+      }
+    },
+    {
+      "name": [
+        "Intersect - Google Calendar Changes"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.08.24"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 30
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Swarm ITH Stand Up Session"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.08.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 153
+        }
+      }
+    },
+    {
+      "name": [
+        "Publicity and call out for content October"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.08.24"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 45
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall Planning Session"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.08.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 75
+        }
+      }
+    },
+    {
+      "name": [
+        "Create Power BI model to visualize Participation"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.08.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "town hall wg"
+        ]
+      },
+      "taskCreator": [
+        "intersect"
+      ],
+      "contributors": {
+        "rcgctj": {
+          "Minutes": 120
+        }
+      }
+    }
+  ]
+}
