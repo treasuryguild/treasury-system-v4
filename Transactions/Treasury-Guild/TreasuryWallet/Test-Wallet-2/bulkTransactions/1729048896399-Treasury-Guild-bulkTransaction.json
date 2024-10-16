@@ -1,0 +1,67 @@
+{
+  "msg": [
+    "Test Wallet 2 Transaction",
+    "Website: ",
+    "Recipients: 2",
+    "6.260 USD in 10.00 AGIX",
+    "0.000 USD in 30.00 GMBL",
+    "Transaction made by Treasury Guild @0.355",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "f686238490cbb254e19d13a8b452677696c3afc0e30c6b53e616b0a0d84434f3",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Testing multi addr tx"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Test WG"
+        ]
+      },
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "c95tmr": {
+          "AGIX": "5",
+          "GMBL": "10"
+        }
+      }
+    },
+    {
+      "name": [
+        "Testing multi addr tx Test 2"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Test WG"
+        ]
+      },
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "lq69gt": {
+          "AGIX": "5",
+          "GMBL": "20"
+        }
+      }
+    }
+  ]
+}
