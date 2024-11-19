@@ -1,0 +1,415 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 7",
+    "826.58 USD in 1117.00 ADA",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "8677daf4169c9e131fdacefc5850c4fd56889aef8254250015771f4dead06ddd",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "NOV to NOV 25 - Swarm Tools GitBook 480 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.11.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "649"
+        }
+      }
+    },
+    {
+      "name": [
+        "NOV - Swarm Tools GitBook 48 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.11.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "65"
+        }
+      }
+    },
+    {
+      "name": [
+        "NOV - Swarm Tools Fluid 7 (10849,10876) - 37 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.11.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "0345mg": {
+          "ADA": "50"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations 13.11.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.11.24"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "MINS": "65"
+        },
+        "rcgctj": {
+          "MINS": "66"
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools October 2024 Zoom, Twitter, Meetup and",
+        "Adobe 158 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "u7ywg4": {
+          "ADA": "214"
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools October 2024 GitBook 48 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "ADA": "65"
+        }
+      }
+    },
+    {
+      "name": [
+        "Swarm Tools Fluid 7 INVs 10843 10861 10871 - 55 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "0345mg": {
+          "ADA": "74"
+        }
+      }
+    },
+    {
+      "name": [
+        "Drafting Fund 13 Treasury Proposals"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.24"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "1305"
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - October",
+        "2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "MINS": "2040"
+        },
+        "rcgctj": {
+          "MINS": "825"
+        }
+      }
+    },
+    {
+      "name": [
+        "Nate and Tevo Coordination on Oli Tooling with",
+        "Ambassador Programs"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.10.24"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Community Support Quarter 3 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.10.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "MINS": "180"
+        },
+        "rcgctj": {
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - September",
+        "2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "MINS": "1800"
+        },
+        "rcgctj": {
+          "MINS": "945"
+        }
+      }
+    },
+    {
+      "name": [
+        "Create Intersect Board Application"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.09.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "600"
+        }
+      }
+    },
+    {
+      "name": [
+        "Sharing Status updates"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.09.24"
+        ],
+        "label": [
+          "Reporting",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Updated Microsoft licenses"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "15"
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Catalyst Swarm WordPress Core, Theme & Plugins"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Tool Development"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "n7qgup": {
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting with Eastern TH Leaders - 25.11.2023"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.11.23"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "j3hkj2": {
+          "MINS": "60"
+        },
+        "u7ywg4": {
+          "MINS": "60"
+        }
+      }
+    }
+  ]
+}
