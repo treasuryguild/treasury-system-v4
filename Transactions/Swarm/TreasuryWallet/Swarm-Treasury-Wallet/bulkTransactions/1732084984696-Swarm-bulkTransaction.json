@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 2",
+    "218.83 USD in 277.00 ADA",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "ca1f820c64860d8aaafb227cec3e76939fbf8b76102b3ead34e0d4d54d86876a",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "JAN 2025 to JAN 2026 - Swarm Tools Fluid 7 - 219 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "0345mg": {
+          "ADA": "277"
+        }
+      }
+    }
+  ]
+}
