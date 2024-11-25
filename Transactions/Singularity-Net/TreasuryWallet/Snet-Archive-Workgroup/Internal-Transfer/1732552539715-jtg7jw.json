@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @1.005",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "335b53cc369e1ad8532bb1ddf49c3006f698ca001baab76f05b817184474fd4b",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Internal Transfer"
+      ],
+      "description": [
+        "Internal Transfer"
+      ],
+      "taskCreator": [
+        "Snet Archive Workgroup"
+      ],
+      "contributors": {
+        "jtg7jw": {
+          "ADA": 0.170517
+        }
+      }
+    }
+  ]
+}
