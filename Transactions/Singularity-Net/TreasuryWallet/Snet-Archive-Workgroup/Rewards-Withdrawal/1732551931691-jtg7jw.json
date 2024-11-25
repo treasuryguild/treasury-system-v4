@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @1.007",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "57c69c019359bb8b7cb42bf43db3e3794946a83d3f21951262ba27ca1deb9242",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Rewards Withdrawal"
+      ],
+      "description": [
+        "Rewards Withdrawal"
+      ],
+      "taskCreator": [
+        "Snet Archive Workgroup"
+      ],
+      "contributors": {
+        "jtg7jw": {
+          "ADA": 29.414205
+        }
+      }
+    }
+  ]
+}
