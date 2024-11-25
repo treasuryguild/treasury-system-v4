@@ -1,0 +1,30 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @1.001",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "636aef075e0433f5dd99a3d48aeb3e5ce12ac80e47333d6e716aa79cc01ce2e9",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [],
+      "description": [
+        "Rest of 25 ADA to the small dwarf from the basement"
+      ],
+      "taskCreator": [
+        "Snet Archive Workgroup"
+      ],
+      "contributors": {
+        "8d0mrn": {
+          "ADA": 25.20424,
+          "GMBL": 2
+        }
+      }
+    }
+  ]
+}
