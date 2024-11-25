@@ -1,0 +1,47 @@
+{
+  "msg": [
+    "Snet Archive Workgroup Transaction",
+    "Website: ",
+    "Recipients: 3",
+    "3461.019 USD in 3443.80 ADA",
+    "0.000 USD in 6.00 GMBL",
+    "Transaction made by Treasury Guild @1.005",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "ceeff3020abafd24611a3570679e76e73d63989a8e6c8c7fc23502a3a249fefa",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Core contributions March 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.11.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "7lnpzs": {
+          "ADA": "2157.2",
+          "GMBL": "2"
+        },
+        "7zxn7j": {
+          "ADA": "624.36",
+          "GMBL": "2"
+        },
+        "mg3a4k": {
+          "ADA": "662.24",
+          "GMBL": "2"
+        }
+      }
+    }
+  ]
+}
