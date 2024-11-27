@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Singularity Net Ambassador Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.991",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "b8f0b3aa62fadf20af9acec8081a2f92fb450236499b35762ee0f3d960232832",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Error in the payment system but missing AGIX"
+      ],
+      "taskCreator": [
+        "Singularity Net Ambassador Wallet"
+      ],
+      "contributors": {
+        "6l8zz0": {
+          "ADA": 0.96975
+        }
+      }
+    }
+  ]
+}
