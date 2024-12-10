@@ -1,0 +1,843 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 23",
+    "3988.60 USD in 5180.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "ff330696ca0abbef5794e9e94f83fa5a01bcaca77477539642ce6cdfbcd3a3eb",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Dework Management 28.11.24 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.11.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "52",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Facilitation 28.11.2024 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.11.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cq699s": {
+          "AGIX": "52",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Certification Program Winners- 3rd - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "65",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Certification Program Winners- 2nd - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mljxja": {
+          "AGIX": "130",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Certification Program Winners- 1st - 150 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": "195",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Scribe meeting notes, edit and post - 27.11.24 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": "39",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Hosting And Dework Management - 27/11 - 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.24"
+        ],
+        "label": [
+          "Operations",
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": "104",
+          "MINS": "240"
+        }
+      }
+    },
+    {
+      "name": [
+        "Hosting And Dework Management - 20/11 - 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.11.24"
+        ],
+        "label": [
+          "Operations",
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": "104",
+          "MINS": "240"
+        }
+      }
+    },
+    {
+      "name": [
+        "Data Scraping for Website - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "39",
+          "MINS": "120"
+        },
+        "vcgk9c": {
+          "AGIX": "39",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Outreach and Announcement CCCP - November - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "r658c7": {
+          "AGIX": "65",
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation November 2024 - Azulene - 219USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "5fnegp": {
+          "AGIX": "284",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation October 2024 - Azulene - 219USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "5fnegp": {
+          "AGIX": "284",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation November 2024 - Marina - 219USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0wdye7": {
+          "AGIX": "284",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation October 2024 - Marina - 219USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0wdye7": {
+          "AGIX": "284",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation November 2024 - Nic - 55USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "zl83us": {
+          "AGIX": "71",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation October 2024 - Nic - 55USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "zl83us": {
+          "AGIX": "71",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation September 2024 - Nic - 65USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "zl83us": {
+          "AGIX": "84",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation August 2024 - Nic - 65USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "zl83us": {
+          "AGIX": "84",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation July 2024 - Nic - 65USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "zl83us": {
+          "AGIX": "84",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation August 2024 - Azulene - 259USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "5fnegp": {
+          "AGIX": "336",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation September 2024 - Azulene - 259USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "5fnegp": {
+          "AGIX": "336",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation September 2024 - Marina - 259USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0wdye7": {
+          "AGIX": "336",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation August 2024 - Marina - 259USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0wdye7": {
+          "AGIX": "336",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation July 2024 - Marina - 259USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0wdye7": {
+          "AGIX": "336",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation July 2024 - Azulene - 259USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "5fnegp": {
+          "AGIX": "336",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Discord Server Management November 2024 - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Experiments"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "45mzxa": {
+          "AGIX": "156",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Management- 90 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Gamers Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": "117",
+          "MINS": "360"
+        }
+      }
+    },
+    {
+      "name": [
+        "Managing Miro & Dework Documentation -",
+        "26.11.2024-02.12.2024 - 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "78",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Prep and Agenda - 28.11.2024- 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.11.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "32",
+          "MINS": "240"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Facilitation 28.11.2024 - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.11.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "32",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting- 28.11.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.11.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "60"
+        },
+        "9klqvn": {
+          "MINS": "60"
+        },
+        "c63luv": {
+          "MINS": "60"
+        },
+        "dl6xdk": {
+          "MINS": "60"
+        },
+        "f2j6pq": {
+          "MINS": "60"
+        },
+        "hmt2e5": {
+          "MINS": "60"
+        },
+        "j88zza": {
+          "MINS": "60"
+        },
+        "klgjdc": {
+          "MINS": "60"
+        },
+        "ksvr67": {
+          "MINS": "60"
+        },
+        "sh8upr": {
+          "MINS": "60"
+        },
+        "w2jtal": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Delivering Townhall updates- 26.11.2024 - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": "13",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Operations, Facilitator, Documenter, Project",
+        "Management 29-11-2024 - 271 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.11.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "271"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "51.00"
+        }
+      }
+    }
+  ]
+}
