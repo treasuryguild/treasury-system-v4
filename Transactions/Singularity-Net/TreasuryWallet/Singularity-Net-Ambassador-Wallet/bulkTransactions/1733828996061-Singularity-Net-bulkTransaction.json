@@ -1,0 +1,758 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 23",
+    "1876.49 USD in 2437.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "f0ba8807f17ed0da593ac34f4f697781aae92e9e7cacf0aee933b37c760890c8",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Meeting of the Video Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.12.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "65snfx": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Social Media Manager - 252 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": "327"
+        }
+      }
+    },
+    {
+      "name": [
+        "Town hall summary edit - 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": "78"
+        }
+      }
+    },
+    {
+      "name": [
+        "Task management - 252 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j88zza": {
+          "AGIX": "327"
+        }
+      }
+    },
+    {
+      "name": [
+        "Review Team - 126 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.24"
+        ],
+        "label": [
+          "Operations",
+          "Auditing"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "65snfx": {
+          "AGIX": "164"
+        },
+        "h2hc92": {
+          "AGIX": "164"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Facilitation (Monthly) - 180 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": "234"
+        }
+      }
+    },
+    {
+      "name": [
+        "Ambassador Townhall Video Edit (Monthly) - 144 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hx8ccn": {
+          "AGIX": "187"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation (Monthly) - 108 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cj3a3y": {
+          "AGIX": "140"
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video: Is The Era of Generative AIs Already",
+        "Over? - 75 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j88zza": {
+          "AGIX": "97",
+          "MINS": "210"
+        },
+        "w2jtal": {
+          "AGIX": "97",
+          "MINS": "210"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Democratizing Longevity Network with Jasmine",
+        "Smith - 40USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.12.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "52",
+          "MINS": "240"
+        }
+      }
+    },
+    {
+      "name": [
+        "THREAD: Rejuve: How to Age in Reverse"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.11.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "THREAD: Episode 1: Season Two of Healthspan Horizons",
+        "with Niklas Anzinger of Vitalia City"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.11.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "uwtdjm": {
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitate Open Gov session - 19th Sept 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.09.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gdwa3z": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Document Open Gov session - 12th Sept 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.24"
+        ],
+        "label": [
+          "Reporting",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f2j6pq": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitate Open Gov session - 12th Sept 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Document Open Gov session - 5th Sept 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.24"
+        ],
+        "label": [
+          "Reporting",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f2j6pq": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitate Open Gov session - 5th Sept 2024- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.09.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mljxja": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "facilitate GovWG meeting - 3rd Sept 2024- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Document Open Gov session - 29th Aug 2024- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.08.24"
+        ],
+        "label": [
+          "Reporting",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f2j6pq": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitate Open Gov session - 29th Aug 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.08.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitate Open Gov session - 22nd Aug 2024- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.08.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Document Gov WG meeting - 20th Aug 2024- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.08.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitate GovWG meeting - 20th Aug 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.08.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Document GovWG meeting - 15th Aug 2024 - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.08.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j88zza": {
+          "AGIX": "13"
+        }
+      }
+    },
+    {
+      "name": [
+        "Document Governance meeting 30th July 2024 - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.07.24"
+        ],
+        "label": [
+          "Reporting",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0emj8p": {
+          "AGIX": "13"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitate Governance session - 11th July 2024- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.07.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Document Open Governance session, 1st Aug 2024 $20"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.08.24"
+        ],
+        "label": [
+          "Reporting",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Document Governance WG meeting, 6th Aug 2024, $20"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.08.24"
+        ],
+        "label": [
+          "Reporting",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "document Governance WG meeting, 13th Aug 2024 $20"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.08.24"
+        ],
+        "label": [
+          "Reporting",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mljxja": {
+          "AGIX": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Add backlog of WG meeting summaries to the Archives $80"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.12.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "r658c7": {
+          "AGIX": "104"
+        }
+      }
+    },
+    {
+      "name": [
+        "OpenGovWG Meeting facilitation - 4.7.2024 price $20"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.07.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "u7ywg4": {
+          "AGIX": "26",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "24.00"
+        }
+      }
+    }
+  ]
+}
