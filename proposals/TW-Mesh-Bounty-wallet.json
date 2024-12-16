@@ -1,0 +1,18 @@
+{
+  "project": "Mesh",
+  "proposal": "Mesh Bounty wallet",
+  "fund": "TreasuryWallet",
+  "budget": "50000",
+  "budgetItems": {
+    "Incoming": "50000",
+    "Other": "10",
+    "bulkTransactions": "50000",
+    "Swap": "5000",
+    "Bounty": "20000",
+    "Contributors": "20000",
+    "Fixed-Costs": "5000"
+  },
+  "website": "",
+  "wallet": "addr1qyzlmkt72tnslnckfa3hm7zty4t3jyrlup2vdpfjdxsth7ughmlzd987gmqf5xe8zvp69dnr8l4u267dsza26tj6aa3qq28dsh",
+  "description": ""
+}
