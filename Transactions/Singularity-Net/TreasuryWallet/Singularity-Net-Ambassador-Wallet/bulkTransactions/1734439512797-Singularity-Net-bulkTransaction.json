@@ -1,0 +1,1382 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 9",
+    "4208.45 USD in 5765.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "b6802ba2ad200ec1400ebeaa2a5eb0fb40570bc45ec079b49133d00805a7df54",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Social media manager Training - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.12.24"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vpyqlf": {
+          "AGIX": "55",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in African Guild 28.11.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.11.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "MINS": "35"
+        }
+      }
+    },
+    {
+      "name": [
+        "Contribute to Strategy Guild Research November 2024 -",
+        "10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "c63luv": {
+          "AGIX": "14",
+          "MINS": "60"
+        },
+        "j2a40n": {
+          "AGIX": "14",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Dec: Taskforce - 60USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "AGIX": "82",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Knowledge Base WG",
+        "November 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "AGIX": "34",
+          "MINS": "75"
+        }
+      }
+    },
+    {
+      "name": [
+        "[Dec] Communications - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "nsge8s": {
+          "AGIX": "164",
+          "MINS": "360"
+        }
+      }
+    },
+    {
+      "name": [
+        "Trivia Session: 1st-5th Place (13.12.24) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.12.24"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "3te5wx": {
+          "AGIX": "14",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations 03.12.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "c63luv": {
+          "MINS": "83"
+        },
+        "jnaxjp": {
+          "MINS": "92"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Operator Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": "47"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations 26.11.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "c63luv": {
+          "MINS": "154"
+        },
+        "jnaxjp": {
+          "MINS": "158"
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - December 2024 - 400 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Archival Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": "548"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summary Tool Redesign Q4 - 250 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Archival Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": "342"
+        }
+      }
+    },
+    {
+      "name": [
+        "Documentation Automation - November 2024 - 300 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation",
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Archival Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": "411"
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Documentation"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.12.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": "27",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "API for Wallet Updates and Task Updates - 769 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.12.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": "769"
+        }
+      }
+    },
+    {
+      "name": [
+        "Zoom Import Manager - 115 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.12.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": "115"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Database + Documentation on API - 507 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.12.24"
+        ],
+        "label": [
+          "Documentation",
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": "507"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting- 12.12.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.12.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "60"
+        },
+        "c63luv": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Focus Group to create proposal about cap or limits on",
+        "overall participants - Oct 2024 - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "c63luv": {
+          "AGIX": "68"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian- SingularityNET Latest",
+        "Ecosystem Updates for 11.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.24"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cehfqz": {
+          "AGIX": "34",
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Focus group meeting notes for Q4 - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Coordination",
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "68",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Focus group meeting- 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.12.24"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "68",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarders Engagement for Q4- 200 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "274",
+          "MINS": "1500"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation December 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "7",
+          "MINS": "15"
+        }
+      }
+    },
+    {
+      "name": [
+        "mentorship to create Q4 quarterly report - Nov 2024 -",
+        "20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "mentorship on 14th Nov meeting summary - 16th Dec 2024",
+        "- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.12.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Manage rolling agenda doc for Q4 2024 - Dec 2024 - 20",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Dework and budget management - Dec 2024- 300 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "411"
+        }
+      }
+    },
+    {
+      "name": [
+        "task force on using Ambassador reserves for events -",
+        "9th Dec 2024 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "41"
+        }
+      }
+    },
+    {
+      "name": [
+        "Planning retrospective on overall consent process - 2nd",
+        "Oct 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.10.24"
+        ],
+        "label": [
+          "Operations",
+          "Planning"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "create new sheet in Budget Planner for Q1 2025 - Nov",
+        "2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Create and share consent form for Q1 2025 decision -",
+        "Nov 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Context-setting doc for Q1 2025 budget decision - 21st",
+        "Nov 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.11.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "draft process doc for how to use New Ideas budget - 8th",
+        "Nov 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.11.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Documentation, Gov WG - 10th Dec 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.12.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Documentation, Open Gov - 5th Dec 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.12.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitation, Gov WG - 26th Nov 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitation, Open Gov - 21st Nov 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.11.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitation, Gov WG - 19th Nov 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitation, Open Gov - 14th Nov 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.11.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitation, Open Gov - 7th Nov 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.11.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Documentation, Open Gov - 24th Oct 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.10.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Documentation, Open Gov - 17th Oct 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.10.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Documentation, Open Gov - 3rd Oct 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.10.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Add meeting summary to Archives - 1st Oct 2024- 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.10.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "14"
+        }
+      }
+    },
+    {
+      "name": [
+        "Facilitation, Gov WG - 1st Oct 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.10.24"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Ideas for new approaches to budget decisions doc - 24th",
+        "Sept 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.09.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Summary doc of main issues mentioned in Q4 objections",
+        "overall - 7th Oct 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.10.24"
+        ],
+        "label": [
+          "Reporting",
+          "Content Creation",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Round 3 objections summary doc - 26th Sept 2024 - 20",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.09.24"
+        ],
+        "label": [
+          "Reporting",
+          "Coordination",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "context-setting doc for Q4 -16th Aug 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.08.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Create and manage Rolling Agenda docs for Q3 - 29th Aug",
+        "2024- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.08.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "one-off budget rec - Dec 2024- 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "137"
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework and Budget management, Q3 - Sept 2024- 300 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "411"
+        }
+      }
+    },
+    {
+      "name": [
+        "Mentorship/correcting meeting summaries - Sept 2024 -",
+        "60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "82"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting to assess which Q3 budget objections are valid",
+        "- Sept 2024 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "41"
+        }
+      }
+    },
+    {
+      "name": [
+        "Mentorship to write Q3 GovWG quarterly report - Sept",
+        "2024- 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "14"
+        }
+      }
+    },
+    {
+      "name": [
+        "Mentorship/correcting meeting summaries - July and",
+        "August 2024- 180 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "247"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "57.00"
+        }
+      }
+    }
+  ]
+}
