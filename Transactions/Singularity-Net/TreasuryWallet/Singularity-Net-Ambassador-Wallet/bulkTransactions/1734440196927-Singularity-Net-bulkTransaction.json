@@ -1,0 +1,1091 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 10",
+    "4823.11 USD in 6607.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "3750a68b9327ee061b5722befb0ecb675986916bb2ddde2ad64eee8eddeaab0d",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participate in Treasury Guild Operations 03.12.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hx8ccn": {
+          "MINS": "74"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Operator Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hx8ccn": {
+          "AGIX": "47"
+        },
+        "rcgctj": {
+          "AGIX": "47"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Marketing Guild 29.11.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.11.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hx8ccn": {
+          "MINS": "66"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations 26.11.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hx8ccn": {
+          "MINS": "129"
+        },
+        "rcgctj": {
+          "MINS": "38"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations 10.12.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.12.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hx8ccn": {
+          "MINS": "54"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Operator Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hx8ccn": {
+          "AGIX": "23"
+        },
+        "rcgctj": {
+          "AGIX": "23"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation 18 Nov 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "GitHub PBL WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hx8ccn": {
+          "AGIX": "41",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Dec: Taskforce - 60USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hx8ccn": {
+          "AGIX": "82",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Updates to Ambassador GitBook - Q4 2024 - 200 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Archival Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "274"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting- 12.12.2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.12.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Focus group meeting notes for Q4 - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Coordination",
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "68",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Focus group meeting- 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.12.24"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "68",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Engagement - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.12.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "137",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Managing Miro & Dework Documentation -",
+        "10.12.2024-16.12.2024 - 60 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.12.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "82",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Final version, budget tiers - 14th Nov 2024 - 150 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.11.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "205"
+        }
+      }
+    },
+    {
+      "name": [
+        "initial draft of WG budget tiers (3 people) - 5th Nov",
+        "2024 - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "68"
+        }
+      }
+    },
+    {
+      "name": [
+        "Wallet for Zealy Reward Pool Allocation - 1070 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.12.24"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jqz8d": {
+          "AGIX": "1070"
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing GitHub PBL WG Sessions November 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination"
+        ],
+        "subGroup": [
+          "GitHub PBL WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "48",
+          "MINS": "105"
+        }
+      }
+    },
+    {
+      "name": [
+        "Andamio Management NOV"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "GitHub PBL WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "110",
+          "MINS": "240"
+        }
+      }
+    },
+    {
+      "name": [
+        "Administration November"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "GitHub PBL WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "103",
+          "MINS": "225"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation November 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "GitHub PBL WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "21",
+          "MINS": "45"
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Session December 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "34",
+          "MINS": "75"
+        }
+      }
+    },
+    {
+      "name": [
+        "Zoom Import Manager - 231 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.12.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "231"
+        }
+      }
+    },
+    {
+      "name": [
+        "Contributions vs Participation Tooling - 500 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.12.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "500"
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Session December 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "34",
+          "MINS": "75"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation December 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "48",
+          "MINS": "105"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation November 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "ksvr67": {
+          "AGIX": "41",
+          "MINS": "90"
+        },
+        "rcgctj": {
+          "AGIX": "21",
+          "MINS": "45"
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Documentation"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "55",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation November 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "41",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Documentation"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "164",
+          "MINS": "360"
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Documentation"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "27",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Knowledge Base WG November 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Operations",
+          "Planning"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "75",
+          "MINS": "165"
+        }
+      }
+    },
+    {
+      "name": [
+        "GitBook Documentation"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.12.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "55",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Documentation November"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "137",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Zoom Import to Treasury Manager November - 75USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "103",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation Knowledge Base WG",
+        "November 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "14",
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "mentorship on using budget planner - nov 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Creating Q4 Consent Proposal List - Iteration 3",
+        "(Responses) - 25th Sept 2024 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.09.24"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "creating consent forms for Q4 budgets - Sept 2024 - 30",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "41"
+        }
+      }
+    },
+    {
+      "name": [
+        "December Swarm Treasury System Service Fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "1096"
+        }
+      }
+    },
+    {
+      "name": [
+        "November Swarm Treasury System Service Fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "1096"
+        }
+      }
+    },
+    {
+      "name": [
+        "Contribute to Strategy Guild Research November 2024 -",
+        "10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "lcmus4": {
+          "AGIX": "14",
+          "MINS": "60"
+        },
+        "y3spv8": {
+          "AGIX": "14",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video: The Importance of AI in Human Development",
+        "- 75 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.12.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cj3a3y": {
+          "AGIX": "103",
+          "MINS": "210"
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a clip - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.12.24"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cj3a3y": {
+          "AGIX": "27",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "65.00"
+        }
+      }
+    }
+  ]
+}
