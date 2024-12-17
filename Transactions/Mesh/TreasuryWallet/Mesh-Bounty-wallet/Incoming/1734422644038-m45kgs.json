@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Mesh Bounty wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "24.40 USD in 23 ADA",
+    "Transaction made by Treasury Guild @1.061",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "f801771dd2794a0b82c75e518980a1f9c0abc16425e591aa3fa7dde9c98b4aef",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming test trasaction of 1 ADA from Swarm Treasury Wallet"
+      ],
+      "taskCreator": [
+        "Mesh Bounty wallet"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 1
+        }
+      }
+    }
+  ]
+}
