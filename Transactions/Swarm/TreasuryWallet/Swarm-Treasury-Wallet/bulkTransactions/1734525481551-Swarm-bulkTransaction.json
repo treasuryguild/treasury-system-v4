@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "1.037 USD in 1.00 ADA",
+    "Transaction made by Treasury Guild @1.037",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "36c5d79a6fde893e65b95e02e90c3f5706fa07b79187a346c34c89572a176cdd",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending 1 ADA to new Sidan Bountie wallet"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.12.24"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "pusg4p": {
+          "ADA": "1"
+        }
+      }
+    }
+  ]
+}
