@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Sidan Bounty wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.98 USD in 1 ADA",
+    "Transaction made by Treasury Guild @0.983",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "028001daf1e28d999c03da583f14a982e9a2da68d39db1eb5bd0bb4a25821827",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Swarm Treasury Wallet"
+      ],
+      "taskCreator": [
+        "Sidan Bounty wallet"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 865
+        }
+      }
+    }
+  ]
+}
