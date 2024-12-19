@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Sidan Bountie wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.986",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "36c5d79a6fde893e65b95e02e90c3f5706fa07b79187a346c34c89572a176cdd",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming Test transaction from Swarm Treasury Wallet"
+      ],
+      "taskCreator": [
+        "Sidan Bountie wallet"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 1
+        }
+      }
+    }
+  ]
+}
