@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Sidan Bounty wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.988",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e1552b70bd53e16080fc539ed11d48f97b107a7b9d85bbd449e8896cf924d382",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Staking"
+      ],
+      "description": [
+        "Staking to Pool"
+      ],
+      "taskCreator": [
+        "Sidan Bounty wallet"
+      ],
+      "contributors": {
+        "pusg4p": {
+          "ADA": 2
+        }
+      }
+    }
+  ]
+}
