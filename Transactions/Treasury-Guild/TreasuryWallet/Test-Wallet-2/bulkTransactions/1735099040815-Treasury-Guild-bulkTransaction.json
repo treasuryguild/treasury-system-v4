@@ -1,0 +1,40 @@
+{
+  "msg": [
+    "Test Wallet 2 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.000 USD in 100.00 GMBL",
+    "Transaction made by Treasury Guild @0.924",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "eec2c18d131c630230f2847c8fed441b5e19e74272f5b0acb9c8c30c56e0d3cb",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Testing Discord bot links"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.12.24"
+        ],
+        "label": [
+          "Testing"
+        ],
+        "subGroup": [
+          "Test WG"
+        ]
+      },
+      "taskCreator": [
+        "Treasury Guild"
+      ],
+      "contributors": {
+        "lq69gt": {
+          "GMBL": "100"
+        }
+      }
+    }
+  ]
+}
