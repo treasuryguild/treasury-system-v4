@@ -1,0 +1,879 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 14",
+    "1715.06 USD in 2957.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "5ef879e822417c8861b09dada9fa0dfc2207c8a2a94bf3d7d5cfa28c355680e7",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Telegram moderation December 2024 - 219USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Moderation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Experiments"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0wdye7": {
+          "AGIX": "378",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations 17.12.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.12.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "fe6czc": {
+          "MINS": "131"
+        },
+        "gycvld": {
+          "MINS": "118"
+        },
+        "klgjdc": {
+          "MINS": "83"
+        },
+        "mljxja": {
+          "MINS": "58"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Reasearch Survey Participants - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "fe6czc": {
+          "AGIX": "17",
+          "MINS": "60"
+        },
+        "gycvld": {
+          "AGIX": "17",
+          "MINS": "60"
+        },
+        "klgjdc": {
+          "AGIX": "17",
+          "MINS": "60"
+        },
+        "mljxja": {
+          "AGIX": "17",
+          "MINS": "60"
+        },
+        "zgcf5p": {
+          "AGIX": "17",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Asset Creation - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.01.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Designing"
+        ],
+        "subGroup": [
+          "Gamers Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "AGIX": "69",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in African Guild 09.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0emj8p": {
+          "MINS": "46"
+        },
+        "klgjdc": {
+          "MINS": "61"
+        },
+        "zgcf5p": {
+          "MINS": "48"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Open Gov WG 09.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "MINS": "64"
+        },
+        "xl6z2n": {
+          "MINS": "63"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Workgroup Meeting- 09.01.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0emj8p": {
+          "MINS": "60"
+        },
+        "fe6czc": {
+          "MINS": "60"
+        },
+        "klgjdc": {
+          "MINS": "60"
+        },
+        "xl6z2n": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "meeting documentation - 09.01.2025 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.01.25"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "AGIX": "34"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.01.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "nggwcw": {
+          "AGIX": "138",
+          "MINS": "480"
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (30.12.24) - 80USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "AGIX": "138",
+          "MINS": "600"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Ambassador Program Town Hall 07.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "MINS": "37"
+        },
+        "xl6z2n": {
+          "MINS": "48"
+        },
+        "zgcf5p": {
+          "MINS": "23"
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (14.1.25) - 80USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.01.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "AGIX": "138",
+          "MINS": "600"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Beyond Boundaries: The Promising Future of AI",
+        "and Large Language Models - 50USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.01.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "AGIX": "86",
+          "MINS": "270"
+        }
+      }
+    },
+    {
+      "name": [
+        "Contribute to Strategy Guild Research Q4 2024 - 10 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "zgcf5p": {
+          "AGIX": "17",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Telegram moderation December 2024 - 55USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Moderation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Experiments"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "zl83us": {
+          "AGIX": "95",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 AMA Session - 75 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.11.24"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0emj8p": {
+          "AGIX": "129",
+          "MINS": "420"
+        },
+        "mljxja": {
+          "AGIX": "129",
+          "MINS": "420"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Strategy Guild 16.12.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.12.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0emj8p": {
+          "MINS": "72"
+        },
+        "fe6czc": {
+          "MINS": "52"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Marketing Initiatives - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0emj8p": {
+          "AGIX": "86"
+        }
+      }
+    },
+    {
+      "name": [
+        "Research On Indigineous Tooling for Africa - 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.01.25"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0emj8p": {
+          "AGIX": "172",
+          "MINS": "600"
+        },
+        "mljxja": {
+          "AGIX": "172",
+          "MINS": "600"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Marketing Guild 10.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0emj8p": {
+          "MINS": "93"
+        },
+        "cq699s": {
+          "MINS": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Bi-weekly Meeting Facilitation 13.01.25 - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.01.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0emj8p": {
+          "AGIX": "86",
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in GitHub PBL WG 04.11.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.11.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "GitHub PBL WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mljxja": {
+          "MINS": "99"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in GitHub PBL WG 18.11.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.11.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "GitHub PBL WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mljxja": {
+          "MINS": "111"
+        }
+      }
+    },
+    {
+      "name": [
+        "Project Management Q4 - 250 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cq699s": {
+          "AGIX": "431",
+          "MINS": "750"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Governance Workgroup 07.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cq699s": {
+          "MINS": "25"
+        },
+        "xl6z2n": {
+          "MINS": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in AI Sandbox 09.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cq699s": {
+          "MINS": "60"
+        },
+        "xl6z2n": {
+          "MINS": "61"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Facilitation 09.01.2025 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.01.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cq699s": {
+          "AGIX": "69",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting of the Video Workgroup 10.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.01.25"
+        ],
+        "label": [
+          "Operations",
+          "Coordination",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cq699s": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a video: What are Web3 Oracles - 75USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.01.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cq699s": {
+          "AGIX": "129",
+          "MINS": "210"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Facilitation 16.01.2025 - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.01.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cq699s": {
+          "AGIX": "69",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Animation & Dialogue System (Dework-PBL )- 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.12.24"
+        ],
+        "label": [
+          "Tool Development",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Gamers Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "k6064c": {
+          "AGIX": "172",
+          "MINS": "240"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: The Role of Diet and Nutrition in Longevity -",
+        "30USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.12.24"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "97uqfc": {
+          "AGIX": "52",
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation December 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "GitHub PBL WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "97uqfc": {
+          "AGIX": "54",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.01.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "29.00"
+        }
+      }
+    }
+  ]
+}
