@@ -1,0 +1,111 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 3",
+    "7.84 USD in 7.00 ADA",
+    "4.06 USD in 7.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "342d23c7c9332f46c8580e7eb268ad6c18adddabad2b263c079a426d1e386ef8",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Post a message on Catalyst Community Discord - 2 Ada, 2",
+        "AGIX & 5 Gimbal"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.03.23"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "m59ak3": {
+          "ADA": "2",
+          "AGIX": "2",
+          "GMBL": "5"
+        }
+      }
+    },
+    {
+      "name": [
+        "Sign up at Consenz - CIP 1694 - 5 ada, 5 AGIX & 20",
+        "Gimbal"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.03.23"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "m59ak3": {
+          "ADA": "5",
+          "AGIX": "5",
+          "GMBL": "20"
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - November",
+        "2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "820"
+        }
+      }
+    },
+    {
+      "name": [
+        "Community Support Quarter 4 2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "90"
+        }
+      }
+    }
+  ]
+}
