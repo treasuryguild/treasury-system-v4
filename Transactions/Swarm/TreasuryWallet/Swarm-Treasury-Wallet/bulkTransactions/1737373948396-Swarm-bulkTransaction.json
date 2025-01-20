@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "316.695 USD in 294.60 ADA",
+    "Transaction made by Treasury Guild @1.075",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "4358e2e571c72193b571508ee6da9d22cc2fc35f4954ed1c4ae3693ede068992",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sendin funds ti Sidan for Bounty experiments"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.01.25"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "pusg4p": {
+          "ADA": "294.6"
+        }
+      }
+    }
+  ]
+}
