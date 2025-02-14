@@ -1,0 +1,475 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 5",
+    "797.30 USD in 2278.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "4b1a43893a407a4029d231e5944dc5667b2dbffe81398b353521fc91cf142bb5",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Trivia Session: 1st-5th Place (17.1.25) - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.01.25"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "lxawu5": {
+          "AGIX": "29",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Ambassador Program Town Hall 28.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {}
+      }
+    },
+    {
+      "name": [
+        "Participate in Open Gov WG 30.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {}
+      }
+    },
+    {
+      "name": [
+        "Zoom Import to Treasury Manager January - 243 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.25"
+        ],
+        "label": [
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "243",
+          "MINS": "210"
+        }
+      }
+    },
+    {
+      "name": [
+        "Process Guild Activity List January 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.25"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "180",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summaries and Documentation for Knowledge Base",
+        "WG January 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.25"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "126",
+          "MINS": "210"
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing Knowledge Base WG January 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.25"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination",
+          "Operations",
+          "Planning"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "27",
+          "MINS": "45"
+        }
+      }
+    },
+    {
+      "name": [
+        "Preparing GitHub PBL WG Sessions January 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.25"
+        ],
+        "label": [
+          "Documentation",
+          "Coordination"
+        ],
+        "subGroup": [
+          "GitHub PBL WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "180",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Operator Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.25"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "149"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations 31.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {}
+      }
+    },
+    {
+      "name": [
+        "Participate in Strategy Guild 03.02.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.02.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "GitBook License 24 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.02.25"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "69"
+        }
+      }
+    },
+    {
+      "name": [
+        "Microsoft Licenses for Students - 167 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.02.25"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "477"
+        }
+      }
+    },
+    {
+      "name": [
+        "subscribed to ChatGPT using the Ambassador Program - 75",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.02.25"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "214"
+        }
+      }
+    },
+    {
+      "name": [
+        "Update Documentation"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.02.25"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "18",
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Strategy Guild 27.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "a3amjj": {}
+      }
+    },
+    {
+      "name": [
+        "Participate in Governance Workgroup 28.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "a3amjj": {}
+      }
+    },
+    {
+      "name": [
+        "Graphics - Ai For Beginners - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.25"
+        ],
+        "label": [
+          "Designing",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cj3a3y": {
+          "AGIX": "114",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Ai for Beginners -Video- Decentralized Ai - 150 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.02.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cj3a3y": {
+          "AGIX": "429",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.02.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "23.00"
+        }
+      }
+    }
+  ]
+}
