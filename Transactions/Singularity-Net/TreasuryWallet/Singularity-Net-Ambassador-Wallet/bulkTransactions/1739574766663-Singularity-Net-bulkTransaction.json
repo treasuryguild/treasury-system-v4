@@ -1,0 +1,558 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 11",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "58d8be6cd8b10f2820a546c323bcc5f4e662531939c142c32146e16dd3f61884",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participate in Ambassador Program Town Hall 28.01.25 -",
+        "Missing Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "MINS": "57"
+        },
+        "gfwv7a": {
+          "MINS": "69"
+        },
+        "gycvld": {
+          "MINS": "56"
+        },
+        "j88zza": {
+          "MINS": "52"
+        },
+        "lchsml": {
+          "MINS": "62"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Open Gov WG 30.01.25 - Missing Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j88zza": {
+          "MINS": "19"
+        },
+        "w2jtal": {
+          "MINS": "18"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Governance Workgroup 04.02.25 - Missing",
+        "Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.02.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "MINS": "27"
+        },
+        "j88zza": {
+          "MINS": "19"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Marketing Guild 07.02.25 - Missing",
+        "Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.02.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "6lcdjr": {
+          "MINS": "42"
+        },
+        "f39ntm": {
+          "MINS": "65"
+        },
+        "gfwv7a": {
+          "MINS": "40"
+        },
+        "gycvld": {
+          "MINS": "46"
+        },
+        "j88zza": {
+          "MINS": "28"
+        },
+        "klgjdc": {
+          "MINS": "69"
+        },
+        "mmdfl0": {
+          "MINS": "53"
+        },
+        "w2jtal": {
+          "MINS": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Governance Workgroup 28.01.25 - Missing",
+        "Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "MINS": "43"
+        },
+        "gfwv7a": {
+          "MINS": "20"
+        },
+        "w2jtal": {
+          "MINS": "56"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Monthly WG Sync Session 01.02.25 -",
+        "Missing Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "MINS": "33"
+        },
+        "gfwv7a": {
+          "MINS": "35"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Marketing Guild 31.01.25 - Missing",
+        "Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "6lcdjr": {
+          "MINS": "71"
+        },
+        "f39ntm": {
+          "MINS": "113"
+        },
+        "gfwv7a": {
+          "MINS": "110"
+        },
+        "gycvld": {
+          "MINS": "121"
+        },
+        "mmdfl0": {
+          "MINS": "103"
+        },
+        "w2jtal": {
+          "MINS": "121"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Strategy Guild 27.01.25 - Missing",
+        "Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "MINS": "59"
+        },
+        "mmdfl0": {
+          "MINS": "25"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in AI Sandbox 30.01.25 - Missing Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "6lcdjr": {
+          "MINS": "61"
+        },
+        "klgjdc": {
+          "MINS": "27"
+        },
+        "mmdfl0": {
+          "MINS": "26"
+        },
+        "w2jtal": {
+          "MINS": "69"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Treasury Guild Operations 31.01.25 -",
+        "Missing Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "6lcdjr": {
+          "MINS": "53"
+        },
+        "mmdfl0": {
+          "MINS": "55"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in AI Sandbox 06.02.25 - Missing Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.02.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "6lcdjr": {
+          "MINS": "54"
+        },
+        "eu674e": {
+          "MINS": "37"
+        },
+        "klgjdc": {
+          "MINS": "37"
+        },
+        "mmdfl0": {
+          "MINS": "26"
+        },
+        "w2jtal": {
+          "MINS": "63"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Onboarding WG 06.02.25 - Missing Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.02.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "6lcdjr": {
+          "MINS": "55"
+        },
+        "eu674e": {
+          "MINS": "17"
+        },
+        "klgjdc": {
+          "MINS": "16"
+        },
+        "mmdfl0": {
+          "MINS": "16"
+        },
+        "w2jtal": {
+          "MINS": "58"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in R&D Guild 29.01.25 - Missing Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "MINS": "50"
+        },
+        "gycvld": {
+          "MINS": "27"
+        },
+        "w2jtal": {
+          "MINS": "64"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Ambassador Program Town Hall 04.02.25 -",
+        "Missing Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.02.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "6lcdjr": {
+          "MINS": "42"
+        },
+        "f39ntm": {
+          "MINS": "44"
+        },
+        "gycvld": {
+          "MINS": "39"
+        },
+        "w2jtal": {
+          "MINS": "19"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Strategy Guild 03.02.25 - Missing",
+        "Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.02.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "MINS": "26"
+        },
+        "w2jtal": {
+          "MINS": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in R&D Guild 05.02.25 - Missing Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "MINS": "37"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Writers WG 31.01.25 - Missing Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "MINS": "36"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Writers WG 07.02.25 - Missing Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.02.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "MINS": "37"
+        }
+      }
+    }
+  ]
+}
