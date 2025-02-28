@@ -1,0 +1,294 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 17",
+    "309.38 USD in 499.00 ADA",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "cc48fddbc4fe80399c4642b08eaf04558e5de3794a81bad6c550450eaa7d22ad",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in Exclusive Intersect Event for the",
+        "Francophone Community 15.02.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.02.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Intersect Support sessions"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "7p0fyc": {
+          "MINS": "66"
+        },
+        "9rz0aq": {
+          "MINS": "72"
+        },
+        "m8jmkq": {
+          "MINS": "77"
+        },
+        "prc6gl": {
+          "MINS": "69"
+        },
+        "rcgctj": {
+          "MINS": "50"
+        },
+        "uecszx": {
+          "MINS": "103"
+        },
+        "vgeh03": {
+          "MINS": "53"
+        },
+        "vh6e4q": {
+          "MINS": "50"
+        },
+        "w552tp": {
+          "MINS": "127"
+        }
+      }
+    },
+    {
+      "name": [
+        "Session Summary"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.02.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Intersect Support sessions"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "uecszx": {
+          "ADA": "100",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Quiz Winners"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.02.25"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "Intersect Support sessions"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "9rz0aq": {
+          "ADA": "6"
+        },
+        "m8jmkq": {
+          "ADA": "6"
+        },
+        "prc6gl": {
+          "ADA": "6"
+        },
+        "vgeh03": {
+          "ADA": "6"
+        },
+        "vh6e4q": {
+          "ADA": "6"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Community Hub WG Proposal Workshop",
+        "21.02.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.02.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Intersect Support sessions"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "4fwu6e": {
+          "ADA": "11",
+          "MINS": "180"
+        },
+        "73kr9t": {
+          "ADA": "11",
+          "MINS": "180"
+        },
+        "gygzwu": {
+          "ADA": "11",
+          "MINS": "180"
+        },
+        "kggmzh": {
+          "ADA": "11",
+          "MINS": "180"
+        },
+        "ld6xg2": {
+          "ADA": "11",
+          "MINS": "180"
+        },
+        "rcgctj": {
+          "ADA": "11",
+          "MINS": "180"
+        },
+        "u7ywg4": {
+          "ADA": "11",
+          "MINS": "180"
+        },
+        "vgln9a": {
+          "ADA": "11",
+          "MINS": "180"
+        },
+        "w552tp": {
+          "ADA": "11",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Session Summary"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.02.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Intersect Support sessions"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "vgln9a": {
+          "ADA": "120",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Session Facilitation"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.02.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Intersect Support sessions"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "w552tp": {
+          "ADA": "100",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Session Preparation"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.02.25"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "Intersect Support sessions"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "w552tp": {
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Created Quiz for Support Session"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.02.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Intersect Support sessions"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "w552tp": {
+          "ADA": "30",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Session Summary Translation"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.02.25"
+        ],
+        "label": [
+          "Translation"
+        ],
+        "subGroup": [
+          "Intersect Support sessions"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "w552tp": {
+          "ADA": "20",
+          "MINS": "60"
+        }
+      }
+    }
+  ]
+}
