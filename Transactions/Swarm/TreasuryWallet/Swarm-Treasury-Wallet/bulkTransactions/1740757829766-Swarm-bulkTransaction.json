@@ -1,0 +1,327 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 9",
+    "42.16 USD in 68.00 ADA",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "f771a5617c46dfc0a5f7d8c2baeff753069db908f72287dc0f95e0c4dccf3bd7",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "ATH Summary - Missing Reward"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.01.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "uecszx": {
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.07.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "9rz0aq": {
+          "MINS": "55"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.09.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "9rz0aq": {
+          "MINS": "59"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.10.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "9rz0aq": {
+          "MINS": "38"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.12.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "9rz0aq": {
+          "MINS": "32"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "9rz0aq": {
+          "MINS": "160"
+        },
+        "nmdn0c": {
+          "MINS": "68"
+        },
+        "prc6gl": {
+          "MINS": "144"
+        },
+        "vzcetw": {
+          "MINS": "101"
+        }
+      }
+    },
+    {
+      "name": [
+        "ATH Facilitation and Preparation"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.01.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "9rz0aq": {
+          "ADA": "68",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.11.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "vgln9a": {
+          "MINS": "88"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall Workgroup 16.01.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "103"
+        },
+        "w552tp": {
+          "MINS": "94"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Intersect Town Hall Workgroup 14.11.24"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.11.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "104"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Swarm ITH Stand Up Session"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.11.24"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "91"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Swarm ITH Stand Up Session"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.01.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "160"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participate in Swarm ITH Stand Up Session"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.02.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "160"
+        }
+      }
+    }
+  ]
+}
