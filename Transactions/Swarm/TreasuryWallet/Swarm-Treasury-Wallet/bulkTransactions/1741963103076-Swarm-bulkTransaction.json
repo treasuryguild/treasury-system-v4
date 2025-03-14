@@ -1,0 +1,202 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 10",
+    "93.60 USD in 130.00 ADA",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "97c3264ad3c88bf85d3ad94722492e025ef42e1329cbcaac9a7c788a10e67274",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - December",
+        "2024"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.24"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "MINS": "1620"
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - January",
+        "2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "MINS": "900"
+        },
+        "rcgctj": {
+          "MINS": "525"
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - February",
+        "2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.02.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "MINS": "2580"
+        },
+        "rcgctj": {
+          "MINS": "510"
+        }
+      }
+    },
+    {
+      "name": [
+        "Deep Funding Microservices Proposal"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.03.25"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "750"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Community Hub WG Proposal Workshop",
+        "08.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Intersect Support sessions"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "73kr9t": {
+          "MINS": "150"
+        },
+        "dpy3c6": {
+          "MINS": "150"
+        },
+        "gygzwu": {
+          "ADA": "50",
+          "MINS": "150"
+        },
+        "ld6xg2": {
+          "MINS": "150"
+        },
+        "vgln9a": {
+          "ADA": "50",
+          "MINS": "150"
+        },
+        "w552tp": {
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "Session Summary"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.03.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Intersect Support Sessions"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "vgln9a": {
+          "ADA": "30",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Proposal Submission and onboarding"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.03.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "60"
+        },
+        "zlj6q9": {
+          "MINS": "60"
+        }
+      }
+    }
+  ]
+}
