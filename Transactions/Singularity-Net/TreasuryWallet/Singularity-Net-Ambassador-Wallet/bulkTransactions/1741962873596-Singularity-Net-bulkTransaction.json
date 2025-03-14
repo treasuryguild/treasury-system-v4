@@ -1,0 +1,62 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 2",
+    "25.30 USD in 115.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "e64888772c9f05dee166c90f7fe52efd2e755c702461a011105de7f057f9c4a6",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Feb.25 Sprint Zealy Winners: 5th place - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.02.25"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "lsuca0": {
+          "AGIX": "114",
+          "MINS": "75"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.03.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "1.00"
+        }
+      }
+    }
+  ]
+}
