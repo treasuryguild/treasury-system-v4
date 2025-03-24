@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.728",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "153109d78439dc407737ec22fb4530f032104a7d684125156864b80720572c30",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Sidan Bounty wallet"
+      ],
+      "taskCreator": [
+        "Swarm Treasury Wallet"
+      ],
+      "contributors": {
+        "pusg4p": {
+          "ADA": 200
+        }
+      }
+    }
+  ]
+}
