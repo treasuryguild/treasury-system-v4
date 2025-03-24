@@ -1,0 +1,41 @@
+{
+  "msg": [
+    "Sidan Bounty wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "145.800 USD in 200.00 ADA",
+    "Transaction made by Treasury Guild @0.729",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "153109d78439dc407737ec22fb4530f032104a7d684125156864b80720572c30",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending 200 Ada from Sidan wallet to Swarm wallet",
+        "due an error in sending the reward! Instead of 200 ",
+        "ADA from the Sidan wallet, 200 ADA from the Swarm",
+        "wallet was sent, thus sending 200 ADA back to",
+        "Swarm -  Completed Bounty"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.03.25"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Sidan"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": "200"
+        }
+      }
+    }
+  ]
+}
