@@ -1,0 +1,635 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 25",
+    "333.06 USD in 1586.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "5fdfcd3538f4746dba8650b03b14cc3719cfa49e6667a476c4c95aa7cb2680a8",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in AI Sandbox 10.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "3te5wx": {
+          "MINS": "25"
+        },
+        "f2j6pq": {
+          "MINS": "62"
+        },
+        "j2a40n": {
+          "MINS": "45"
+        },
+        "sh8upr": {
+          "MINS": "56"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 15.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "c63luv": {
+          "MINS": "34"
+        },
+        "j2a40n": {
+          "MINS": "18"
+        },
+        "mmdfl0": {
+          "MINS": "23"
+        },
+        "pgqg9n": {
+          "MINS": "32"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French - DeepSeek and the Coming AI",
+        "Cambrian Explosion"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "l9rh5l": {
+          "AGIX": "71",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup 15.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "58"
+        },
+        "c63luv": {
+          "MINS": "61"
+        },
+        "dl6xdk": {
+          "MINS": "61"
+        },
+        "pgqg9n": {
+          "MINS": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG 10.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "MINS": "60"
+        },
+        "7lnpzs": {
+          "MINS": "91"
+        },
+        "dl6xdk": {
+          "MINS": "94"
+        },
+        "uwtdjm": {
+          "MINS": "18"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in African Guild 10.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "MINS": "52"
+        },
+        "mmdfl0": {
+          "MINS": "51"
+        },
+        "r658c7": {
+          "MINS": "20"
+        },
+        "uwtdjm": {
+          "MINS": "50"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Marketing Guild 11.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0cnk5v": {
+          "MINS": "53"
+        },
+        "gfwv7a": {
+          "MINS": "56"
+        },
+        "mmdfl0": {
+          "MINS": "40"
+        },
+        "r658c7": {
+          "MINS": "43"
+        },
+        "sh8upr": {
+          "MINS": "55"
+        },
+        "uwtdjm": {
+          "MINS": "61"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Writers WG 11.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0hpy7g": {
+          "MINS": "34"
+        },
+        "pgqg9n": {
+          "MINS": "42"
+        },
+        "sh8upr": {
+          "MINS": "40"
+        },
+        "uwtdjm": {
+          "MINS": "40"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Chinese - DeepSeek and the Coming AI",
+        "Cambrian Explosion"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.04.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "g55lpc": {
+          "AGIX": "71",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summarizing- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.04.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Gamers Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "65snfx": {
+          "AGIX": "143",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "GitBook Documentation - 264 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.04.25"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": "264",
+          "MINS": "360"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Strategy Guild 14.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dl6xdk": {
+          "MINS": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish - SingularityNET Latest Ecosystem",
+        "Updates for 03.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": "95",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish - DeepSeek and the Coming AI",
+        "Cambrian Explosion"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": "71",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French- SingularityNET Latest Ecosystem",
+        "Updates for 03.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vcgk9c": {
+          "AGIX": "95",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.04.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "95",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese - SingularityNET Latest",
+        "Ecosystem Updates for 03.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.04.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "a82yhu": {
+          "AGIX": "95",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese - DeepSeek and the Coming AI",
+        "Cambrian Explosion"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.04.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "a82yhu": {
+          "AGIX": "71",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian - SingularityNET Latest Ecosystem",
+        "Updates for 03.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "kmwef5": {
+          "AGIX": "95",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian- DeepSeek and the Coming AI",
+        "Cambrian Explosion"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "kmwef5": {
+          "AGIX": "71",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Spanish - SingularityNET Latest Ecosystem",
+        "Updates for 03.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rauu23": {
+          "AGIX": "95",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Feb.25 Sprint Zealy Winners: Second place - 50USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.02.25"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "ws79c3": {
+          "AGIX": "238",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.04.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "16.00"
+        }
+      }
+    }
+  ]
+}
