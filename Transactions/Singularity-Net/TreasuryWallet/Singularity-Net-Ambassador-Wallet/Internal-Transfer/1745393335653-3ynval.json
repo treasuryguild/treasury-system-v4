@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Singularity Net Ambassador Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.14 USD in 0.198193 ADA",
+    "Transaction made by Treasury Guild @0.695",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "8ed8c22cd67e42f126670adc343f5d5d44e78a6a8e4fb436ed9b18d402d74761",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Internal Transfer"
+      ],
+      "description": [
+        "Swaping AGIX for ADA"
+      ],
+      "taskCreator": [
+        "Singularity Net Ambassador Wallet"
+      ],
+      "contributors": {
+        "3ynval": {
+          "ADA": 0.198193
+        }
+      }
+    }
+  ]
+}
