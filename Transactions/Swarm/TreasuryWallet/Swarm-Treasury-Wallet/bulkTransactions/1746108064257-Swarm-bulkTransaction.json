@@ -1,0 +1,152 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 3",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "70648a615a8b0d2f3c8dac2545650a519e1b4c1de02fca5acaf95c5e8dd464a7",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Administration and Strategy"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.03.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - March 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.03.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "MINS": "900"
+        },
+        "rcgctj": {
+          "MINS": "405"
+        }
+      }
+    },
+    {
+      "name": [
+        "Community Support Quarter 1 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "75"
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Coordination Platform - Q1 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "165"
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Treasury System Updates - April 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "MINS": "600"
+        },
+        "rcgctj": {
+          "MINS": "840"
+        }
+      }
+    },
+    {
+      "name": [
+        "Tool Development - Mesh Updates - April 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.04.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "MINS": "2580"
+        }
+      }
+    }
+  ]
+}
