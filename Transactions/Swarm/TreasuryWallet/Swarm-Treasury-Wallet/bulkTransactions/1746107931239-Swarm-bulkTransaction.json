@@ -1,0 +1,60 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 2",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "e3b578009ff2a9c45ac79e8aaf301d25ffb270255ed52e1350025434db40b366",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Intersect Town Hall Contract Related"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.04.25"
+        ],
+        "label": [
+          "Coordination",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "255"
+        }
+      }
+    },
+    {
+      "name": [
+        "Coordinating Intersect Supports Sessions and Rewards"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.04.25"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "Town Hall WG"
+        ]
+      },
+      "taskCreator": "intersect",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "510"
+        }
+      }
+    }
+  ]
+}
