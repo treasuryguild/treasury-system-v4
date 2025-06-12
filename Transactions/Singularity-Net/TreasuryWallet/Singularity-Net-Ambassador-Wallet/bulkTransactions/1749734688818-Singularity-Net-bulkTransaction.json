@@ -1,0 +1,563 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 20",
+    "326.40 USD in 960.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "ffd73a38d2b648ee74bbefeb1c29f4d6026d05edf0989b726dd49517f55a6041",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in AI Sandbox 05.06.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.06.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "MINS": "54"
+        },
+        "mmdfl0": {
+          "MINS": "60"
+        },
+        "sh8upr": {
+          "MINS": "56"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in African Guild 05.06.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.06.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "MINS": "63"
+        },
+        "gdwa3z": {
+          "MINS": "54"
+        },
+        "j2a40n": {
+          "MINS": "29"
+        },
+        "mmdfl0": {
+          "MINS": "21"
+        },
+        "uwtdjm": {
+          "MINS": "54"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation 05.06.25 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.06.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "AGIX": "59",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Marketing Guild 06.06.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.06.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0cnk5v": {
+          "MINS": "52"
+        },
+        "gfwv7a": {
+          "MINS": "43"
+        },
+        "j2a40n": {
+          "MINS": "43"
+        },
+        "mmdfl0": {
+          "MINS": "41"
+        },
+        "r658c7": {
+          "MINS": "54"
+        },
+        "uwtdjm": {
+          "MINS": "57"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup 10.06.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.06.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "4v3can": {
+          "MINS": "22"
+        },
+        "7lnpzs": {
+          "MINS": "65"
+        },
+        "c63luv": {
+          "MINS": "66"
+        },
+        "dl6xdk": {
+          "MINS": "37"
+        },
+        "gdwa3z": {
+          "MINS": "35"
+        },
+        "j2a40n": {
+          "MINS": "34"
+        },
+        "mmdfl0": {
+          "MINS": "35"
+        },
+        "pgqg9n": {
+          "MINS": "59"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 10.06.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.06.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "4v3can": {
+          "MINS": "54"
+        },
+        "7lnpzs": {
+          "MINS": "62"
+        },
+        "j2a40n": {
+          "MINS": "23"
+        },
+        "pgqg9n": {
+          "MINS": "54"
+        }
+      }
+    },
+    {
+      "name": [
+        "Automation Workflow Report - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.06.25"
+        ],
+        "label": [
+          "Reporting",
+          "Documentation"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "AGIX": "118",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian - ASI:One Turning Chat Into",
+        "Action: The Next Leap Beyond Passive LLMs"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.06.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "nzmunw": {
+          "AGIX": "59",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian - The Future of AI in Medicine:",
+        "ASI:Train Introduces GMAI for Foundational Medical",
+        "Models"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.06.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "nzmunw": {
+          "AGIX": "74",
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Onboarding WG 05.06.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.06.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "45"
+        },
+        "gdwa3z": {
+          "MINS": "45"
+        },
+        "mmdfl0": {
+          "MINS": "23"
+        },
+        "sh8upr": {
+          "MINS": "39"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG 05.06.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.06.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "MINS": "54"
+        },
+        "7lnpzs": {
+          "MINS": "65"
+        },
+        "gdwa3z": {
+          "MINS": "20"
+        },
+        "mmdfl0": {
+          "MINS": "62"
+        },
+        "pgqg9n": {
+          "MINS": "61"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Writers WG 06.06.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.06.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "4v3can": {
+          "MINS": "36"
+        },
+        "65snfx": {
+          "MINS": "25"
+        },
+        "pgqg9n": {
+          "MINS": "34"
+        },
+        "sh8upr": {
+          "MINS": "18"
+        },
+        "uwtdjm": {
+          "MINS": "37"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q2 2025 Report"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.05.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": "33",
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation June 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.06.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": "33",
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.06.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dyh23g": {
+          "AGIX": "88",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "[MAY] Project management - 120 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "r658c7": {
+          "AGIX": "353",
+          "MINS": "450"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish - The Future of AI in Medicine:",
+        "ASI:Train Introduces GMAI for Foundational Medical",
+        "Models"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.06.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": "74",
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian - ASI:One Turning Chat Into",
+        "Action: The Next Leap Beyond Passive LLMs"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.06.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "kmwef5": {
+          "AGIX": "59",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.06.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "10.00"
+        }
+      }
+    }
+  ]
+}
