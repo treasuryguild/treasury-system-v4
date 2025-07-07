@@ -1,0 +1,39 @@
+{
+  "msg": [
+    "Automate Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "125.172 USD in 213.24 ADA",
+    "Transaction made by Treasury Guild @0.587",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "4d7efbf8723a1adedc6dbb3363d943d30212623d3d50082d71f2d8153e8bf464",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "GitBook Subscription for April (40 usd), May",
+        "(25.22  usd),  June (30 usd),  July (30 usd)  2025 ",
+        "Total USD 125.22"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.07.25"
+        ],
+        "label": [
+          "Invoices"
+        ]
+      },
+      "taskCreator": [
+        "Automate Workgroup"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "ADA": "213.24"
+        }
+      }
+    }
+  ]
+}
