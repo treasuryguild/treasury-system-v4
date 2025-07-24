@@ -1,0 +1,130 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 4",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "1e22f91813a203c34141795bd88f8edbd896f7ef68b248f438d3d2083cb674ad",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Community Support Quarter 2 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.05.25"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "15"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Updates in May"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.25"
+        ],
+        "label": [
+          "Documentation",
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "855"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury updates for Q2"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.25"
+        ],
+        "label": [
+          "Documentation",
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "MINS": "340"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Updates in June"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "465"
+        }
+      }
+    },
+    {
+      "name": [
+        "Coordination Meeting about Swarm Website"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.07.25"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          ""
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "n7qgup": {
+          "MINS": "110"
+        },
+        "rcgctj": {
+          "MINS": "114"
+        }
+      }
+    }
+  ]
+}
