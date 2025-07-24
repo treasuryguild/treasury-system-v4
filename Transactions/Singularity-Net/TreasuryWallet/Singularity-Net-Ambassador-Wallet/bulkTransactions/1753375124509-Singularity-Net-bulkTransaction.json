@@ -1,0 +1,1394 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 2",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "9805b03fea99fe2dca6a5ec4e9f110514d04f98c1759b431cc1f6802685c5638",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in Governance Workgroup 11.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "66"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 11.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "59"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in R&D Guild 12.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "64"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Marketing Guild 14.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Strategy Guild 17.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "66"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Knowledge Base WG 17.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "119"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 18.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in GitHub PBL WG 18.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "GitHub PBL WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "116"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in R&D Guild 19.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "40"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox 20.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "25"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Onboarding WG 20.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "45"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG 20.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "93"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Marketing Guild 21.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "62"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Treasury Automation WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "92"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in R&D Guild 26.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "73"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox 27.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "75"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in African Guild 27.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "55"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Marketing Guild 28.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "69"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Strategy Guild 31.03.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.03.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "46"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup 01.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "52"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 01.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "69"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in R&D Guild 02.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "41"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Onboarding WG 03.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "62"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Marketing Guild 04.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "56"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup 08.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "19"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 08.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "76"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox 10.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "58"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in African Guild 10.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "49"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Marketing Guild 11.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "64"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Writers WG 11.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "25"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Strategy Guild 14.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup 15.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "63"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 15.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "37"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Knowledge Base WG 15.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "25"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Writers WG 18.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "34"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 22.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "75"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox 24.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "71"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG 24.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "66"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Marketing Guild 25.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "55"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup 29.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "54"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 29.04.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.04.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "51"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox 01.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "61"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Onboarding WG 01.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Marketing Guild 02.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "47"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Writers WG 02.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "33"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup 06.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "55"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 06.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "48"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in R&D Guild 07.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "45"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox 08.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "43"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG 08.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "44"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in African Guild 08.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "23"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Marketing Guild 09.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "68"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Knowledge Base WG 13.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "112"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox 15.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "66"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG 15.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "40"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Marketing Guild 16.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup 20.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 20.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "49"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox 22.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "51"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG 22.05.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.05.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "78"
+        }
+      }
+    }
+  ]
+}
