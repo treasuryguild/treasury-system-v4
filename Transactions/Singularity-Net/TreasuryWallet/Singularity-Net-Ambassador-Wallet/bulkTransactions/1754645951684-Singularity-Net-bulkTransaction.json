@@ -1,0 +1,874 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 14",
+    "1115.63 USD in 3847.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "dcd9828c56e66dddd5c05a24dd7b55473c76a93af3bf01437715a384733ada46",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in Governance Workgroup 05.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j88zza": {
+          "MINS": "55"
+        },
+        "vy70sx": {
+          "MINS": "61"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3 Operations, Communications 06-08-2025 - 355 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.08.25"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rauu23": {
+          "AGIX": "355"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in GitHub PBL WG 06.08.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "GitHub PBL WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7wk9fz": {
+          "AGIX": "33",
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox 24.07.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.07.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "eu674e": {
+          "MINS": "60"
+        },
+        "klgjdc": {
+          "MINS": "34"
+        },
+        "mmdfl0": {
+          "MINS": "62"
+        },
+        "vy70sx": {
+          "MINS": "76"
+        },
+        "w2jtal": {
+          "MINS": "82"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG 24.07.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.07.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "eu674e": {
+          "MINS": "68"
+        },
+        "vy70sx": {
+          "MINS": "69"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Strategy Guild 28.07.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.07.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "MINS": "47"
+        },
+        "vy70sx": {
+          "MINS": "43"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup 29.07.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.07.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "eu674e": {
+          "MINS": "67"
+        },
+        "klgjdc": {
+          "MINS": "64"
+        },
+        "vy70sx": {
+          "MINS": "67"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 29.07.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.07.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "4v3can": {
+          "MINS": "43"
+        },
+        "gycvld": {
+          "MINS": "27"
+        },
+        "vy70sx": {
+          "MINS": "56"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox 31.07.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "MINS": "65"
+        },
+        "vy70sx": {
+          "MINS": "66"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG 31.07.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "eu674e": {
+          "MINS": "23"
+        },
+        "hmt2e5": {
+          "MINS": "34"
+        },
+        "vy70sx": {
+          "MINS": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Marketing Guild 01.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "MINS": "40"
+        },
+        "gycvld": {
+          "MINS": "52"
+        },
+        "klgjdc": {
+          "MINS": "50"
+        },
+        "mmdfl0": {
+          "MINS": "22"
+        },
+        "vy70sx": {
+          "MINS": "57"
+        },
+        "w2jtal": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Monthly Syncing 04.08.25"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "MINS": "37"
+        }
+      }
+    },
+    {
+      "name": [
+        "Portfolio Reviews - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.08.25"
+        ],
+        "label": [
+          "Auditing"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "AGIX": "86",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Writers WG 25.07.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.07.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "MINS": "64"
+        },
+        "gycvld": {
+          "MINS": "71"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Writers WG 01.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "MINS": "30"
+        },
+        "gycvld": {
+          "MINS": "25"
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 31) - 300 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.08.25"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "300",
+          "MINS": "900"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 05.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "8az9uw": {
+          "MINS": "67"
+        },
+        "f39ntm": {
+          "MINS": "23"
+        },
+        "gycvld": {
+          "MINS": "52"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Unmasking ChatGPT: What It Is, What It Isnt, and",
+        "Why It Matters - 180AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.08.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "180",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 32) - 300 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.08.25"
+        ],
+        "label": [
+          "Operations",
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "300",
+          "MINS": "900"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3 Communications & Education 06-08-2025 - 248 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.08.25"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "8az9uw": {
+          "AGIX": "248"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3 Operations, Documenter 24-07-2025 - 123 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.07.25"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "123"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Facilitation 24.07.2025 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.07.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "103",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework & GitHub Management 24.07.25 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.07.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "103",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework & GitHub Management 31.07.25 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "103",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "[JULY] Budget and Tasks Management - 144 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.25"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "144",
+          "MINS": "450"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in R&D Guild 06.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "MINS": "83"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3 Search Engine Optimization / Research 06-08-2025 -",
+        "977 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.08.25"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "977"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3 Operations, Documenter 06-08-2025 - 142 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.08.25"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "142"
+        }
+      }
+    },
+    {
+      "name": [
+        "Announcements - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.08.25"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Gamers Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "69",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "[JULY] Documentation - 144 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.25"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "AGIX": "144",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "meeting documentation - 03.07.2025 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.07.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "eu674e": {
+          "AGIX": "69",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (17.7.25) - 180AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.07.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "AGIX": "180",
+          "MINS": "420"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Decentralized SPO Use Case PT2 - 150 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.08.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "AGIX": "150",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.08.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "38.00"
+        }
+      }
+    }
+  ]
+}
