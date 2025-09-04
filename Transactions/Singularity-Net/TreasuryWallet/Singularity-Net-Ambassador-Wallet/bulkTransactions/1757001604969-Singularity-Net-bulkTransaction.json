@@ -1,0 +1,996 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 21",
+    "1041.82 USD in 4007.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "e4276baafdbd8768d17e1fb56df80b03a0440d3cffb7028c0994fda2ce45e2b6",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in Marketing Guild 29.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "57"
+        },
+        "j2a40n": {
+          "MINS": "66"
+        },
+        "r658c7": {
+          "MINS": "66"
+        },
+        "sh8upr": {
+          "MINS": "73"
+        }
+      }
+    },
+    {
+      "name": [
+        "Organize Assets to be included in Gitbook"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "165",
+          "MINS": "60"
+        },
+        "j2a40n": {
+          "AGIX": "33",
+          "MINS": "45"
+        }
+      }
+    },
+    {
+      "name": [
+        "Workgroup Documentation and support activities in July"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "72",
+          "MINS": "65"
+        }
+      }
+    },
+    {
+      "name": [
+        "Contribution made to Q3 Progress Report"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.08.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "GitHub PBL WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "33",
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG 21.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "MINS": "61"
+        },
+        "44vqx9": {
+          "MINS": "38"
+        },
+        "7lnpzs": {
+          "MINS": "67"
+        },
+        "c63luv": {
+          "MINS": "62"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Strategy Guild 25.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Strategy Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0cnk5v": {
+          "MINS": "45"
+        },
+        "44vqx9": {
+          "MINS": "56"
+        },
+        "dl6xdk": {
+          "MINS": "59"
+        },
+        "gdwa3z": {
+          "MINS": "54"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup 25.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "95"
+        },
+        "7lnpzs": {
+          "MINS": "114"
+        },
+        "f2j6pq": {
+          "MINS": "57"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup 26.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "42"
+        },
+        "7lnpzs": {
+          "MINS": "55"
+        },
+        "c63luv": {
+          "MINS": "50"
+        },
+        "f2j6pq": {
+          "MINS": "42"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 26.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "30"
+        },
+        "7lnpzs": {
+          "MINS": "41"
+        },
+        "dl6xdk": {
+          "MINS": "32"
+        },
+        "f2j6pq": {
+          "MINS": "40"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG 28.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "MINS": "34"
+        },
+        "44vqx9": {
+          "MINS": "77"
+        },
+        "7lnpzs": {
+          "MINS": "70"
+        },
+        "c63luv": {
+          "MINS": "58"
+        },
+        "f2j6pq": {
+          "MINS": "56"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in African Guild 28.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "MINS": "63"
+        },
+        "44vqx9": {
+          "MINS": "24"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation August 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "99",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup 02.09.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "63"
+        },
+        "7lnpzs": {
+          "MINS": "65"
+        },
+        "c63luv": {
+          "MINS": "59"
+        },
+        "f2j6pq": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall 02.09.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "MINS": "29"
+        },
+        "44vqx9": {
+          "MINS": "34"
+        },
+        "7lnpzs": {
+          "MINS": "40"
+        },
+        "f2j6pq": {
+          "MINS": "33"
+        }
+      }
+    },
+    {
+      "name": [
+        "Discord Implementation/Onboarding Guide"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.25"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "200",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation September 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "83",
+          "MINS": "75"
+        }
+      }
+    },
+    {
+      "name": [
+        "Discord bot and API routes to get Discord data + API",
+        "Guide"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": "550"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French - Why We Are Building ASI Chain:",
+        "The First Layer 1 Blockchain Designed for Advanced AI",
+        "Applications"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "l9rh5l": {
+          "AGIX": "58",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox 28.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "72"
+        },
+        "f2j6pq": {
+          "MINS": "68"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarders Engagement for Q3 2025 (Part)- 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.25"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "192",
+          "MINS": "900"
+        },
+        "sh8upr": {
+          "AGIX": "192",
+          "MINS": "900"
+        },
+        "uwtdjm": {
+          "AGIX": "192",
+          "MINS": "900"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic - Lethal in the Now: Ten Short and",
+        "Long Term Dangers of AI in Our Time (Part One)"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.09.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "fu9paa": {
+          "AGIX": "77",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Monthly Focus Group Meeting - 25 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.25"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "AGIX": "96",
+          "MINS": "120"
+        },
+        "gdwa3z": {
+          "AGIX": "96",
+          "MINS": "120"
+        },
+        "r658c7": {
+          "AGIX": "96",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in R&D Guild 27.08.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.08.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f2j6pq": {
+          "MINS": "14"
+        }
+      }
+    },
+    {
+      "name": [
+        "Presentation on Redefining Intelligence - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f2j6pq": {
+          "AGIX": "77",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Discord Server Management August 2025 - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "45mzxa": {
+          "AGIX": "462",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Scribe meeting notes, edit and post - 03.09.25 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "65snfx": {
+          "AGIX": "115",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summarizing- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Gamers Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "65snfx": {
+          "AGIX": "115",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dyh23g": {
+          "AGIX": "115",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish - The Spiritual Bliss Attractor:",
+        "When AI Chats Reach For Cosmic Harmony by Ben Goertzel"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": "77",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish - Why We Are Building ASI Chain:",
+        "The First Layer 1 Blockchain Designed for Advanced AI",
+        "Applications"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": "58",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish - How AI is becoming the new God",
+        "in a lonely world"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": "77",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French - Lethal in the Now: Ten Short and",
+        "Long Term Dangers of AI in Our Time (Part One)"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vcgk9c": {
+          "AGIX": "77",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.08.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "58",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Asset Creation - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Designing"
+        ],
+        "subGroup": [
+          "Gamers Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "77",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Support (R&D Guild)- Modeling/ Animation- 100 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.25"
+        ],
+        "label": [
+          "Designing"
+        ],
+        "subGroup": [
+          "Gamers Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "385",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Extra Activities - 40 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "40",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.09.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "40.00"
+        }
+      }
+    }
+  ]
+}
