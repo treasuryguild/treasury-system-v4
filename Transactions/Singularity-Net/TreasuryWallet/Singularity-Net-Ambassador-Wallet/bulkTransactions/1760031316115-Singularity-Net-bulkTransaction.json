@@ -1,0 +1,830 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 20",
+    "689.31 USD in 2997.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "d429baae282376e1b5c618d5398f4df4610c2b890768d64951094505571da31f",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in Knowledge Base WG 08.09.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "133",
+          "MINS": "142"
+        },
+        "dl6xdk": {
+          "MINS": "138"
+        },
+        "j2a40n": {
+          "AGIX": "4",
+          "MINS": "146"
+        }
+      }
+    },
+    {
+      "name": [
+        "Workgroup Documentation and support activities in",
+        "September"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.09.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "AGIX": "33",
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "Organize Assets To Be Included in Gitbook"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.09.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "AGIX": "133",
+          "MINS": "135"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation, extra budget caps session -",
+        "25.08.2025 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.08.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "87",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Workgroup Documentation and support activities in",
+        "September"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "198",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Organize Assets To Be Included in Gitbook"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "233",
+          "MINS": "100"
+        },
+        "dl6xdk": {
+          "AGIX": "100",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Guild Documentation in September"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "66",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "61"
+        },
+        "7lnpzs": {
+          "MINS": "85"
+        },
+        "c63luv": {
+          "MINS": "83"
+        },
+        "cqkamv": {
+          "MINS": "85"
+        },
+        "dl6xdk": {
+          "MINS": "64"
+        },
+        "pgqg9n": {
+          "MINS": "78"
+        },
+        "r658c7": {
+          "MINS": "69"
+        },
+        "sh8upr": {
+          "MINS": "55"
+        },
+        "vy70sx": {
+          "MINS": "28"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Treasury Guild Operations (sync)"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "121"
+        },
+        "dl6xdk": {
+          "MINS": "136"
+        },
+        "jnaxjp": {
+          "MINS": "118"
+        },
+        "mmdfl0": {
+          "MINS": "80"
+        },
+        "vy70sx": {
+          "MINS": "68"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "74"
+        },
+        "7lnpzs": {
+          "MINS": "88"
+        },
+        "c63luv": {
+          "MINS": "84"
+        },
+        "cqkamv": {
+          "MINS": "63"
+        },
+        "dl6xdk": {
+          "MINS": "57"
+        },
+        "mmdfl0": {
+          "MINS": "26"
+        },
+        "pgqg9n": {
+          "MINS": "71"
+        },
+        "r658c7": {
+          "MINS": "60"
+        },
+        "vy70sx": {
+          "MINS": "37"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "16"
+        },
+        "7lnpzs": {
+          "MINS": "23"
+        },
+        "c63luv": {
+          "MINS": "21"
+        },
+        "cqkamv": {
+          "MINS": "22"
+        },
+        "lchsml": {
+          "MINS": "26"
+        },
+        "pgqg9n": {
+          "MINS": "25"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in R&D Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "78"
+        },
+        "7lnpzs": {
+          "MINS": "86"
+        },
+        "pgqg9n": {
+          "MINS": "96"
+        },
+        "vy70sx": {
+          "MINS": "83"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French - Introducing ASI:Cloud, A",
+        "Permissionless Foundation for the Age of Intelligence"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "l9rh5l": {
+          "AGIX": "65",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French - Geoffrey Hinton on AI",
+        "intelligence and superintelligence"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "l9rh5l": {
+          "AGIX": "65",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation - 30.09.2025 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cqkamv": {
+          "AGIX": "87",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "40"
+        },
+        "sh8upr": {
+          "MINS": "34"
+        },
+        "vy70sx": {
+          "MINS": "44"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic - Introducing ASI:Cloud, A",
+        "Permissionless Foundation for the Age of Intelligence"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.10.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "fu9paa": {
+          "AGIX": "65",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Chinese - Introducing ASI:Cloud, A",
+        "Permissionless Foundation for the Age of Intelligence"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.10.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "g55lpc": {
+          "AGIX": "65",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 10USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.10.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dyh23g": {
+          "AGIX": "43",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "[September] Facilitation - 72 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "r658c7": {
+          "AGIX": "72",
+          "MINS": "450"
+        }
+      }
+    },
+    {
+      "name": [
+        "[September] Project management - 144 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "r658c7": {
+          "AGIX": "144",
+          "MINS": "450"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.10.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "65",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Latam Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "MINS": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Operations & Task Management / 08-10-2025 - 252 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.10.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "252"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Gov-Dash V3 AI Assistant @CC Agent / Development &",
+        "Project Management / 08-10-2025 - 420 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.10.25"
+        ],
+        "label": [
+          "Operations",
+          "Tool Development"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "420"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Gov-Dash V3 Framework Architecture / Development /",
+        "08-10-2025 - 420 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.10.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "420"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian - Introducing ASI:Cloud, A",
+        "Permissionless Foundation for the Age of Intelligence"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.10.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xupt6q": {
+          "AGIX": "65",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian - Introducing ASI:Cloud, A",
+        "Permissionless Foundation for the Age of Intelligence"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.10.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "kmwef5": {
+          "AGIX": "65",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Creation of Documentation roster for Q4 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.25"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "AGIX": "87",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "30.00"
+        }
+      }
+    }
+  ]
+}
