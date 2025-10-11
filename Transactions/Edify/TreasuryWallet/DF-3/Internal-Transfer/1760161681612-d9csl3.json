@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.645",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "e0ea1e8cbafbb4624f810dadc9c0e4e2f6cd3d5ee70213f31605efc4861582c9",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Internal Transfer"
+      ],
+      "description": [
+        "Internal Transfer"
+      ],
+      "taskCreator": [
+        "DF 3"
+      ],
+      "contributors": {
+        "d9csl3": {
+          "ADA": 0.173949
+        }
+      }
+    }
+  ]
+}
