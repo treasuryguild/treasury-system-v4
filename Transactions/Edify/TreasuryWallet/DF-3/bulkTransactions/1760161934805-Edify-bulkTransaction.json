@@ -1,0 +1,84 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 3",
+    "0.000 USD in 35612.00 FET",
+    "Transaction made by Treasury Guild @0.645",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "9d02878d6582cfad455c69dbbaeb0ad37476e585df9c2a7196bc71a5b0068403",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "\"Providing time toward meeting around the UI/UX",
+        "design, UI/UX site, and the AI architecture.",
+        "\nDevelopment in AI endpoint testing and theory",
+        "expansion\""
+      ],
+      "arrayMap": {
+        "date": [
+          "11.10.25"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "lq9wke": {
+          "FET": "24928.40"
+        }
+      }
+    },
+    {
+      "name": [
+        "Provided content of the website and the AI dataset ",
+        "as well as product advisement."
+      ],
+      "arrayMap": {
+        "date": [
+          "11.10.25"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "pst9ds": {
+          "FET": "7122.40"
+        }
+      }
+    },
+    {
+      "name": [
+        "Omni Ark provided project management, and produced ",
+        "milestone deliverable submission documents."
+      ],
+      "arrayMap": {
+        "date": [
+          "11.10.25"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "csfzep": {
+          "FET": "3561.20"
+        }
+      }
+    }
+  ]
+}
