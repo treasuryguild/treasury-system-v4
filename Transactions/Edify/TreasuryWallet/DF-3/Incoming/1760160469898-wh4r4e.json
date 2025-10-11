@@ -1,0 +1,34 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.00 USD in 32375.00 FET",
+    "0.88 USD in 1.344798 ADA",
+    "Transaction made by Treasury Guild @0.653",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "cbaba5f6ecddd435e8b66865e1b88e72d26a6e8006cc8c636763371f82cbe575",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from wh4r4e"
+      ],
+      "taskCreator": [
+        "DF 3"
+      ],
+      "contributors": {
+        "wh4r4e": {
+          "ADA": 1.344798,
+          "FET": 3237.5
+        }
+      }
+    }
+  ]
+}
