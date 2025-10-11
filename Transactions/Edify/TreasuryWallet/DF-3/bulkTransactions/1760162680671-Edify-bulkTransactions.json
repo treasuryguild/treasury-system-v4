@@ -1,0 +1,30 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.649",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "7b5e2bbff5ae628e5944b4ceb7f3df7ec4b8929f69318679b9436dc43aba17f5",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [],
+      "description": [
+        "sending back 5 ada"
+      ],
+      "taskCreator": [
+        "DF 3"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "ADA": 3.622401,
+          "AGIX": 2
+        }
+      }
+    }
+  ]
+}
