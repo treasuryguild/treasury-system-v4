@@ -1,0 +1,39 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "2.085 USD in 3.00 ADA",
+    "0.000 USD in 3561.00 FET",
+    "Transaction made by Treasury Guild @0.695",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "13f9ab3b332977069150bbe0db431c749006949cbd32f6cef3044e3641df6745",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Sending the rest of the FET tokens"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.10.25"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Edify"
+      ],
+      "contributors": {
+        "csfzep": {
+          "ADA": "3",
+          "FET": "3561"
+        }
+      }
+    }
+  ]
+}
