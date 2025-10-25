@@ -1,0 +1,37 @@
+{
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "139.528 USD in 214.00 ADA",
+    "Transaction made by Treasury Guild @0.652",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "ee87284482389fe2ce001c35b7728e573a1622cc6b6683fd5dcf7a56e8a27169",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Funds for SNET contribution - Treasury Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.10.25"
+        ],
+        "label": [
+          "Operations"
+        ]
+      },
+      "taskCreator": [
+        "Swarm"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "ADA": "214"
+        }
+      }
+    }
+  ]
+}
