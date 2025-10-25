@@ -1,0 +1,382 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 21",
+    "456.48 USD in 3804.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "ff18ea91d293be1e2d8f2376d42768f142d4a85837fe02f689accbff77ca67ff",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "WG async work support, Q2 2025 - 652 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.25"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Ethics WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": "652",
+          "MINS": "1200"
+        }
+      }
+    },
+    {
+      "name": [
+        "Prepare Sessions for October 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.10.25"
+        ],
+        "label": [
+          "Coordination",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "50",
+          "MINS": "45"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "e7shzw": {
+          "MINS": "54"
+        },
+        "eu674e": {
+          "MINS": "52"
+        },
+        "klgjdc": {
+          "MINS": "20"
+        },
+        "mmdfl0": {
+          "MINS": "52"
+        },
+        "vy70sx": {
+          "MINS": "55"
+        },
+        "w2jtal": {
+          "MINS": "56"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "32"
+        },
+        "7lnpzs": {
+          "MINS": "60"
+        },
+        "c63luv": {
+          "MINS": "57"
+        },
+        "cqkamv": {
+          "MINS": "60"
+        },
+        "e7shzw": {
+          "MINS": "50"
+        },
+        "f7k5mt": {
+          "MINS": "60"
+        },
+        "mmdfl0": {
+          "MINS": "17"
+        },
+        "xl6z2n": {
+          "MINS": "32"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Latam Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "8az9uw": {
+          "MINS": "89"
+        },
+        "pgqg9n": {
+          "MINS": "91"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "58"
+        },
+        "7lnpzs": {
+          "MINS": "61"
+        },
+        "9klqvn": {
+          "MINS": "61"
+        },
+        "c63luv": {
+          "MINS": "59"
+        },
+        "cqkamv": {
+          "MINS": "36"
+        },
+        "eu674e": {
+          "MINS": "58"
+        },
+        "hmt2e5": {
+          "MINS": "61"
+        },
+        "klgjdc": {
+          "MINS": "61"
+        },
+        "mmdfl0": {
+          "MINS": "59"
+        },
+        "pgqg9n": {
+          "MINS": "64"
+        },
+        "r658c7": {
+          "MINS": "32"
+        },
+        "rcgctj": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "53"
+        },
+        "c63luv": {
+          "MINS": "34"
+        },
+        "cqkamv": {
+          "MINS": "25"
+        },
+        "pgqg9n": {
+          "MINS": "58"
+        },
+        "rcgctj": {
+          "MINS": "51"
+        },
+        "xl6z2n": {
+          "MINS": "15"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Turkish - Introducing ASI:Cloud, A",
+        "Permissionless Foundation for the Age of Intelligence"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.10.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "wpr9nj": {
+          "AGIX": "125",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "WG internal management, Q4 2025 - 652 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.10.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "AI Ethics WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "652",
+          "MINS": "600"
+        }
+      }
+    },
+    {
+      "name": [
+        "Co-chair, Q4 2025 - 1087 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.10.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "AI Ethics WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "1087",
+          "MINS": "1500"
+        }
+      }
+    },
+    {
+      "name": [
+        "October Swarm Treasury System Service Fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.25"
+        ],
+        "label": [
+          "Invoice"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "1200"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.10.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "38.00"
+        }
+      }
+    }
+  ]
+}
