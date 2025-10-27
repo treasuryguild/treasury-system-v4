@@ -1,0 +1,212 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 7",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "5f1cddb5b662ed6de3f0eb9eb4642f5bf93f2773db85c40bc5cc6b2a904dcc7f",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Treasury Updates in July"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "360"
+        }
+      }
+    },
+    {
+      "name": [
+        "Community Support in Q3"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.08.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Updates in August"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "945"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Operations in Q3"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.25"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "525"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Updates in September"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "1305"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury updates for Q3"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.09.25"
+        ],
+        "label": [
+          "Documentation",
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "jnaxjp": {
+          "MINS": "225"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in ODIN Open Garage"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "ODIN - Open Garage"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "3qz0k2": {
+          "MINS": "75"
+        },
+        "jhyhwp": {
+          "MINS": "75"
+        },
+        "jl2vjm": {
+          "MINS": "40"
+        },
+        "rcgctj": {
+          "MINS": "75"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in ODIN Open Garage"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "ODIN - Open Garage"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "3qz0k2": {
+          "MINS": "90"
+        },
+        "cvdu29": {
+          "MINS": "90"
+        },
+        "jl2vjm": {
+          "MINS": "60"
+        },
+        "rcgctj": {
+          "MINS": "60"
+        }
+      }
+    }
+  ]
+}
