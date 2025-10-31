@@ -1,0 +1,137 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 15",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "ae573e496dd1ee6575e17ee28fd032ef91c5eea1aecf551fbad3a1366d46ecaa",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "53"
+        },
+        "7lnpzs": {
+          "MINS": "56"
+        },
+        "c63luv": {
+          "MINS": "47"
+        },
+        "cqkamv": {
+          "MINS": "63"
+        },
+        "f7k5mt": {
+          "MINS": "60"
+        },
+        "mmdfl0": {
+          "MINS": "38"
+        },
+        "pgqg9n": {
+          "MINS": "53"
+        },
+        "xl6z2n": {
+          "MINS": "64"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "61"
+        },
+        "7lnpzs": {
+          "MINS": "66"
+        },
+        "cqkamv": {
+          "MINS": "66"
+        },
+        "f2j6pq": {
+          "MINS": "64"
+        },
+        "lchsml": {
+          "MINS": "61"
+        },
+        "pgqg9n": {
+          "MINS": "65"
+        },
+        "xl6z2n": {
+          "MINS": "68"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Education Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "60"
+        },
+        "cq699s": {
+          "MINS": "30"
+        },
+        "mmdfl0": {
+          "MINS": "60"
+        },
+        "r658c7": {
+          "MINS": "30"
+        },
+        "sh8upr": {
+          "MINS": "60"
+        },
+        "w2jtal": {
+          "MINS": "60"
+        }
+      }
+    }
+  ]
+}
