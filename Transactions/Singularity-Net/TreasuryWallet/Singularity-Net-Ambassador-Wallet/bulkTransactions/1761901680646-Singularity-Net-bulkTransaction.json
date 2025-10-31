@@ -1,0 +1,582 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 19",
+    "1041.70 USD in 9470.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "bd783cd36cfd1e9eb4f296fd76cd91af5fe3f5123c747292aacd605bbc8557e1",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in Treasury Automation WG 02.09.2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.09.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "36",
+          "MINS": "157"
+        },
+        "dl6xdk": {
+          "MINS": "146"
+        },
+        "mmdfl0": {
+          "MINS": "130"
+        },
+        "vy70sx": {
+          "AGIX": "13",
+          "MINS": "160"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Knowledge Base WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "50",
+          "MINS": "59"
+        },
+        "dl6xdk": {
+          "AGIX": "7",
+          "MINS": "70"
+        },
+        "vy70sx": {
+          "MINS": "27"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Treasury Automation WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "19",
+          "MINS": "121"
+        },
+        "dl6xdk": {
+          "MINS": "136"
+        },
+        "jnaxjp": {
+          "AGIX": "141",
+          "MINS": "118"
+        },
+        "mmdfl0": {
+          "AGIX": "1",
+          "MINS": "80"
+        },
+        "vy70sx": {
+          "AGIX": "4",
+          "MINS": "68"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Knowledge Base WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "111",
+          "MINS": "95"
+        },
+        "6lcdjr": {
+          "MINS": "25"
+        },
+        "cqkamv": {
+          "MINS": "55"
+        },
+        "dl6xdk": {
+          "AGIX": "30",
+          "MINS": "95"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Fundraising WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.10.25"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "Experiments"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "84"
+        },
+        "r658c7": {
+          "MINS": "80"
+        }
+      }
+    },
+    {
+      "name": [
+        "Social media management - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "ym9jac": {
+          "AGIX": "455",
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "Discord Server Management October 2025 - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "45mzxa": {
+          "AGIX": "1091",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Unlocking NuNet: DePIN's Edge in Decentralized",
+        "AI & Compute Sharing - 200 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "200",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Hosting - 30/10/25 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "273",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Operations, Task Management, Facilitator,",
+        "Communications 30-10-2025 - 3482 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Operations",
+          "Facilitating",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "3482"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summarizing - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j88zza": {
+          "AGIX": "364",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Operations, Communications 30-10-2025 - 696 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rauu23": {
+          "AGIX": "696"
+        }
+      }
+    },
+    {
+      "name": [
+        "Scribe meeting notes, edit and post - 30.10.25 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "AGIX": "182",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 42) - 300 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.10.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "300",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities (Week 43) - 300 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.10.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "300",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Beyond LLMs: Memory, Reasoning and True",
+        "Generative Models - 220 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "220",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Communications & Education 30-10-2025 - 435 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "8az9uw": {
+          "AGIX": "435"
+        }
+      }
+    },
+    {
+      "name": [
+        "Ambassador Townhall Video Edit- 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": "182",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (9.10.25) - 200 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.10.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "AGIX": "200",
+          "MINS": "420"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: FAIK: Surviving a World of Deep Fakes - 220 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "24.10.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "AGIX": "220",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a Clip(2) - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cu9ctl": {
+          "AGIX": "364",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "94.00"
+        }
+      }
+    }
+  ]
+}
