@@ -1,0 +1,815 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 24",
+    "746.10 USD in 8290.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "fc4721a137e056673c4f0f7a2a2cfafec79ce5c217ccf296c0cfb1e7105d3312",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Meeting Documentation 02.10.25 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.10.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "nrjd7y": {
+          "AGIX": "222",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Prepare Sessions for October 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.10.25"
+        ],
+        "label": [
+          "Coordination",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "33",
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "Organize Assets To Be Included in Gitbook"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.10.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "16",
+          "MINS": "15"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation 16.10.25 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "AGIX": "222",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Facilitation 16.10.2025 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "333",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework & GitHub Management 16.10.25 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "333",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Workgroup Documentation and support activities"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.10.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "280",
+          "MINS": "255"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "43"
+        },
+        "f2j6pq": {
+          "MINS": "42"
+        },
+        "sh8upr": {
+          "MINS": "51"
+        },
+        "w2jtal": {
+          "MINS": "51"
+        },
+        "xl6z2n": {
+          "MINS": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "37"
+        },
+        "7lnpzs": {
+          "MINS": "65"
+        },
+        "cqkamv": {
+          "MINS": "28"
+        },
+        "e7shzw": {
+          "MINS": "61"
+        },
+        "f7k5mt": {
+          "MINS": "65"
+        },
+        "mmdfl0": {
+          "MINS": "52"
+        },
+        "pgqg9n": {
+          "MINS": "51"
+        },
+        "xl6z2n": {
+          "MINS": "65"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Facilitation 30.10.2025 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cq699s": {
+          "AGIX": "333",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework & GitHub Management 30.10.25 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.10.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "333",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "[October] Documentation - 130 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.25"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "AGIX": "130",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "[October] Facilitation - 130 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "130",
+          "MINS": "450"
+        }
+      }
+    },
+    {
+      "name": [
+        "[October] Project management - 130 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "r658c7": {
+          "AGIX": "130",
+          "MINS": "450"
+        }
+      }
+    },
+    {
+      "name": [
+        "[October] Budget and Tasks Management - 130 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.25"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "130",
+          "MINS": "450"
+        }
+      }
+    },
+    {
+      "name": [
+        "Organize Assets To Be Included in Gitbook"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "22",
+          "MINS": "20"
+        },
+        "9z6nxn": {
+          "AGIX": "66",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Workgroup Documentation and support activities in",
+        "October"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "142",
+          "MINS": "120"
+        },
+        "rcgctj": {
+          "AGIX": "232",
+          "MINS": "195"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation October 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "82",
+          "MINS": "75"
+        },
+        "rcgctj": {
+          "AGIX": "16",
+          "MINS": "15"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation October 2025"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.10.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "89",
+          "MINS": "75"
+        },
+        "e7shzw": {
+          "AGIX": "18",
+          "MINS": "15"
+        },
+        "rcgctj": {
+          "AGIX": "53",
+          "MINS": "45"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "69"
+        },
+        "c63luv": {
+          "MINS": "66"
+        },
+        "cqkamv": {
+          "MINS": "70"
+        },
+        "e7shzw": {
+          "MINS": "67"
+        },
+        "f2j6pq": {
+          "MINS": "70"
+        },
+        "f7k5mt": {
+          "MINS": "60"
+        },
+        "xl6z2n": {
+          "MINS": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "60"
+        },
+        "c63luv": {
+          "MINS": "59"
+        },
+        "eu674e": {
+          "MINS": "32"
+        },
+        "f2j6pq": {
+          "MINS": "35"
+        },
+        "j2a40n": {
+          "MINS": "17"
+        },
+        "mg3a4k": {
+          "MINS": "61"
+        },
+        "pgqg9n": {
+          "MINS": "60"
+        },
+        "rcgctj": {
+          "MINS": "61"
+        },
+        "xl6z2n": {
+          "MINS": "64"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Operations, Task Management / 05-11-2025 - 618 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "618"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Documenter / 05-11-2025 - 206 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.25"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "206"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Operations, Communications 05-11-2025 - 258 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.25"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rauu23": {
+          "AGIX": "258"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Operations, Task Management, Facilitator,",
+        "Communications 05-11-2025 - 1648 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.25"
+        ],
+        "label": [
+          "Operations",
+          "Facilitating",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "1648"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Gov-Dash V3 AI Assistant @CC Agent / Development &",
+        "Project Management / 05-11-2025 - 1030 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.25"
+        ],
+        "label": [
+          "Operations",
+          "Tool Development"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "1030"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 Gov-Dash V3 Framework Architecture / Development /",
+        "05-11-2025 - 1030 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "8az9uw": {
+          "AGIX": "1030"
+        }
+      }
+    },
+    {
+      "name": [
+        "Organize Assets To Be Included in Gitbook"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.11.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cqkamv": {
+          "AGIX": "33",
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "06.11.25 - Extra Activities - 40 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.11.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Designing"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "40",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.11.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "82.00"
+        }
+      }
+    }
+  ]
+}
