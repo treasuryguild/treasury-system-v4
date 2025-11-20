@@ -1,0 +1,748 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 17",
+    "3621.66 USD in 25869.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "803d7fd95fc4d813fd536f7fc0d307fb28ae4848e05246d0cf84cfd740084709",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Meeting facilitation - 02.10.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.10.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "31"
+        },
+        "7lnpzs": {
+          "MINS": "72"
+        },
+        "cqkamv": {
+          "MINS": "15"
+        },
+        "mmdfl0": {
+          "MINS": "73"
+        },
+        "pgqg9n": {
+          "MINS": "63"
+        }
+      }
+    },
+    {
+      "name": [
+        "BGI25 unconference - AI Ethics WG input - 240 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Experiments"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "240"
+        },
+        "c63luv": {
+          "AGIX": "240"
+        },
+        "sh8upr": {
+          "AGIX": "240"
+        },
+        "vy70sx": {
+          "AGIX": "240"
+        }
+      }
+    },
+    {
+      "name": [
+        "BGI25 unconference - video edit - 560 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Experiments"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "ym9jac": {
+          "AGIX": "560"
+        }
+      }
+    },
+    {
+      "name": [
+        "Social media management - 50 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.11.25"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "ym9jac": {
+          "AGIX": "357",
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation - 28.10.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.10.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cqkamv": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "67"
+        },
+        "cqkamv": {
+          "MINS": "48"
+        },
+        "dl6xdk": {
+          "MINS": "48"
+        },
+        "r658c7": {
+          "MINS": "38"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation - 16.10.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation - 21.10.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.10.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation - 11.11.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.11.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation - 13.11.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.11.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation - 09.10.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "BGI25 unconference - facilitator and organization -",
+        "5395 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Facilitating",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Experiments"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "5395"
+        }
+      }
+    },
+    {
+      "name": [
+        "BGI25 unconference - video edit - 320 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Experiments"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "65snfx": {
+          "AGIX": "320"
+        },
+        "j88zza": {
+          "AGIX": "320"
+        }
+      }
+    },
+    {
+      "name": [
+        "Make a Clip (2) - 40 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.11.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Video Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "65snfx": {
+          "AGIX": "286",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Event - The Village Meeting(Prep) -3000 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.10.25"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "AGIX": "3000",
+          "MINS": "900"
+        }
+      }
+    },
+    {
+      "name": [
+        "BGI25 unconference - presenter and blog - 1359 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Experiments"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "AGIX": "1359"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Treasury Guild Operations (sync)"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dl6xdk": {
+          "MINS": "142"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4 2025 Lean Guild Challenge- 800 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "r658c7": {
+          "AGIX": "800",
+          "MINS": "900"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4, 2025 Interview transcription - 152 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "AI Ethics WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vkdqep": {
+          "AGIX": "152",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Documentation of WG meeting- 06.10.2025 - 87 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "AI Ethics WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vkdqep": {
+          "AGIX": "87",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Town Hall facilitation - 21.10.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.10.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "80",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "BGI25 unconference - LatAm slot and facilitation -",
+        "10070 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Facilitating",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Experiments"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "10070"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3,2025 Interviews - 108 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "AI Ethics WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vy70sx": {
+          "AGIX": "108",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation - 14.10.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "BGI25 unconference - governance room, documenter - 639",
+        "AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Experiments"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "AGIX": "639"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation - 30.10.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.11.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "BGI25 unconference - video edit - 400 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.11.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Experiments"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "m5dusc": {
+          "AGIX": "400"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.11.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "256.00"
+        }
+      }
+    }
+  ]
+}
