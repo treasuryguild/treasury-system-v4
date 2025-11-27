@@ -1,0 +1,871 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 21",
+    "880.32 USD in 7336.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "3466c5495b99cfec1e0e9aefd4708318f831fe3367b7ae9673ae913f382c3222",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in Knowledge Base WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Knowledge Base WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dl6xdk": {
+          "AGIX": "19",
+          "MINS": "129"
+        },
+        "j2a40n": {
+          "AGIX": "59",
+          "MINS": "96"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AI Sandbox"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "MINS": "46"
+        },
+        "mmdfl0": {
+          "MINS": "44"
+        }
+      }
+    },
+    {
+      "name": [
+        "Scavenger Hunt Initiative Team Rewards Q4 - 790.5 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "AGIX": "790",
+          "MINS": "600"
+        },
+        "mmdfl0": {
+          "AGIX": "790",
+          "MINS": "600"
+        },
+        "sh8upr": {
+          "AGIX": "790",
+          "MINS": "600"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "56"
+        },
+        "7lnpzs": {
+          "MINS": "57"
+        },
+        "cqkamv": {
+          "MINS": "31"
+        },
+        "f2j6pq": {
+          "MINS": "25"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "51"
+        },
+        "7lnpzs": {
+          "MINS": "65"
+        },
+        "cqkamv": {
+          "MINS": "53"
+        },
+        "f2j6pq": {
+          "MINS": "61"
+        },
+        "j88zza": {
+          "MINS": "56"
+        },
+        "mmdfl0": {
+          "MINS": "48"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian - Introducing ASI:Cloud, A",
+        "Permissionless Foundation for the Age of Intelligence"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "l9rh5l": {
+          "AGIX": "125",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian - Geoffrey Hinton on AI",
+        "intelligence and superintelligence"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "l9rh5l": {
+          "AGIX": "125",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian - Lethal in the Now: Ten Short and",
+        "Long Term Dangers of AI in Our Time (Part One)"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "l9rh5l": {
+          "AGIX": "167",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Russian - Why We Are Building ASI Chain:",
+        "The First Layer 1 Blockchain Designed for Advanced AI",
+        "Applications"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "l9rh5l": {
+          "AGIX": "125",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "2nd place Scavenger Hunt Winners Rewards - 150 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "uwssvy": {
+          "AGIX": "150",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "28"
+        },
+        "f2j6pq": {
+          "MINS": "32"
+        },
+        "r658c7": {
+          "MINS": "11"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Focus group meeting- 240 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.25"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "240",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarders Engagement for Q4 2025 - 600 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.25"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "600",
+          "MINS": "900"
+        },
+        "sh8upr": {
+          "AGIX": "600",
+          "MINS": "900"
+        },
+        "uwtdjm": {
+          "AGIX": "600",
+          "MINS": "900"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic - The web is for everyone and must",
+        "remain so: Tim Berners-Lee"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "fu9paa": {
+          "AGIX": "125",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Notes, Summary and uploading to",
+        "the tool (06.11.2025) - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "uwtdjm": {
+          "AGIX": "80",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in African Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "MINS": "30"
+        },
+        "f2j6pq": {
+          "MINS": "14"
+        },
+        "vy70sx": {
+          "MINS": "43"
+        }
+      }
+    },
+    {
+      "name": [
+        "5th place Scavenger Hunt Winners Rewards - 65 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Social"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "33sr99": {
+          "AGIX": "65",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Joscha Bach: The Operation of Consciousness |",
+        "AGI-25 - 150 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.11.25"
+        ],
+        "label": [
+          "Operations",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "65snfx": {
+          "AGIX": "150",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Education Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "65snfx": {
+          "MINS": "15"
+        },
+        "sh8upr": {
+          "MINS": "15"
+        }
+      }
+    },
+    {
+      "name": [
+        "Gif Designing for Visual Glossary - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Designing"
+        ],
+        "subGroup": [
+          "Gamers Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "65snfx": {
+          "AGIX": "167",
+          "MINS": "120"
+        },
+        "sh8upr": {
+          "AGIX": "167",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Scribe meeting notes, edit and post - 26.11.25 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "65snfx": {
+          "AGIX": "167",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Treasury Automation WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dl6xdk": {}
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Mission Control - Decentralized SPO Use case -",
+        "150AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.11.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "150",
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "14.11.25 - Graphics - 100 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.11.25"
+        ],
+        "label": [
+          "Designing",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "100",
+          "MINS": "240"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.11.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "125",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "27.11.25 - Extra Activities - 40 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Designing"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "40",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian - Announcing the ASI:Chain",
+        "Public DevNet"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.11.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xupt6q": {
+          "AGIX": "125",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Indonesian - The web is for everyone and",
+        "must remain so: Tim Berners-Lee"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.11.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xupt6q": {
+          "AGIX": "125",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian - Announcing the ASI:Chain Public",
+        "DevNet"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "kmwef5": {
+          "AGIX": "125",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Italian - The web is for everyone and must",
+        "remain so: Tim Berners-Lee"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "kmwef5": {
+          "AGIX": "125",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Most Used terms - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.25"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Gamers Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "AGIX": "167",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding WG Meeting Notes, Summary and uploading to",
+        "the tool (09.10.2025) - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.11.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "AGIX": "80",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "73.00"
+        }
+      }
+    }
+  ]
+}
