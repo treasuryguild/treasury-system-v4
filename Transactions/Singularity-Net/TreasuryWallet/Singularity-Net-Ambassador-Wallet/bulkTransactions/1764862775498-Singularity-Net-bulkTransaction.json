@@ -1,0 +1,644 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 17",
+    "244.09 USD in 2219.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "bade3aa7a972a99838f7049028adc616283d8bca73f65a0e70dd205383f68590",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Translate to Russian - Announcing the ASI:Chain Public",
+        "DevNet"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "l9rh5l": {
+          "AGIX": "136",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French - The web is for everyone and must",
+        "remain so: Tim Berners-Lee"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "l9rh5l": {
+          "AGIX": "136",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q4, 2025 Interview transcription - 152 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "AI Ethics WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "c63luv": {
+          "AGIX": "152",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "53"
+        },
+        "cqkamv": {
+          "MINS": "11"
+        },
+        "pgqg9n": {
+          "MINS": "53"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in AMA Session with Rejuve"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "47"
+        },
+        "cqkamv": {
+          "MINS": "49"
+        },
+        "f2j6pq": {
+          "MINS": "44"
+        },
+        "j88zza": {
+          "MINS": "39"
+        },
+        "mmdfl0": {
+          "MINS": "40"
+        },
+        "sh8upr": {
+          "MINS": "46"
+        },
+        "uwtdjm": {
+          "MINS": "30"
+        },
+        "ywlry9": {
+          "MINS": "47"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "MINS": "73"
+        },
+        "7lnpzs": {
+          "MINS": "74"
+        },
+        "cqkamv": {
+          "MINS": "74"
+        },
+        "j88zza": {
+          "MINS": "42"
+        },
+        "mmdfl0": {
+          "MINS": "66"
+        },
+        "pgqg9n": {
+          "MINS": "74"
+        }
+      }
+    },
+    {
+      "name": [
+        "Form creation, plus slide prep for AMA Session",
+        "Onboarding Workgroup X Education Workgroup with",
+        "Rejuve.AI - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.25"
+        ],
+        "label": [
+          "Documentation",
+          "Content Creation",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cqkamv": {
+          "AGIX": "182",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation - 02.12.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cqkamv": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation - 13.11.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.11.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation - 27.11.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation - 16.10.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.11.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Monthly Syncing"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.12.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "65"
+        },
+        "j88zza": {
+          "MINS": "26"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Arabic - Announcing the ASI:Chain Public",
+        "DevNet"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "fu9paa": {
+          "AGIX": "136",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f2j6pq": {
+          "MINS": "35"
+        },
+        "pgqg9n": {
+          "MINS": "36"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in R&D Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f2j6pq": {
+          "MINS": "82"
+        },
+        "pgqg9n": {
+          "MINS": "87"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translator Support Activities - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.11.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dyh23g": {
+          "AGIX": "182",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to French - Announcing the ASI:Chain Public",
+        "DevNet"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "vcgk9c": {
+          "AGIX": "136",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Creating Announcement Design for AMA Session by",
+        "Onboarding WG X Education Workgroup with Rejuve.AI - 15",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.25"
+        ],
+        "label": [
+          "Content Creation",
+          "Designing"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "136",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Quarterly Report Education Guild (Q#4 - 2025) - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "273",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Latam Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.12.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "MINS": "44"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese - Announcing the ASI:Chain",
+        "Public DevNet"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "a82yhu": {
+          "AGIX": "136",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Translate to Portuguese - The web is for everyone and",
+        "must remain so: Tim Berners-Lee"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.12.25"
+        ],
+        "label": [
+          "Translation",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Translator Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "a82yhu": {
+          "AGIX": "136",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Share the infographic and publicise for AMA Session by",
+        "Onboarding WG X Education Workgroup with Rejuve.AI - 15",
+        "USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.12.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Operations"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "AGIX": "136",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.12.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "22.00"
+        }
+      }
+    }
+  ]
+}
