@@ -1,0 +1,324 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 21",
+    "217.53 USD in 2417.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "9d445d4e97847997bfdb0a4a2d4b1fc6778c7dc23c164468d785a8692b9e1a2d",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Meeting facilitation - 09.12.2025 - 120 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.12.25"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "120",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in African Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.12.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "4v3can": {
+          "MINS": "28"
+        },
+        "9klqvn": {
+          "MINS": "29"
+        },
+        "e7shzw": {
+          "MINS": "28"
+        },
+        "mmdfl0": {
+          "MINS": "23"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.12.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "42"
+        },
+        "6lcdjr": {
+          "MINS": "31"
+        },
+        "7lnpzs": {
+          "MINS": "75"
+        },
+        "cqkamv": {
+          "MINS": "26"
+        },
+        "eu674e": {
+          "MINS": "61"
+        },
+        "f2j6pq": {
+          "MINS": "74"
+        },
+        "hmt2e5": {
+          "MINS": "61"
+        },
+        "mg3a4k": {
+          "MINS": "40"
+        },
+        "r658c7": {
+          "MINS": "73"
+        },
+        "rcgctj": {
+          "MINS": "26"
+        },
+        "vy70sx": {
+          "MINS": "39"
+        },
+        "xl6z2n": {
+          "MINS": "76"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: From Power Games to Alignment in the",
+        "Superintelligence Era -150AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.12.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "AGIX": "150",
+          "MINS": "240"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.12.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "11"
+        },
+        "cq699s": {
+          "MINS": "14"
+        },
+        "f2j6pq": {
+          "MINS": "40"
+        },
+        "xl6z2n": {
+          "MINS": "43"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation - 18.11.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "17.12.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: The Capture of the Cypherpunk Movement- 150AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.12.25"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "150",
+          "MINS": "240"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation - 11.12.2025 - 80 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.12.25"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f2j6pq": {
+          "AGIX": "80",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Workgroup Documentation and support activities in",
+        "November"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.12.25"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "213",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Guild Operations - Q4 2025 - 1,600 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "1600"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.12.25"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "24.00"
+        }
+      }
+    }
+  ]
+}
