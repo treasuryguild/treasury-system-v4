@@ -1,0 +1,140 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 5",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "9efcf39d09cfca8a9411bacdd81b7730aea8661b63ef91a49a1f2bd8a897e873",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in ODIN Open Garage"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.12.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "ODIN - Open Garage"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "3qz0k2": {
+          "MINS": "150"
+        },
+        "jl2vjm": {
+          "MINS": "150"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Operations"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.12.25"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "795"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in ODIN Open Garage"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.25"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "ODIN - Open Garage"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "3qz0k2": {
+          "MINS": "100"
+        },
+        "jl2vjm": {
+          "MINS": "100"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Updates"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.25"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "825"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in ODIN Open Garage"
+      ],
+      "arrayMap": {
+        "date": [
+          "07.01.26"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "ODIN - Open Garage"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "3qz0k2": {
+          "MINS": "45"
+        },
+        "jhyhwp": {
+          "MINS": "45"
+        },
+        "jl2vjm": {
+          "MINS": "45"
+        }
+      }
+    }
+  ]
+}
