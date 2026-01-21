@@ -1,0 +1,53 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "12.06 USD in 33.684597 ADA",
+    "Transaction made by Treasury Guild @0.358",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "1b530381cc6a43a030ec19e14f044c483c34e2478ecd8351b3f563cad978e12e",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [],
+      "description": [
+        "Distribution of funds to team members",
+        "Distribution of funds to team members",
+        "Distribution of funds to team members",
+        "Distribution of funds to team members"
+      ],
+      "taskCreator": [
+        "Governance Services Guild tools"
+      ],
+      "contributors": {
+        "4mg27n": {
+          "ADA": 232,
+          "GMBL": 1005,
+          "Minutes": 24
+        },
+        "7lnpzs": {
+          "ADA": 232,
+          "COPI": 1,
+          "GMBL": 1005,
+          "Minutes": 24
+        },
+        "mg3a4k": {
+          "ADA": 232,
+          "COPI": 1,
+          "GMBL": 1005,
+          "Minutes": 24
+        },
+        "rcgctj": {
+          "ADA": 232,
+          "COPI": 1,
+          "GMBL": 1005,
+          "Minutes": 24
+        }
+      }
+    }
+  ]
+}
