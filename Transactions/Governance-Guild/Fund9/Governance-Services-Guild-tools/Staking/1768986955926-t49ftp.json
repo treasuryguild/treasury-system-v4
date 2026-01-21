@@ -1,0 +1,33 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "0.00 USD in 12000.00 ACOPI",
+    "0.41 USD in 1.15077 ADA",
+    "Transaction made by Treasury Guild @0.358",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "33798da2e4b6cc01b4ecd9748ec6fc8e819150ca69164f4cb8d6b33381b7cd7e",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Staking"
+      ],
+      "description": [
+        "Abstain fees for voting"
+      ],
+      "taskCreator": [
+        "Governance Services Guild tools"
+      ],
+      "contributors": {
+        "t49ftp": {
+          "ADA": 0
+        }
+      }
+    }
+  ]
+}
