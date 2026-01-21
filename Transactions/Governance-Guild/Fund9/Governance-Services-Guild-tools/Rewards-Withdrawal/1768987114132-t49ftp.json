@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Governance Services Guild tools Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/420109",
+    "Recipients: 1",
+    "0.00 USD in 0 ADA",
+    "Transaction made by Treasury Guild @0.358",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "71832b43fbab3e74678a4af08b9a6484f751d4342af129edbaa3a912537096a6",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Rewards Withdrawal"
+      ],
+      "description": [
+        "Rewards Withdrawal"
+      ],
+      "taskCreator": [
+        "Governance Services Guild tools"
+      ],
+      "contributors": {
+        "t49ftp": {
+          "ADA": 33.684597
+        }
+      }
+    }
+  ]
+}
