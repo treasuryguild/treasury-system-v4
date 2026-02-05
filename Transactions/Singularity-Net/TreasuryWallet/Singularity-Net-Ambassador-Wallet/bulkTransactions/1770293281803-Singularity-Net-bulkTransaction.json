@@ -1,0 +1,378 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 11",
+    "650.68 USD in 8793.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "f3538b855dfc6053b374139f100d8fc8724a01a93a8a429c5c1b473a7fc89937",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Q1/2026 Communications & Education 04/01/2026 > 517",
+        "AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.01.2026"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "8az9uw": {
+          "AGIX": "517"
+        }
+      }
+    },
+    {
+      "name": [
+        "Integrating GitHub Operations with Treasury Manager"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.01.2026"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "135",
+          "MINS": "75"
+        },
+        "rcgctj": {
+          "AGIX": "135",
+          "MINS": "75"
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (28.1.26) - 200 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.01.2026"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "AGIX": "200",
+          "MINS": "420"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Humanity 2.0: Space - the Inner Frontier -",
+        "100AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.02.2026"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "65snfx": {
+          "AGIX": "100",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q1/2026 Gov-Dash V3 Framework Architecture Design",
+        "04/02/2026 > 1551 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.02.2026"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "8az9uw": {
+          "AGIX": "1551"
+        },
+        "pgqg9n": {
+          "AGIX": "1551"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q1/2026 Operations, Task Management 04/02/2026 > 258",
+        "AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.02.2026"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "R&D Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "258"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q1/2026 Operations, Task Management, Facilitator,",
+        "Communications 04/02/2026 > 2326 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.02.2026"
+        ],
+        "label": [
+          "Operations",
+          "Facilitating",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "2326"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Reclaiming Human Agency in the Machine Age -",
+        "150AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.2026"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "AGIX": "150",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities - 300 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "300",
+          "MINS": "420"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Documentation 15.01.2026 - 15 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "AI Sandbox"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "AGIX": "203",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Scribe meeting notes, edit and post - 04.02.26 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "270",
+          "MINS": "120"
+        }
+      }
+    },
+    {
+      "name": [
+        "Hosting - 04/02/26 - 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cq699s": {
+          "AGIX": "405",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Dework/ Follow up- 30 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.2026"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "tgd8fg": {
+          "AGIX": "405",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Prepare Sessions"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.02.2026"
+        ],
+        "label": [
+          "Coordination",
+          "Documentation"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "200",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.26"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "87.00"
+        }
+      }
+    }
+  ]
+}
