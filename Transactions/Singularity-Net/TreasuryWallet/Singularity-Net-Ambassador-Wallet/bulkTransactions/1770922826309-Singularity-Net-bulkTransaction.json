@@ -1,0 +1,348 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 10",
+    "468.87 USD in 6998.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "f31d2becb5600f93dba4b3618b19afeb217da6a8018f29a16888092dd6773865",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Talking drum dispatch - 545 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "29.01.2026"
+        ],
+        "label": [
+          "Content Creation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "AGIX": "545",
+          "MINS": "600"
+        }
+      }
+    },
+    {
+      "name": [
+        "(JANUARY) Extra Activities Content creation - 150 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.2026"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "sh8upr": {
+          "AGIX": "150",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "(JANUARY) Extra Activities Documentation - 150 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.2026"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "AGIX": "150",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "(JANUARY) Extra Activities Facilitation - 150 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "w2jtal": {
+          "AGIX": "150",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "Discord Server Management January 2026 - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.01.2026"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "45mzxa": {
+          "AGIX": "1791",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summary Note"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "e7shzw": {
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting Summary Note -15th January, 2026 285 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.02.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "African Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "AGIX": "285",
+          "MINS": "90"
+        }
+      }
+    },
+    {
+      "name": [
+        "slides and videos asi academy- 80 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.02.2026"
+        ],
+        "label": [
+          "Content Creation",
+          "Video Editing"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "cq699s": {
+          "AGIX": "1194",
+          "MINS": "180"
+        },
+        "mmdfl0": {
+          "AGIX": "1194",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: Roadmap Sync & AMA Friday 6th February 2026 -",
+        "200 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.02.2026"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "200",
+          "MINS": "240"
+        }
+      }
+    },
+    {
+      "name": [
+        "DRAFT: The Embodied AGI Revolution - 200 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.02.2026"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "AGIX": "200",
+          "MINS": "240"
+        }
+      }
+    },
+    {
+      "name": [
+        "Mesh Creation - 570 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.02.2026"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "klgjdc": {
+          "AGIX": "570"
+        }
+      }
+    },
+    {
+      "name": [
+        "Weekly Management and Activities - 300 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.02.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Operations",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "300",
+          "MINS": "420"
+        }
+      }
+    },
+    {
+      "name": [
+        "Twitter Management (12.2.26) - 200 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.02.2026"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Writers Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "gycvld": {
+          "AGIX": "200",
+          "MINS": "420"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.02.26"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "69.00"
+        }
+      }
+    }
+  ]
+}
