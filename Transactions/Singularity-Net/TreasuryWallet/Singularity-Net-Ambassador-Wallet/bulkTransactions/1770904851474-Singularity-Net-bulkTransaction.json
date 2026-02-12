@@ -1,0 +1,664 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 13",
+    "71.76 USD in 1040.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "5cf6857d664ab4477724230b9c6aaa2b5f7d3b99da415019a6972d75d5e5767d",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Meeting documentation, Tues 13th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.01.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Tues 13th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.01.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Thurs 22nd Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.01.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "AGIX": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Thurs 15th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.01.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f7k5mt": {
+          "AGIX": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Tues 20th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.01.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "eu674e": {
+          "AGIX": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeeting documentation, Thurs 15th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.01.2026"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Tues 27th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.01.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "e7shzw": {
+          "AGIX": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Thurs 29th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.01.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Thurs 5th Feb 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.01.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Tues 10th Feb 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.01.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active participation, Tues 20th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.01.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "eu674e": {
+          "MINS": "1"
+        },
+        "mg3a4k": {
+          "MINS": "1"
+        },
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active participation, Thurs 22nd Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.01.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "e7shzw": {
+          "MINS": "1"
+        },
+        "eu674e": {
+          "MINS": "1"
+        },
+        "mg3a4k": {
+          "MINS": "1"
+        },
+        "mmdfl0": {
+          "MINS": "1"
+        },
+        "rcgctj": {
+          "MINS": "1"
+        },
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation, Tues 20th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.02.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f7k5mt": {
+          "AGIX": "70"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Tues 3rd Feb 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.02.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active participation, Tues 13th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.02.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "f7k5mt": {
+          "MINS": "1"
+        },
+        "pgqg9n": {
+          "MINS": "1"
+        },
+        "rcgctj": {
+          "MINS": "1"
+        },
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active partticipation, Thurs 15th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.02.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "e7shzw": {
+          "MINS": "1"
+        },
+        "f7k5mt": {
+          "MINS": "1"
+        },
+        "pgqg9n": {
+          "MINS": "1"
+        },
+        "rcgctj": {
+          "MINS": "1"
+        },
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active participation, Thurs 5th Feb 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.02.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "f7k5mt": {
+          "MINS": "1"
+        },
+        "hmt2e5": {
+          "MINS": "1"
+        },
+        "pgqg9n": {
+          "MINS": "1"
+        },
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active participation, Tues 10th Feb 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.02.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "hmt2e5": {
+          "MINS": "1"
+        },
+        "rcgctj": {
+          "MINS": "1"
+        },
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active participation, Tues 3rd Feb 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.02.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "mg3a4k": {
+          "MINS": "1"
+        },
+        "pgqg9n": {
+          "MINS": "1"
+        },
+        "rcgctj": {
+          "MINS": "1"
+        },
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active participation, Tues 27th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.02.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "e7shzw": {
+          "MINS": "1"
+        },
+        "pgqg9n": {
+          "MINS": "1"
+        },
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active participation, Thurs 29th Jan 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.02.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "cqkamv": {
+          "MINS": "1"
+        },
+        "pgqg9n": {
+          "MINS": "1"
+        },
+        "rcgctj": {
+          "MINS": "1"
+        },
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "AdvanceAmeyaw, transcription Q1 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.02.2026"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "AI Ethics WorkGroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "j2a40n": {
+          "AGIX": "200"
+        }
+      }
+    },
+    {
+      "name": [
+        "Love, transcription Q1 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.02.2026"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "AI Ethics WorkGroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": "200"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.02.26"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "10.00"
+        }
+      }
+    }
+  ]
+}
