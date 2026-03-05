@@ -1,0 +1,465 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 15",
+    "2011.61 USD in 27939.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "89942c10469a6cd34d9fd217cf1e297faad955dd38a613144bde18526d3b9897",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.02.26"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "52"
+        },
+        "7lnpzs": {
+          "MINS": "68"
+        },
+        "cqkamv": {
+          "MINS": "40"
+        },
+        "dl6xdk": {
+          "MINS": "59"
+        },
+        "j88zza": {
+          "MINS": "58"
+        },
+        "pgqg9n": {
+          "MINS": "45"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.03.26"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "71"
+        },
+        "7lnpzs": {
+          "MINS": "74"
+        },
+        "cqkamv": {
+          "MINS": "73"
+        },
+        "hmt2e5": {
+          "MINS": "68"
+        },
+        "mmdfl0": {
+          "MINS": "44"
+        },
+        "pgqg9n": {
+          "MINS": "45"
+        },
+        "vy70sx": {
+          "MINS": "32"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.03.26"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "16"
+        },
+        "7lnpzs": {
+          "MINS": "64"
+        },
+        "cqkamv": {
+          "MINS": "52"
+        },
+        "f2j6pq": {
+          "MINS": "65"
+        },
+        "lchsml": {
+          "MINS": "62"
+        },
+        "pgqg9n": {
+          "MINS": "50"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Treasury Automation WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.03.26"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Treasury Automation WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "73"
+        },
+        "dl6xdk": {
+          "MINS": "96"
+        }
+      }
+    },
+    {
+      "name": [
+        "Outstanding payments - Q1, Q2, Q3, Q4 2025 - 7,230 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.25"
+        ],
+        "label": [
+          "Tool Development",
+          "Invoice"
+        ],
+        "subGroup": [
+          "Archival Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "jnaxjp": {
+          "AGIX": "7230"
+        }
+      }
+    },
+    {
+      "name": [
+        "Outstanding payments - Q1, Q2, Q3, Q4 2025 - 12,334",
+        "AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.12.25"
+        ],
+        "label": [
+          "documentation",
+          "Invoice"
+        ],
+        "subGroup": [
+          "Archival Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "12334"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 26.02.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.02.26"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "pgqg9n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Co-chair Q1 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.03.26"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "AI Ethics WorkGroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "600"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 03.03.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.03.26"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "hmt2e5": {
+          "MINS": "1"
+        },
+        "pgqg9n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarding Focus group meeting- 530 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.03.26"
+        ],
+        "label": [
+          "Coordination",
+          "Operations"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "530",
+          "MINS": "180"
+        },
+        "hmt2e5": {
+          "AGIX": "530",
+          "MINS": "180"
+        }
+      }
+    },
+    {
+      "name": [
+        "Onboarders Engagement for Q1 2026 - 1000 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.03.26"
+        ],
+        "label": [
+          "Onboarding"
+        ],
+        "subGroup": [
+          "Onboarding Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "1000",
+          "MINS": "900"
+        },
+        "hmt2e5": {
+          "AGIX": "1000",
+          "MINS": "900"
+        },
+        "sh8upr": {
+          "AGIX": "1000",
+          "MINS": "900"
+        },
+        "uwtdjm": {
+          "AGIX": "1000",
+          "MINS": "900"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Process Guild"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.03.26"
+        ],
+        "label": [
+          "Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "dl6xdk": {
+          "MINS": "41"
+        },
+        "vy70sx": {
+          "MINS": "45"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q1/2026 Operations, Task Management, Facilitator,",
+        "Communications 04/03/2026 > 1560 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.03.26"
+        ],
+        "label": [
+          "Operations",
+          "Facilitating",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "1560"
+        }
+      }
+    },
+    {
+      "name": [
+        "Roster Creation Q1 2026 - 20 USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.03.26"
+        ],
+        "label": [
+          "Content Creation",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Education Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "mmdfl0": {
+          "AGIX": "278",
+          "MINS": "60"
+        }
+      }
+    },
+    {
+      "name": [
+        "async work support, Q1 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.03.26"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "AI Ethics WorkGroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": "600"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.03.26"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "277.00"
+        }
+      }
+    }
+  ]
+}
