@@ -21,7 +21,7 @@ jobs:
           set -euo pipefail
 
           RESPONSE=$(curl -sS \
-            -H "api_key: ${{ secrets.DASHBOARD_REFRESH_API_KEY }}" \
+            -H "api_key: ${{ secrets.SERVER_API_KEY }}" \
             -H "project-id: ${{ secrets.DASHBOARD_REFRESH_PROJECT_ID }}" \
             "${{ secrets.DASHBOARD_REFRESH_BASE_URL }}/api/dashboard_recognitions")
 
