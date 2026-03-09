@@ -20,12 +20,17 @@ jobs:
         run: |
           set -euo pipefail
 
-          RESPONSE=$(curl -sS \
-            -H "api_key: ${{ secrets.SERVER_API_KEY }}" \
+          HTTP_STATUS=$(curl -sS -w "%{http_code}" \
+            -H "x-api-key: ${{ secrets.SERVER_API_KEY }}" \
             -H "project-id: ${{ secrets.DASHBOARD_REFRESH_PROJECT_ID }}" \
-            "${{ secrets.DASHBOARD_REFRESH_BASE_URL }}/api/dashboard_recognitions")
+            "${{ secrets.DASHBOARD_REFRESH_BASE_URL }}/api/dashboard_recognitions" \
+            -o recognitions.json)
 
-          echo "$RESPONSE" > recognitions.json
+          if [ "$HTTP_STATUS" -lt 200 ] || [ "$HTTP_STATUS" -ge 300 ]; then
+            echo "ERROR: dashboard_recognitions returned HTTP $HTTP_STATUS" >&2
+            cat recognitions.json >&2
+            exit 1
+          fi
 
           # Basic sanity check
           if ! jq -e '.recognitions' recognitions.json > /dev/null; then
@@ -49,7 +54,8 @@ jobs:
           while [ "$i" -lt "$TOTAL" ]; do
             echo "Injecting batch starting at index $i"
 
-            BATCH=$(echo "$RECOGNITIONS_JSON" | jq ".[${i}:(.${TOTAL} | tonumber) ] | .[:$BATCH_SIZE]")
+            END=$((i + BATCH_SIZE))
+            BATCH=$(echo "$RECOGNITIONS_JSON" | jq ".[$i:$END]")
 
             # Build the request body expected by inject-cache.js
             BODY=$(jq -n \
@@ -57,12 +63,18 @@ jobs:
               --argjson rec "$BATCH" \
               '{project_id: $pid, recognitions: $rec}')
 
-            curl -sS -X POST \
+            INJECT_STATUS=$(curl -sS -w "%{http_code}" -X POST \
               -H "Content-Type: application/json" \
               -H "x-refresh-key: ${{ secrets.DASHBOARD_REFRESH_KEY }}" \
               -d "$BODY" \
               "${{ secrets.DASHBOARD_REFRESH_BASE_URL }}/api/dashboard_recognitions/inject-cache" \
-              -o inject-response.json
+              -o inject-response.json)
+
+            if [ "$INJECT_STATUS" -lt 200 ] || [ "$INJECT_STATUS" -ge 300 ]; then
+              echo "ERROR: inject-cache returned HTTP $INJECT_STATUS" >&2
+              cat inject-response.json >&2
+              exit 1
+            fi
 
             echo "Inject response for batch starting at $i:"
             cat inject-response.json
