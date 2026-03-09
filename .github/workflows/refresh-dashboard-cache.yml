@@ -21,7 +21,7 @@ jobs:
           set -euo pipefail
 
           RESPONSE=$(curl -sS \
-            -H "api_key: ${{ secrets.SERVER_API_KEY }}" \
+            -H "x-api-key: ${{ secrets.SERVER_API_KEY }}" \
             -H "project-id: ${{ secrets.DASHBOARD_REFRESH_PROJECT_ID }}" \
             "${{ secrets.DASHBOARD_REFRESH_BASE_URL }}/api/dashboard_recognitions")
 
@@ -49,7 +49,7 @@ jobs:
           while [ "$i" -lt "$TOTAL" ]; do
             echo "Injecting batch starting at index $i"
 
-            BATCH=$(echo "$RECOGNITIONS_JSON" | jq ".[${i}:(.${TOTAL} | tonumber) ] | .[:$BATCH_SIZE]")
+            BATCH=$(echo "$RECOGNITIONS_JSON" | jq ".[$i:($i + $BATCH_SIZE)]")
 
             # Build the request body expected by inject-cache.js
             BODY=$(jq -n \
