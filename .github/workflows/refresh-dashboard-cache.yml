@@ -1,0 +1,80 @@
+name: Refresh Dashboard Recognitions Cache
+
+on:
+  # Run on a schedule (adjust as needed)
+  schedule:
+    - cron: "0 * * * *" # every hour
+  # Allow manual runs
+  workflow_dispatch: {}
+
+jobs:
+  refresh-cache:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch recognitions from live API
+        id: fetch
+        run: |
+          set -euo pipefail
+
+          RESPONSE=$(curl -sS \
+            -H "api_key: ${{ secrets.DASHBOARD_REFRESH_API_KEY }}" \
+            -H "project-id: ${{ secrets.DASHBOARD_REFRESH_PROJECT_ID }}" \
+            "${{ secrets.DASHBOARD_REFRESH_BASE_URL }}/api/dashboard_recognitions")
+
+          echo "$RESPONSE" > recognitions.json
+
+          # Basic sanity check
+          if ! jq -e '.recognitions' recognitions.json > /dev/null; then
+            echo "ERROR: recognitions array not found in API response" >&2
+            cat recognitions.json >&2
+            exit 1
+          fi
+
+      - name: Inject recognitions into cache
+        run: |
+          set -euo pipefail
+
+          RECOGNITIONS_JSON=$(jq -c '.recognitions' recognitions.json)
+          # Split recognitions into batches to avoid Netlify/serverless timeouts
+          BATCH_SIZE=800  # must be <= MAX_RECOGNITIONS_PER_REQUEST enforced by the API
+          TOTAL=$(echo "$RECOGNITIONS_JSON" | jq 'length')
+
+          echo "Total recognitions: $TOTAL"
+
+          i=0
+          while [ "$i" -lt "$TOTAL" ]; do
+            echo "Injecting batch starting at index $i"
+
+            BATCH=$(echo "$RECOGNITIONS_JSON" | jq ".[${i}:(.${TOTAL} | tonumber) ] | .[:$BATCH_SIZE]")
+
+            # Build the request body expected by inject-cache.js
+            BODY=$(jq -n \
+              --arg pid "${{ secrets.DASHBOARD_REFRESH_PROJECT_ID }}" \
+              --argjson rec "$BATCH" \
+              '{project_id: $pid, recognitions: $rec}')
+
+            curl -sS -X POST \
+              -H "Content-Type: application/json" \
+              -H "x-refresh-key: ${{ secrets.DASHBOARD_REFRESH_KEY }}" \
+              -d "$BODY" \
+              "${{ secrets.DASHBOARD_REFRESH_BASE_URL }}/api/dashboard_recognitions/inject-cache" \
+              -o inject-response.json
+
+            echo "Inject response for batch starting at $i:"
+            cat inject-response.json
+
+            # Optionally fail if the response contains an error field
+            if jq -e '.error' inject-response.json > /dev/null; then
+              echo "ERROR: injection endpoint returned an error" >&2
+              exit 1
+            fi
+
+            i=$((i + BATCH_SIZE))
+
+            # Optional: brief sleep to avoid rate limiting
+            sleep 1
+          done
