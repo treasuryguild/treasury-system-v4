@@ -13,17 +13,18 @@
   "contributions": [
     {
       "label": [
-        "Internal Transfer"
+        "Swap Outgoing"
       ],
       "description": [
-        "Swap 1300 agix for 550 ada"
+        "Swap AGIX for ADA in Minswap"
       ],
       "taskCreator": [
         "Singularity Net Ambassador Wallet"
       ],
       "contributors": {
-        "3ynval": {
-          "ADA": 0.198193
+        "MinSwap": {
+          "ADA": 4.198193,
+          "AGIX": 1300.55270498
         }
       }
     }
