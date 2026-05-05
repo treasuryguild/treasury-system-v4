@@ -1,0 +1,112 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 5",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "e79ae9e907482d5c6adbcbadd9dc007867143086ea3d4cd6787ad3eb9cebf30a",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Participated in ODIN Open Garage"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.01.26"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "ODIN - Open Garage"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "3qz0k2": {
+          "MINS": "75"
+        },
+        "jhyhwp": {
+          "MINS": "75"
+        },
+        "jl2vjm": {
+          "MINS": "75"
+        },
+        "rcgctj": {
+          "MINS": "75"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Updates"
+      ],
+      "arrayMap": {
+        "date": [
+          "22.01.26"
+        ],
+        "label": [
+          "Tool Development"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "285"
+        }
+      }
+    },
+    {
+      "name": [
+        "Treasury Operations"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.03.26"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "825"
+        }
+      }
+    },
+    {
+      "name": [
+        "Community Support"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.03.26"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": "catalyst swarm",
+      "contributors": {
+        "rcgctj": {
+          "MINS": "150"
+        }
+      }
+    }
+  ]
+}
