@@ -1,0 +1,43 @@
+{
+  "msg": [
+    "DF 3 Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "0.05 USD in 0.171925 ADA",
+    "Transaction made by Treasury Guild @0.262",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "89c78ec8b9416f90a67ff7c9867eda6c0b521fde6b2f958ee49e1b607e30fede",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Project Manager",
+        "Collab Manager",
+        "Tech Lead",
+        "Project Facilitator",
+        "Ai Research",
+        "UI UX AI Developer"
+      ],
+      "description": [
+        "",
+        ""
+      ],
+      "taskCreator": [
+        "DF 3"
+      ],
+      "contributors": {
+        "csfzep": {
+          "ADA": 1.19387,
+          "FET": 12538.2
+        },
+        "lq9wke": {
+          "ADA": 1.19387,
+          "FET": 50152.8
+        }
+      }
+    }
+  ]
+}
