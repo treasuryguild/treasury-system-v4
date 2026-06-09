@@ -1,0 +1,622 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 7",
+    "202.95 USD in 2255.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Meeting documentation, 21st and 23rd April 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "16.04.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "160"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Tues 5th May 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.05.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "80"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.05.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "62"
+        },
+        "pgqg9n": {
+          "MINS": "65"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.05.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "58"
+        },
+        "pgqg9n": {
+          "MINS": "59"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 14.05.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "14.05.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "1"
+        },
+        "pgqg9n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.05.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "30"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.05.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "69"
+        },
+        "pgqg9n": {
+          "MINS": "69"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "21.05.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "127"
+        },
+        "7lnpzs": {
+          "MINS": "76"
+        },
+        "pgqg9n": {
+          "MINS": "58"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.05.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "62"
+        },
+        "cqkamv": {
+          "MINS": "50"
+        },
+        "pgqg9n": {
+          "MINS": "63"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.05.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "71"
+        },
+        "7lnpzs": {
+          "MINS": "81"
+        },
+        "pgqg9n": {
+          "MINS": "81"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.06.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "63"
+        },
+        "cqkamv": {
+          "MINS": "49"
+        },
+        "pgqg9n": {
+          "MINS": "19"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 02.06.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.06.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "1"
+        },
+        "pgqg9n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.06.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "63"
+        },
+        "7lnpzs": {
+          "MINS": "65"
+        },
+        "pgqg9n": {
+          "MINS": "47"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "05.06.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "85"
+        },
+        "7lnpzs": {
+          "MINS": "84"
+        },
+        "pgqg9n": {
+          "MINS": "66"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation, 28th and 30th April 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.06.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "160"
+        }
+      }
+    },
+    {
+      "name": [
+        "drafting research article"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.06.2026"
+        ],
+        "label": [
+          "Documentation"
+        ],
+        "subGroup": [
+          "AI Ethics WorkGroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "AGIX": "500"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "02.06.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "55"
+        },
+        "cqkamv": {
+          "MINS": "25"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 28.05.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "28.05.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "pgqg9n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 04.06.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.06.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Community Awareness"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.05.2026"
+        ],
+        "label": [
+          "Community Communication"
+        ],
+        "subGroup": [
+          "Marketing Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f2j6pq": {
+          "MINS": "24"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "26.05.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f2j6pq": {
+          "MINS": "36"
+        }
+      }
+    },
+    {
+      "name": [
+        "Discord Server Management May 2026 - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.05.2026"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Moderators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "45mzxa": {
+          "AGIX": "1333",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 19.05.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "19.05.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.06.26"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "22.00"
+        }
+      }
+    }
+  ],
+  "txid": "3a4d2a51c235e1637837ef54258f90e10826c701e53aabccbdc2f831746389c9"
+}
