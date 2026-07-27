@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Automate Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "5.80 USD in 35.154706 ADA",
+    "Transaction made by Treasury Guild @0.165",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "7f695da4cf5c70c84018fdd0a46978cbba506f598cc93b5aa0b47737b96193db",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Rewards Withdrawal"
+      ],
+      "description": [
+        "Rewards Withdrawal"
+      ],
+      "taskCreator": [
+        "Automate Treasury Wallet"
+      ],
+      "contributors": {
+        "3hjnmt": {
+          "ADA": 35.154706
+        }
+      }
+    }
+  ]
+}
