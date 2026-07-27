@@ -1,0 +1,31 @@
+{
+  "msg": [
+    "Automate Treasury Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "Transaction made by Treasury Guild @0.165",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "786278a4bee26e7b06e8affe1ca7dba45b99c4ad5b29075e2d3ec1da9044d509",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Staking"
+      ],
+      "description": [
+        "Internal transfer"
+      ],
+      "taskCreator": [
+        "Automate Treasury Wallet"
+      ],
+      "contributors": {
+        "3hjnmt": {
+          "ADA": 0
+        }
+      }
+    }
+  ]
+}
