@@ -1,0 +1,605 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 16",
+    "1886.58 USD in 31443.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "b048d5a5011870d3312031db3f90382fde3c396cfb9dc7034003b4a71175a275",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Q2/2026 Operations, Communications 04/08/2026 > 5000",
+        "AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.2026"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rauu23": {
+          "AGIX": "5000"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q2/2026 Operations, Task Management, Communications",
+        "04/08/2026 > 5000 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "30.06.2026"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "5000"
+        }
+      }
+    },
+    {
+      "name": [
+        "Host pre AGI-26 event"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.07.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "ASI Ecosystem Growth Project"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "400"
+        }
+      }
+    },
+    {
+      "name": [
+        "Slide Deck for preAGI 26"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.07.2026"
+        ],
+        "label": [
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ASI Ecosystem Growth Project"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "250"
+        }
+      }
+    },
+    {
+      "name": [
+        "Co-Host Pre AGI-26 event"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.07.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "ASI Ecosystem Growth Project"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "e7shzw": {
+          "AGIX": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Community Builder and Facilitator Role Rewards (1/3)"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "ASI Ecosystem Growth Project"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": "3433"
+        }
+      }
+    },
+    {
+      "name": [
+        "Project manager Role Rewards (1/3)"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "ASI Ecosystem Growth Project"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "4000"
+        }
+      }
+    },
+    {
+      "name": [
+        "Technical content lead Role Rewards (1/3)"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Operations"
+        ],
+        "subGroup": [
+          "ASI Ecosystem Growth Project"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "4666"
+        }
+      }
+    },
+    {
+      "name": [
+        "Social media Role Rewards (1/3)"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.2026"
+        ],
+        "label": [
+          "Operations",
+          "Community Communication"
+        ],
+        "subGroup": [
+          "ASI Ecosystem Growth Project"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f7k5mt": {
+          "AGIX": "2333"
+        }
+      }
+    },
+    {
+      "name": [
+        "Developer success & retention lead Activity List"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.2026"
+        ],
+        "label": [
+          "Operations",
+          "Documentation"
+        ],
+        "subGroup": [
+          "ASI Ecosystem Growth Project"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "8az9uw": {
+          "AGIX": "500"
+        }
+      }
+    },
+    {
+      "name": [
+        "Streaming / Production Support Role Rewards (1/3)"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.2026"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "ASI Ecosystem Growth Project"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "6lcdjr": {
+          "AGIX": "1000"
+        }
+      }
+    },
+    {
+      "name": [
+        "Discord Server Management July 2026 - 120USD"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.2026"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Modetarators WG"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "45mzxa": {
+          "AGIX": "2000",
+          "MINS": "300"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in SingularityNET Ambassador Program ASI",
+        "Ecosystem Growth Project Team Meeting"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.08.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "MINS": "99"
+        },
+        "hmt2e5": {
+          "MINS": "115"
+        },
+        "pgqg9n": {
+          "MINS": "123"
+        },
+        "rcgctj": {
+          "MINS": "133"
+        },
+        "xl6z2n": {
+          "MINS": "72"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.08.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "86"
+        },
+        "9klqvn": {
+          "MINS": "66"
+        },
+        "pgqg9n": {
+          "MINS": "75"
+        },
+        "rcgctj": {
+          "MINS": "73"
+        },
+        "xl6z2n": {
+          "MINS": "88"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.08.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "55"
+        },
+        "9klqvn": {
+          "MINS": "58"
+        },
+        "cqkamv": {
+          "MINS": "37"
+        },
+        "f39ntm": {
+          "MINS": "49"
+        },
+        "f7k5mt": {
+          "MINS": "45"
+        },
+        "hmt2e5": {
+          "MINS": "66"
+        },
+        "pgqg9n": {
+          "MINS": "55"
+        },
+        "r658c7": {
+          "MINS": "55"
+        },
+        "rcgctj": {
+          "MINS": "63"
+        },
+        "xl6z2n": {
+          "MINS": "63"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 04.08.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.08.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "9klqvn": {
+          "MINS": "1"
+        },
+        "rcgctj": {
+          "MINS": "1"
+        },
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Reporting & Analytics Role Rewards (1/3)"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.08.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "ASI Ecosystem Growth Project"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "9klqvn": {
+          "AGIX": "2000"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.08.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "65"
+        },
+        "9klqvn": {
+          "MINS": "64"
+        },
+        "f39ntm": {
+          "MINS": "60"
+        },
+        "f7k5mt": {
+          "MINS": "6"
+        },
+        "pgqg9n": {
+          "MINS": "63"
+        },
+        "xl6z2n": {
+          "MINS": "61"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 06.08.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.08.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "9klqvn": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in SingularityNET Ambassador Program ASI",
+        "Ecosystem Growth Project Team Meeting"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.08.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Process Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "6lcdjr": {
+          "MINS": "32"
+        },
+        "pgqg9n": {
+          "MINS": "95"
+        },
+        "rcgctj": {
+          "MINS": "101"
+        }
+      }
+    },
+    {
+      "name": [
+        "Event Documentation"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.08.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Content Creation"
+        ],
+        "subGroup": [
+          "ASI Ecosystem Growth Project"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "e7shzw": {
+          "AGIX": "250"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.08.26"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "311.00"
+        }
+      }
+    }
+  ]
+}
