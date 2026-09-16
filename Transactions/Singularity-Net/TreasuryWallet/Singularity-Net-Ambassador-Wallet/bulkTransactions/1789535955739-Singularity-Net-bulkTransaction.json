@@ -1,0 +1,813 @@
+{
+  "msg": [
+    "Swarm Treasury System Transaction",
+    "Recipients: 14",
+    "785.67 USD in 11554.00 AGIX",
+    "Transaction made by Treasury Guild ;-)",
+    "https://www.treasuryguild.com/"
+  ],
+  "txid": "763f1543fb27f9003feea1c5ad80172dfb150c149a35a95299cc8d8a5690ba46",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "Meeting facilitation, Thurs 23 July 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "23.07.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "AGIX": "80"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3/2026 July Operations, Communications 07/09/2026 >",
+        "2500 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.2026"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rauu23": {
+          "AGIX": "2500"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3/2026 July Operations, Task Management,",
+        "Communications 07/09/2026 > 2500 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.07.2026"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "2500"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Tues 4 Aug 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "04.08.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": "80"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Thurs 6 Aug 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "06.08.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Tues 11 Aug 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "11.08.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "80"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Thurs 13 Aug 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "13.08.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Tues 18 Aug 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "18.08.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "80"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Thurs 20 Aug 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "20.08.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Tues 25 Aug 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "25.08.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Thurs 27 Aug 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "27.08.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "hmt2e5": {
+          "AGIX": "80"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3/2026 August Operations, Communications 07/09/2026 >",
+        "2500 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.2026"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rauu23": {
+          "AGIX": "2500"
+        }
+      }
+    },
+    {
+      "name": [
+        "Q3/2026 August Operations, Task Management,",
+        "Communications 07/09/2026 > 2500 AGIX"
+      ],
+      "arrayMap": {
+        "date": [
+          "31.08.2026"
+        ],
+        "label": [
+          "Operations",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Latam Guild"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "pgqg9n": {
+          "AGIX": "2500"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Ambassador Program Town Hall"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.09.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Ambassador Program"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "44vqx9": {
+          "MINS": "43"
+        },
+        "4v3can": {
+          "MINS": "35"
+        },
+        "pgqg9n": {
+          "MINS": "68"
+        },
+        "rcgctj": {
+          "MINS": "69"
+        },
+        "xl6z2n": {
+          "MINS": "69"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.09.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "MINS": "51"
+        },
+        "9klqvn": {
+          "MINS": "52"
+        },
+        "f39ntm": {
+          "MINS": "58"
+        },
+        "pgqg9n": {
+          "MINS": "51"
+        },
+        "rcgctj": {
+          "MINS": "44"
+        },
+        "xl6z2n": {
+          "MINS": "62"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 01.09.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.09.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "MINS": "1"
+        },
+        "pgqg9n": {
+          "MINS": "1"
+        },
+        "rcgctj": {
+          "MINS": "1"
+        },
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Tues 1 Sept 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "01.09.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "80"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "0jx607": {
+          "MINS": "45"
+        },
+        "7lnpzs": {
+          "MINS": "61"
+        },
+        "9klqvn": {
+          "MINS": "43"
+        },
+        "f39ntm": {
+          "MINS": "62"
+        },
+        "f7k5mt": {
+          "MINS": "62"
+        },
+        "pgqg9n": {
+          "MINS": "48"
+        },
+        "rcgctj": {
+          "MINS": "60"
+        },
+        "xl6z2n": {
+          "MINS": "65"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 03.09.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "7lnpzs": {
+          "MINS": "1"
+        },
+        "rcgctj": {
+          "MINS": "1"
+        },
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Thurs 3 Sept 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "xl6z2n": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation, 21st, 23rd, 28th and 30th July",
+        "2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "160"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation, 4th and 13th Aug 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "80"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation, 30th June 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "03.09.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "80"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Governance Workgroup"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "4v3can": {
+          "MINS": "52"
+        },
+        "f39ntm": {
+          "MINS": "58"
+        },
+        "f7k5mt": {
+          "MINS": "59"
+        },
+        "rcgctj": {
+          "MINS": "66"
+        },
+        "s3v9er": {
+          "MINS": "24"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 08.09.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "4v3can": {
+          "MINS": "1"
+        },
+        "f39ntm": {
+          "MINS": "1"
+        },
+        "f7k5mt": {
+          "MINS": "1"
+        },
+        "rcgctj": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting facilitation, Tues 8 Sept 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "08.09.2026"
+        ],
+        "label": [
+          "Facilitating"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f7k5mt": {
+          "AGIX": "80"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation, 11th Aug 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "09.09.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "rcgctj": {
+          "AGIX": "80"
+        }
+      }
+    },
+    {
+      "name": [
+        "Participated in Open Gov WG"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.09.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "MINS": "37"
+        },
+        "rcgctj": {
+          "MINS": "47"
+        }
+      }
+    },
+    {
+      "name": [
+        "Active Meeting participant - 10.09.2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "10.09.2026"
+        ],
+        "label": [
+          "Community Communication",
+          "Coordination"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "MINS": "1"
+        },
+        "rcgctj": {
+          "MINS": "1"
+        }
+      }
+    },
+    {
+      "name": [
+        "Meeting documentation: 25th, 27th Aug and 1st, 3rd,",
+        "8th, 10th Sept 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.09.2026"
+        ],
+        "label": [
+          "Documentation",
+          "Reporting"
+        ],
+        "subGroup": [
+          "Governance Workgroup"
+        ]
+      },
+      "taskCreator": "singularitynet",
+      "contributors": {
+        "f39ntm": {
+          "AGIX": "480"
+        }
+      }
+    },
+    {
+      "name": [
+        "singularitynet contribution handling fee"
+      ],
+      "arrayMap": {
+        "date": [
+          "15.09.26"
+        ],
+        "label": [
+          "Operations"
+        ],
+        "subGroup": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "singularitynet"
+      ],
+      "contributors": {
+        "7xcueh": {
+          "AGIX": "114.00"
+        }
+      }
+    }
+  ]
+}
