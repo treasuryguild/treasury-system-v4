@@ -1,0 +1,43 @@
+{
+  "msg": [
+    "Singularity Net Ambassador Wallet Transaction",
+    "Website: ",
+    "Recipients: 3",
+    "101.200 USD in 400.00 ADA",
+    "Transaction made by Treasury Guild @0.253",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "2644978ce6d554a19447840606d9de79fb32f9a36defe5c59f946cb8277bab96",
+  "mdVersion": [
+    "1.8"
+  ],
+  "contributions": [
+    {
+      "name": [
+        "monthly rewards - October 2026"
+      ],
+      "arrayMap": {
+        "date": [
+          "12.10.26"
+        ],
+        "label": [
+          "Treasury Guild"
+        ]
+      },
+      "taskCreator": [
+        "Singularity Net"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "ADA": "150"
+        },
+        "rcgctj": {
+          "ADA": "100"
+        },
+        "tme89z": {
+          "ADA": "150"
+        }
+      }
+    }
+  ]
+}
