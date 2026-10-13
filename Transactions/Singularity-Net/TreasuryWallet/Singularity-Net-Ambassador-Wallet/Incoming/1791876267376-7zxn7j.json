@@ -1,0 +1,32 @@
+{
+  "msg": [
+    "Singularity Net Ambassador Wallet Transaction",
+    "Website: ",
+    "Recipients: 1",
+    "35.85 USD in 150 ADA",
+    "Transaction made by Treasury Guild @0.239",
+    "https://www.treasuryguild.io/"
+  ],
+  "txid": "31ad50c857992c3973df92775cfa22e786d6380ba7782338e5b16939b45c9824",
+  "mdVersion": [
+    "1.4"
+  ],
+  "contributions": [
+    {
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from 7zxn7j"
+      ],
+      "taskCreator": [
+        "Singularity Net Ambassador Wallet"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "ADA": 150
+        }
+      }
+    }
+  ]
+}
