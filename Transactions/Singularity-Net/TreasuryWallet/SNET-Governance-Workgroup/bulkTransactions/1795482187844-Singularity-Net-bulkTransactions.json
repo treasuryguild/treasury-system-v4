@@ -1,0 +1,34 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "04348478c05e6c9e329b2aa2661bc498e147a9bd42ff69d95d508c59fb6cf2f6",
+  "msg": [
+    "SNET Governance Workgroup Transaction",
+    "Website: https://www.treasuryguild.io/",
+    "Recipients: 1",
+    "0.65 USD in 4.374037 ADA",
+    "0.00 USD in 10000.00 GMBL",
+    "Transaction made by Treasury Guild @0.149",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "SNET Governance Workgroup"
+      ],
+      "label": [
+        "Outgoing"
+      ],
+      "description": [
+        "Outgoing transfer"
+      ],
+      "contributors": {
+        "kpee4n": {
+          "ADA": 4.374037,
+          "GMBL": 10000
+        }
+      }
+    }
+  ]
+}
