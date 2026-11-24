@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "a33cabc1fb47dd1bc0260037e64d377de2f148ffca3e026e5b97f6b965494d00",
+  "msg": [
+    "DF Academy Transaction",
+    "Website: https://www.treasuryguild.io/",
+    "Recipients: 1",
+    "0.27 USD in 1.838081 ADA",
+    "Transaction made by Treasury Guild @0.149",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "DF Academy"
+      ],
+      "label": [
+        "Rewards Withdrawal"
+      ],
+      "description": [
+        "Rewards Withdrawal"
+      ],
+      "contributors": {
+        "w56ppq": {
+          "ADA": 1.838081
+        }
+      }
+    }
+  ]
+}
