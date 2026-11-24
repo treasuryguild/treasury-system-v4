@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "22b45c7a47a412db79cea7ae2ddf52aa4677c38419ff459837a70e35e04c2f42",
+  "msg": [
+    "DF Community Transaction",
+    "Website: https://www.treasuryguild.io/",
+    "Recipients: 1",
+    "0.22 USD in 1.467254 ADA",
+    "Transaction made by Treasury Guild @0.149",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "DF Community"
+      ],
+      "label": [
+        "Rewards Withdrawal"
+      ],
+      "description": [
+        "Rewards Withdrawal"
+      ],
+      "contributors": {
+        "vsjlcn": {
+          "ADA": 1.467254
+        }
+      }
+    }
+  ]
+}
