@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "36bb1dc24a294f3257cffccfc46d50bbda05a30d8cf073583e0dc56c7f214000",
+  "msg": [
+    "DF Academy Transaction",
+    "Website: https://www.treasuryguild.io/",
+    "Recipients: 1",
+    "1.71 USD in 11.501227 ADA",
+    "Transaction made by Treasury Guild @0.149",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "DF Academy"
+      ],
+      "label": [
+        "Outgoing"
+      ],
+      "description": [
+        "Outgoing transfer"
+      ],
+      "contributors": {
+        "ww27xj": {
+          "ADA": 11.501227
+        }
+      }
+    }
+  ]
+}
