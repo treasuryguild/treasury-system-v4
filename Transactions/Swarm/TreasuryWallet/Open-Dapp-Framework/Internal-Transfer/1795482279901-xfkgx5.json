@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "ea428b0163aee2ac1544b45b891f8c00adb8f419790579bb10b66faad3090839",
+  "msg": [
+    "Open Dapp Framework Transaction",
+    "Website: https://www.treasuryguild.io/",
+    "Recipients: 1",
+    "0.03 USD in 0.188205 ADA",
+    "Transaction made by Treasury Guild @0.149",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "Open Dapp Framework"
+      ],
+      "label": [
+        "Internal Transfer"
+      ],
+      "description": [
+        "Internal Transfer"
+      ],
+      "contributors": {
+        "xfkgx5": {
+          "ADA": 0.188205
+        }
+      }
+    }
+  ]
+}
