@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "a2ecf1f8588ff3c02c884aede31a4e882c5bb75ce3722d295b65526ad144a068",
+  "msg": [
+    "DF Community Transaction",
+    "Website: https://www.treasuryguild.io/",
+    "Recipients: 1",
+    "14.74 USD in 98.956187 ADA",
+    "Transaction made by Treasury Guild @0.149",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "DF Community"
+      ],
+      "label": [
+        "Outgoing"
+      ],
+      "description": [
+        "Outgoing transfer"
+      ],
+      "contributors": {
+        "ww27xj": {
+          "ADA": 98.956187
+        }
+      }
+    }
+  ]
+}
