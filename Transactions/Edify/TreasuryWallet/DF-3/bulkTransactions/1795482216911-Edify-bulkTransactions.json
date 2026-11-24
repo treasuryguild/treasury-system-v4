@@ -1,0 +1,34 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "fe25e1fa083f18d449a75496cb062fcebc92953fb310550f8d38eaf6db6f84f5",
+  "msg": [
+    "DF 3 Transaction",
+    "Website: https://www.treasuryguild.io/",
+    "Recipients: 1",
+    "0.18 USD in 1.19387 ADA",
+    "0.00 USD in 20014.00 FET",
+    "Transaction made by Treasury Guild @0.149",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "DF 3"
+      ],
+      "label": [
+        "Outgoing"
+      ],
+      "description": [
+        "Outgoing transfer"
+      ],
+      "contributors": {
+        "pky5gu": {
+          "ADA": 1.19387,
+          "FET": 20014
+        }
+      }
+    }
+  ]
+}
