@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "388a6740839453ed88e5c025ea7d31487c585be69156a34f89093b74f49bcd37",
+  "msg": [
+    "DF Review Circle Transaction",
+    "Website: https://www.treasuryguild.io/",
+    "Recipients: 1",
+    "0.49 USD in 3.31884 ADA",
+    "Transaction made by Treasury Guild @0.149",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "DF Review Circle"
+      ],
+      "label": [
+        "Outgoing"
+      ],
+      "description": [
+        "Outgoing transfer"
+      ],
+      "contributors": {
+        "ww27xj": {
+          "ADA": 3.31884
+        }
+      }
+    }
+  ]
+}
