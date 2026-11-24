@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "11754c6507758e945715a27c56698f1239a70eecb47864eaa90d43b48aae7928",
+  "msg": [
+    "Edify Treasury Wallet Transaction",
+    "Website: https://www.treasuryguild.io/",
+    "Recipients: 1",
+    "11.33 USD in 76.025469 ADA",
+    "Transaction made by Treasury Guild @0.149",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "Edify Treasury Wallet"
+      ],
+      "label": [
+        "Outgoing"
+      ],
+      "description": [
+        "Outgoing transfer"
+      ],
+      "contributors": {
+        "4zLqhF": {
+          "ADA": 76.025469
+        }
+      }
+    }
+  ]
+}
