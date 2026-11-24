@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "e12fc9f124984900372cdabcc6aaa32dd36241eb0ad376bb105622cc62b8123a",
+  "msg": [
+    "DF 3 Transaction",
+    "Website: https://www.treasuryguild.io/",
+    "Recipients: 1",
+    "0.25 USD in 1.646241 ADA",
+    "Transaction made by Treasury Guild @0.149",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "DF 3"
+      ],
+      "label": [
+        "Outgoing"
+      ],
+      "description": [
+        "Outgoing transfer"
+      ],
+      "contributors": {
+        "7zxn7j": {
+          "ADA": 1.646241
+        }
+      }
+    }
+  ]
+}
