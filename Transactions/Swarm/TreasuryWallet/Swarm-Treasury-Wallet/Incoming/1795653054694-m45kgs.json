@@ -1,0 +1,32 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "26d91bbb648760421bf929e8843b3ed1222f0b2d34238daf54ebabf46280c37f",
+  "msg": [
+    "Swarm Treasury Wallet Transaction",
+    "Website: https://cardano.ideascale.com/c/idea/421708",
+    "Recipients: 1",
+    "15.14 USD in 102.971973 ADA",
+    "Transaction made by Treasury Guild @0.147",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "Swarm Treasury Wallet"
+      ],
+      "label": [
+        "Incoming"
+      ],
+      "description": [
+        "Incoming rewards from Swarm Treasury Wallet"
+      ],
+      "contributors": {
+        "m45kgs": {
+          "ADA": 102.971973
+        }
+      }
+    }
+  ]
+}
