@@ -1,0 +1,69 @@
+{
+  "mdVersion": [
+    "1.4"
+  ],
+  "txid": "43147c0ae1b606b26ffa087363c27fa79ad317ab9889a8dec2a972709c009744",
+  "msg": [
+    "Dev Accelerator Treasury Transaction",
+    "Website: https://www.treasuryguild.io/",
+    "Recipients: 1",
+    "0.00 USD in 1.00 Unknown",
+    "35.04 USD in 240 ADA",
+    "Transaction made by Treasury Guild @0.146",
+    "https://www.treasuryguild.io/"
+  ],
+  "contributions": [
+    {
+      "taskCreator": [
+        "Dev Accelerator Treasury"
+      ],
+      "label": [
+        "Smart Contract"
+      ],
+      "description": [
+        "Smart contract interaction"
+      ],
+      "contributors": {
+        "untm26": {
+          "Unknown": 1,
+          "ADA": 240
+        }
+      }
+    }
+  ],
+  "contractInfo": {
+    "scriptHashes": [
+      "15c9c75d8aa8c2789734bae389a863a444287c200313fe367d984ad5"
+    ],
+    "addresses": [],
+    "purposes": [],
+    "plutusContracts": [
+      {
+        "size": 354,
+        "input": {
+          "datum": null,
+          "redeemer": {
+            "fee": "2403",
+            "unit": {
+              "mem": "28749",
+              "steps": "10320596"
+            },
+            "datum": {
+              "hash": "923918e403bf43c34b4ef6b48eb2ee04babed17320d8d1b9ff9ad086e86f44ec",
+              "value": {
+                "fields": [],
+                "constructor": 0
+              }
+            },
+            "purpose": "mint"
+          }
+        },
+        "address": null,
+        "bytecode": "59015f0101003229800aba2aba1aba0aab9faab9eaab9dab9a488888896600264653001300800198041804800cc0200092225980099b8748000c01cdd500144c8c966002601c0031325980099b8748008006264660020026eb0c03cc030dd5002912cc00400629422b30013375e6020601a6ea8c04000404e29462660040046022002805900e44cdc3a40020028048dd698051806800c5900b192cc004cdc3a400460126ea8006297adef6c6089bab300d300a37540028040c8cc004004dd59806980718071807180718051baa0032259800800c530103d87a8000899192cc004cdc8802800c56600266e3c014006266e9520003300f300d0024bd7045300103d87a8000402d1330040043011003402c6eb8c02c004c03800500c1bae300b30083754005164018300800130033754011149a26cac800898127d8799f5820fcd07b3d9ae56b4fb581895349e967ae8606da6956fc8ebae6b157a68d0c01f601ff0001",
+        "script_hash": "15c9c75d8aa8c2789734bae389a863a444287c200313fe367d984ad5",
+        "spends_input": null,
+        "valid_contract": true
+      }
+    ]
+  }
+}
